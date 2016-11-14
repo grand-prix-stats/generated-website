@@ -2,7 +2,7 @@
 Generated statistic data from Formula One® racing series.
 
 ## Statistics
-- [Driver](/f1/driver)
+- [Drivers](/f1/drivers)
 - [Seasons](/f1/seasons)
 
 ## LICENSE
