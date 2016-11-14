@@ -2,8 +2,8 @@
 Generated statistic data from Formula One® racing series.
 
 ## Statistics
-- [Driver](/grand-prix-stats/generated/master/f1/driver)
-- [Seasons](/grand-prix-stats/generated/master/f1/seasons)
+- [Driver](/f1/driver)
+- [Seasons](/f1/seasons)
 
 ## LICENSE
 All data contained in this repository has been programmatically generated from
