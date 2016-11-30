@@ -1,7 +1,7 @@
 [
     {
-        "constructors_champion": null,
-        "drivers_champion": null,
+        "constructors_champion": "mercedes",
+        "drivers_champion": "rosberg",
         "enddate": "2016-11-27",
         "rounds": 21,
         "startdate": "2016-03-20",
@@ -26,6 +26,7 @@
             "mercedes",
             "mercedes",
             "mercedes",
+            "mercedes",
             "mercedes"
         ],
         "winning_drivers": [
@@ -46,6 +47,7 @@
             "rosberg",
             "ricciardo",
             "rosberg",
+            "hamilton",
             "hamilton",
             "hamilton",
             "hamilton"
