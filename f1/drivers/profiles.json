@@ -17,6 +17,7 @@
         "races_finished": 241,
         "seasons": 19,
         "subchampionships": 2,
+        "top_ten": 226,
         "wins": 91
     },
     {
@@ -37,6 +38,7 @@
         "races_finished": 165,
         "seasons": 10,
         "subchampionships": 2,
+        "top_ten": 155,
         "wins": 53
     },
     {
@@ -57,6 +59,7 @@
         "races_finished": 143,
         "seasons": 13,
         "subchampionships": 4,
+        "top_ten": 138,
         "wins": 51
     },
     {
@@ -77,6 +80,7 @@
         "races_finished": 153,
         "seasons": 10,
         "subchampionships": 1,
+        "top_ten": 142,
         "wins": 42
     },
     {
@@ -97,6 +101,7 @@
         "races_finished": 108,
         "seasons": 11,
         "subchampionships": 2,
+        "top_ten": 104,
         "wins": 41
     },
     {
@@ -117,6 +122,7 @@
         "races_finished": 228,
         "seasons": 15,
         "subchampionships": 3,
+        "top_ten": 195,
         "wins": 32
     },
     {
@@ -137,6 +143,7 @@
         "races_finished": 98,
         "seasons": 15,
         "subchampionships": 3,
+        "top_ten": 90,
         "wins": 31
     },
     {
@@ -157,6 +164,7 @@
         "races_finished": 63,
         "seasons": 9,
         "subchampionships": 2,
+        "top_ten": 61,
         "wins": 27
     },
     {
@@ -177,6 +185,7 @@
         "races_finished": 50,
         "seasons": 9,
         "subchampionships": 1,
+        "top_ten": 46,
         "wins": 25
     },
     {
@@ -197,6 +206,7 @@
         "races_finished": 91,
         "seasons": 13,
         "subchampionships": 1,
+        "top_ten": 81,
         "wins": 25
     },
     {
@@ -217,6 +227,7 @@
         "races_finished": 44,
         "seasons": 8,
         "subchampionships": 2,
+        "top_ten": 43,
         "wins": 24
     },
     {
@@ -237,6 +248,7 @@
         "races_finished": 122,
         "seasons": 14,
         "subchampionships": 1,
+        "top_ten": 115,
         "wins": 23
     },
     {
@@ -257,6 +269,7 @@
         "races_finished": 177,
         "seasons": 11,
         "subchampionships": 2,
+        "top_ten": 144,
         "wins": 23
     },
     {
@@ -277,6 +290,7 @@
         "races_finished": 77,
         "seasons": 8,
         "subchampionships": 2,
+        "top_ten": 70,
         "wins": 22
     },
     {
@@ -297,6 +311,7 @@
         "races_finished": 103,
         "seasons": 11,
         "subchampionships": 1,
+        "top_ten": 96,
         "wins": 20
     },
     {
@@ -317,6 +332,7 @@
         "races_finished": 198,
         "seasons": 14,
         "subchampionships": 2,
+        "top_ten": 183,
         "wins": 20
     },
     {
@@ -337,6 +353,7 @@
         "races_finished": 37,
         "seasons": 11,
         "subchampionships": 4,
+        "top_ten": 36,
         "wins": 16
     },
     {
@@ -357,6 +374,7 @@
         "races_finished": 242,
         "seasons": 17,
         "subchampionships": 1,
+        "top_ten": 180,
         "wins": 15
     },
     {
@@ -377,6 +395,7 @@
         "races_finished": 94,
         "seasons": 11,
         "subchampionships": 2,
+        "top_ten": 76,
         "wins": 14
     },
     {
@@ -397,6 +416,7 @@
         "races_finished": 102,
         "seasons": 18,
         "subchampionships": 3,
+        "top_ten": 86,
         "wins": 14
     },
     {
@@ -417,6 +437,7 @@
         "races_finished": 73,
         "seasons": 16,
         "subchampionships": 1,
+        "top_ten": 67,
         "wins": 14
     },
     {
@@ -437,6 +458,7 @@
         "races_finished": 22,
         "seasons": 6,
         "subchampionships": 1,
+        "top_ten": 22,
         "wins": 13
     },
     {
@@ -457,6 +479,7 @@
         "races_finished": 169,
         "seasons": 15,
         "subchampionships": 1,
+        "top_ten": 146,
         "wins": 13
     },
     {
@@ -477,6 +500,7 @@
         "races_finished": 68,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 54,
         "wins": 12
     },
     {
@@ -497,6 +521,7 @@
         "races_finished": 62,
         "seasons": 14,
         "subchampionships": 0,
+        "top_ten": 55,
         "wins": 12
     },
     {
@@ -517,6 +542,7 @@
         "races_finished": 97,
         "seasons": 11,
         "subchampionships": 1,
+        "top_ten": 86,
         "wins": 12
     },
     {
@@ -537,6 +563,7 @@
         "races_finished": 229,
         "seasons": 19,
         "subchampionships": 2,
+        "top_ten": 172,
         "wins": 11
     },
     {
@@ -557,6 +584,7 @@
         "races_finished": 212,
         "seasons": 14,
         "subchampionships": 1,
+        "top_ten": 174,
         "wins": 11
     },
     {
@@ -577,6 +605,7 @@
         "races_finished": 108,
         "seasons": 11,
         "subchampionships": 1,
+        "top_ten": 86,
         "wins": 11
     },
     {
@@ -597,6 +626,7 @@
         "races_finished": 124,
         "seasons": 14,
         "subchampionships": 0,
+        "top_ten": 112,
         "wins": 10
     },
     {
@@ -617,6 +647,7 @@
         "races_finished": 46,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 45,
         "wins": 10
     },
     {
@@ -637,6 +668,7 @@
         "races_finished": 71,
         "seasons": 9,
         "subchampionships": 2,
+        "top_ten": 60,
         "wins": 10
     },
     {
@@ -657,6 +689,7 @@
         "races_finished": 77,
         "seasons": 9,
         "subchampionships": 1,
+        "top_ten": 68,
         "wins": 10
     },
     {
@@ -677,6 +710,7 @@
         "races_finished": 160,
         "seasons": 12,
         "subchampionships": 0,
+        "top_ten": 132,
         "wins": 9
     },
     {
@@ -697,6 +731,7 @@
         "races_finished": 78,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 72,
         "wins": 8
     },
     {
@@ -717,6 +752,7 @@
         "races_finished": 66,
         "seasons": 13,
         "subchampionships": 2,
+        "top_ten": 56,
         "wins": 8
     },
     {
@@ -737,6 +773,7 @@
         "races_finished": 82,
         "seasons": 12,
         "subchampionships": 0,
+        "top_ten": 68,
         "wins": 7
     },
     {
@@ -757,6 +794,7 @@
         "races_finished": 62,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 58,
         "wins": 7
     },
     {
@@ -777,6 +815,7 @@
         "races_finished": 22,
         "seasons": 6,
         "subchampionships": 1,
+        "top_ten": 20,
         "wins": 6
     },
     {
@@ -797,6 +836,7 @@
         "races_finished": 39,
         "seasons": 6,
         "subchampionships": 1,
+        "top_ten": 34,
         "wins": 6
     },
     {
@@ -817,6 +857,7 @@
         "races_finished": 94,
         "seasons": 13,
         "subchampionships": 0,
+        "top_ten": 80,
         "wins": 6
     },
     {
@@ -837,6 +878,7 @@
         "races_finished": 126,
         "seasons": 17,
         "subchampionships": 1,
+        "top_ten": 108,
         "wins": 6
     },
     {
@@ -857,6 +899,7 @@
         "races_finished": 122,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 105,
         "wins": 6
     },
     {
@@ -877,6 +920,7 @@
         "races_finished": 25,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 22,
         "wins": 6
     },
     {
@@ -897,6 +941,7 @@
         "races_finished": 54,
         "seasons": 13,
         "subchampionships": 1,
+        "top_ten": 50,
         "wins": 6
     },
     {
@@ -917,6 +962,7 @@
         "races_finished": 102,
         "seasons": 14,
         "subchampionships": 1,
+        "top_ten": 74,
         "wins": 5
     },
     {
@@ -937,6 +983,7 @@
         "races_finished": 27,
         "seasons": 6,
         "subchampionships": 1,
+        "top_ten": 27,
         "wins": 5
     },
     {
@@ -957,6 +1004,7 @@
         "races_finished": 59,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 52,
         "wins": 5
     },
     {
@@ -977,6 +1025,7 @@
         "races_finished": 83,
         "seasons": 11,
         "subchampionships": 1,
+        "top_ten": 71,
         "wins": 5
     },
     {
@@ -997,6 +1046,7 @@
         "races_finished": 90,
         "seasons": 12,
         "subchampionships": 0,
+        "top_ten": 75,
         "wins": 5
     },
     {
@@ -1017,6 +1067,7 @@
         "races_finished": 44,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 41,
         "wins": 4
     },
     {
@@ -1037,6 +1088,7 @@
         "races_finished": 85,
         "seasons": 10,
         "subchampionships": 1,
+        "top_ten": 76,
         "wins": 4
     },
     {
@@ -1057,6 +1109,7 @@
         "races_finished": 63,
         "seasons": 13,
         "subchampionships": 1,
+        "top_ten": 58,
         "wins": 4
     },
     {
@@ -1077,6 +1130,7 @@
         "races_finished": 97,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 62,
         "wins": 4
     },
     {
@@ -1097,6 +1151,7 @@
         "races_finished": 97,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 79,
         "wins": 3
     },
     {
@@ -1117,6 +1172,7 @@
         "races_finished": 16,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 15,
         "wins": 3
     },
     {
@@ -1137,6 +1193,7 @@
         "races_finished": 162,
         "seasons": 14,
         "subchampionships": 0,
+        "top_ten": 112,
         "wins": 3
     },
     {
@@ -1157,6 +1214,7 @@
         "races_finished": 96,
         "seasons": 10,
         "subchampionships": 1,
+        "top_ten": 82,
         "wins": 3
     },
     {
@@ -1177,6 +1235,7 @@
         "races_finished": 33,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 33,
         "wins": 3
     },
     {
@@ -1197,6 +1256,7 @@
         "races_finished": 90,
         "seasons": 12,
         "subchampionships": 0,
+        "top_ten": 70,
         "wins": 3
     },
     {
@@ -1217,6 +1277,7 @@
         "races_finished": 33,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 30,
         "wins": 3
     },
     {
@@ -1237,6 +1298,7 @@
         "races_finished": 44,
         "seasons": 5,
         "subchampionships": 1,
+        "top_ten": 40,
         "wins": 3
     },
     {
@@ -1257,6 +1319,7 @@
         "races_finished": 59,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 54,
         "wins": 2
     },
     {
@@ -1277,6 +1340,7 @@
         "races_finished": 54,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 48,
         "wins": 2
     },
     {
@@ -1297,6 +1361,7 @@
         "races_finished": 19,
         "seasons": 9,
         "subchampionships": 1,
+        "top_ten": 19,
         "wins": 2
     },
     {
@@ -1317,6 +1382,7 @@
         "races_finished": 10,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 2
     },
     {
@@ -1337,6 +1403,7 @@
         "races_finished": 21,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 18,
         "wins": 2
     },
     {
@@ -1357,6 +1424,7 @@
         "races_finished": 29,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 28,
         "wins": 2
     },
     {
@@ -1377,6 +1445,7 @@
         "races_finished": 52,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 45,
         "wins": 2
     },
     {
@@ -1397,6 +1466,7 @@
         "races_finished": 57,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 52,
         "wins": 2
     },
     {
@@ -1417,6 +1487,7 @@
         "races_finished": 44,
         "seasons": 15,
         "subchampionships": 0,
+        "top_ten": 39,
         "wins": 2
     },
     {
@@ -1437,6 +1508,7 @@
         "races_finished": 19,
         "seasons": 6,
         "subchampionships": 1,
+        "top_ten": 18,
         "wins": 2
     },
     {
@@ -1457,6 +1529,7 @@
         "races_finished": 3,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 2
     },
     {
@@ -1477,6 +1550,7 @@
         "races_finished": 119,
         "seasons": 13,
         "subchampionships": 0,
+        "top_ten": 106,
         "wins": 1
     },
     {
@@ -1497,6 +1571,7 @@
         "races_finished": 10,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 1
     },
     {
@@ -1517,6 +1592,7 @@
         "races_finished": 28,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 26,
         "wins": 1
     },
     {
@@ -1537,6 +1613,7 @@
         "races_finished": 49,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 43,
         "wins": 1
     },
     {
@@ -1557,6 +1634,7 @@
         "races_finished": 50,
         "seasons": 16,
         "subchampionships": 0,
+        "top_ten": 44,
         "wins": 1
     },
     {
@@ -1577,6 +1655,7 @@
         "races_finished": 37,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 25,
         "wins": 1
     },
     {
@@ -1597,6 +1676,7 @@
         "races_finished": 7,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 1
     },
     {
@@ -1617,6 +1697,7 @@
         "races_finished": 29,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 28,
         "wins": 1
     },
     {
@@ -1637,6 +1718,7 @@
         "races_finished": 7,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 1
     },
     {
@@ -1657,6 +1739,7 @@
         "races_finished": 3,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 1
     },
     {
@@ -1677,6 +1760,7 @@
         "races_finished": 11,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 1
     },
     {
@@ -1697,6 +1781,7 @@
         "races_finished": 39,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 35,
         "wins": 1
     },
     {
@@ -1717,6 +1802,7 @@
         "races_finished": 5,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 1
     },
     {
@@ -1737,6 +1823,7 @@
         "races_finished": 26,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 23,
         "wins": 1
     },
     {
@@ -1757,6 +1844,7 @@
         "races_finished": 91,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 36,
         "wins": 1
     },
     {
@@ -1777,6 +1865,7 @@
         "races_finished": 64,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 51,
         "wins": 1
     },
     {
@@ -1797,6 +1886,7 @@
         "races_finished": 67,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 14,
         "wins": 1
     },
     {
@@ -1817,6 +1907,7 @@
         "races_finished": 64,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 48,
         "wins": 1
     },
     {
@@ -1837,6 +1928,7 @@
         "races_finished": 33,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 27,
         "wins": 1
     },
     {
@@ -1857,6 +1949,7 @@
         "races_finished": 14,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 14,
         "wins": 1
     },
     {
@@ -1877,6 +1970,7 @@
         "races_finished": 31,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 24,
         "wins": 1
     },
     {
@@ -1897,6 +1991,7 @@
         "races_finished": 14,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 10,
         "wins": 1
     },
     {
@@ -1917,6 +2012,7 @@
         "races_finished": 37,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 29,
         "wins": 1
     },
     {
@@ -1937,6 +2033,7 @@
         "races_finished": 99,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 65,
         "wins": 1
     },
     {
@@ -1957,6 +2054,7 @@
         "races_finished": 6,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 1
     },
     {
@@ -1977,6 +2075,7 @@
         "races_finished": 9,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 1
     },
     {
@@ -1997,6 +2096,7 @@
         "races_finished": 5,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 1
     },
     {
@@ -2017,6 +2117,7 @@
         "races_finished": 6,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 1
     },
     {
@@ -2037,6 +2138,7 @@
         "races_finished": 3,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 1
     },
     {
@@ -2057,6 +2159,7 @@
         "races_finished": 12,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 12,
         "wins": 1
     },
     {
@@ -2077,6 +2180,7 @@
         "races_finished": 170,
         "seasons": 15,
         "subchampionships": 0,
+        "top_ten": 106,
         "wins": 1
     },
     {
@@ -2097,6 +2201,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 1
     },
     {
@@ -2117,6 +2222,7 @@
         "races_finished": 4,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 1
     },
     {
@@ -2137,6 +2243,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2157,6 +2264,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2177,6 +2285,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2197,6 +2306,7 @@
         "races_finished": 12,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -2217,6 +2327,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2237,6 +2348,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2257,6 +2369,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2277,6 +2390,7 @@
         "races_finished": 3,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -2297,6 +2411,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2317,6 +2432,7 @@
         "races_finished": 6,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -2337,6 +2453,7 @@
         "races_finished": 28,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -2357,6 +2474,7 @@
         "races_finished": 36,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 10,
         "wins": 0
     },
     {
@@ -2377,6 +2495,7 @@
         "races_finished": 44,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 26,
         "wins": 0
     },
     {
@@ -2397,6 +2516,7 @@
         "races_finished": 10,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 10,
         "wins": 0
     },
     {
@@ -2417,6 +2537,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2437,6 +2558,7 @@
         "races_finished": 17,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2457,6 +2579,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2477,6 +2600,7 @@
         "races_finished": 51,
         "seasons": 14,
         "subchampionships": 0,
+        "top_ten": 42,
         "wins": 0
     },
     {
@@ -2497,6 +2621,7 @@
         "races_finished": 15,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -2517,6 +2642,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2537,6 +2663,7 @@
         "races_finished": 6,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -2557,6 +2684,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2577,6 +2705,7 @@
         "races_finished": 7,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -2597,6 +2726,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2617,6 +2747,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2637,6 +2768,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2657,6 +2789,7 @@
         "races_finished": 8,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -2677,6 +2810,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2697,6 +2831,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2717,6 +2852,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2737,6 +2873,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2757,6 +2894,7 @@
         "races_finished": 12,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -2777,6 +2915,7 @@
         "races_finished": 4,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -2797,6 +2936,7 @@
         "races_finished": 25,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -2817,6 +2957,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -2837,6 +2978,7 @@
         "races_finished": 17,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 13,
         "wins": 0
     },
     {
@@ -2857,6 +2999,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -2877,6 +3020,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2897,6 +3041,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -2917,6 +3062,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -2937,6 +3083,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2957,6 +3104,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2977,6 +3125,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -2997,6 +3146,7 @@
         "races_finished": 3,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -3017,6 +3167,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3037,6 +3188,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3057,6 +3209,7 @@
         "races_finished": 12,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -3077,6 +3230,7 @@
         "races_finished": 2,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -3097,6 +3251,7 @@
         "races_finished": 23,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 14,
         "wins": 0
     },
     {
@@ -3117,6 +3272,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3137,6 +3293,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3157,6 +3314,7 @@
         "races_finished": 25,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 25,
         "wins": 0
     },
     {
@@ -3177,6 +3335,7 @@
         "races_finished": 2,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -3197,6 +3356,7 @@
         "races_finished": 7,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -3217,6 +3377,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -3237,6 +3398,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -3257,6 +3419,7 @@
         "races_finished": 4,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -3277,6 +3440,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3297,6 +3461,7 @@
         "races_finished": 22,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 16,
         "wins": 0
     },
     {
@@ -3317,6 +3482,7 @@
         "races_finished": 9,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -3337,6 +3503,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3357,6 +3524,7 @@
         "races_finished": 8,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -3377,6 +3545,7 @@
         "races_finished": 13,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -3397,6 +3566,7 @@
         "races_finished": 6,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -3417,6 +3587,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3437,6 +3608,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3457,6 +3629,7 @@
         "races_finished": 6,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -3477,6 +3650,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3497,6 +3671,7 @@
         "races_finished": 10,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -3517,6 +3692,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3537,6 +3713,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3557,6 +3734,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -3577,6 +3755,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3597,6 +3776,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3617,6 +3797,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3637,6 +3818,7 @@
         "races_finished": 31,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 25,
         "wins": 0
     },
     {
@@ -3657,6 +3839,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3677,6 +3860,7 @@
         "races_finished": 10,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -3697,6 +3881,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3717,6 +3902,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -3737,6 +3923,7 @@
         "races_finished": 9,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -3757,6 +3944,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3777,6 +3965,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3797,6 +3986,7 @@
         "races_finished": 6,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -3817,6 +4007,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3837,6 +4028,7 @@
         "races_finished": 71,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 46,
         "wins": 0
     },
     {
@@ -3857,6 +4049,7 @@
         "races_finished": 7,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -3877,6 +4070,7 @@
         "races_finished": 20,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -3897,6 +4091,7 @@
         "races_finished": 4,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -3917,6 +4112,7 @@
         "races_finished": 7,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -3937,6 +4133,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3957,6 +4154,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -3977,6 +4175,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -3997,6 +4196,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -4017,6 +4217,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4037,6 +4238,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4057,6 +4259,7 @@
         "races_finished": 6,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -4077,6 +4280,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4097,6 +4301,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4117,6 +4322,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4137,6 +4343,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4157,6 +4364,7 @@
         "races_finished": 83,
         "seasons": 12,
         "subchampionships": 0,
+        "top_ten": 69,
         "wins": 0
     },
     {
@@ -4177,6 +4385,7 @@
         "races_finished": 9,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4197,6 +4406,7 @@
         "races_finished": 35,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -4217,6 +4427,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4237,6 +4448,7 @@
         "races_finished": 4,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -4257,6 +4469,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4277,6 +4490,7 @@
         "races_finished": 40,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 15,
         "wins": 0
     },
     {
@@ -4297,6 +4511,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4317,6 +4532,7 @@
         "races_finished": 9,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -4337,6 +4553,7 @@
         "races_finished": 9,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -4357,6 +4574,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4377,6 +4595,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4397,6 +4616,7 @@
         "races_finished": 8,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -4417,6 +4637,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4437,6 +4658,7 @@
         "races_finished": 1,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4457,6 +4679,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4477,6 +4700,7 @@
         "races_finished": 26,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 18,
         "wins": 0
     },
     {
@@ -4497,6 +4721,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4517,6 +4742,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4537,6 +4763,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4557,6 +4784,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4577,6 +4805,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4597,6 +4826,7 @@
         "races_finished": 29,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 22,
         "wins": 0
     },
     {
@@ -4617,6 +4847,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4637,6 +4868,7 @@
         "races_finished": 8,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -4657,6 +4889,7 @@
         "races_finished": 7,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -4677,6 +4910,7 @@
         "races_finished": 71,
         "seasons": 15,
         "subchampionships": 0,
+        "top_ten": 52,
         "wins": 0
     },
     {
@@ -4697,6 +4931,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -4717,6 +4952,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4737,6 +4973,7 @@
         "races_finished": 9,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4757,6 +4994,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4777,6 +5015,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4797,6 +5036,7 @@
         "races_finished": 3,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4817,6 +5057,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4837,6 +5078,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4857,6 +5099,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4877,6 +5120,7 @@
         "races_finished": 55,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 43,
         "wins": 0
     },
     {
@@ -4897,6 +5141,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4917,6 +5162,7 @@
         "races_finished": 32,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4937,6 +5183,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -4957,6 +5204,7 @@
         "races_finished": 7,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -4977,6 +5225,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -4997,6 +5246,7 @@
         "races_finished": 3,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5017,6 +5267,7 @@
         "races_finished": 13,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -5037,6 +5288,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5057,6 +5309,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5077,6 +5330,7 @@
         "races_finished": 1,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5097,6 +5351,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5117,6 +5372,7 @@
         "races_finished": 32,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 24,
         "wins": 0
     },
     {
@@ -5137,6 +5393,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5157,6 +5414,7 @@
         "races_finished": 3,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -5177,6 +5435,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5197,6 +5456,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5217,6 +5477,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -5237,6 +5498,7 @@
         "races_finished": 9,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -5257,6 +5519,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5277,6 +5540,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5297,6 +5561,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5317,6 +5582,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5337,6 +5603,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5357,6 +5624,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5377,6 +5645,7 @@
         "races_finished": 3,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -5397,6 +5666,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5417,6 +5687,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5437,6 +5708,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5457,6 +5729,7 @@
         "races_finished": 15,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -5477,6 +5750,7 @@
         "races_finished": 26,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 19,
         "wins": 0
     },
     {
@@ -5497,6 +5771,7 @@
         "races_finished": 15,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -5517,6 +5792,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5537,6 +5813,7 @@
         "races_finished": 9,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -5557,6 +5834,7 @@
         "races_finished": 14,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5577,6 +5855,7 @@
         "races_finished": 4,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -5597,6 +5876,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5617,6 +5897,7 @@
         "races_finished": 3,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -5637,6 +5918,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5657,6 +5939,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5677,6 +5960,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5697,6 +5981,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5717,6 +6002,7 @@
         "races_finished": 2,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5737,6 +6023,7 @@
         "races_finished": 39,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 26,
         "wins": 0
     },
     {
@@ -5757,6 +6044,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5777,6 +6065,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5797,6 +6086,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5817,6 +6107,7 @@
         "races_finished": 6,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -5837,6 +6128,7 @@
         "races_finished": 8,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -5857,6 +6149,7 @@
         "races_finished": 9,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5877,6 +6170,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5897,6 +6191,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5917,6 +6212,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5937,6 +6233,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -5957,6 +6254,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5977,6 +6275,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -5997,6 +6296,7 @@
         "races_finished": 6,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -6017,6 +6317,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6037,6 +6338,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6057,6 +6359,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6077,6 +6380,7 @@
         "races_finished": 4,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6097,6 +6401,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6117,6 +6422,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6137,6 +6443,7 @@
         "races_finished": 8,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -6157,6 +6464,7 @@
         "races_finished": 8,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -6177,6 +6485,7 @@
         "races_finished": 1,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6197,6 +6506,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6217,6 +6527,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6237,6 +6548,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6257,6 +6569,7 @@
         "races_finished": 43,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -6277,6 +6590,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6297,6 +6611,7 @@
         "races_finished": 11,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -6317,6 +6632,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6337,6 +6653,7 @@
         "races_finished": 6,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -6357,6 +6674,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -6377,6 +6695,7 @@
         "races_finished": 18,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 16,
         "wins": 0
     },
     {
@@ -6397,6 +6716,7 @@
         "races_finished": 8,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -6417,6 +6737,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6437,6 +6758,7 @@
         "races_finished": 3,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -6457,6 +6779,7 @@
         "races_finished": 4,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -6477,6 +6800,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6497,6 +6821,7 @@
         "races_finished": 8,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -6517,6 +6842,7 @@
         "races_finished": 6,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -6537,6 +6863,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6557,6 +6884,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6577,6 +6905,7 @@
         "races_finished": 26,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 18,
         "wins": 0
     },
     {
@@ -6597,6 +6926,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6617,6 +6947,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6637,6 +6968,7 @@
         "races_finished": 5,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -6657,6 +6989,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6677,6 +7010,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6697,6 +7031,7 @@
         "races_finished": 7,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -6717,6 +7052,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6737,6 +7073,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -6757,6 +7094,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6777,6 +7115,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6797,6 +7136,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6817,6 +7157,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6837,6 +7178,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6857,6 +7199,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6877,6 +7220,7 @@
         "races_finished": 5,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -6897,6 +7241,7 @@
         "races_finished": 5,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -6917,6 +7262,7 @@
         "races_finished": 5,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6937,6 +7283,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -6957,6 +7304,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6977,6 +7325,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -6997,6 +7346,7 @@
         "races_finished": 15,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -7017,6 +7367,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7037,6 +7388,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7057,6 +7409,7 @@
         "races_finished": 7,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7077,6 +7430,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7097,6 +7451,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7117,6 +7472,7 @@
         "races_finished": 21,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 17,
         "wins": 0
     },
     {
@@ -7137,6 +7493,7 @@
         "races_finished": 16,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7157,6 +7514,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7177,6 +7535,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7197,6 +7556,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7217,6 +7577,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7237,6 +7598,7 @@
         "races_finished": 4,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -7257,6 +7619,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7277,6 +7640,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7297,6 +7661,7 @@
         "races_finished": 11,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -7317,6 +7682,7 @@
         "races_finished": 23,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -7337,6 +7703,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7357,6 +7724,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7377,6 +7745,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7397,6 +7766,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -7417,6 +7787,7 @@
         "races_finished": 7,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -7437,6 +7808,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -7457,6 +7829,7 @@
         "races_finished": 20,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -7477,6 +7850,7 @@
         "races_finished": 28,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 18,
         "wins": 0
     },
     {
@@ -7497,6 +7871,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7517,6 +7892,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7537,6 +7913,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -7557,6 +7934,7 @@
         "races_finished": 74,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 21,
         "wins": 0
     },
     {
@@ -7577,6 +7955,7 @@
         "races_finished": 8,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -7597,6 +7976,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7617,6 +7997,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -7637,6 +8018,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7657,6 +8039,7 @@
         "races_finished": 5,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -7677,6 +8060,7 @@
         "races_finished": 4,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7697,6 +8081,7 @@
         "races_finished": 12,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -7717,6 +8102,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7737,6 +8123,7 @@
         "races_finished": 10,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7757,6 +8144,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7777,6 +8165,7 @@
         "races_finished": 1,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7797,6 +8186,7 @@
         "races_finished": 21,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 14,
         "wins": 0
     },
     {
@@ -7817,6 +8207,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -7837,6 +8228,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7857,6 +8249,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7877,6 +8270,7 @@
         "races_finished": 75,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 40,
         "wins": 0
     },
     {
@@ -7897,6 +8291,7 @@
         "races_finished": 14,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -7917,6 +8312,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7937,6 +8333,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7957,6 +8354,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -7977,6 +8375,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -7997,6 +8396,7 @@
         "races_finished": 31,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 21,
         "wins": 0
     },
     {
@@ -8017,6 +8417,7 @@
         "races_finished": 46,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8037,6 +8438,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8057,6 +8459,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8077,6 +8480,7 @@
         "races_finished": 27,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 22,
         "wins": 0
     },
     {
@@ -8097,6 +8501,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8117,6 +8522,7 @@
         "races_finished": 8,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -8137,6 +8543,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8157,6 +8564,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8177,6 +8585,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8197,6 +8606,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8217,6 +8627,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8237,6 +8648,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8257,6 +8669,7 @@
         "races_finished": 7,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -8277,6 +8690,7 @@
         "races_finished": 9,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8297,6 +8711,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8317,6 +8732,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8337,6 +8753,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -8357,6 +8774,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8377,6 +8795,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8397,6 +8816,7 @@
         "races_finished": 138,
         "seasons": 12,
         "subchampionships": 0,
+        "top_ten": 101,
         "wins": 0
     },
     {
@@ -8417,6 +8837,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8437,6 +8858,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8457,6 +8879,7 @@
         "races_finished": 7,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -8477,6 +8900,7 @@
         "races_finished": 10,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -8497,6 +8921,7 @@
         "races_finished": 3,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8517,6 +8942,7 @@
         "races_finished": 9,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -8537,6 +8963,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -8557,6 +8984,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8577,6 +9005,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8597,6 +9026,7 @@
         "races_finished": 6,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -8617,6 +9047,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8637,6 +9068,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8657,6 +9089,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8677,6 +9110,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8697,6 +9131,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8717,6 +9152,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8737,6 +9173,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8757,6 +9194,7 @@
         "races_finished": 97,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 66,
         "wins": 0
     },
     {
@@ -8777,6 +9215,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8797,6 +9236,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8817,6 +9257,7 @@
         "races_finished": 4,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -8837,6 +9278,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8857,6 +9299,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8877,6 +9320,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8897,6 +9341,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -8917,6 +9362,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -8937,6 +9383,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8957,6 +9404,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -8977,6 +9425,7 @@
         "races_finished": 63,
         "seasons": 12,
         "subchampionships": 0,
+        "top_ten": 43,
         "wins": 0
     },
     {
@@ -8997,6 +9446,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9017,6 +9467,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9037,6 +9488,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9057,6 +9509,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9077,6 +9530,7 @@
         "races_finished": 44,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 38,
         "wins": 0
     },
     {
@@ -9097,6 +9551,7 @@
         "races_finished": 7,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -9117,6 +9572,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9137,6 +9593,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9157,6 +9614,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9177,6 +9635,7 @@
         "races_finished": 15,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9197,6 +9656,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9217,6 +9677,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9237,6 +9698,7 @@
         "races_finished": 28,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9257,6 +9719,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9277,6 +9740,7 @@
         "races_finished": 33,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9297,6 +9761,7 @@
         "races_finished": 33,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 16,
         "wins": 0
     },
     {
@@ -9317,6 +9782,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9337,6 +9803,7 @@
         "races_finished": 12,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -9357,6 +9824,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9377,6 +9845,7 @@
         "races_finished": 2,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9397,6 +9866,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9417,6 +9887,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9437,6 +9908,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9457,6 +9929,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9477,6 +9950,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9497,6 +9971,7 @@
         "races_finished": 35,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 14,
         "wins": 0
     },
     {
@@ -9517,6 +9992,7 @@
         "races_finished": 5,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9537,6 +10013,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9557,6 +10034,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9577,6 +10055,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9597,6 +10076,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9617,6 +10097,7 @@
         "races_finished": 35,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 15,
         "wins": 0
     },
     {
@@ -9637,6 +10118,7 @@
         "races_finished": 6,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -9657,6 +10139,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9677,6 +10160,7 @@
         "races_finished": 53,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 28,
         "wins": 0
     },
     {
@@ -9697,6 +10181,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9717,6 +10202,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9737,6 +10223,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9757,6 +10244,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9777,6 +10265,7 @@
         "races_finished": 45,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 24,
         "wins": 0
     },
     {
@@ -9797,6 +10286,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9817,6 +10307,7 @@
         "races_finished": 12,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -9837,6 +10328,7 @@
         "races_finished": 19,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -9857,6 +10349,7 @@
         "races_finished": 3,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -9877,6 +10370,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9897,6 +10391,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9917,6 +10412,7 @@
         "races_finished": 26,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 12,
         "wins": 0
     },
     {
@@ -9937,6 +10433,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9957,6 +10454,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -9977,6 +10475,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -9997,6 +10496,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -10017,6 +10517,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -10037,6 +10538,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -10057,6 +10559,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10077,6 +10580,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10097,6 +10601,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -10117,6 +10622,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -10137,6 +10643,7 @@
         "races_finished": 3,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -10157,6 +10664,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10177,6 +10685,7 @@
         "races_finished": 28,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 21,
         "wins": 0
     },
     {
@@ -10197,6 +10706,7 @@
         "races_finished": 7,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -10217,6 +10727,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10237,6 +10748,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10257,6 +10769,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10277,6 +10790,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -10297,6 +10811,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10317,6 +10832,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -10337,6 +10853,7 @@
         "races_finished": 6,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -10357,6 +10874,7 @@
         "races_finished": 6,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -10377,6 +10895,7 @@
         "races_finished": 5,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -10397,6 +10916,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10417,6 +10937,7 @@
         "races_finished": 55,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 14,
         "wins": 0
     },
     {
@@ -10437,6 +10958,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10457,6 +10979,7 @@
         "races_finished": 7,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -10477,6 +11000,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10497,6 +11021,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10517,6 +11042,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10537,6 +11063,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10557,6 +11084,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10577,6 +11105,7 @@
         "races_finished": 6,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -10597,6 +11126,7 @@
         "races_finished": 3,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -10617,6 +11147,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10637,6 +11168,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10657,6 +11189,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10677,6 +11210,7 @@
         "races_finished": 23,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -10697,6 +11231,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -10717,6 +11252,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10737,6 +11273,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10757,6 +11294,7 @@
         "races_finished": 5,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -10777,6 +11315,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10797,6 +11336,7 @@
         "races_finished": 18,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 15,
         "wins": 0
     },
     {
@@ -10817,6 +11357,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10837,6 +11378,7 @@
         "races_finished": 6,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -10857,6 +11399,7 @@
         "races_finished": 9,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -10877,6 +11420,7 @@
         "races_finished": 3,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -10897,6 +11441,7 @@
         "races_finished": 13,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -10917,6 +11462,7 @@
         "races_finished": 6,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -10937,6 +11483,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -10957,6 +11504,7 @@
         "races_finished": 11,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 10,
         "wins": 0
     },
     {
@@ -10977,6 +11525,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -10997,6 +11546,7 @@
         "races_finished": 7,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -11017,6 +11567,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11037,6 +11588,7 @@
         "races_finished": 10,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -11057,6 +11609,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11077,6 +11630,7 @@
         "races_finished": 3,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -11097,6 +11651,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11117,6 +11672,7 @@
         "races_finished": 55,
         "seasons": 10,
         "subchampionships": 0,
+        "top_ten": 37,
         "wins": 0
     },
     {
@@ -11137,6 +11693,7 @@
         "races_finished": 20,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -11157,6 +11714,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11177,6 +11735,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11197,6 +11756,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11217,6 +11777,7 @@
         "races_finished": 13,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -11237,6 +11798,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11257,6 +11819,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11277,6 +11840,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -11297,6 +11861,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11317,6 +11882,7 @@
         "races_finished": 5,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -11337,6 +11903,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11357,6 +11924,7 @@
         "races_finished": 8,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -11377,6 +11945,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11397,6 +11966,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11417,6 +11987,7 @@
         "races_finished": 4,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -11437,6 +12008,7 @@
         "races_finished": 12,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11457,6 +12029,7 @@
         "races_finished": 16,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 10,
         "wins": 0
     },
     {
@@ -11477,6 +12050,7 @@
         "races_finished": 8,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -11497,6 +12071,7 @@
         "races_finished": 4,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11517,6 +12092,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11537,6 +12113,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -11557,6 +12134,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11577,6 +12155,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11597,6 +12176,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -11617,6 +12197,7 @@
         "races_finished": 30,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 13,
         "wins": 0
     },
     {
@@ -11637,6 +12218,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11657,6 +12239,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11677,6 +12260,7 @@
         "races_finished": 29,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -11697,6 +12281,7 @@
         "races_finished": 4,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -11717,6 +12302,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11737,6 +12323,7 @@
         "races_finished": 34,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 18,
         "wins": 0
     },
     {
@@ -11757,6 +12344,7 @@
         "races_finished": 17,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 10,
         "wins": 0
     },
     {
@@ -11777,6 +12365,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11797,6 +12386,7 @@
         "races_finished": 4,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -11817,6 +12407,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11837,6 +12428,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11857,6 +12449,7 @@
         "races_finished": 30,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -11877,6 +12470,7 @@
         "races_finished": 18,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -11897,6 +12491,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11917,6 +12512,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11937,6 +12533,7 @@
         "races_finished": 33,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -11957,6 +12554,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11977,6 +12575,7 @@
         "races_finished": 2,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -11997,6 +12596,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -12017,6 +12617,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12037,6 +12638,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12057,6 +12659,7 @@
         "races_finished": 8,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -12077,6 +12680,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12097,6 +12701,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12117,6 +12722,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12137,6 +12743,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12157,6 +12764,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12177,6 +12785,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12197,6 +12806,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12217,6 +12827,7 @@
         "races_finished": 9,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12237,6 +12848,7 @@
         "races_finished": 16,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 13,
         "wins": 0
     },
     {
@@ -12257,6 +12869,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12277,6 +12890,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -12297,6 +12911,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12317,6 +12932,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12337,6 +12953,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12357,6 +12974,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12377,6 +12995,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12397,6 +13016,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12417,6 +13037,7 @@
         "races_finished": 45,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 30,
         "wins": 0
     },
     {
@@ -12437,6 +13058,7 @@
         "races_finished": 6,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12457,6 +13079,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12477,6 +13100,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12497,6 +13121,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -12517,6 +13142,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12537,6 +13163,7 @@
         "races_finished": 6,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -12557,6 +13184,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12577,6 +13205,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -12597,6 +13226,7 @@
         "races_finished": 7,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -12617,6 +13247,7 @@
         "races_finished": 100,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 63,
         "wins": 0
     },
     {
@@ -12637,6 +13268,7 @@
         "races_finished": 5,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12657,6 +13289,7 @@
         "races_finished": 31,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 19,
         "wins": 0
     },
     {
@@ -12677,6 +13310,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12697,6 +13331,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12717,6 +13352,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12737,6 +13373,7 @@
         "races_finished": 47,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 13,
         "wins": 0
     },
     {
@@ -12757,6 +13394,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12777,6 +13415,7 @@
         "races_finished": 30,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12797,6 +13436,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12817,6 +13457,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -12837,6 +13478,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12857,6 +13499,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12877,6 +13520,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -12897,6 +13541,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12917,6 +13562,7 @@
         "races_finished": 17,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -12937,6 +13583,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -12957,6 +13604,7 @@
         "races_finished": 17,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 12,
         "wins": 0
     },
     {
@@ -12977,6 +13625,7 @@
         "races_finished": 11,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -12997,6 +13646,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -13017,6 +13667,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -13037,6 +13688,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13057,6 +13709,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13077,6 +13730,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -13097,6 +13751,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13117,6 +13772,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13137,6 +13793,7 @@
         "races_finished": 0,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13157,6 +13814,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13177,6 +13835,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13197,6 +13856,7 @@
         "races_finished": 22,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 20,
         "wins": 0
     },
     {
@@ -13217,6 +13877,7 @@
         "races_finished": 4,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13237,6 +13898,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13257,6 +13919,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13277,6 +13940,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13297,6 +13961,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13317,6 +13982,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -13337,6 +14003,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13357,6 +14024,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13377,6 +14045,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13397,6 +14066,7 @@
         "races_finished": 15,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 12,
         "wins": 0
     },
     {
@@ -13417,6 +14087,7 @@
         "races_finished": 7,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -13437,6 +14108,7 @@
         "races_finished": 4,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -13457,6 +14129,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13477,6 +14150,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -13497,6 +14171,7 @@
         "races_finished": 4,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -13517,6 +14192,7 @@
         "races_finished": 52,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 26,
         "wins": 0
     },
     {
@@ -13537,6 +14213,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13557,6 +14234,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13577,6 +14255,7 @@
         "races_finished": 6,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -13597,6 +14276,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -13617,6 +14297,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13637,6 +14318,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13657,6 +14339,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13677,6 +14360,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13697,6 +14381,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13717,6 +14402,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13737,6 +14423,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13757,6 +14444,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13777,6 +14465,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13797,6 +14486,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13817,6 +14507,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13837,6 +14528,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13857,6 +14549,7 @@
         "races_finished": 56,
         "seasons": 9,
         "subchampionships": 0,
+        "top_ten": 20,
         "wins": 0
     },
     {
@@ -13877,6 +14570,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13897,6 +14591,7 @@
         "races_finished": 26,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 25,
         "wins": 0
     },
     {
@@ -13917,6 +14612,7 @@
         "races_finished": 12,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -13937,6 +14633,7 @@
         "races_finished": 5,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -13957,6 +14654,7 @@
         "races_finished": 6,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -13977,6 +14675,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -13997,6 +14696,7 @@
         "races_finished": 1,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14017,6 +14717,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14037,6 +14738,7 @@
         "races_finished": 1,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14057,6 +14759,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14077,6 +14780,7 @@
         "races_finished": 29,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 17,
         "wins": 0
     },
     {
@@ -14097,6 +14801,7 @@
         "races_finished": 11,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -14117,6 +14822,7 @@
         "races_finished": 8,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -14137,6 +14843,7 @@
         "races_finished": 64,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 48,
         "wins": 0
     },
     {
@@ -14157,6 +14864,7 @@
         "races_finished": 19,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 17,
         "wins": 0
     },
     {
@@ -14177,6 +14885,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -14197,6 +14906,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14217,6 +14927,7 @@
         "races_finished": 59,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 23,
         "wins": 0
     },
     {
@@ -14237,6 +14948,7 @@
         "races_finished": 35,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 27,
         "wins": 0
     },
     {
@@ -14257,6 +14969,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14277,6 +14990,7 @@
         "races_finished": 5,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -14297,6 +15011,7 @@
         "races_finished": 31,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 28,
         "wins": 0
     },
     {
@@ -14317,6 +15032,7 @@
         "races_finished": 16,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -14337,6 +15053,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14357,6 +15074,7 @@
         "races_finished": 3,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14377,6 +15095,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14397,6 +15116,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14417,6 +15137,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14437,6 +15158,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14457,6 +15179,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14477,6 +15200,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14497,6 +15221,7 @@
         "races_finished": 4,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14517,6 +15242,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14537,6 +15263,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14557,6 +15284,7 @@
         "races_finished": 3,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14577,6 +15305,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14597,6 +15326,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14617,6 +15347,7 @@
         "races_finished": 11,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 6,
         "wins": 0
     },
     {
@@ -14637,6 +15368,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14657,6 +15389,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14677,6 +15410,7 @@
         "races_finished": 4,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -14697,6 +15431,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -14717,6 +15452,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -14737,6 +15473,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14757,6 +15494,7 @@
         "races_finished": 4,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -14777,6 +15515,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14797,6 +15536,7 @@
         "races_finished": 3,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14817,6 +15557,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14837,6 +15578,7 @@
         "races_finished": 0,
         "seasons": 0,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14857,6 +15599,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14877,6 +15620,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14897,6 +15641,7 @@
         "races_finished": 17,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -14917,6 +15662,7 @@
         "races_finished": 20,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 18,
         "wins": 0
     },
     {
@@ -14937,6 +15683,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -14957,6 +15704,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14977,6 +15725,7 @@
         "races_finished": 16,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -14997,6 +15746,7 @@
         "races_finished": 4,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15017,6 +15767,7 @@
         "races_finished": 3,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -15037,6 +15788,7 @@
         "races_finished": 34,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 15,
         "wins": 0
     },
     {
@@ -15057,6 +15809,7 @@
         "races_finished": 30,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 21,
         "wins": 0
     },
     {
@@ -15077,6 +15830,7 @@
         "races_finished": 26,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 19,
         "wins": 0
     },
     {
@@ -15097,6 +15851,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15117,6 +15872,7 @@
         "races_finished": 7,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -15137,6 +15893,7 @@
         "races_finished": 51,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 37,
         "wins": 0
     },
     {
@@ -15157,6 +15914,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15177,6 +15935,7 @@
         "races_finished": 89,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 30,
         "wins": 0
     },
     {
@@ -15197,6 +15956,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15217,6 +15977,7 @@
         "races_finished": 25,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 17,
         "wins": 0
     },
     {
@@ -15237,6 +15998,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -15257,6 +16019,7 @@
         "races_finished": 12,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     },
     {
@@ -15277,6 +16040,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15297,6 +16061,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15317,6 +16082,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15337,6 +16103,7 @@
         "races_finished": 13,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -15357,6 +16124,7 @@
         "races_finished": 4,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -15377,6 +16145,7 @@
         "races_finished": 2,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15397,6 +16166,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15417,6 +16187,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15437,6 +16208,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15457,6 +16229,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15477,6 +16250,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15497,6 +16271,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15517,6 +16292,7 @@
         "races_finished": 4,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -15537,6 +16313,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15557,6 +16334,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15577,6 +16355,7 @@
         "races_finished": 2,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15597,6 +16376,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15617,6 +16397,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15637,6 +16418,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15657,6 +16439,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15677,6 +16460,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15697,6 +16481,7 @@
         "races_finished": 2,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15717,6 +16502,7 @@
         "races_finished": 12,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 9,
         "wins": 0
     },
     {
@@ -15737,6 +16523,7 @@
         "races_finished": 0,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15757,6 +16544,7 @@
         "races_finished": 4,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15777,6 +16565,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15797,6 +16586,7 @@
         "races_finished": 1,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15817,6 +16607,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15837,6 +16628,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15857,6 +16649,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15877,6 +16670,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15897,6 +16691,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -15917,6 +16712,7 @@
         "races_finished": 4,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 3,
         "wins": 0
     },
     {
@@ -15937,6 +16733,7 @@
         "races_finished": 45,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 14,
         "wins": 0
     },
     {
@@ -15957,6 +16754,7 @@
         "races_finished": 49,
         "seasons": 8,
         "subchampionships": 0,
+        "top_ten": 24,
         "wins": 0
     },
     {
@@ -15977,6 +16775,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -15997,6 +16796,7 @@
         "races_finished": 0,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16017,6 +16817,7 @@
         "races_finished": 18,
         "seasons": 7,
         "subchampionships": 0,
+        "top_ten": 18,
         "wins": 0
     },
     {
@@ -16037,6 +16838,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16057,6 +16859,7 @@
         "races_finished": 1,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16077,6 +16880,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16097,6 +16901,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16117,6 +16922,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16137,6 +16943,7 @@
         "races_finished": 2,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -16157,6 +16964,7 @@
         "races_finished": 5,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -16177,6 +16985,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16197,6 +17006,7 @@
         "races_finished": 1,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16217,6 +17027,7 @@
         "races_finished": 67,
         "seasons": 11,
         "subchampionships": 0,
+        "top_ten": 55,
         "wins": 0
     },
     {
@@ -16237,6 +17048,7 @@
         "races_finished": 1,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16257,6 +17069,7 @@
         "races_finished": 16,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -16277,6 +17090,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16297,6 +17111,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16317,6 +17132,7 @@
         "races_finished": 18,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -16337,6 +17153,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16357,6 +17174,7 @@
         "races_finished": 2,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16377,6 +17195,7 @@
         "races_finished": 8,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -16397,6 +17216,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16417,6 +17237,7 @@
         "races_finished": 5,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 5,
         "wins": 0
     },
     {
@@ -16437,6 +17258,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16457,6 +17279,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16477,6 +17300,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16497,6 +17321,7 @@
         "races_finished": 0,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16517,6 +17342,7 @@
         "races_finished": 1,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -16537,6 +17363,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16557,6 +17384,7 @@
         "races_finished": 7,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 1,
         "wins": 0
     },
     {
@@ -16577,6 +17405,7 @@
         "races_finished": 17,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 8,
         "wins": 0
     },
     {
@@ -16597,6 +17426,7 @@
         "races_finished": 8,
         "seasons": 5,
         "subchampionships": 0,
+        "top_ten": 7,
         "wins": 0
     },
     {
@@ -16617,6 +17447,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16637,6 +17468,7 @@
         "races_finished": 47,
         "seasons": 6,
         "subchampionships": 0,
+        "top_ten": 35,
         "wins": 0
     },
     {
@@ -16657,6 +17489,7 @@
         "races_finished": 14,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16677,6 +17510,7 @@
         "races_finished": 6,
         "seasons": 2,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -16697,6 +17531,7 @@
         "races_finished": 18,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 10,
         "wins": 0
     },
     {
@@ -16717,6 +17552,7 @@
         "races_finished": 0,
         "seasons": 1,
         "subchampionships": 0,
+        "top_ten": 0,
         "wins": 0
     },
     {
@@ -16737,6 +17573,7 @@
         "races_finished": 19,
         "seasons": 4,
         "subchampionships": 0,
+        "top_ten": 11,
         "wins": 0
     },
     {
@@ -16757,6 +17594,7 @@
         "races_finished": 3,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 2,
         "wins": 0
     },
     {
@@ -16777,6 +17615,7 @@
         "races_finished": 6,
         "seasons": 3,
         "subchampionships": 0,
+        "top_ten": 4,
         "wins": 0
     }
 ]
