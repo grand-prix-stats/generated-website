@@ -1,0 +1,32 @@
+[
+    {
+        "constructor": "Tyrrell 🇬🇧",
+        "date": "1977-10-23",
+        "final_position": "9",
+        "grid": 22,
+        "laps_completed": 71,
+        "name": "1977 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
+        "round": 17,
+        "season": 1977,
+        "teammate": "Patrick Depailler 🇫🇷",
+        "teammate_final_position": "3",
+        "teammate_grid": 15,
+        "time": null
+    },
+    {
+        "constructor": "Tyrrell 🇬🇧",
+        "date": "1977-10-23",
+        "final_position": "9",
+        "grid": 22,
+        "laps_completed": 71,
+        "name": "1977 Japanese Grand Prix 🇯🇵",
+        "points": 0.0,
+        "round": 17,
+        "season": 1977,
+        "teammate": "Ronnie Peterson 🇸🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 18,
+        "time": null
+    }
+]

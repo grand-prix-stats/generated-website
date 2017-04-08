@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+*.swp
+Gemfile.lock
+
+xcuserdata
+
+_f1

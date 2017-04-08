@@ -1,0 +1,47 @@
+[
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1959-07-05",
+        "final_position": "10",
+        "grid": 18,
+        "laps_completed": 40,
+        "name": "1959 French Grand Prix 🇫🇷",
+        "points": 0.0,
+        "round": 4,
+        "season": 1959,
+        "teammate": "Giorgio Scarlatti 🇮🇹",
+        "teammate_final_position": "8",
+        "teammate_grid": 21,
+        "time": null
+    },
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1959-07-05",
+        "final_position": "10",
+        "grid": 18,
+        "laps_completed": 40,
+        "name": "1959 French Grand Prix 🇫🇷",
+        "points": 0.0,
+        "round": 4,
+        "season": 1959,
+        "teammate": "Carel Godin de Beaufort 🇳🇱",
+        "teammate_final_position": "9",
+        "teammate_grid": 20,
+        "time": null
+    },
+    {
+        "constructor": "Maserati 🇮🇹",
+        "date": "1959-07-05",
+        "final_position": "10",
+        "grid": 18,
+        "laps_completed": 40,
+        "name": "1959 French Grand Prix 🇫🇷",
+        "points": 0.0,
+        "round": 4,
+        "season": 1959,
+        "teammate": "Azdrubal Fontes 🇺🇾",
+        "teammate_final_position": "W",
+        "teammate_grid": 0,
+        "time": null
+    }
+]

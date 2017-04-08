@@ -1,0 +1,62 @@
+[
+    {
+        "constructor": "Lotus-Climax 🇬🇧",
+        "date": "1965-09-12",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 37,
+        "name": "1965 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 8,
+        "season": 1965,
+        "teammate": "Jim Clark 🇬🇧",
+        "teammate_final_position": "10",
+        "teammate_grid": 1,
+        "time": null
+    },
+    {
+        "constructor": "Lotus-Climax 🇬🇧",
+        "date": "1965-09-12",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 37,
+        "name": "1965 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 8,
+        "season": 1965,
+        "teammate": "Mike Spence 🇬🇧",
+        "teammate_final_position": "11",
+        "teammate_grid": 8,
+        "time": null
+    },
+    {
+        "constructor": "Brabham-BRM 🇬🇧",
+        "date": "1964-09-06",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1964 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 8,
+        "season": 1964,
+        "teammate": "Jo Siffert 🇨🇭",
+        "teammate_final_position": "7",
+        "teammate_grid": 6,
+        "time": null
+    },
+    {
+        "constructor": "Brabham-BRM 🇬🇧",
+        "date": "1964-09-06",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1964 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 8,
+        "season": 1964,
+        "teammate": "Ian Raby 🇬🇧",
+        "teammate_final_position": "F",
+        "teammate_grid": 0,
+        "time": null
+    }
+]

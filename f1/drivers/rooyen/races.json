@@ -1,0 +1,32 @@
+[
+    {
+        "constructor": "McLaren-Ford 🇬🇧",
+        "date": "1969-03-01",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 12,
+        "name": "1969 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 1,
+        "season": 1969,
+        "teammate": "Denny Hulme 🇳🇿",
+        "teammate_final_position": "3",
+        "teammate_grid": 3,
+        "time": null
+    },
+    {
+        "constructor": "McLaren-Ford 🇬🇧",
+        "date": "1969-03-01",
+        "final_position": "R",
+        "grid": 9,
+        "laps_completed": 12,
+        "name": "1969 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 1,
+        "season": 1969,
+        "teammate": "Bruce McLaren 🇳🇿",
+        "teammate_final_position": "5",
+        "teammate_grid": 8,
+        "time": null
+    }
+]

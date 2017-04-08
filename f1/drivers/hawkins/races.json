@@ -1,0 +1,62 @@
+[
+    {
+        "constructor": "Lotus-Climax 🇬🇧",
+        "date": "1965-08-01",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 3,
+        "name": "1965 German Grand Prix 🇩🇪",
+        "points": 0.0,
+        "round": 7,
+        "season": 1965,
+        "teammate": "Jim Clark 🇬🇧",
+        "teammate_final_position": "1",
+        "teammate_grid": 1,
+        "time": null
+    },
+    {
+        "constructor": "Lotus-Climax 🇬🇧",
+        "date": "1965-08-01",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 3,
+        "name": "1965 German Grand Prix 🇩🇪",
+        "points": 0.0,
+        "round": 7,
+        "season": 1965,
+        "teammate": "Mike Spence 🇬🇧",
+        "teammate_final_position": "R",
+        "teammate_grid": 6,
+        "time": null
+    },
+    {
+        "constructor": "Lotus-Climax 🇬🇧",
+        "date": "1965-08-01",
+        "final_position": "R",
+        "grid": 20,
+        "laps_completed": 3,
+        "name": "1965 German Grand Prix 🇩🇪",
+        "points": 0.0,
+        "round": 7,
+        "season": 1965,
+        "teammate": "Gerhard Mitter 🇩🇪",
+        "teammate_final_position": "R",
+        "teammate_grid": 12,
+        "time": null
+    },
+    {
+        "constructor": "Brabham-Ford 🇬🇧",
+        "date": "1965-01-01",
+        "final_position": "9",
+        "grid": 16,
+        "laps_completed": 81,
+        "name": "1965 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 1,
+        "season": 1965,
+        "teammate": "David Prophet 🇬🇧",
+        "teammate_final_position": "14",
+        "teammate_grid": 19,
+        "time": null
+    }
+]

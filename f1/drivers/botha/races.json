@@ -1,0 +1,32 @@
+[
+    {
+        "constructor": "Brabham-Climax 🇬🇧",
+        "date": "1967-01-02",
+        "final_position": "N",
+        "grid": 17,
+        "laps_completed": 60,
+        "name": "1967 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 1,
+        "season": 1967,
+        "teammate": "Bob Anderson 🇬🇧",
+        "teammate_final_position": "5",
+        "teammate_grid": 10,
+        "time": null
+    },
+    {
+        "constructor": "Brabham-Climax 🇬🇧",
+        "date": "1967-01-02",
+        "final_position": "N",
+        "grid": 17,
+        "laps_completed": 60,
+        "name": "1967 South African Grand Prix 🇿🇦",
+        "points": 0.0,
+        "round": 1,
+        "season": 1967,
+        "teammate": "Dave Charlton 🇿🇦",
+        "teammate_final_position": "N",
+        "teammate_grid": 8,
+        "time": null
+    }
+]

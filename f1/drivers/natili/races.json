@@ -1,0 +1,62 @@
+[
+    {
+        "constructor": "Cooper-Maserati 🇬🇧",
+        "date": "1961-09-10",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 7,
+        "season": 1961,
+        "teammate": "Lorenzo Bandini 🇮🇹",
+        "teammate_final_position": "8",
+        "teammate_grid": 21,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Maserati 🇬🇧",
+        "date": "1961-09-10",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 7,
+        "season": 1961,
+        "teammate": "Maurice Trintignant 🇫🇷",
+        "teammate_final_position": "9",
+        "teammate_grid": 22,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Maserati 🇬🇧",
+        "date": "1961-09-10",
+        "final_position": "W",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1961 Italian Grand Prix 🇮🇹",
+        "points": 0.0,
+        "round": 7,
+        "season": 1961,
+        "teammate": "Renato Pirocchi 🇮🇹",
+        "teammate_final_position": "12",
+        "teammate_grid": 29,
+        "time": null
+    },
+    {
+        "constructor": "Cooper-Maserati 🇬🇧",
+        "date": "1961-07-15",
+        "final_position": "R",
+        "grid": 28,
+        "laps_completed": 0,
+        "name": "1961 British Grand Prix 🇬🇧",
+        "points": 0.0,
+        "round": 5,
+        "season": 1961,
+        "teammate": "Lorenzo Bandini 🇮🇹",
+        "teammate_final_position": "12",
+        "teammate_grid": 21,
+        "time": null
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "date": "1982-09-25",
+        "laps_completed": 75,
+        "name": "1982 Caesars Palace Grand Prix 🇺🇸",
+        "race_duration": "1:41:56.888",
+        "round": 16,
+        "season": 1982,
+        "winning_constructor": "Tyrrell 🇬🇧",
+        "winning_driver": "Michele Alboreto 🇮🇹"
+    },
+    {
+        "date": "1981-10-17",
+        "laps_completed": 75,
+        "name": "1981 Caesars Palace Grand Prix 🇺🇸",
+        "race_duration": "1:44:09.077",
+        "round": 15,
+        "season": 1981,
+        "winning_constructor": "Williams 🇬🇧",
+        "winning_driver": "Alan Jones 🇦🇺"
+    }
+]

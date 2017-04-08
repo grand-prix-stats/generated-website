@@ -1,0 +1,32 @@
+[
+    {
+        "constructor": "Cooper 🇬🇧",
+        "date": "1953-01-18",
+        "final_position": "8",
+        "grid": 16,
+        "laps_completed": 90,
+        "name": "1953 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
+        "round": 1,
+        "season": 1953,
+        "teammate": "Alan Brown 🇬🇧",
+        "teammate_final_position": "9",
+        "teammate_grid": 12,
+        "time": null
+    },
+    {
+        "constructor": "Cooper 🇬🇧",
+        "date": "1953-01-18",
+        "final_position": "8",
+        "grid": 16,
+        "laps_completed": 90,
+        "name": "1953 Argentine Grand Prix 🇦🇷",
+        "points": 0.0,
+        "round": 1,
+        "season": 1953,
+        "teammate": "Adolfo Cruz 🇦🇷",
+        "teammate_final_position": "R",
+        "teammate_grid": 13,
+        "time": null
+    }
+]

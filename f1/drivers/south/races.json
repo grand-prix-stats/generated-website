@@ -1,0 +1,17 @@
+[
+    {
+        "constructor": "McLaren 🇬🇧",
+        "date": "1980-03-30",
+        "final_position": "F",
+        "grid": 0,
+        "laps_completed": 0,
+        "name": "1980 United States Grand Prix West 🇺🇸",
+        "points": 0.0,
+        "round": 4,
+        "season": 1980,
+        "teammate": "John Watson 🇬🇧",
+        "teammate_final_position": "4",
+        "teammate_grid": 21,
+        "time": null
+    }
+]
