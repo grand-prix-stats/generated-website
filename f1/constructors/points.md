@@ -28,8 +28,8 @@ var data = {
                 "144D44",
                 "0736A5",
                 "0F5DBB",
-                "273027",
                 "2039C3",
+                "273027",
                 "C0BEC3",
                 "20359D",
                 "FFFF01",
@@ -130,8 +130,8 @@ var data = {
                 "444444",
                 "A17A5D",
                 "444444",
-                "444444",
                 "FC181D",
+                "444444",
                 "444444",
                 "444444",
                 "444444",
@@ -218,23 +218,23 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                7598.77,
+                7626.77,
                 5284.5,
-                3530.5,
+                3557.5,
                 3484.0,
-                3222.14,
+                3255.14,
                 1326.0,
                 995.0,
                 861.5,
-                807.0,
+                810.0,
                 711.0,
                 706.0,
                 631.0,
                 537.5,
                 504.0,
                 388.0,
+                341.0,
                 336.5,
-                335.0,
                 313.14,
                 308.0,
                 291.0,
@@ -270,7 +270,7 @@ var data = {
                 37.0,
                 36.0,
                 35.0,
-                29.0,
+                33.0,
                 29.0,
                 27.0,
                 26.0,
@@ -338,8 +338,8 @@ var data = {
         "BRM",
         "Sauber",
         "Ligier",
-        "Cooper-Climax",
         "Toro Rosso",
+        "Cooper-Climax",
         "Maserati",
         "BMW Sauber",
         "Jordan",
@@ -460,23 +460,23 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Points |
 |--|--|--|
-| 1. | Ferrari 🇮🇹 | 7598.77 |
+| 1. | Ferrari 🇮🇹 | 7626.77 |
 | 2. | McLaren 🇬🇧 | 5284.5 |
-| 3. | Red Bull 🇦🇹 | 3530.5 |
+| 3. | Red Bull 🇦🇹 | 3557.5 |
 | 4. | Williams 🇬🇧 | 3484.0 |
-| 5. | Mercedes 🇩🇪 | 3222.14 |
+| 5. | Mercedes 🇩🇪 | 3255.14 |
 | 6. | Renault 🇫🇷 | 1326.0 |
 | 7. | Team Lotus 🇬🇧 | 995.0 |
 | 8. | Benetton 🇮🇹 | 861.5 |
-| 9. | Force India 🇮🇳 | 807.0 |
+| 9. | Force India 🇮🇳 | 810.0 |
 | 10. | Tyrrell 🇬🇧 | 711.0 |
 | 11. | Lotus F1 🇬🇧 | 706.0 |
 | 12. | Brabham 🇬🇧 | 631.0 |
 | 13. | BRM 🇬🇧 | 537.5 |
 | 14. | Sauber 🇨🇭 | 504.0 |
 | 15. | Ligier 🇫🇷 | 388.0 |
-| 16. | Cooper-Climax 🇬🇧 | 336.5 |
-| 17. | Toro Rosso 🇮🇹 | 335.0 |
+| 16. | Toro Rosso 🇮🇹 | 341.0 |
+| 17. | Cooper-Climax 🇬🇧 | 336.5 |
 | 18. | Maserati 🇮🇹 | 313.14 |
 | 19. | BMW Sauber 🇩🇪 | 308.0 |
 | 20. | Jordan 🇮🇪 | 291.0 |
@@ -512,7 +512,7 @@ var chart = new Chart("chart", {
 | 50. | March-Ford 🇬🇧 | 37.0 |
 | 51. | Watson 🇺🇸 | 36.0 |
 | 52. | Prost 🇫🇷 | 35.0 |
-| 53. | Haas F1 Team 🇺🇸 | 29.0 |
+| 53. | Haas F1 Team 🇺🇸 | 33.0 |
 | 54. | Lotus-BRM 🇬🇧 | 29.0 |
 | 55. | Lola 🇬🇧 | 27.0 |
 | 56. | Toleman 🇬🇧 | 26.0 |
@@ -565,14 +565,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Points** |
 | **Row Count** | 100 |
-| **Total Sum** | 36155.550 |
-| **Mean μ (Average)** | 361.556 |
-| **Maximum** | 7598.770 |
+| **Total Sum** | 36256.550 |
+| **Mean μ (Average)** | 362.566 |
+| **Maximum** | 7626.770 |
 | **75th Percentile** | 209.000 |
 | **Median** | 37.000 |
 | **25th Percentile** | 8.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1148754.091 |
-| **Standard Deviation σ** | 1071.799 |
+| **Variance** | 1156428.693 |
+| **Standard Deviation σ** | 1075.374 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

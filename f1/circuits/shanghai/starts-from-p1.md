@@ -43,7 +43,7 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                5.0,
+                6.0,
                 3.0,
                 2.0,
                 2.0,
@@ -95,7 +95,7 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
 | 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
 | 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
 | 4. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
@@ -105,14 +105,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Starts From P1** |
 | **Row Count** | 5 |
-| **Total Sum** | 13.000 |
-| **Mean μ (Average)** | 2.600 |
-| **Maximum** | 5.000 |
+| **Total Sum** | 14.000 |
+| **Mean μ (Average)** | 2.800 |
+| **Maximum** | 6.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 2.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1.840 |
-| **Standard Deviation σ** | 1.356 |
+| **Variance** | 2.960 |
+| **Standard Deviation σ** | 1.720 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

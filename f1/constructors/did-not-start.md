@@ -552,7 +552,7 @@ var chart = new Chart("chart", {
 | 26. | Hesketh 🇬🇧 | 24 | 24.74% |
 | 27. | Pacific 🇬🇧 | 24 | 36.36% |
 | 28. | Footwork 🇬🇧 | 22 | 11.34% |
-| 29. | McLaren 🇬🇧 | 22 | 1.39% |
+| 29. | McLaren 🇬🇧 | 22 | 1.38% |
 | 30. | Merzario 🇮🇹 | 22 | 68.75% |
 | 31. | Lola 🇬🇧 | 20 | 12.12% |
 | 32. | Ferrari 🇮🇹 | 19 | 0.90% |
@@ -633,7 +633,7 @@ var chart = new Chart("chart", {
 | 107. | McLaren-BRM 🇬🇧 | 1 | 7.14% |
 | 108. | McLaren-Ford 🇬🇧 | 1 | 1.15% |
 | 109. | McLaren-Serenissima 🇬🇧 | 1 | 50.00% |
-| 110. | Mercedes 🇩🇪 | 1 | 0.32% |
+| 110. | Mercedes 🇩🇪 | 1 | 0.31% |
 | 111. | RE 🇿🇼 | 1 | 100.00% |
 | 112. | Simca 🇫🇷 | 1 | 3.45% |
 | 113. | Stebro 🇨🇦 | 1 | 50.00% |
@@ -645,14 +645,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Start** | **% Of Total Participations** |
 | **Row Count** | 116 | 116 |
-| **Total Sum** | 1537.000 | 3616.250 |
-| **Mean μ (Average)** | 13.250 | 31.175 |
+| **Total Sum** | 1537.000 | 3616.230 |
+| **Mean μ (Average)** | 13.250 | 31.174 |
 | **Maximum** | 83.000 | 100.000 |
 | **75th Percentile** | 22.000 | 50.000 |
 | **Median** | 4.000 | 15.700 |
 | **25th Percentile** | 1.000 | 5.240 |
 | **Minimum** | 1.000 | 0.190 |
-| **Variance** | 319.636 | 1072.980 |
-| **Standard Deviation σ** | 17.878 | 32.756 |
+| **Variance** | 319.636 | 1072.990 |
+| **Standard Deviation σ** | 17.878 | 32.757 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

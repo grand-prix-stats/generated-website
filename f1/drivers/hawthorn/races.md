@@ -67,8 +67,8 @@ collectionId: hawthorn
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
-| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
+| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
@@ -129,10 +129,10 @@ collectionId: hawthorn
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 11 | 8 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 5 | 2 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 13 | 6 |
-| 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 11 | 8 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 5 | 2 |
-| 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 12 | 9 |
+| 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 11 | 8 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 7 | 3 |
+| 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 12 | 9 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 7 | 3 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 12 | 9 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 13 | 6 |

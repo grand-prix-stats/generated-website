@@ -24,7 +24,7 @@ collectionId: shanghai
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 |   |   |   |   |
+| 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 56 | 1:37:36.158 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2016 | 3 | 2016 Chinese Grand Prix 🇨🇳 | 2016-04-17 | 56 | 1:38:53.891 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2015 | 3 | 2015 Chinese Grand Prix 🇨🇳 | 2015-04-12 | 56 | 1:39:42.008 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 4 | 2014 Chinese Grand Prix 🇨🇳 | 2014-04-20 | 54 | 1:33:28.388 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
@@ -42,15 +42,15 @@ collectionId: shanghai
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 14 |  |  | 13 |  |  |  |
-| **Total Sum** | 112.000 |  |  | 726.000 |  |  |  |
-| **Mean μ (Average)** | 8.000 |  |  | 55.846 |  |  |  |
+| **Row Count** | 14 |  |  | 14 |  |  |  |
+| **Total Sum** | 112.000 |  |  | 782.000 |  |  |  |
+| **Mean μ (Average)** | 8.000 |  |  | 55.857 |  |  |  |
 | **Maximum** | 19.000 |  |  | 56.000 |  |  |  |
 | **75th Percentile** | 16.000 |  |  | 56.000 |  |  |  |
 | **Median** | 4.000 |  |  | 56.000 |  |  |  |
 | **25th Percentile** | 3.000 |  |  | 56.000 |  |  |  |
 | **Minimum** | 2.000 |  |  | 54.000 |  |  |  |
-| **Variance** | 43.714 |  |  | 0.284 |  |  |  |
-| **Standard Deviation σ** | 6.612 |  |  | 0.533 |  |  |  |
+| **Variance** | 43.714 |  |  | 0.265 |  |  |  |
+| **Standard Deviation σ** | 6.612 |  |  | 0.515 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

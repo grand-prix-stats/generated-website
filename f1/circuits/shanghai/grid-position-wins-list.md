@@ -81,7 +81,7 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                8.0,
+                9.0,
                 1.0,
                 2.0,
                 0.0,
@@ -171,7 +171,7 @@ var chart = new Chart("chart", {
 
 | Grid Position | Number Of Wins |
 |--|--|
-| 1 | 8 |
+| 1 | 9 |
 | 2 | 1 |
 | 3 | 2 |
 | 4 | 0 |
@@ -200,14 +200,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Wins** |
 | **Row Count** | 24 |
-| **Total Sum** | 13.000 |
-| **Mean μ (Average)** | 0.542 |
-| **Maximum** | 8.000 |
+| **Total Sum** | 14.000 |
+| **Mean μ (Average)** | 0.583 |
+| **Maximum** | 9.000 |
 | **75th Percentile** |  |
 | **Median** |  |
 | **25th Percentile** |  |
 | **Minimum** |  |
-| **Variance** | 2.665 |
-| **Standard Deviation σ** | 1.632 |
+| **Variance** | 3.326 |
+| **Standard Deviation σ** | 1.824 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

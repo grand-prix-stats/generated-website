@@ -24,6 +24,7 @@ collectionId: vettel
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 2 | 2 | 18.0 | 56 | +6.250 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 | 5 |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 2 | 1 | 25.0 | 57 | 1:24:11.672 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 | 4 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 5 | 3 | 15.0 | 55 | +0.843 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 | 6 |
 | 2016 | 20 | 2016 Brazilian Grand Prix 🇧🇷 | 2016-11-13 | 5 | 5 | 10.0 | 71 | +26.334 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 | R |
@@ -208,15 +209,15 @@ collectionId: vettel
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 180 |  |  | 180 | 154 | 180 | 180 | 92 |  |  | 180 | 152 |
-| **Total Sum** | 1821.000 |  |  | 967.000 | 623.000 | 2133.000 | 9690.000 | 2211.132 |  |  | 1189.000 | 856.000 |
-| **Mean μ (Average)** | 10.117 |  |  | 5.372 | 4.045 | 11.850 | 53.833 | 24.034 |  |  | 6.606 | 5.632 |
+| **Row Count** | 181 |  |  | 181 | 155 | 181 | 181 | 93 |  |  | 181 | 153 |
+| **Total Sum** | 1823.000 |  |  | 969.000 | 625.000 | 2151.000 | 9746.000 | 2217.382 |  |  | 1193.000 | 861.000 |
+| **Mean μ (Average)** | 10.072 |  |  | 5.354 | 4.032 | 11.884 | 53.845 | 23.843 |  |  | 6.591 | 5.627 |
 | **Maximum** | 21.000 |  |  | 24.000 | 22.000 | 25.000 | 78.000 | 67.700 |  |  | 22.000 | 20.000 |
-| **75th Percentile** | 15.000 |  |  | 8.000 | 5.000 | 18.000 | 66.000 | 38.273 |  |  | 9.000 | 7.000 |
-| **Median** | 10.000 |  |  | 3.000 | 3.000 | 12.000 | 56.000 | 20.990 |  |  | 5.000 | 4.000 |
-| **25th Percentile** | 5.000 |  |  | 1.000 | 1.000 | 4.000 | 52.000 | 7.295 |  |  | 3.000 | 3.000 |
+| **75th Percentile** | 15.000 |  |  | 7.000 | 5.000 | 18.000 | 66.000 | 38.011 |  |  | 9.000 | 7.000 |
+| **Median** | 10.000 |  |  | 3.000 | 3.000 | 12.000 | 56.000 | 20.621 |  |  | 5.000 | 4.000 |
+| **25th Percentile** | 5.000 |  |  | 1.000 | 1.000 | 4.000 | 52.000 | 7.187 |  |  | 3.000 | 3.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.293 |  |  | 1.000 | 1.000 |
-| **Variance** | 30.292 |  |  | 27.845 | 14.732 | 79.861 | 304.106 | 314.385 |  |  | 27.006 | 17.062 |
-| **Standard Deviation σ** | 5.504 |  |  | 5.277 | 3.838 | 8.936 | 17.439 | 17.731 |  |  | 5.197 | 4.131 |
+| **Variance** | 30.487 |  |  | 27.753 | 14.663 | 79.627 | 302.451 | 314.369 |  |  | 26.894 | 16.953 |
+| **Standard Deviation σ** | 5.521 |  |  | 5.268 | 3.829 | 8.923 | 17.391 | 17.730 |  |  | 5.186 | 4.117 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

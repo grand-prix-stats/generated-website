@@ -16,7 +16,7 @@ collectionId:
 | [Circuit de Spa-Francorchamps](/f1/circuits/spa) | Spa | [Belgium](/f1/countries/belgium) | 50 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | São Paulo | [Brazil](/f1/countries/brazil) | 35 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 4 |
 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | Montreal | [Canada](/f1/countries/canada) | 38 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 7 |
-| [Shanghai International Circuit](/f1/circuits/shanghai) | Shanghai | [China](/f1/countries/china) | 14 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |
+| [Shanghai International Circuit](/f1/circuits/shanghai) | Shanghai | [China](/f1/countries/china) | 14 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
 | [Hungaroring](/f1/circuits/hungaroring) | Budapest | [Hungary](/f1/countries/hungary) | 32 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
 | [Autodromo Nazionale di Monza](/f1/circuits/monza) | Monza | [Italy](/f1/countries/italy) | 67 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 |
 | [Suzuka Circuit](/f1/circuits/suzuka) | Suzuka | [Japan](/f1/countries/japan) | 29 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
@@ -34,14 +34,14 @@ collectionId:
 
 | **Column** | **Location** | **Country** | **Races** | **Most Wins Driver** | **Wins** |
 | **Row Count** |  |  | 20 |  | 20 |
-| **Total Sum** |  |  | 514.000 |  | 83.000 |
-| **Mean μ (Average)** |  |  | 25.700 |  | 4.150 |
+| **Total Sum** |  |  | 514.000 |  | 84.000 |
+| **Mean μ (Average)** |  |  | 25.700 |  | 4.200 |
 | **Maximum** |  |  | 67.000 |  | 7.000 |
 | **75th Percentile** |  |  | 38.000 |  | 6.000 |
 | **Median** |  |  | 22.000 |  | 4.000 |
 | **25th Percentile** |  |  | 10.000 |  | 3.000 |
 | **Minimum** |  |  | 2.000 |  | 1.000 |
-| **Variance** |  |  | 376.310 |  | 2.528 |
-| **Standard Deviation σ** |  |  | 19.399 |  | 1.590 |
+| **Variance** |  |  | 376.310 |  | 2.560 |
+| **Standard Deviation σ** |  |  | 19.399 |  | 1.600 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

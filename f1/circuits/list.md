@@ -25,7 +25,7 @@ collectionId:
 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | Montreal | [Canada](/f1/countries/canada) | 38 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 7 |
 | [Mosport International Raceway](/f1/circuits/mosport) | Ontario | [Canada](/f1/countries/canada) | 8 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
 | [Circuit Mont-Tremblant](/f1/circuits/tremblant) | Quebec | [Canada](/f1/countries/canada) | 2 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 1 |
-| [Shanghai International Circuit](/f1/circuits/shanghai) | Shanghai | [China](/f1/countries/china) | 14 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |
+| [Shanghai International Circuit](/f1/circuits/shanghai) | Shanghai | [China](/f1/countries/china) | 14 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
 | [Charade Circuit](/f1/circuits/charade) | Clermont-Ferrand | [France](/f1/countries/france) | 4 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
 | [Dijon-Prenois](/f1/circuits/dijon) | Dijon | [France](/f1/countries/france) | 6 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 1 |
 | [Circuit Paul Ricard](/f1/circuits/ricard) | Le Castellet | [France](/f1/countries/france) | 14 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 |
@@ -87,14 +87,14 @@ collectionId:
 
 | **Column** | **Location** | **Country** | **Races** | **Most Wins Driver** | **Wins** |
 | **Row Count** |  |  | 73 |  | 72 |
-| **Total Sum** |  |  | 976.000 |  | 208.000 |
-| **Mean μ (Average)** |  |  | 13.370 |  | 2.889 |
+| **Total Sum** |  |  | 976.000 |  | 209.000 |
+| **Mean μ (Average)** |  |  | 13.370 |  | 2.903 |
 | **Maximum** |  |  | 67.000 |  | 8.000 |
 | **75th Percentile** |  |  | 19.000 |  | 4.000 |
 | **Median** |  |  | 7.000 |  | 2.000 |
 | **25th Percentile** |  |  | 3.000 |  | 2.000 |
 | **Minimum** |  |  |  |  | 1.000 |
-| **Variance** |  |  | 223.384 |  | 3.015 |
-| **Standard Deviation σ** |  |  | 14.946 |  | 1.736 |
+| **Variance** |  |  | 223.384 |  | 3.060 |
+| **Standard Deviation σ** |  |  | 14.946 |  | 1.749 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,6 +24,7 @@ collectionId: kvyat
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 9 | R | 0.0 | 18 |   | Toro Rosso 🇮🇹 | [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 11 | 7 |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 9 | 9 | 2.0 | 56 |   | Toro Rosso 🇮🇹 | [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 8 | 8 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 17 | R | 0.0 | 14 |   | Toro Rosso 🇮🇹 | [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 21 | R |
 | 2016 | 20 | 2016 Brazilian Grand Prix 🇧🇷 | 2016-11-13 | 14 | 13 | 0.0 | 71 | +51.192 | Toro Rosso 🇮🇹 | [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 15 | 6 |
@@ -88,15 +89,15 @@ collectionId: kvyat
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 60 |  |  | 60 | 46 | 60 | 60 | 9 |  |  | 60 | 50 |
-| **Total Sum** | 612.000 |  |  | 693.000 | 471.000 | 130.000 | 2976.000 | 311.521 |  |  | 621.000 | 465.000 |
-| **Mean μ (Average)** | 10.200 |  |  | 11.550 | 10.239 | 2.167 | 49.600 | 34.613 |  |  | 10.350 | 9.300 |
+| **Row Count** | 61 |  |  | 61 | 46 | 61 | 61 | 9 |  |  | 61 | 51 |
+| **Total Sum** | 614.000 |  |  | 702.000 | 471.000 | 130.000 | 2994.000 | 311.521 |  |  | 632.000 | 472.000 |
+| **Mean μ (Average)** | 10.066 |  |  | 11.508 | 10.239 | 2.131 | 49.082 | 34.613 |  |  | 10.361 | 9.255 |
 | **Maximum** | 21.000 |  |  | 22.000 | 18.000 | 18.000 | 78.000 | 51.192 |  |  | 21.000 | 17.000 |
 | **75th Percentile** | 15.000 |  |  | 15.000 | 13.000 | 2.000 | 65.000 | 45.936 |  |  | 14.000 | 12.000 |
 | **Median** | 10.000 |  |  | 12.000 | 10.000 |  | 55.000 | 41.342 |  |  | 10.000 | 9.000 |
 | **25th Percentile** | 5.000 |  |  | 8.000 | 9.000 |  | 44.000 | 16.572 |  |  | 6.000 | 6.000 |
 | **Minimum** | 1.000 |  |  | 4.000 | 2.000 |  |  | 11.965 |  |  | 2.000 | 2.000 |
-| **Variance** | 33.493 |  |  | 22.381 | 13.312 | 17.306 | 393.907 | 214.886 |  |  | 25.761 | 13.050 |
-| **Standard Deviation σ** | 5.787 |  |  | 4.731 | 3.649 | 4.160 | 19.847 | 14.659 |  |  | 5.076 | 3.612 |
+| **Variance** | 34.028 |  |  | 22.119 | 13.312 | 17.098 | 403.551 | 214.886 |  |  | 25.345 | 12.896 |
+| **Standard Deviation σ** | 5.833 |  |  | 4.703 | 3.649 | 4.135 | 20.089 | 14.659 |  |  | 5.034 | 3.591 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})
