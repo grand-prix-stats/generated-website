@@ -258,32 +258,32 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                2290.0,
-                2151.0,
+                2308.0,
+                2176.0,
                 1832.0,
                 1594.5,
                 1566.0,
-                1382.0,
+                1394.0,
                 1235.0,
-                1132.0,
+                1140.0,
                 1047.5,
                 798.5,
                 658.0,
-                628.0,
+                638.0,
                 614.0,
                 535.0,
                 485.5,
                 482.0,
-                434.0,
+                449.0,
                 420.5,
                 420.0,
                 385.0,
-                375.0,
-                362.0,
+                381.0,
+                364.0,
                 360.0,
                 360.0,
                 329.0,
-                316.0,
+                320.0,
                 310.0,
                 307.0,
                 289.0,
@@ -540,32 +540,32 @@ var chart = new Chart("chart", {
 
 | # | Driver | Points |
 |--|--|--|
-| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2290.0 |
-| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2151.0 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2308.0 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2176.0 |
 | 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1832.0 |
 | 4. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1594.5 |
 | 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1566.0 |
-| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1382.0 |
+| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1394.0 |
 | 7. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1235.0 |
-| 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1132.0 |
+| 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1140.0 |
 | 9. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1047.5 |
 | 10. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 798.5 |
 | 11. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 658.0 |
-| 12. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 628.0 |
+| 12. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 638.0 |
 | 13. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 614.0 |
 | 14. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 535.0 |
 | 15. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 485.5 |
 | 16. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 482.0 |
-| 17. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 434.0 |
+| 17. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 449.0 |
 | 18. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 420.5 |
 | 19. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 420.0 |
 | 20. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 385.0 |
-| 21. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 375.0 |
-| 22. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 362.0 |
+| 21. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 381.0 |
+| 22. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 364.0 |
 | 23. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 360.0 |
 | 24. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 360.0 |
 | 25. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 329.0 |
-| 26. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 316.0 |
+| 26. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 320.0 |
 | 27. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 310.0 |
 | 28. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 307.0 |
 | 29. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 289.0 |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Points** |
 | **Row Count** | 120 |
-| **Total Sum** | 34514.580 |
-| **Mean μ (Average)** | 287.622 |
-| **Maximum** | 2290.000 |
+| **Total Sum** | 34614.580 |
+| **Mean μ (Average)** | 288.455 |
+| **Maximum** | 2308.000 |
 | **75th Percentile** | 281.000 |
 | **Median** | 141.000 |
 | **25th Percentile** | 71.000 |
 | **Minimum** | 31.500 |
-| **Variance** | 169855.951 |
-| **Standard Deviation σ** | 412.136 |
+| **Variance** | 171683.087 |
+| **Standard Deviation σ** | 414.347 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

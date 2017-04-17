@@ -574,7 +574,7 @@ var chart = new Chart("chart", {
 | 48. | Jordan 🇮🇪 | 7 | 1.40% |
 | 49. | Leyton House 🇬🇧 | 6 | 9.38% |
 | 50. | McLaren-Alfa Romeo 🇬🇧 | 6 | 54.55% |
-| 51. | Sauber 🇨🇭 | 6 | 0.85% |
+| 51. | Sauber 🇨🇭 | 6 | 0.84% |
 | 52. | De Tomaso 🇮🇹 | 5 | 35.71% |
 | 53. | Iso Marlboro 🇬🇧 | 5 | 9.09% |
 | 54. | Bellasi 🇨🇭 | 4 | 66.67% |
@@ -645,14 +645,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Start** | **% Of Total Participations** |
 | **Row Count** | 116 | 116 |
-| **Total Sum** | 1537.000 | 3616.230 |
+| **Total Sum** | 1537.000 | 3616.220 |
 | **Mean μ (Average)** | 13.250 | 31.174 |
 | **Maximum** | 83.000 | 100.000 |
 | **75th Percentile** | 22.000 | 50.000 |
 | **Median** | 4.000 | 15.700 |
 | **25th Percentile** | 1.000 | 5.240 |
 | **Minimum** | 1.000 | 0.190 |
-| **Variance** | 319.636 | 1072.990 |
+| **Variance** | 319.636 | 1072.995 |
 | **Standard Deviation σ** | 17.878 | 32.757 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

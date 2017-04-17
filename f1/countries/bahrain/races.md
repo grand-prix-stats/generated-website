@@ -24,7 +24,7 @@ collectionId: bahrain
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|
-| 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2017-04-16 |   |   |   |   |
+| 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2017-04-16 | 57 | 1:33:53.374 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2016 | 2 | 2016 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2016-04-03 | 57 | 1:33:34.696 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2015 | 4 | 2015 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2015-04-19 | 57 | 1:35:05.809 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 3 | 2014 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2014-04-06 | 57 | 1:39:42.743 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
@@ -41,15 +41,15 @@ collectionId: bahrain
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 13 |  |  |  | 12 |  |  |  |
-| **Total Sum** | 38.000 |  |  |  | 676.000 |  |  |  |
-| **Mean μ (Average)** | 2.923 |  |  |  | 56.333 |  |  |  |
+| **Row Count** | 13 |  |  |  | 13 |  |  |  |
+| **Total Sum** | 38.000 |  |  |  | 733.000 |  |  |  |
+| **Mean μ (Average)** | 2.923 |  |  |  | 56.385 |  |  |  |
 | **Maximum** | 4.000 |  |  |  | 57.000 |  |  |  |
 | **75th Percentile** | 4.000 |  |  |  | 57.000 |  |  |  |
 | **Median** | 3.000 |  |  |  | 57.000 |  |  |  |
 | **25th Percentile** | 3.000 |  |  |  | 57.000 |  |  |  |
 | **Minimum** | 1.000 |  |  |  | 49.000 |  |  |  |
-| **Variance** | 0.994 |  |  |  | 4.889 |  |  |  |
-| **Standard Deviation σ** | 0.997 |  |  |  | 2.211 |  |  |  |
+| **Variance** | 0.994 |  |  |  | 4.544 |  |  |  |
+| **Standard Deviation σ** | 0.997 |  |  |  | 2.132 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

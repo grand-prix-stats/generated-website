@@ -35,9 +35,11 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -56,6 +58,7 @@ var data = {
                 1.0,
                 1.0,
                 1.0,
+                1.0,
                 1.0
             ],
             "label": "Number Of Starts From P1"
@@ -69,7 +72,8 @@ var data = {
         "Felipe Massa",
         "Fernando Alonso",
         "Jarno Trulli",
-        "Robert Kubica"
+        "Robert Kubica",
+        "Valtteri Bottas"
     ]
 };
 var options = {
@@ -115,19 +119,20 @@ var chart = new Chart("chart", {
 | 6. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
 | 7. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
 | 8. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
+| 9. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Starts From P1** |
-| **Row Count** | 8 |
-| **Total Sum** | 12.000 |
-| **Mean μ (Average)** | 1.500 |
+| **Row Count** | 9 |
+| **Total Sum** | 13.000 |
+| **Mean μ (Average)** | 1.444 |
 | **Maximum** | 2.000 |
 | **75th Percentile** | 2.000 |
-| **Median** | 2.000 |
+| **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.250 |
-| **Standard Deviation σ** | 0.500 |
+| **Variance** | 0.247 |
+| **Standard Deviation σ** | 0.497 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

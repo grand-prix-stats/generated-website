@@ -84,7 +84,7 @@ var data = {
                 5.0,
                 4.0,
                 2.0,
-                1.0,
+                2.0,
                 0.0,
                 0.0,
                 0.0,
@@ -112,8 +112,8 @@ var data = {
     "labels": [
         "1",
         "2",
-        "4",
         "3",
+        "4",
         "5",
         "6",
         "7",
@@ -173,8 +173,8 @@ var chart = new Chart("chart", {
 |--|--|--|
 | 1. | 1 | 5 |
 | 2. | 2 | 4 |
-| 3. | 4 | 2 |
-| 4. | 3 | 1 |
+| 3. | 3 | 2 |
+| 4. | 4 | 2 |
 | 5. | 5 | 0 |
 | 6. | 6 | 0 |
 | 7. | 7 | 0 |
@@ -200,14 +200,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Wins** |
 | **Row Count** | 24 |
-| **Total Sum** | 12.000 |
-| **Mean μ (Average)** | 0.500 |
+| **Total Sum** | 13.000 |
+| **Mean μ (Average)** | 0.542 |
 | **Maximum** | 5.000 |
 | **75th Percentile** |  |
 | **Median** |  |
 | **25th Percentile** |  |
 | **Minimum** |  |
-| **Variance** | 1.667 |
-| **Standard Deviation σ** | 1.291 |
+| **Variance** | 1.748 |
+| **Standard Deviation σ** | 1.322 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

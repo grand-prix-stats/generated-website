@@ -24,6 +24,7 @@ collectionId: ocon
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 14 | 10 | 1.0 | 57 | +1:35.711 | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 18 | 7 |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 17 | 10 | 1.0 | 55 |   | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 8 | 9 |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 13 | 10 | 1.0 | 56 |   | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 10 | 7 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 20 | 13 | 0.0 | 54 |   | Manor Marussia 🇬🇧 | [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 16 | 14 |
@@ -39,15 +40,15 @@ collectionId: ocon
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 11 |  |  | 11 | 11 | 11 | 11 | 1 |  |  | 11 | 8 |
-| **Total Sum** | 156.000 |  |  | 214.000 | 173.000 | 2.000 | 619.000 | 45.809 |  |  | 178.000 | 115.000 |
-| **Mean μ (Average)** | 14.182 |  |  | 19.455 | 15.727 | 0.182 | 56.273 | 45.809 |  |  | 16.182 | 14.375 |
+| **Row Count** | 12 |  |  | 12 | 12 | 12 | 12 | 1 |  |  | 12 | 9 |
+| **Total Sum** | 159.000 |  |  | 228.000 | 183.000 | 3.000 | 676.000 | 45.809 |  |  | 196.000 | 122.000 |
+| **Mean μ (Average)** | 13.250 |  |  | 19.000 | 15.250 | 0.250 | 56.333 | 45.809 |  |  | 16.333 | 13.556 |
 | **Maximum** | 21.000 |  |  | 22.000 | 21.000 | 1.000 | 71.000 | 45.809 |  |  | 21.000 | 22.000 |
-| **75th Percentile** | 19.000 |  |  | 22.000 | 18.000 |  | 59.000 | 45.809 |  |  | 20.000 | 17.000 |
-| **Median** | 16.000 |  |  | 20.000 | 16.000 |  | 55.000 | 45.809 |  |  | 16.000 | 15.000 |
-| **25th Percentile** | 13.000 |  |  | 17.000 | 12.000 |  | 52.000 | 45.809 |  |  | 13.000 | 14.000 |
+| **75th Percentile** | 19.000 |  |  | 22.000 | 18.000 | 1.000 | 59.000 | 45.809 |  |  | 20.000 | 16.000 |
+| **Median** | 16.000 |  |  | 20.000 | 16.000 |  | 55.000 | 45.809 |  |  | 18.000 | 15.000 |
+| **25th Percentile** | 13.000 |  |  | 17.000 | 12.000 |  | 54.000 | 45.809 |  |  | 15.000 | 9.000 |
 | **Minimum** | 1.000 |  |  | 13.000 | 10.000 |  | 43.000 | 45.809 |  |  | 8.000 | 7.000 |
-| **Variance** | 41.240 |  |  | 6.975 | 14.380 | 0.149 | 56.562 |  |  |  | 17.603 | 18.984 |
-| **Standard Deviation σ** | 6.422 |  |  | 2.641 | 3.792 | 0.386 | 7.521 |  |  |  | 4.196 | 4.357 |
+| **Variance** | 47.354 |  |  | 8.667 | 15.688 | 0.188 | 51.889 |  |  |  | 16.389 | 22.247 |
+| **Standard Deviation σ** | 6.881 |  |  | 2.944 | 3.961 | 0.433 | 7.203 |  |  |  | 4.048 | 4.717 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

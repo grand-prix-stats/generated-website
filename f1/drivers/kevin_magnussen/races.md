@@ -24,6 +24,7 @@ collectionId: kevin_magnussen
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 20 | R | 0.0 | 8 |   | Haas F1 Team 🇺🇸 | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 9 | 8 |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 12 | 8 | 4.0 | 55 |   | Haas F1 Team 🇺🇸 | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 19 | 11 |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 17 | R | 0.0 | 46 |   | Haas F1 Team 🇺🇸 | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 6 | R |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 18 | R | 0.0 | 5 |   | Renault 🇫🇷 | [Jolyon Palmer 🇬🇧](/f1/drivers/jolyon_palmer) | 15 | 17 |
@@ -71,15 +72,15 @@ collectionId: kevin_magnussen
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 43 |  |  | 43 | 36 | 43 | 43 | 5 |  |  | 43 | 35 |
-| **Total Sum** | 425.000 |  |  | 573.000 | 414.000 | 66.000 | 2289.000 | 193.233 |  |  | 564.000 | 370.000 |
-| **Mean μ (Average)** | 9.884 |  |  | 13.326 | 11.500 | 1.535 | 53.233 | 38.647 |  |  | 13.116 | 10.571 |
+| **Row Count** | 44 |  |  | 44 | 36 | 44 | 44 | 5 |  |  | 44 | 36 |
+| **Total Sum** | 428.000 |  |  | 593.000 | 414.000 | 66.000 | 2297.000 | 193.233 |  |  | 573.000 | 378.000 |
+| **Mean μ (Average)** | 9.727 |  |  | 13.477 | 11.500 | 1.500 | 52.205 | 38.647 |  |  | 13.023 | 10.500 |
 | **Maximum** | 21.000 |  |  | 22.000 | 17.000 | 18.000 | 77.000 | 53.616 |  |  | 21.000 | 22.000 |
 | **75th Percentile** | 15.000 |  |  | 17.000 | 14.000 | 2.000 | 66.000 | 51.555 |  |  | 18.000 | 13.000 |
-| **Median** | 10.000 |  |  | 14.000 | 12.000 |  | 55.000 | 32.031 |  |  | 13.000 | 11.000 |
+| **Median** | 10.000 |  |  | 15.000 | 12.000 |  | 55.000 | 32.031 |  |  | 13.000 | 11.000 |
 | **25th Percentile** | 4.000 |  |  | 8.000 | 9.000 |  | 50.000 | 29.254 |  |  | 9.000 | 6.000 |
 | **Minimum** | 1.000 |  |  | 4.000 | 2.000 |  |  | 26.777 |  |  | 3.000 | 3.000 |
-| **Variance** | 36.893 |  |  | 28.220 | 12.972 | 11.226 | 315.667 | 132.717 |  |  | 26.010 | 21.445 |
-| **Standard Deviation σ** | 6.074 |  |  | 5.312 | 3.602 | 3.350 | 17.767 | 11.520 |  |  | 5.100 | 4.631 |
+| **Variance** | 37.107 |  |  | 28.568 | 12.972 | 11.023 | 353.935 | 132.717 |  |  | 25.795 | 21.028 |
+| **Standard Deviation σ** | 6.092 |  |  | 5.345 | 3.602 | 3.320 | 18.813 | 11.520 |  |  | 5.079 | 4.586 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

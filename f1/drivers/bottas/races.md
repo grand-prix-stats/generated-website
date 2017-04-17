@@ -24,6 +24,7 @@ collectionId: bottas
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 1 | 3 | 15.0 | 57 | +20.397 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 | 2 |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 3 | 6 | 8.0 | 56 | +48.808 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 | 1 |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 3 | 3 | 15.0 | 57 | +11.250 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 | 2 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 11 | R | 0.0 | 6 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 10 | 9 |
@@ -108,15 +109,15 @@ collectionId: bottas
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 80 |  |  | 80 | 73 | 80 | 80 | 34 |  |  | 80 | 68 |
-| **Total Sum** | 804.000 |  |  | 696.000 | 619.000 | 434.000 | 4516.000 | 1278.700 |  |  | 807.000 | 633.000 |
-| **Mean μ (Average)** | 10.050 |  |  | 8.700 | 8.479 | 5.425 | 56.450 | 37.609 |  |  | 10.088 | 9.309 |
+| **Row Count** | 81 |  |  | 81 | 74 | 81 | 81 | 35 |  |  | 81 | 69 |
+| **Total Sum** | 807.000 |  |  | 697.000 | 622.000 | 449.000 | 4573.000 | 1299.097 |  |  | 809.000 | 635.000 |
+| **Mean μ (Average)** | 9.963 |  |  | 8.605 | 8.405 | 5.543 | 56.457 | 37.117 |  |  | 9.988 | 9.203 |
 | **Maximum** | 21.000 |  |  | 20.000 | 17.000 | 30.000 | 78.000 | 59.217 |  |  | 18.000 | 20.000 |
 | **75th Percentile** | 15.000 |  |  | 14.000 | 12.000 | 10.000 | 66.000 | 47.996 |  |  | 15.000 | 13.000 |
-| **Median** | 10.000 |  |  | 7.000 | 8.000 | 4.000 | 56.000 | 42.691 |  |  | 10.000 | 9.000 |
-| **25th Percentile** | 5.000 |  |  | 4.000 | 5.000 |  | 53.000 | 28.032 |  |  | 6.000 | 6.000 |
+| **Median** | 10.000 |  |  | 7.000 | 8.000 | 4.000 | 56.000 | 41.344 |  |  | 9.000 | 9.000 |
+| **25th Percentile** | 5.000 |  |  | 4.000 | 5.000 |  | 53.000 | 25.094 |  |  | 6.000 | 5.000 |
 | **Minimum** | 1.000 |  |  |  | 2.000 |  |  | 8.172 |  |  | 1.000 | 1.000 |
-| **Variance** | 33.073 |  |  | 27.535 | 18.414 | 38.944 | 188.097 | 206.831 |  |  | 25.580 | 21.096 |
-| **Standard Deviation σ** | 5.751 |  |  | 5.247 | 4.291 | 6.241 | 13.715 | 14.382 |  |  | 5.058 | 4.593 |
+| **Variance** | 33.270 |  |  | 27.918 | 18.565 | 39.581 | 185.779 | 209.144 |  |  | 26.062 | 21.553 |
+| **Standard Deviation σ** | 5.768 |  |  | 5.284 | 4.309 | 6.291 | 13.630 | 14.462 |  |  | 5.105 | 4.643 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

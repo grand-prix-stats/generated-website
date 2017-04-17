@@ -48,7 +48,7 @@ var data = {
             "borderWidth": 1,
             "data": [
                 3.0,
-                2.0,
+                3.0,
                 2.0,
                 2.0,
                 1.0,
@@ -60,9 +60,9 @@ var data = {
     ],
     "labels": [
         "Fernando Alonso",
+        "Sebastian Vettel",
         "Felipe Massa",
         "Lewis Hamilton",
-        "Sebastian Vettel",
         "Jenson Button",
         "Michael Schumacher",
         "Nico Rosberg"
@@ -104,9 +104,9 @@ var chart = new Chart("chart", {
 | # | Driver | Times |
 |--|--|--|
 | 1. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
-| 2. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
-| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
-| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
+| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
 | 5. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
 | 6. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
 | 7. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
@@ -115,14 +115,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Times** |
 | **Row Count** | 7 |
-| **Total Sum** | 12.000 |
-| **Mean μ (Average)** | 1.714 |
+| **Total Sum** | 13.000 |
+| **Mean μ (Average)** | 1.857 |
 | **Maximum** | 3.000 |
-| **75th Percentile** | 2.000 |
+| **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.490 |
-| **Standard Deviation σ** | 0.700 |
+| **Variance** | 0.694 |
+| **Standard Deviation σ** | 0.833 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -36,9 +36,11 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -59,6 +61,7 @@ var data = {
                 1.0,
                 1.0,
                 1.0,
+                1.0,
                 1.0
             ],
             "label": "Number Of Fastest Laps"
@@ -72,6 +75,7 @@ var data = {
         "Heikki Kovalainen",
         "Jarno Trulli",
         "Kimi Räikkönen",
+        "Lewis Hamilton",
         "Michael Schumacher",
         "Pedro de la Rosa"
     ]
@@ -118,21 +122,22 @@ var chart = new Chart("chart", {
 | 5. | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 1 |
 | 6. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
 | 7. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
-| 8. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
-| 9. | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 1 |
+| 8. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 9. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1 |
+| 10. | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Fastest Laps** |
-| **Row Count** | 9 |
-| **Total Sum** | 12.000 |
-| **Mean μ (Average)** | 1.333 |
+| **Row Count** | 10 |
+| **Total Sum** | 13.000 |
+| **Mean μ (Average)** | 1.300 |
 | **Maximum** | 3.000 |
 | **75th Percentile** | 1.000 |
 | **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.444 |
-| **Standard Deviation σ** | 0.667 |
+| **Variance** | 0.410 |
+| **Standard Deviation σ** | 0.640 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

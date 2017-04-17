@@ -43,9 +43,11 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -65,13 +67,14 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                146.0,
-                108.0,
+                182.0,
+                116.0,
                 102.0,
                 96.0,
                 77.0,
                 62.0,
                 38.0,
+                13.0,
                 12.0,
                 10.0,
                 6.0,
@@ -93,6 +96,7 @@ var data = {
         "Michael Schumacher",
         "Nico Rosberg",
         "Jenson Button",
+        "Valtteri Bottas",
         "Kimi Räikkönen",
         "Timo Glock",
         "Rubens Barrichello",
@@ -139,35 +143,36 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 146 |
-| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 108 |
+| 1. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 182 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 116 |
 | 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 102 |
 | 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 96 |
 | 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 77 |
 | 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 62 |
 | 7. | [Jenson Button 🇬🇧](/f1/drivers/button) | 38 |
-| 8. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 12 |
-| 9. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 10 |
-| 10. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 6 |
-| 11. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 4 |
-| 12. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 4 |
-| 13. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 4 |
-| 14. | [Paul di Resta 🇬🇧](/f1/drivers/resta) | 4 |
-| 15. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 2 |
-| 16. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 1 |
+| 8. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 13 |
+| 9. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 12 |
+| 10. | [Timo Glock 🇩🇪](/f1/drivers/glock) | 10 |
+| 11. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 6 |
+| 12. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 4 |
+| 13. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 4 |
+| 14. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 4 |
+| 15. | [Paul di Resta 🇬🇧](/f1/drivers/resta) | 4 |
+| 16. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 2 |
+| 17. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Laps Led** |
-| **Row Count** | 16 |
-| **Total Sum** | 676.000 |
-| **Mean μ (Average)** | 42.250 |
-| **Maximum** | 146.000 |
-| **75th Percentile** | 96.000 |
+| **Row Count** | 17 |
+| **Total Sum** | 733.000 |
+| **Mean μ (Average)** | 43.118 |
+| **Maximum** | 182.000 |
+| **75th Percentile** | 77.000 |
 | **Median** | 12.000 |
 | **25th Percentile** | 4.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 2225.312 |
-| **Standard Deviation σ** | 47.173 |
+| **Variance** | 2725.280 |
+| **Standard Deviation σ** | 52.204 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

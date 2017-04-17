@@ -106,7 +106,7 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                226.0,
+                227.0,
                 178.0,
                 114.0,
                 65.0,
@@ -236,13 +236,13 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Wins | % Of Total Participations |
 |--|--|--|--|
-| 1. | Ferrari 🇮🇹 | 226 | 10.74% |
-| 2. | McLaren 🇬🇧 | 178 | 11.20% |
-| 3. | Williams 🇬🇧 | 114 | 8.49% |
-| 4. | Mercedes 🇩🇪 | 65 | 20.44% |
-| 5. | Red Bull 🇦🇹 | 52 | 11.45% |
+| 1. | Ferrari 🇮🇹 | 227 | 10.78% |
+| 2. | McLaren 🇬🇧 | 178 | 11.19% |
+| 3. | Williams 🇬🇧 | 114 | 8.48% |
+| 4. | Mercedes 🇩🇪 | 65 | 20.31% |
+| 5. | Red Bull 🇦🇹 | 52 | 11.40% |
 | 6. | Team Lotus 🇬🇧 | 45 | 5.17% |
-| 7. | Renault 🇫🇷 | 35 | 5.53% |
+| 7. | Renault 🇫🇷 | 35 | 5.51% |
 | 8. | Benetton 🇮🇹 | 27 | 5.19% |
 | 9. | Brabham 🇬🇧 | 23 | 3.47% |
 | 10. | Tyrrell 🇬🇧 | 23 | 2.61% |
@@ -285,14 +285,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Wins** | **% Of Total Participations** |
 | **Row Count** | 44 | 44 |
-| **Total Sum** | 961.000 | 253.100 |
-| **Mean μ (Average)** | 21.841 | 5.752 |
-| **Maximum** | 226.000 | 23.530 |
+| **Total Sum** | 962.000 | 252.920 |
+| **Mean μ (Average)** | 21.864 | 5.748 |
+| **Maximum** | 227.000 | 23.530 |
 | **75th Percentile** | 22.000 | 9.520 |
 | **Median** | 5.000 | 3.470 |
 | **25th Percentile** | 2.000 | 1.490 |
 | **Minimum** | 1.000 | 0.240 |
-| **Variance** | 2011.134 | 34.732 |
-| **Standard Deviation σ** | 44.846 | 5.893 |
+| **Variance** | 2020.436 | 34.638 |
+| **Standard Deviation σ** | 44.949 | 5.885 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

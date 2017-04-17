@@ -260,13 +260,13 @@ var data = {
             "data": [
                 226.0,
                 195.0,
-                185.0,
+                186.0,
                 180.0,
-                175.0,
+                176.0,
                 172.0,
-                157.0,
+                158.0,
                 146.0,
-                144.0,
+                145.0,
                 144.0,
                 138.0,
                 132.0,
@@ -300,10 +300,10 @@ var data = {
                 68.0,
                 68.0,
                 67.0,
+                67.0,
                 66.0,
                 65.0,
-                65.0,
-                63.0,
+                64.0,
                 61.0,
                 60.0,
                 58.0,
@@ -318,7 +318,7 @@ var data = {
                 52.0,
                 51.0,
                 50.0,
-                48.0,
+                49.0,
                 48.0,
                 48.0,
                 48.0,
@@ -332,7 +332,7 @@ var data = {
                 43.0,
                 42.0,
                 41.0,
-                40.0,
+                41.0,
                 40.0,
                 39.0,
                 38.0,
@@ -391,8 +391,8 @@ var data = {
         "Rubens Barrichello",
         "Lewis Hamilton",
         "David Coulthard",
-        "Nico Rosberg",
         "Sebastian Vettel",
+        "Nico Rosberg",
         "Alain Prost",
         "Mark Webber",
         "Nelson Piquet",
@@ -426,8 +426,8 @@ var data = {
         "René Arnoux",
         "Jack Brabham",
         "Nico Hülkenberg",
-        "Olivier Panis",
         "Sergio Pérez",
+        "Olivier Panis",
         "Daniel Ricciardo",
         "Jackie Stewart",
         "Ronnie Peterson",
@@ -443,10 +443,10 @@ var data = {
         "Patrick Tambay",
         "Robert Kubica",
         "John Surtees",
+        "Valtteri Bottas",
         "Jochen Mass",
         "Mika Salo",
         "Patrick Depailler",
-        "Valtteri Bottas",
         "Jim Clark",
         "James Hunt",
         "Jo Siffert",
@@ -457,8 +457,8 @@ var data = {
         "Juan Fangio",
         "Chris Amon",
         "Dan Gurney",
-        "Didier Pironi",
         "Romain Grosjean",
+        "Didier Pironi",
         "Maurice Trintignant",
         "Stefan Johansson",
         "Marc Surer",
@@ -541,15 +541,15 @@ var chart = new Chart("chart", {
 | # | Driver | Top 10 Finishes | % Of Total Participations |
 |--|--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 226 | 73.38% |
-| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 195 | 70.65% |
-| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 185 | 72.55% |
+| 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 195 | 70.40% |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 186 | 72.66% |
 | 4. | [Jenson Button 🇬🇧](/f1/drivers/button) | 180 | 58.44% |
-| 5. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 175 | 68.90% |
+| 5. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 176 | 69.02% |
 | 6. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 172 | 52.76% |
-| 7. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 157 | 82.63% |
+| 7. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 158 | 82.72% |
 | 8. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 146 | 59.11% |
-| 9. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 144 | 69.90% |
-| 10. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 144 | 79.56% |
+| 9. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 145 | 79.67% |
+| 10. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 144 | 69.90% |
 | 11. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 138 | 68.32% |
 | 12. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 132 | 60.83% |
 | 13. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 115 | 55.56% |
@@ -582,10 +582,10 @@ var chart = new Chart("chart", {
 | 40. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 68 | 60.18% |
 | 41. | [René Arnoux 🇫🇷](/f1/drivers/arnoux) | 68 | 41.46% |
 | 42. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 67 | 51.94% |
-| 43. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 66 | 55.46% |
-| 44. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 65 | 41.14% |
-| 45. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 65 | 55.56% |
-| 46. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 63 | 56.76% |
+| 43. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 67 | 55.83% |
+| 44. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 66 | 55.93% |
+| 45. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 65 | 41.14% |
+| 46. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 64 | 57.14% |
 | 47. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 61 | 61.00% |
 | 48. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 60 | 48.78% |
 | 49. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 58 | 56.31% |
@@ -600,10 +600,10 @@ var chart = new Chart("chart", {
 | 58. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 52 | 42.62% |
 | 59. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 51 | 67.11% |
 | 60. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 50 | 44.64% |
-| 61. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 48 | 42.11% |
-| 62. | [Mika Salo 🇫🇮](/f1/drivers/salo) | 48 | 43.24% |
-| 63. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 48 | 50.53% |
-| 64. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 48 | 60.00% |
+| 61. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 49 | 60.49% |
+| 62. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 48 | 42.11% |
+| 63. | [Mika Salo 🇫🇮](/f1/drivers/salo) | 48 | 43.24% |
+| 64. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 48 | 50.53% |
 | 65. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 46 | 63.89% |
 | 66. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 45 | 48.39% |
 | 67. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 45 | 45.00% |
@@ -614,8 +614,8 @@ var chart = new Chart("chart", {
 | 72. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 43 | 74.14% |
 | 73. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 42 | 39.62% |
 | 74. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 41 | 47.13% |
-| 75. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 40 | 55.56% |
-| 76. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 40 | 37.74% |
+| 75. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 41 | 38.32% |
+| 76. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 40 | 55.56% |
 | 77. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 39 | 44.83% |
 | 78. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 38 | 36.89% |
 | 79. | [Marc Surer 🇨🇭](/f1/drivers/surer) | 37 | 42.05% |
@@ -630,7 +630,7 @@ var chart = new Chart("chart", {
 | 88. | [Jonathan Palmer 🇬🇧](/f1/drivers/palmer) | 30 | 34.09% |
 | 89. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 30 | 57.69% |
 | 90. | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 29 | 39.73% |
-| 91. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 29 | 69.05% |
+| 91. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 29 | 67.44% |
 | 92. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 28 | 59.57% |
 | 93. | [Harry Schell 🇺🇸](/f1/drivers/schell) | 28 | 43.75% |
 | 94. | [Kamui Kobayashi 🇯🇵](/f1/drivers/kobayashi) | 28 | 36.84% |
@@ -641,7 +641,7 @@ var chart = new Chart("chart", {
 | 99. | [Paul di Resta 🇬🇧](/f1/drivers/resta) | 26 | 44.83% |
 | 100. | [Pedro Diniz 🇧🇷](/f1/drivers/diniz) | 26 | 26.26% |
 | 101. | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 26 | 22.61% |
-| 102. | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 25 | 40.98% |
+| 102. | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 25 | 40.32% |
 | 103. | [Jean Behra 🇫🇷](/f1/drivers/behra) | 25 | 43.86% |
 | 104. | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 25 | 64.10% |
 | 105. | [Mark Blundell 🇬🇧](/f1/drivers/blundell) | 25 | 39.68% |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Top 10 Finishes** | **% Of Total Participations** |
 | **Row Count** | 120 | 120 |
-| **Total Sum** | 7532.000 | 5792.790 |
-| **Mean μ (Average)** | 62.767 | 48.273 |
-| **Maximum** | 226.000 | 82.630 |
+| **Total Sum** | 7541.000 | 5792.890 |
+| **Mean μ (Average)** | 62.842 | 48.274 |
+| **Maximum** | 226.000 | 82.720 |
 | **75th Percentile** | 79.000 | 58.330 |
 | **Median** | 50.000 | 48.390 |
-| **25th Percentile** | 29.000 | 40.370 |
+| **25th Percentile** | 29.000 | 40.320 |
 | **Minimum** | 20.000 | 18.690 |
-| **Variance** | 1860.612 | 185.799 |
-| **Standard Deviation σ** | 43.135 | 13.631 |
+| **Variance** | 1866.983 | 185.595 |
+| **Standard Deviation σ** | 43.209 | 13.623 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

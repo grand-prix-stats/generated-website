@@ -40,9 +40,11 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -60,8 +62,8 @@ var data = {
             "borderWidth": 1,
             "data": [
                 8.0,
-                5.0,
-                3.0,
+                6.0,
+                4.0,
                 3.0,
                 3.0,
                 3.0,
@@ -69,6 +71,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
+                1.0,
                 1.0,
                 1.0,
                 1.0
@@ -79,17 +82,18 @@ var data = {
     "labels": [
         "Kimi Räikkönen",
         "Lewis Hamilton",
+        "Sebastian Vettel",
         "Felipe Massa",
         "Fernando Alonso",
         "Nico Rosberg",
-        "Sebastian Vettel",
         "Jarno Trulli",
         "Jenson Button",
         "Michael Schumacher",
         "Romain Grosjean",
         "Robert Kubica",
         "Rubens Barrichello",
-        "Sergio Pérez"
+        "Sergio Pérez",
+        "Valtteri Bottas"
     ]
 };
 var options = {
@@ -128,11 +132,11 @@ var chart = new Chart("chart", {
 | # | Driver | Times |
 |--|--|--|
 | 1. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 8 |
-| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
-| 3. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
-| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
-| 5. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 3 |
-| 6. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 3. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
+| 4. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
+| 5. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 3 |
+| 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 3 |
 | 7. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
 | 8. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
 | 9. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 2 |
@@ -140,19 +144,20 @@ var chart = new Chart("chart", {
 | 11. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
 | 12. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
 | 13. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
+| 14. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Times** |
-| **Row Count** | 13 |
-| **Total Sum** | 36.000 |
-| **Mean μ (Average)** | 2.769 |
+| **Row Count** | 14 |
+| **Total Sum** | 39.000 |
+| **Mean μ (Average)** | 2.786 |
 | **Maximum** | 8.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
-| **25th Percentile** | 2.000 |
+| **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 3.408 |
-| **Standard Deviation σ** | 1.846 |
+| **Variance** | 3.883 |
+| **Standard Deviation σ** | 1.970 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

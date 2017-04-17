@@ -24,6 +24,7 @@ collectionId: alonso
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 15 | 14 | 0.0 | 54 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 17 | R |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 13 | R | 0.0 | 33 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 15 | R |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 12 | R | 0.0 | 50 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 18 | 13 |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 9 | 10 | 1.0 | 55 | +59.896 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 12 | R |
@@ -304,15 +305,15 @@ collectionId: alonso
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 276 |  |  | 276 | 228 | 276 | 276 | 137 |  |  | 276 | 216 |
-| **Total Sum** | 2689.000 |  |  | 2181.000 | 1217.000 | 1832.000 | 15046.000 | 3269.080 |  |  | 2710.000 | 1699.000 |
-| **Mean μ (Average)** | 9.743 |  |  | 7.902 | 5.338 | 6.638 | 54.514 | 23.862 |  |  | 9.819 | 7.866 |
+| **Row Count** | 277 |  |  | 277 | 229 | 277 | 277 | 137 |  |  | 277 | 216 |
+| **Total Sum** | 2692.000 |  |  | 2196.000 | 1231.000 | 1832.000 | 15100.000 | 3269.080 |  |  | 2727.000 | 1699.000 |
+| **Mean μ (Average)** | 9.718 |  |  | 7.928 | 5.376 | 6.614 | 54.513 | 23.862 |  |  | 9.845 | 7.866 |
 | **Maximum** | 21.000 |  |  | 24.000 | 18.000 | 25.000 | 78.000 | 59.946 |  |  | 24.000 | 18.000 |
 | **75th Percentile** | 14.000 |  |  | 11.000 | 7.000 | 10.000 | 66.000 | 35.992 |  |  | 14.000 | 11.000 |
 | **Median** | 10.000 |  |  | 6.000 | 4.000 | 6.000 | 57.000 | 20.594 |  |  | 9.000 | 7.000 |
 | **25th Percentile** | 5.000 |  |  | 4.000 | 2.000 |  | 52.000 | 9.806 |  |  | 5.000 | 4.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.852 |  |  |  | 1.000 |
-| **Variance** | 28.916 |  |  | 31.588 | 16.496 | 44.709 | 272.163 | 276.659 |  |  | 35.743 | 17.792 |
-| **Standard Deviation σ** | 5.377 |  |  | 5.620 | 4.061 | 6.687 | 16.497 | 16.633 |  |  | 5.979 | 4.218 |
+| **Variance** | 28.975 |  |  | 31.655 | 16.750 | 44.706 | 271.181 | 276.659 |  |  | 35.799 | 17.792 |
+| **Standard Deviation σ** | 5.383 |  |  | 5.626 | 4.093 | 6.686 | 16.468 | 16.633 |  |  | 5.983 | 4.218 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

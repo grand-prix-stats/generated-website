@@ -259,10 +259,10 @@ var data = {
             "borderWidth": 1,
             "data": [
                 155.0,
-                106.0,
+                107.0,
                 106.0,
                 97.0,
-                88.0,
+                89.0,
                 84.0,
                 80.0,
                 68.0,
@@ -328,7 +328,7 @@ var data = {
                 11.0,
                 11.0,
                 11.0,
-                10.0,
+                11.0,
                 10.0,
                 10.0,
                 10.0,
@@ -384,8 +384,8 @@ var data = {
     ],
     "labels": [
         "Michael Schumacher",
-        "Alain Prost",
         "Lewis Hamilton",
+        "Alain Prost",
         "Fernando Alonso",
         "Sebastian Vettel",
         "Kimi Räikkönen",
@@ -453,10 +453,10 @@ var data = {
         "Chris Amon",
         "Jarno Trulli",
         "Patrick Tambay",
+        "Valtteri Bottas",
         "Maurice Trintignant",
         "Romain Grosjean",
         "Tony Brooks",
-        "Valtteri Bottas",
         "Alessandro Nannini",
         "Eddie Cheever",
         "Elio de Angelis",
@@ -541,11 +541,11 @@ var chart = new Chart("chart", {
 | # | Driver | Podiums | % Of Total Participations |
 |--|--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 155 | 50.32% |
-| 2. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 106 | 52.48% |
-| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 106 | 55.79% |
-| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 97 | 35.14% |
-| 5. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 88 | 48.62% |
-| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 84 | 32.94% |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 107 | 56.02% |
+| 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 106 | 52.48% |
+| 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 97 | 35.02% |
+| 5. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 89 | 48.90% |
+| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 84 | 32.81% |
 | 7. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 80 | 49.38% |
 | 8. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 68 | 20.86% |
 | 9. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 62 | 25.10% |
@@ -560,7 +560,7 @@ var chart = new Chart("chart", {
 | 18. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 43 | 43.00% |
 | 19. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 42 | 34.43% |
 | 20. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 42 | 19.35% |
-| 21. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 41 | 16.14% |
+| 21. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 41 | 16.08% |
 | 22. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 37 | 14.40% |
 | 23. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 36 | 20.11% |
 | 24. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 35 | 23.49% |
@@ -591,7 +591,7 @@ var chart = new Chart("chart", {
 | 49. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 19 | 8.23% |
 | 50. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 19 | 14.73% |
 | 51. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 19 | 20.00% |
-| 52. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 18 | 16.22% |
+| 52. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 18 | 16.07% |
 | 53. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 18 | 11.32% |
 | 54. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 18 | 37.50% |
 | 55. | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 17 | 47.22% |
@@ -610,10 +610,10 @@ var chart = new Chart("chart", {
 | 68. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 11 | 10.38% |
 | 69. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 11 | 4.30% |
 | 70. | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 11 | 9.02% |
-| 71. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 10 | 11.49% |
-| 72. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 10 | 9.43% |
-| 73. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 10 | 24.39% |
-| 74. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 10 | 12.50% |
+| 71. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 11 | 13.58% |
+| 72. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 10 | 11.49% |
+| 73. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 10 | 9.35% |
+| 74. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 10 | 24.39% |
 | 75. | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 9 | 11.69% |
 | 76. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 9 | 6.29% |
 | 77. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 9 | 8.18% |
@@ -624,12 +624,12 @@ var chart = new Chart("chart", {
 | 82. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 8 | 7.02% |
 | 83. | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 8 | 18.18% |
 | 84. | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 8 | 22.86% |
-| 85. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 8 | 19.05% |
+| 85. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 8 | 18.60% |
 | 86. | [Peter Revson 🇺🇸](/f1/drivers/revson) | 8 | 25.81% |
 | 87. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 7 | 4.24% |
 | 88. | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 7 | 26.92% |
 | 89. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 7 | 12.96% |
-| 90. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 7 | 5.98% |
+| 90. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 7 | 5.93% |
 | 91. | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 6 | 8.22% |
 | 92. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 6 | 6.00% |
 | 93. | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 6 | 75.00% |
@@ -654,7 +654,7 @@ var chart = new Chart("chart", {
 | 112. | [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 3 | 11.11% |
 | 113. | [Bill Vukovich 🇺🇸](/f1/drivers/vukovich) | 2 | 40.00% |
 | 114. | [Cesare Perdisa 🇮🇹](/f1/drivers/perdisa) | 2 | 22.22% |
-| 115. | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 2 | 3.28% |
+| 115. | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 2 | 3.23% |
 | 116. | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 2 | 11.76% |
 | 117. | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 2 | 2.47% |
 | 118. | [Harry Schell 🇺🇸](/f1/drivers/schell) | 2 | 3.12% |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Podiums** | **% Of Total Participations** |
 | **Row Count** | 120 | 120 |
-| **Total Sum** | 2788.000 | 2526.570 |
-| **Mean μ (Average)** | 23.233 | 21.055 |
+| **Total Sum** | 2791.000 | 2527.070 |
+| **Mean μ (Average)** | 23.258 | 21.059 |
 | **Maximum** | 155.000 | 75.000 |
 | **75th Percentile** | 32.000 | 29.200 |
 | **Median** | 14.000 | 19.120 |
 | **25th Percentile** | 7.000 | 10.380 |
 | **Minimum** | 2.000 | 2.100 |
-| **Variance** | 657.196 | 210.223 |
-| **Standard Deviation σ** | 25.636 | 14.499 |
+| **Variance** | 659.458 | 210.365 |
+| **Standard Deviation σ** | 25.680 | 14.504 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})
