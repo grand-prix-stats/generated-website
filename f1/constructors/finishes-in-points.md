@@ -22,8 +22,8 @@ var data = {
                 "09630C",
                 "73C2FB",
                 "274B72",
-                "0736A5",
                 "F6AFC1",
+                "0736A5",
                 "243F73",
                 "144D44",
                 "0F5DBB",
@@ -124,8 +124,8 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "A17A5D",
                 "C81625",
+                "A17A5D",
                 "444444",
                 "444444",
                 "444444",
@@ -218,22 +218,22 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                1179.0,
+                1181.0,
                 838.0,
-                636.0,
-                294.0,
-                256.0,
-                243.0,
+                637.0,
+                295.0,
+                257.0,
+                245.0,
                 241.0,
                 212.0,
                 190.0,
                 157.0,
-                155.0,
+                157.0,
                 154.0,
                 135.0,
                 115.0,
                 110.0,
-                109.0,
+                110.0,
                 87.0,
                 87.0,
                 87.0,
@@ -332,8 +332,8 @@ var data = {
         "Team Lotus",
         "Benetton",
         "Tyrrell",
-        "Sauber",
         "Force India",
+        "Sauber",
         "Brabham",
         "BRM",
         "Ligier",
@@ -460,22 +460,22 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Finished In Points | % Of Total Participations |
 |--|--|--|--|
-| 1. | Ferrari 🇮🇹 | 1179 | 55.98% |
-| 2. | McLaren 🇬🇧 | 838 | 52.67% |
-| 3. | Williams 🇬🇧 | 636 | 47.29% |
-| 4. | Red Bull 🇦🇹 | 294 | 64.47% |
-| 5. | Renault 🇫🇷 | 256 | 40.31% |
-| 6. | Mercedes 🇩🇪 | 243 | 75.94% |
+| 1. | Ferrari 🇮🇹 | 1181 | 56.02% |
+| 2. | McLaren 🇬🇧 | 838 | 52.61% |
+| 3. | Williams 🇬🇧 | 637 | 47.29% |
+| 4. | Red Bull 🇦🇹 | 295 | 64.41% |
+| 5. | Renault 🇫🇷 | 257 | 40.35% |
+| 6. | Mercedes 🇩🇪 | 245 | 76.09% |
 | 7. | Team Lotus 🇬🇧 | 241 | 27.67% |
 | 8. | Benetton 🇮🇹 | 212 | 40.77% |
 | 9. | Tyrrell 🇬🇧 | 190 | 21.57% |
-| 10. | Sauber 🇨🇭 | 157 | 22.05% |
-| 11. | Force India 🇮🇳 | 155 | 44.54% |
+| 10. | Force India 🇮🇳 | 157 | 44.86% |
+| 11. | Sauber 🇨🇭 | 157 | 21.99% |
 | 12. | Brabham 🇬🇧 | 154 | 23.26% |
 | 13. | BRM 🇬🇧 | 135 | 24.02% |
 | 14. | Ligier 🇫🇷 | 115 | 18.82% |
 | 15. | Jordan 🇮🇪 | 110 | 22.00% |
-| 16. | Toro Rosso 🇮🇹 | 109 | 26.08% |
+| 16. | Toro Rosso 🇮🇹 | 110 | 26.19% |
 | 17. | Cooper-Climax 🇬🇧 | 87 | 32.46% |
 | 18. | Maserati 🇮🇹 | 87 | 19.95% |
 | 19. | Toyota 🇯🇵 | 87 | 31.07% |
@@ -522,7 +522,7 @@ var chart = new Chart("chart", {
 | 60. | Brabham-Alfa Romeo 🇬🇧 | 8 | 13.56% |
 | 61. | Cooper-BRM 🇬🇧 | 7 | 33.33% |
 | 62. | Dallara 🇮🇹 | 7 | 4.86% |
-| 63. | Haas F1 Team 🇺🇸 | 7 | 14.58% |
+| 63. | Haas F1 Team 🇺🇸 | 7 | 14.00% |
 | 64. | Penske 🇺🇸 | 7 | 15.22% |
 | 65. | Brabham-BRM 🇬🇧 | 6 | 14.63% |
 | 66. | Connaught 🇬🇧 | 6 | 11.11% |
@@ -565,14 +565,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Finished In Points** | **% Of Total Participations** |
 | **Row Count** | 100 | 100 |
-| **Total Sum** | 6508.000 | 2203.030 |
-| **Mean μ (Average)** | 65.080 | 22.030 |
-| **Maximum** | 1179.000 | 91.180 |
+| **Total Sum** | 6518.000 | 2202.930 |
+| **Mean μ (Average)** | 65.180 | 22.029 |
+| **Maximum** | 1181.000 | 91.180 |
 | **75th Percentile** | 50.000 | 27.670 |
 | **Median** | 13.000 | 18.820 |
 | **25th Percentile** | 3.000 | 9.700 |
 | **Minimum** | 1.000 | 0.750 |
-| **Variance** | 26188.634 | 309.400 |
-| **Standard Deviation σ** | 161.829 | 17.590 |
+| **Variance** | 26264.748 | 309.760 |
+| **Standard Deviation σ** | 162.064 | 17.600 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

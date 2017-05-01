@@ -218,22 +218,22 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                7663.77,
+                7696.77,
                 5284.5,
-                3567.5,
-                3492.0,
-                3288.14,
-                1328.0,
+                3577.5,
+                3494.0,
+                3325.14,
+                1332.0,
                 995.0,
                 861.5,
-                817.0,
+                831.0,
                 711.0,
                 706.0,
                 631.0,
                 537.5,
                 504.0,
                 388.0,
-                341.0,
+                342.0,
                 336.5,
                 313.14,
                 308.0,
@@ -460,22 +460,22 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Points |
 |--|--|--|
-| 1. | Ferrari 🇮🇹 | 7663.77 |
+| 1. | Ferrari 🇮🇹 | 7696.77 |
 | 2. | McLaren 🇬🇧 | 5284.5 |
-| 3. | Red Bull 🇦🇹 | 3567.5 |
-| 4. | Williams 🇬🇧 | 3492.0 |
-| 5. | Mercedes 🇩🇪 | 3288.14 |
-| 6. | Renault 🇫🇷 | 1328.0 |
+| 3. | Red Bull 🇦🇹 | 3577.5 |
+| 4. | Williams 🇬🇧 | 3494.0 |
+| 5. | Mercedes 🇩🇪 | 3325.14 |
+| 6. | Renault 🇫🇷 | 1332.0 |
 | 7. | Team Lotus 🇬🇧 | 995.0 |
 | 8. | Benetton 🇮🇹 | 861.5 |
-| 9. | Force India 🇮🇳 | 817.0 |
+| 9. | Force India 🇮🇳 | 831.0 |
 | 10. | Tyrrell 🇬🇧 | 711.0 |
 | 11. | Lotus F1 🇬🇧 | 706.0 |
 | 12. | Brabham 🇬🇧 | 631.0 |
 | 13. | BRM 🇬🇧 | 537.5 |
 | 14. | Sauber 🇨🇭 | 504.0 |
 | 15. | Ligier 🇫🇷 | 388.0 |
-| 16. | Toro Rosso 🇮🇹 | 341.0 |
+| 16. | Toro Rosso 🇮🇹 | 342.0 |
 | 17. | Cooper-Climax 🇬🇧 | 336.5 |
 | 18. | Maserati 🇮🇹 | 313.14 |
 | 19. | BMW Sauber 🇩🇪 | 308.0 |
@@ -565,14 +565,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Points** |
 | **Row Count** | 100 |
-| **Total Sum** | 36357.550 |
-| **Mean μ (Average)** | 363.576 |
-| **Maximum** | 7663.770 |
+| **Total Sum** | 36458.550 |
+| **Mean μ (Average)** | 364.586 |
+| **Maximum** | 7696.770 |
 | **75th Percentile** | 209.000 |
 | **Median** | 37.000 |
 | **25th Percentile** | 8.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1164952.423 |
-| **Standard Deviation σ** | 1079.330 |
+| **Variance** | 1172931.042 |
+| **Standard Deviation σ** | 1083.019 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

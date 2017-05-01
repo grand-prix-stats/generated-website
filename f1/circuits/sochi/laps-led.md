@@ -29,23 +29,31 @@ var data = {
         {
             "backgroundColor": [
                 "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
+                "#1D181E",
                 "#1D181E",
                 "#1D181E"
             ],
             "borderWidth": 1,
             "data": [
                 100.0,
-                59.0
+                59.0,
+                44.0,
+                8.0
             ],
             "label": "Number Of Laps Led"
         }
     ],
     "labels": [
         "Lewis Hamilton",
-        "Nico Rosberg"
+        "Nico Rosberg",
+        "Valtteri Bottas",
+        "Sebastian Vettel"
     ]
 };
 var options = {
@@ -85,19 +93,21 @@ var chart = new Chart("chart", {
 |--|--|--|
 | 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 100 |
 | 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 59 |
+| 3. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 44 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 8 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Laps Led** |
-| **Row Count** | 2 |
-| **Total Sum** | 159.000 |
-| **Mean μ (Average)** | 79.500 |
+| **Row Count** | 4 |
+| **Total Sum** | 211.000 |
+| **Mean μ (Average)** | 52.750 |
 | **Maximum** | 100.000 |
 | **75th Percentile** | 100.000 |
-| **Median** | 100.000 |
-| **25th Percentile** | 59.000 |
-| **Minimum** | 59.000 |
-| **Variance** | 420.250 |
-| **Standard Deviation σ** | 20.500 |
+| **Median** | 59.000 |
+| **25th Percentile** | 44.000 |
+| **Minimum** | 8.000 |
+| **Variance** | 1087.688 |
+| **Standard Deviation σ** | 32.980 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -115,19 +115,19 @@ collectionId: moss
 | 1960 | 2 | 1960 Monaco Grand Prix 🇲🇨 | 1960-05-29 | 1 | 1 | 8.0 | 100 | 2:53:45.5 | Team Lotus 🇬🇧 | [Alan Stacey 🇬🇧](/f1/drivers/stacey) | 13 | R |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 13 | 1 |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 13 | 1 |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 3 |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 13 | 1 |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 3 |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 13 | 1 |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 3 |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 3 |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 3 |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 3 |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 9 | R |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 8 | 3 |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 9 | R |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 9 | R |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 9 | R |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 9 | R |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 10 | R |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 10 | R |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 9 | R |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 10 | R |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 1 | R | 0.0 | 40 |   | Cooper-Climax 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 10 | R |
 | 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 8 | 3 | 0.0 | 80 | +36.9 | Cooper-Climax 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 10 | R |
 | 1959 | 9 | 1959 United States Grand Prix 🇺🇸 | 1959-12-12 | 1 | R | 0.0 | 5 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 10 | 1 |
 | 1959 | 9 | 1959 United States Grand Prix 🇺🇸 | 1959-12-12 | 1 | R | 0.0 | 5 |   | Cooper-Climax 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 5 | 2 |

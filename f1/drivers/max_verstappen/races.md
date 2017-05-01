@@ -24,6 +24,7 @@ collectionId: max_verstappen
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 7 | 5 | 10.0 | 52 | +1:00.416 | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 5 | R |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 6 | R | 0.0 | 11 |   | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 4 | 5 |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 16 | 3 | 15.0 | 56 | +45.192 | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 5 | 4 |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 5 | 5 | 10.0 | 57 | +28.827 | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 0 | R |
@@ -71,15 +72,15 @@ collectionId: max_verstappen
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 43 |  |  | 43 | 35 | 43 | 43 | 18 |  |  | 43 | 34 |
-| **Total Sum** | 427.000 |  |  | 349.000 | 243.000 | 278.000 | 2325.000 | 518.591 |  |  | 323.000 | 230.000 |
-| **Mean μ (Average)** | 9.930 |  |  | 8.116 | 6.943 | 6.465 | 54.070 | 28.811 |  |  | 7.512 | 6.765 |
+| **Row Count** | 44 |  |  | 44 | 36 | 44 | 44 | 18 |  |  | 44 | 34 |
+| **Total Sum** | 431.000 |  |  | 356.000 | 248.000 | 288.000 | 2377.000 | 518.591 |  |  | 328.000 | 230.000 |
+| **Mean μ (Average)** | 9.795 |  |  | 8.091 | 6.889 | 6.545 | 54.023 | 28.811 |  |  | 7.455 | 6.765 |
 | **Maximum** | 21.000 |  |  | 20.000 | 17.000 | 25.000 | 71.000 | 56.076 |  |  | 20.000 | 13.000 |
 | **75th Percentile** | 15.000 |  |  | 10.000 | 9.000 | 12.000 | 67.000 | 48.659 |  |  | 11.000 | 9.000 |
 | **Median** | 10.000 |  |  | 8.000 | 7.000 | 4.000 | 56.000 | 28.827 |  |  | 6.000 | 7.000 |
 | **25th Percentile** | 4.000 |  |  | 4.000 | 4.000 |  | 52.000 | 8.250 |  |  | 4.000 | 4.000 |
 | **Minimum** | 1.000 |  |  |  | 1.000 |  | 3.000 | 1.685 |  |  |  | 1.000 |
-| **Variance** | 36.158 |  |  | 22.754 | 16.454 | 46.807 | 241.181 | 376.328 |  |  | 25.134 | 12.356 |
-| **Standard Deviation σ** | 6.013 |  |  | 4.770 | 4.056 | 6.842 | 15.530 | 19.399 |  |  | 5.013 | 3.515 |
+| **Variance** | 36.117 |  |  | 22.264 | 16.099 | 46.021 | 235.795 | 376.328 |  |  | 24.702 | 12.356 |
+| **Standard Deviation σ** | 6.010 |  |  | 4.719 | 4.012 | 6.784 | 15.356 | 19.399 |  |  | 4.970 | 3.515 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

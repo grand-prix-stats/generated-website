@@ -24,6 +24,7 @@ collectionId: stroll
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 11 | 11 | 0.0 | 51 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 | 9 |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 12 | R | 0.0 | 12 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 8 | 6 |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 10 | R | 0.0 | 0 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 | 14 |
 | 2017 | 1 | 2017 Australian Grand Prix 🇦🇺 | 2017-03-26 | 20 | R | 0.0 | 40 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 7 | 6 |
@@ -31,15 +32,15 @@ collectionId: stroll
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 3 |
-| **Total Sum** | 6.000 |  |  | 42.000 |  |  | 52.000 |  |  |  | 21.000 | 26.000 |
-| **Mean μ (Average)** | 2.000 |  |  | 14.000 |  |  | 17.333 |  |  |  | 7.000 | 8.667 |
-| **Maximum** | 3.000 |  |  | 20.000 |  |  | 40.000 |  |  |  | 8.000 | 14.000 |
-| **75th Percentile** | 3.000 |  |  | 20.000 |  |  | 40.000 |  |  |  | 8.000 | 14.000 |
-| **Median** | 2.000 |  |  | 12.000 |  |  | 12.000 |  |  |  | 7.000 | 6.000 |
-| **25th Percentile** | 1.000 |  |  | 10.000 |  |  |  |  |  |  | 6.000 | 6.000 |
-| **Minimum** | 1.000 |  |  | 10.000 |  |  |  |  |  |  | 6.000 | 6.000 |
-| **Variance** | 0.667 |  |  | 18.667 |  |  | 280.889 |  |  |  | 0.667 | 14.222 |
-| **Standard Deviation σ** | 0.816 |  |  | 4.320 |  |  | 16.760 |  |  |  | 0.816 | 3.771 |
+| **Row Count** | 4 |  |  | 4 | 1 | 4 | 4 |  |  |  | 4 | 4 |
+| **Total Sum** | 10.000 |  |  | 53.000 | 11.000 |  | 103.000 |  |  |  | 27.000 | 35.000 |
+| **Mean μ (Average)** | 2.500 |  |  | 13.250 | 11.000 |  | 25.750 |  |  |  | 6.750 | 8.750 |
+| **Maximum** | 4.000 |  |  | 20.000 | 11.000 |  | 51.000 |  |  |  | 8.000 | 14.000 |
+| **75th Percentile** | 4.000 |  |  | 20.000 | 11.000 |  | 51.000 |  |  |  | 8.000 | 14.000 |
+| **Median** | 3.000 |  |  | 12.000 | 11.000 |  | 40.000 |  |  |  | 7.000 | 9.000 |
+| **25th Percentile** | 2.000 |  |  | 11.000 | 11.000 |  | 12.000 |  |  |  | 6.000 | 6.000 |
+| **Minimum** | 1.000 |  |  | 10.000 | 11.000 |  |  |  |  |  | 6.000 | 6.000 |
+| **Variance** | 1.250 |  |  | 15.688 |  |  | 423.188 |  |  |  | 0.688 | 10.688 |
+| **Standard Deviation σ** | 1.118 |  |  | 3.961 |  |  | 20.572 |  |  |  | 0.829 | 3.269 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

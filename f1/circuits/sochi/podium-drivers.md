@@ -47,9 +47,9 @@ var data = {
             "data": [
                 3.0,
                 2.0,
-                1.0,
-                1.0,
-                1.0,
+                2.0,
+                2.0,
+                2.0,
                 1.0
             ],
             "label": "Number Of Podiums"
@@ -57,11 +57,11 @@ var data = {
     ],
     "labels": [
         "Lewis Hamilton",
-        "Nico Rosberg",
         "Kimi Räikkönen",
+        "Nico Rosberg",
         "Sebastian Vettel",
-        "Sergio Pérez",
-        "Valtteri Bottas"
+        "Valtteri Bottas",
+        "Sergio Pérez"
     ]
 };
 var options = {
@@ -100,24 +100,24 @@ var chart = new Chart("chart", {
 | # | Driver | Number Of Podiums |
 |--|--|--|
 | 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
-| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
-| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
-| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
-| 5. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
-| 6. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
+| 2. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 3. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 5. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 2 |
+| 6. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Podiums** |
 | **Row Count** | 6 |
-| **Total Sum** | 9.000 |
-| **Mean μ (Average)** | 1.500 |
+| **Total Sum** | 12.000 |
+| **Mean μ (Average)** | 2.000 |
 | **Maximum** | 3.000 |
 | **75th Percentile** | 2.000 |
-| **Median** | 1.000 |
-| **25th Percentile** | 1.000 |
+| **Median** | 2.000 |
+| **25th Percentile** | 2.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.583 |
-| **Standard Deviation σ** | 0.764 |
+| **Variance** | 0.333 |
+| **Standard Deviation σ** | 0.577 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

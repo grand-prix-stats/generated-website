@@ -9,6 +9,7 @@ collectionId:
 
 | Driver | First Win |
 |--|--|
+| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 2017-04-30 |
 | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 2016-05-15 |
 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2014-06-08 |
 | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 2012-05-13 |

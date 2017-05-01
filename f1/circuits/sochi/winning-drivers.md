@@ -29,15 +29,18 @@ var data = {
         {
             "backgroundColor": [
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E"
             ],
             "borderWidth": 1,
             "data": [
                 2.0,
+                1.0,
                 1.0
             ],
             "label": "Number Of Wins"
@@ -45,7 +48,8 @@ var data = {
     ],
     "labels": [
         "Lewis Hamilton",
-        "Nico Rosberg"
+        "Nico Rosberg",
+        "Valtteri Bottas"
     ]
 };
 var options = {
@@ -85,19 +89,20 @@ var chart = new Chart("chart", {
 |--|--|--|
 | 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
 | 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 3. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Wins** |
-| **Row Count** | 2 |
-| **Total Sum** | 3.000 |
-| **Mean μ (Average)** | 1.500 |
+| **Row Count** | 3 |
+| **Total Sum** | 4.000 |
+| **Mean μ (Average)** | 1.333 |
 | **Maximum** | 2.000 |
 | **75th Percentile** | 2.000 |
-| **Median** | 2.000 |
+| **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.250 |
-| **Standard Deviation σ** | 0.500 |
+| **Variance** | 0.222 |
+| **Standard Deviation σ** | 0.471 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})
