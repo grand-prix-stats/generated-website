@@ -1,5 +1,5 @@
 ---
-title: Rank of Formula 1® Drivers by Number of Wins at Circuit de Catalunya
+title: Rank of Formula 1® Drivers by Number of Wins at Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya
@@ -70,7 +70,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -90,13 +90,13 @@ var data = {
         "Mika Häkkinen",
         "Fernando Alonso",
         "Kimi Räikkönen",
+        "Lewis Hamilton",
         "Nigel Mansell",
         "Alain Prost",
         "Damon Hill",
         "Felipe Massa",
         "Jacques Villeneuve",
         "Jenson Button",
-        "Lewis Hamilton",
         "Mark Webber",
         "Max Verstappen",
         "Nico Rosberg",
@@ -143,13 +143,13 @@ var chart = new Chart("chart", {
 | 2. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 3 |
 | 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 2 |
 | 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
-| 5. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
-| 6. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
-| 7. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
-| 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
-| 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
-| 10. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
-| 11. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 5. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 6. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 7. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 1 |
+| 8. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 9. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 10. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 11. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
 | 12. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
 | 13. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
 | 14. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
@@ -160,14 +160,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Wins** |
 | **Row Count** | 16 |
-| **Total Sum** | 26.000 |
-| **Mean μ (Average)** | 1.625 |
+| **Total Sum** | 27.000 |
+| **Mean μ (Average)** | 1.688 |
 | **Maximum** | 6.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1.609 |
-| **Standard Deviation σ** | 1.269 |
+| **Variance** | 1.590 |
+| **Standard Deviation σ** | 1.261 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

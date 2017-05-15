@@ -24,6 +24,7 @@ collectionId: alonso
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 7 | 12 | 0.0 | 64 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 20 | R |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 15 | W | 0.0 | 0 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 20 | 14 |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 15 | 14 | 0.0 | 54 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 17 | R |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 13 | R | 0.0 | 33 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 15 | R |
@@ -306,15 +307,15 @@ collectionId: alonso
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 278 |  |  | 278 | 229 | 278 | 278 | 137 |  |  | 278 | 217 |
-| **Total Sum** | 2696.000 |  |  | 2211.000 | 1231.000 | 1832.000 | 15100.000 | 3269.080 |  |  | 2747.000 | 1713.000 |
-| **Mean μ (Average)** | 9.698 |  |  | 7.953 | 5.376 | 6.590 | 54.317 | 23.862 |  |  | 9.881 | 7.894 |
+| **Row Count** | 279 |  |  | 279 | 230 | 279 | 279 | 137 |  |  | 279 | 217 |
+| **Total Sum** | 2701.000 |  |  | 2218.000 | 1243.000 | 1832.000 | 15164.000 | 3269.080 |  |  | 2767.000 | 1713.000 |
+| **Mean μ (Average)** | 9.681 |  |  | 7.950 | 5.404 | 6.566 | 54.351 | 23.862 |  |  | 9.918 | 7.894 |
 | **Maximum** | 21.000 |  |  | 24.000 | 18.000 | 25.000 | 78.000 | 59.946 |  |  | 24.000 | 18.000 |
 | **75th Percentile** | 14.000 |  |  | 11.000 | 7.000 | 10.000 | 66.000 | 35.992 |  |  | 14.000 | 11.000 |
 | **Median** | 10.000 |  |  | 6.000 | 4.000 | 6.000 | 57.000 | 20.594 |  |  | 9.000 | 7.000 |
 | **25th Percentile** | 5.000 |  |  | 4.000 | 2.000 |  | 52.000 | 9.806 |  |  | 5.000 | 4.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.852 |  |  |  | 1.000 |
-| **Variance** | 28.988 |  |  | 31.721 | 16.750 | 44.702 | 280.857 | 276.659 |  |  | 36.040 | 17.883 |
-| **Standard Deviation σ** | 5.384 |  |  | 5.632 | 4.093 | 6.686 | 16.759 | 16.633 |  |  | 6.003 | 4.229 |
+| **Variance** | 28.963 |  |  | 31.610 | 16.867 | 44.697 | 280.185 | 276.659 |  |  | 36.276 | 17.883 |
+| **Standard Deviation σ** | 5.382 |  |  | 5.622 | 4.107 | 6.686 | 16.739 | 16.633 |  |  | 6.023 | 4.229 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

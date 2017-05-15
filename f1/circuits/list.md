@@ -53,7 +53,7 @@ collectionId:
 | [Autódromo do Estoril](/f1/circuits/estoril) | Estoril | [Portugal](/f1/countries/portugal) | 13 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
 | [Monsanto Park Circuit](/f1/circuits/monsanto) | Lisbon | [Portugal](/f1/countries/portugal) | 1 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
 | [Circuito da Boavista](/f1/circuits/boavista) | Oporto | [Portugal](/f1/countries/portugal) | 2 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
-| [Sochi International Street Circuit](/f1/circuits/sochi) | Sochi | [Russia](/f1/countries/russia) | 4 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| [Sochi Autodrom](/f1/circuits/sochi) | Sochi | [Russia](/f1/countries/russia) | 4 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
 | [Marina Bay Street Circuit](/f1/circuits/marina_bay) | Marina Bay | [Singapore](/f1/countries/singapore) | 10 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
 | [Prince George Circuit](/f1/circuits/george) | Eastern Cape Province | [South Africa](/f1/countries/south_africa) | 3 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 2 |
 | [Kyalami](/f1/circuits/kyalami) | Midrand | [South Africa](/f1/countries/south_africa) | 20 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 3 |
@@ -61,7 +61,7 @@ collectionId:
 | [Montjuïc](/f1/circuits/montjuic) | Barcelona | [Spain](/f1/countries/spain) | 4 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
 | [Circuito de Jerez](/f1/circuits/jerez) | Jerez de la Frontera | [Spain](/f1/countries/spain) | 7 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
 | [Jarama](/f1/circuits/jarama) | Madrid | [Spain](/f1/countries/spain) | 9 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
-| [Circuit de Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
+| [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
 | [Valencia Street Circuit](/f1/circuits/valencia) | Valencia | [Spain](/f1/countries/spain) | 5 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
 | [Scandinavian Raceway](/f1/circuits/anderstorp) | Anderstorp | [Sweden](/f1/countries/sweden) | 6 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
 | [Circuit Bremgarten](/f1/circuits/bremgarten) | Bern | [Switzerland](/f1/countries/switzerland) | 5 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |

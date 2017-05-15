@@ -9,9 +9,9 @@ collectionId:
 
 | Driver | Last Win |
 |--|--|
+| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2017-05-14 |
 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 2017-04-30 |
 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2017-04-16 |
-| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2017-04-09 |
 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2016-10-09 |
 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2016-10-02 |
 | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 2016-05-15 |

@@ -157,11 +157,11 @@ var data = {
             "data": [
                 14.0,
                 9.0,
-                8.0,
+                9.0,
+                7.0,
                 7.0,
                 7.0,
                 6.0,
-                6.0,
                 5.0,
                 5.0,
                 5.0,
@@ -187,7 +187,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -226,8 +226,8 @@ var data = {
         "Lewis Hamilton",
         "Alain Prost",
         "Kimi Räikkönen",
-        "Nigel Mansell",
         "Sebastian Vettel",
+        "Nigel Mansell",
         "David Coulthard",
         "Mika Häkkinen",
         "Rubens Barrichello",
@@ -246,6 +246,7 @@ var data = {
         "Bruce McLaren",
         "Clay Regazzoni",
         "Damon Hill",
+        "Daniel Ricciardo",
         "Gerhard Berger",
         "Jacques Laffite",
         "Jarno Trulli",
@@ -255,7 +256,6 @@ var data = {
         "Niki Lauda",
         "Brian Redman",
         "Chris Amon",
-        "Daniel Ricciardo",
         "Denny Hulme",
         "François Cevert",
         "George Follmer",
@@ -321,11 +321,11 @@ var chart = new Chart("chart", {
 |--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 14 |
 | 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 9 |
-| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 8 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 9 |
 | 4. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 7 |
 | 5. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 7 |
-| 6. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 6 |
-| 7. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 6 |
+| 6. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 7 |
+| 7. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 6 |
 | 8. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 5 |
 | 9. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 5 |
 | 10. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 5 |
@@ -344,16 +344,16 @@ var chart = new Chart("chart", {
 | 23. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 2 |
 | 24. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 2 |
 | 25. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
-| 26. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 2 |
-| 27. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 2 |
-| 28. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
-| 29. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
-| 30. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
-| 31. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
-| 32. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
-| 33. | [Brian Redman 🇬🇧](/f1/drivers/redman) | 1 |
-| 34. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
-| 35. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 26. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2 |
+| 27. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 2 |
+| 28. | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 2 |
+| 29. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
+| 30. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
+| 31. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 32. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 33. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
+| 34. | [Brian Redman 🇬🇧](/f1/drivers/redman) | 1 |
+| 35. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
 | 36. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
 | 37. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 1 |
 | 38. | [George Follmer 🇺🇸](/f1/drivers/follmer) | 1 |
@@ -385,14 +385,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Times** |
 | **Row Count** | 61 |
-| **Total Sum** | 159.000 |
-| **Mean μ (Average)** | 2.607 |
+| **Total Sum** | 162.000 |
+| **Mean μ (Average)** | 2.656 |
 | **Maximum** | 14.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 5.976 |
-| **Standard Deviation σ** | 2.445 |
+| **Variance** | 6.259 |
+| **Standard Deviation σ** | 2.502 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

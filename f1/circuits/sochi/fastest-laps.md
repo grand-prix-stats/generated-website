@@ -1,5 +1,5 @@
 ---
-title: Rank of Formula 1® Drivers by Number of Fastest Laps at Sochi International Street Circuit
+title: Rank of Formula 1® Drivers by Number of Fastest Laps at Sochi Autodrom
 layout: page
 collectionName: circuits
 collectionId: sochi

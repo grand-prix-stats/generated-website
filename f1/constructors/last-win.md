@@ -9,7 +9,7 @@ collectionId:
 
 | Constructor | Last Win |
 |--|--|
-| Mercedes 🇩🇪 | 2017-04-30 |
+| Mercedes 🇩🇪 | 2017-05-14 |
 | Ferrari 🇮🇹 | 2017-04-16 |
 | Red Bull 🇦🇹 | 2016-10-02 |
 | Lotus F1 🇬🇧 | 2013-03-17 |

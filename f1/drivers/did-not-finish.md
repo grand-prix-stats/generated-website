@@ -300,7 +300,7 @@ var data = {
                 57.0,
                 57.0,
                 56.0,
-                55.0,
+                56.0,
                 55.0,
                 55.0,
                 55.0,
@@ -424,11 +424,11 @@ var data = {
         "Ralf Schumacher",
         "Jacques Villeneuve",
         "Mark Webber",
+        "Kimi Räikkönen",
         "Piercarlo Ghinzani",
         "Jack Brabham",
         "Jo Bonnier",
         "Keke Rosberg",
-        "Kimi Räikkönen",
         "Ayrton Senna",
         "Ronnie Peterson",
         "Emerson Fittipaldi",
@@ -581,11 +581,11 @@ var chart = new Chart("chart", {
 | 39. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 58 | 32.22% |
 | 40. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 57 | 34.55% |
 | 41. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 57 | 26.27% |
-| 42. | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 56 | 50.45% |
-| 43. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 55 | 42.64% |
-| 44. | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 55 | 50.46% |
-| 45. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 55 | 42.97% |
-| 46. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 55 | 21.40% |
+| 42. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 56 | 21.71% |
+| 43. | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 56 | 50.45% |
+| 44. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 55 | 42.64% |
+| 45. | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 55 | 50.46% |
+| 46. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 55 | 42.97% |
 | 47. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 53 | 32.72% |
 | 48. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 52 | 42.28% |
 | 49. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 51 | 34.23% |
@@ -593,7 +593,7 @@ var chart = new Chart("chart", {
 | 51. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 49 | 41.88% |
 | 52. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 49 | 33.56% |
 | 53. | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 49 | 44.55% |
-| 54. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 49 | 17.63% |
+| 54. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 49 | 17.56% |
 | 55. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 49 | 40.50% |
 | 56. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 48 | 45.28% |
 | 57. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 48 | 34.78% |
@@ -616,7 +616,7 @@ var chart = new Chart("chart", {
 | 74. | [Adrian Sutil 🇩🇪](/f1/drivers/sutil) | 39 | 30.47% |
 | 75. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 39 | 37.86% |
 | 76. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 39 | 31.97% |
-| 77. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 39 | 15.23% |
+| 77. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 39 | 15.18% |
 | 78. | [Jean-Pierre Jabouille 🇫🇷](/f1/drivers/jabouille) | 39 | 70.91% |
 | 79. | [Jonathan Palmer 🇬🇧](/f1/drivers/palmer) | 39 | 44.32% |
 | 80. | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 39 | 48.75% |
@@ -641,7 +641,7 @@ var chart = new Chart("chart", {
 | 99. | [Alex Caffi 🇮🇹](/f1/drivers/caffi) | 31 | 41.33% |
 | 100. | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 31 | 53.45% |
 | 101. | [Marc Surer 🇨🇭](/f1/drivers/surer) | 31 | 35.23% |
-| 102. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 31 | 28.70% |
+| 102. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 31 | 28.44% |
 | 103. | [Mark Blundell 🇬🇧](/f1/drivers/blundell) | 30 | 47.62% |
 | 104. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 29 | 14.08% |
 | 105. | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 29 | 30.21% |
@@ -651,7 +651,7 @@ var chart = new Chart("chart", {
 | 109. | [Érik Comas 🇫🇷](/f1/drivers/comas) | 27 | 42.86% |
 | 110. | [Olivier Grouillard 🇫🇷](/f1/drivers/grouillard) | 27 | 43.55% |
 | 111. | [Hector Rebaque 🇲🇽](/f1/drivers/rebaque) | 26 | 44.83% |
-| 112. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 26 | 14.21% |
+| 112. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 26 | 14.13% |
 | 113. | [Alessandro Zanardi 🇮🇹](/f1/drivers/zanardi) | 25 | 55.56% |
 | 114. | [Gabriele Tarquini 🇮🇹](/f1/drivers/tarquini) | 25 | 32.05% |
 | 115. | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 25 | 42.37% |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Finish** | **% Of Total Participations** |
 | **Row Count** | 120 | 120 |
-| **Total Sum** | 6010.000 | 5118.900 |
-| **Mean μ (Average)** | 50.083 | 42.658 |
+| **Total Sum** | 6011.000 | 5118.750 |
+| **Mean μ (Average)** | 50.092 | 42.656 |
 | **Maximum** | 137.000 | 70.910 |
 | **75th Percentile** | 62.000 | 49.460 |
 | **Median** | 46.000 | 42.970 |
 | **25th Percentile** | 34.000 | 34.780 |
 | **Minimum** | 24.000 | 14.080 |
-| **Variance** | 438.526 | 126.732 |
-| **Standard Deviation σ** | 20.941 | 11.258 |
+| **Variance** | 438.617 | 126.774 |
+| **Standard Deviation σ** | 20.943 | 11.259 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

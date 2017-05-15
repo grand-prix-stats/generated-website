@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Races at Circuit de Catalunya
+title: List of All Formula 1® Races at Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya
@@ -24,7 +24,7 @@ collectionId: catalunya
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 |   |   |   |   |
+| 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 66 | 1:35:56.497 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2016 | 5 | 2016 Spanish Grand Prix 🇪🇸 | 2016-05-15 | 66 | 1:41:40.017 | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | Red Bull 🇦🇹 |
 | 2015 | 5 | 2015 Spanish Grand Prix 🇪🇸 | 2015-05-10 | 66 | 1:41:12.555 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2014 | 5 | 2014 Spanish Grand Prix 🇪🇸 | 2014-05-11 | 66 | 1:41:05.155 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
@@ -55,9 +55,9 @@ collectionId: catalunya
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 27 |  |  | 26 |  |  |  |
-| **Total Sum** | 144.000 |  |  | 1701.000 |  |  |  |
-| **Mean μ (Average)** | 5.333 |  |  | 65.423 |  |  |  |
+| **Row Count** | 27 |  |  | 27 |  |  |  |
+| **Total Sum** | 144.000 |  |  | 1767.000 |  |  |  |
+| **Mean μ (Average)** | 5.333 |  |  | 65.444 |  |  |  |
 | **Maximum** | 14.000 |  |  | 66.000 |  |  |  |
 | **75th Percentile** | 5.000 |  |  | 66.000 |  |  |  |
 | **Median** | 5.000 |  |  | 65.000 |  |  |  |

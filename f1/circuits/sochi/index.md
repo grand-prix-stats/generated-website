@@ -1,5 +1,5 @@
 ---
-title: Sochi International Street Circuit
+title: Sochi Autodrom
 layout: page
 collectionName: circuits
 collectionId: sochi

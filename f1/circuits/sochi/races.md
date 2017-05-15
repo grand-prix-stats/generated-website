@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Races at Sochi International Street Circuit
+title: List of All Formula 1® Races at Sochi Autodrom
 layout: page
 collectionName: circuits
 collectionId: sochi

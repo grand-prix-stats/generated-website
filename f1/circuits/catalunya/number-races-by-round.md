@@ -1,5 +1,5 @@
 ---
-title: Number of Races by Round at Circuit de Catalunya
+title: Number of Races by Round at Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya

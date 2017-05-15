@@ -204,7 +204,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                2.0,
+                1.0,
                 1.0,
                 1.0,
                 1.0,
@@ -275,9 +275,9 @@ var data = {
         "1995",
         "2006",
         "2005",
-        "2017",
-        "1955",
         "2000",
+        "1955",
+        "1998",
         "2001",
         "2002",
         "1954",
@@ -294,7 +294,7 @@ var data = {
         "1962",
         "2015",
         "1969",
-        "1998"
+        "2017"
     ]
 };
 var options = {
@@ -380,9 +380,9 @@ var chart = new Chart("chart", {
 | 46. | 1995 | 2 |
 | 47. | 2006 | 2 |
 | 48. | 2005 | 2 |
-| 49. | 2017 | 2 |
+| 49. | 2000 | 2 |
 | 50. | 1955 | 2 |
-| 51. | 2000 | 2 |
+| 51. | 1998 | 1 |
 | 52. | 2001 | 1 |
 | 53. | 2002 | 1 |
 | 54. | 1954 | 1 |
@@ -399,20 +399,20 @@ var chart = new Chart("chart", {
 | 65. | 1962 | 1 |
 | 66. | 2015 | 1 |
 | 67. | 1969 | 1 |
-| 68. | 1998 | 1 |
+| 68. | 2017 | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Drivers Championship Leaders** |
 | **Row Count** | 68 |
-| **Total Sum** | 155.000 |
-| **Mean μ (Average)** | 2.279 |
+| **Total Sum** | 154.000 |
+| **Mean μ (Average)** | 2.265 |
 | **Maximum** | 6.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
-| **25th Percentile** | 2.000 |
+| **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1.054 |
-| **Standard Deviation σ** | 1.027 |
+| **Variance** | 1.077 |
+| **Standard Deviation σ** | 1.038 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

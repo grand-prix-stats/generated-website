@@ -1,5 +1,5 @@
 ---
-title: List of All Formula 1® Drivers that Have Raced at Circuit de Catalunya
+title: List of All Formula 1® Drivers that Have Raced at Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya
@@ -26,69 +26,72 @@ collectionId: catalunya
 |--|--|
 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 19 |
 | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 19 |
+| [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 16 |
 | [Jenson Button 🇬🇧](/f1/drivers/button) | 16 |
 | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 15 |
-| [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 15 |
+| [Felipe Massa 🇧🇷](/f1/drivers/massa) | 15 |
 | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 15 |
-| [Felipe Massa 🇧🇷](/f1/drivers/massa) | 14 |
+| [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 15 |
 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 14 |
-| [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 14 |
 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 12 |
 | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 11 |
+| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 11 |
 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 11 |
 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 11 |
 | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 11 |
 | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 10 |
 | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 10 |
-| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 10 |
 | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 10 |
 | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 10 |
+| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 10 |
 | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 9 |
 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 9 |
-| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 9 |
 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 8 |
 | [Adrian Sutil 🇩🇪](/f1/drivers/sutil) | 7 |
 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 7 |
 | [Mika Salo 🇫🇮](/f1/drivers/salo) | 7 |
+| [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 7 |
+| [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 7 |
+| [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 6 |
 | [Heikki Kovalainen 🇫🇮](/f1/drivers/kovalainen) | 6 |
 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 6 |
 | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 6 |
 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 6 |
-| [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 6 |
 | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 6 |
 | [Pedro Diniz 🇧🇷](/f1/drivers/diniz) | 6 |
-| [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 6 |
+| [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 6 |
 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 6 |
-| [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 5 |
 | [Gianni Morbidelli 🇮🇹](/f1/drivers/morbidelli) | 5 |
 | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 5 |
-| [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 5 |
 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 5 |
 | [Timo Glock 🇩🇪](/f1/drivers/glock) | 5 |
+| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 5 |
 | [Vitantonio Liuzzi 🇮🇹](/f1/drivers/liuzzi) | 5 |
 | [Alessandro Zanardi 🇮🇹](/f1/drivers/zanardi) | 4 |
 | [Alexander Wurz 🇦🇹](/f1/drivers/wurz) | 4 |
+| [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 4 |
 | [Érik Comas 🇫🇷](/f1/drivers/comas) | 4 |
 | [Jyrki Järvilehto 🇫🇮](/f1/drivers/lehto) | 4 |
 | [Kamui Kobayashi 🇯🇵](/f1/drivers/kobayashi) | 4 |
 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 4 |
+| [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 4 |
 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 4 |
 | [Pierluigi Martini 🇮🇹](/f1/drivers/martini) | 4 |
 | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 4 |
-| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 4 |
 | [Aguri Suzuki 🇯🇵](/f1/drivers/suzuki) | 3 |
 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 3 |
 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 3 |
 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
 | [Bertrand Gachot 🇧🇪](/f1/drivers/gachot) | 3 |
+| [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 3 |
 | [Christian Fittipaldi 🇧🇷](/f1/drivers/fittipaldi) | 3 |
 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 3 |
-| [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 3 |
 | [Esteban Gutiérrez 🇲🇽](/f1/drivers/gutierrez) | 3 |
 | [Jean-Éric Vergne 🇫🇷](/f1/drivers/vergne) | 3 |
 | [Karl Wendlinger 🇦🇹](/f1/drivers/wendlinger) | 3 |
-| [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 3 |
+| [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 3 |
 | [Mark Blundell 🇬🇧](/f1/drivers/blundell) | 3 |
+| [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 3 |
 | [Narain Karthikeyan 🇮🇳](/f1/drivers/karthikeyan) | 3 |
 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 3 |
 | [Paul di Resta 🇬🇧](/f1/drivers/resta) | 3 |
@@ -99,7 +102,6 @@ collectionId: catalunya
 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
 | [Anthony Davidson 🇬🇧](/f1/drivers/davidson) | 2 |
 | [Bruno Senna 🇧🇷](/f1/drivers/bruno_senna) | 2 |
-| [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 2 |
 | [Charles Pic 🇫🇷](/f1/drivers/pic) | 2 |
 | [Christian Klien 🇦🇹](/f1/drivers/klien) | 2 |
 | [Cristiano da Matta 🇧🇷](/f1/drivers/matta) | 2 |
@@ -112,15 +114,15 @@ collectionId: catalunya
 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 2 |
 | [Jaime Alguersuari 🇪🇸](/f1/drivers/alguersuari) | 2 |
 | [Jan Magnussen 🇩🇰](/f1/drivers/magnussen) | 2 |
+| [Jolyon Palmer 🇬🇧](/f1/drivers/jolyon_palmer) | 2 |
 | [Jules Bianchi 🇫🇷](/f1/drivers/jules_bianchi) | 2 |
 | [Kazuki Nakajima 🇯🇵](/f1/drivers/nakajima) | 2 |
-| [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 2 |
 | [Marc Gené 🇪🇸](/f1/drivers/gene) | 2 |
 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 2 |
 | [Max Chilton 🇬🇧](/f1/drivers/chilton) | 2 |
-| [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 2 |
 | [Nelson Piquet Jr. 🇧🇷](/f1/drivers/piquet_jr) | 2 |
 | [Olivier Grouillard 🇫🇷](/f1/drivers/grouillard) | 2 |
+| [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 2 |
 | [Paul Belmondo 🇫🇷](/f1/drivers/belmondo) | 2 |
 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 2 |
 | [Scott Speed 🇺🇸](/f1/drivers/speed) | 2 |
@@ -138,6 +140,7 @@ collectionId: catalunya
 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 1 |
 | [Domenico Schiattarella 🇮🇹](/f1/drivers/schiattarella) | 1 |
 | [Emanuele Pirro 🇮🇹](/f1/drivers/pirro) | 1 |
+| [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 1 |
 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 1 |
 | [Franck Montagny 🇫🇷](/f1/drivers/montagny) | 1 |
 | [Gastón Mazzacane 🇦🇷](/f1/drivers/mazzacane) | 1 |
@@ -145,9 +148,9 @@ collectionId: catalunya
 | [Giedo van der Garde 🇳🇱](/f1/drivers/garde) | 1 |
 | [Giorgio Pantano 🇮🇹](/f1/drivers/pantano) | 1 |
 | [Jérôme d'Ambrosio 🇧🇪](/f1/drivers/ambrosio) | 1 |
-| [Jolyon Palmer 🇬🇧](/f1/drivers/jolyon_palmer) | 1 |
 | [Justin Wilson 🇬🇧](/f1/drivers/wilson) | 1 |
 | [Karun Chandhok 🇮🇳](/f1/drivers/chandhok) | 1 |
+| [Lance Stroll 🇨🇦](/f1/drivers/stroll) | 1 |
 | [Lucas di Grassi 🇧🇷](/f1/drivers/grassi) | 1 |
 | [Luciano Burti 🇧🇷](/f1/drivers/burti) | 1 |
 | [Michael Andretti 🇺🇸](/f1/drivers/andretti) | 1 |
@@ -155,7 +158,6 @@ collectionId: catalunya
 | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 1 |
 | [Nicola Larini 🇮🇹](/f1/drivers/larini) | 1 |
 | [Olivier Beretta 🇲🇨](/f1/drivers/beretta) | 1 |
-| [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 1 |
 | [Patrick Friesacher 🇦🇹](/f1/drivers/friesacher) | 1 |
 | [Pedro Lamy 🇵🇹](/f1/drivers/lamy) | 1 |
 | [Perry McCarthy 🇬🇧](/f1/drivers/mccarthy) | 1 |
@@ -166,6 +168,7 @@ collectionId: catalunya
 | [Rio Haryanto 🇮🇩](/f1/drivers/haryanto) | 1 |
 | [Roberto Merhi 🇪🇸](/f1/drivers/merhi) | 1 |
 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 1 |
+| [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 1 |
 | [Taki Inoue 🇯🇵](/f1/drivers/inoue) | 1 |
 | [Tarso Marques 🇧🇷](/f1/drivers/marques) | 1 |
 | [Will Stevens 🇬🇧](/f1/drivers/stevens) | 1 |
@@ -174,15 +177,15 @@ collectionId: catalunya
 #### Statistic Summary
 
 | **Column** | **Times** |
-| **Row Count** | 146 |
-| **Total Sum** | 599.000 |
-| **Mean μ (Average)** | 4.103 |
+| **Row Count** | 149 |
+| **Total Sum** | 619.000 |
+| **Mean μ (Average)** | 4.154 |
 | **Maximum** | 19.000 |
 | **75th Percentile** | 5.000 |
-| **Median** | 2.000 |
+| **Median** | 3.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 16.284 |
-| **Standard Deviation σ** | 4.035 |
+| **Variance** | 16.694 |
+| **Standard Deviation σ** | 4.086 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

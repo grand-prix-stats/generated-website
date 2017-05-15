@@ -24,6 +24,7 @@ collectionId: massa
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 9 | 13 | 0.0 | 64 |   | Williams 🇬🇧 | [Lance Stroll 🇨🇦](/f1/drivers/stroll) | 18 | 16 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 6 | 9 | 2.0 | 51 |   | Williams 🇬🇧 | [Lance Stroll 🇨🇦](/f1/drivers/stroll) | 11 | 11 |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 8 | 6 | 8.0 | 57 | +54.326 | Williams 🇬🇧 | [Lance Stroll 🇨🇦](/f1/drivers/stroll) | 12 | R |
 | 2017 | 2 | 2017 Chinese Grand Prix 🇨🇳 | 2017-04-09 | 6 | 14 | 0.0 | 55 |   | Williams 🇬🇧 | [Lance Stroll 🇨🇦](/f1/drivers/stroll) | 10 | R |
@@ -284,15 +285,15 @@ collectionId: massa
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 256 |  |  | 256 | 216 | 256 | 256 | 108 |  |  | 256 | 227 |
-| **Total Sum** | 2449.000 |  |  | 2112.000 | 1540.000 | 1142.000 | 14053.000 | 3264.649 |  |  | 1830.000 | 1301.000 |
-| **Mean μ (Average)** | 9.566 |  |  | 8.250 | 7.130 | 4.461 | 54.895 | 30.228 |  |  | 7.148 | 5.731 |
+| **Row Count** | 257 |  |  | 257 | 217 | 257 | 257 | 108 |  |  | 257 | 228 |
+| **Total Sum** | 2454.000 |  |  | 2121.000 | 1553.000 | 1142.000 | 14117.000 | 3264.649 |  |  | 1848.000 | 1317.000 |
+| **Mean μ (Average)** | 9.549 |  |  | 8.253 | 7.157 | 4.444 | 54.930 | 30.228 |  |  | 7.191 | 5.776 |
 | **Maximum** | 21.000 |  |  | 24.000 | 20.000 | 36.000 | 78.000 | 71.428 |  |  | 24.000 | 18.000 |
 | **75th Percentile** | 14.000 |  |  | 12.000 | 9.000 | 8.000 | 66.000 | 44.674 |  |  | 10.000 | 8.000 |
-| **Median** | 9.000 |  |  | 7.000 | 6.000 | 3.000 | 57.000 | 29.845 |  |  | 6.000 | 5.000 |
+| **Median** | 9.000 |  |  | 7.000 | 6.000 | 2.000 | 57.000 | 29.845 |  |  | 6.000 | 5.000 |
 | **25th Percentile** | 5.000 |  |  | 4.000 | 4.000 |  | 53.000 | 15.840 |  |  | 3.000 | 3.000 |
 | **Minimum** | 1.000 |  |  |  | 1.000 |  |  | 0.700 |  |  |  | 1.000 |
-| **Variance** | 29.800 |  |  | 25.984 | 15.752 | 26.561 | 274.063 | 304.024 |  |  | 22.790 | 14.752 |
-| **Standard Deviation σ** | 5.459 |  |  | 5.097 | 3.969 | 5.154 | 16.555 | 17.436 |  |  | 4.774 | 3.841 |
+| **Variance** | 29.765 |  |  | 25.885 | 15.837 | 26.535 | 273.318 | 304.024 |  |  | 23.158 | 15.147 |
+| **Standard Deviation σ** | 5.456 |  |  | 5.088 | 3.980 | 5.151 | 16.532 | 17.436 |  |  | 4.812 | 3.892 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,5 +1,5 @@
 ---
-title: Number of Races by Round at Sochi International Street Circuit
+title: Number of Races by Round at Sochi Autodrom
 layout: page
 collectionName: circuits
 collectionId: sochi

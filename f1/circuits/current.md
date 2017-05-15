@@ -23,9 +23,9 @@ collectionId:
 | [Sepang International Circuit](/f1/circuits/sepang) | Kuala Lumpur | [Malaysia](/f1/countries/malaysia) | 19 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
 | [Autódromo Hermanos Rodríguez](/f1/circuits/rodriguez) | Mexico City | [Mexico](/f1/countries/mexico) | 18 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
 | [Circuit de Monaco](/f1/circuits/monaco) | Monte-Carlo | [Monaco](/f1/countries/monaco) | 64 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 6 |
-| [Sochi International Street Circuit](/f1/circuits/sochi) | Sochi | [Russia](/f1/countries/russia) | 4 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| [Sochi Autodrom](/f1/circuits/sochi) | Sochi | [Russia](/f1/countries/russia) | 4 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
 | [Marina Bay Street Circuit](/f1/circuits/marina_bay) | Marina Bay | [Singapore](/f1/countries/singapore) | 10 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
-| [Circuit de Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
+| [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | Montmeló | [Spain](/f1/countries/spain) | 27 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
 | [Yas Marina Circuit](/f1/circuits/yas_marina) | Abu Dhabi | [UAE](/f1/countries/uae) | 9 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
 | [Silverstone Circuit](/f1/circuits/silverstone) | Silverstone | [UK](/f1/countries/uk) | 51 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 5 |
 | [Circuit of the Americas](/f1/circuits/americas) | Austin | [USA](/f1/countries/usa) | 6 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 4 |

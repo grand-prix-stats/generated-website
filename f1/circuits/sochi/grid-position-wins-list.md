@@ -1,5 +1,5 @@
 ---
-title: Number of Wins by Grid Position at Sochi International Street Circuit
+title: Number of Wins by Grid Position at Sochi Autodrom
 layout: page
 collectionName: circuits
 collectionId: sochi

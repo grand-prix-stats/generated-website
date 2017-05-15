@@ -1,5 +1,5 @@
 ---
-title: Rank of Formula 1® Drivers by Number of Laps Led at Sochi International Street Circuit
+title: Rank of Formula 1® Drivers by Number of Laps Led at Sochi Autodrom
 layout: page
 collectionName: circuits
 collectionId: sochi

@@ -63,8 +63,8 @@ collectionId: hawthorn
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
-| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
+| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |

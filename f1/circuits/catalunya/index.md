@@ -1,5 +1,5 @@
 ---
-title: Circuit de Catalunya
+title: Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya

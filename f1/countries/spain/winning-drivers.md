@@ -103,7 +103,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -136,6 +136,7 @@ var data = {
         "Emerson Fittipaldi",
         "Felipe Massa",
         "Kimi Räikkönen",
+        "Lewis Hamilton",
         "Mario Andretti",
         "Damon Hill",
         "Gilles Villeneuve",
@@ -145,7 +146,6 @@ var data = {
         "Jenson Button",
         "Jochen Mass",
         "Juan Fangio",
-        "Lewis Hamilton",
         "Mark Webber",
         "Max Verstappen",
         "Mike Hawthorn",
@@ -202,16 +202,16 @@ var chart = new Chart("chart", {
 | 9. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
 | 10. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
 | 11. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
-| 12. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
-| 13. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
-| 14. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
-| 15. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
-| 16. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
-| 17. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
-| 18. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
-| 19. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
-| 20. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
-| 21. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 12. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 13. | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 2 |
+| 14. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
+| 15. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 16. | [Graham Hill 🇬🇧](/f1/drivers/hill) | 1 |
+| 17. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 |
+| 18. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 |
+| 19. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 20. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 1 |
+| 21. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 1 |
 | 22. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
 | 23. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 1 |
 | 24. | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 1 |
@@ -225,14 +225,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Times** |
 | **Row Count** | 29 |
-| **Total Sum** | 53.000 |
-| **Mean μ (Average)** | 1.828 |
+| **Total Sum** | 54.000 |
+| **Mean μ (Average)** | 1.862 |
 | **Maximum** | 7.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1.729 |
-| **Standard Deviation σ** | 1.315 |
+| **Variance** | 1.705 |
+| **Standard Deviation σ** | 1.306 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -1,5 +1,5 @@
 ---
-title: Number of Wins by Grid Position at Circuit de Catalunya
+title: Number of Wins by Grid Position at Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya
@@ -85,7 +85,7 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                19.0,
+                20.0,
                 4.0,
                 1.0,
                 1.0,
@@ -179,7 +179,7 @@ var chart = new Chart("chart", {
 
 | Grid Position | Number Of Wins |
 |--|--|
-| 1 | 19 |
+| 1 | 20 |
 | 2 | 4 |
 | 3 | 1 |
 | 4 | 1 |
@@ -210,14 +210,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Wins** |
 | **Row Count** | 26 |
-| **Total Sum** | 26.000 |
-| **Mean μ (Average)** | 1.000 |
-| **Maximum** | 19.000 |
+| **Total Sum** | 27.000 |
+| **Mean μ (Average)** | 1.038 |
+| **Maximum** | 20.000 |
 | **75th Percentile** |  |
 | **Median** |  |
 | **25th Percentile** |  |
 | **Minimum** |  |
-| **Variance** | 13.615 |
-| **Standard Deviation σ** | 3.690 |
+| **Variance** | 15.037 |
+| **Standard Deviation σ** | 3.878 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

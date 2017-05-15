@@ -1,5 +1,5 @@
 ---
-title: Rank of Formula 1® Drivers by Number of Podiums at Circuit de Catalunya
+title: Rank of Formula 1® Drivers by Number of Podiums at Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya
@@ -93,11 +93,11 @@ var data = {
             "data": [
                 12.0,
                 7.0,
+                6.0,
                 5.0,
                 5.0,
                 4.0,
                 4.0,
-                4.0,
                 3.0,
                 3.0,
                 3.0,
@@ -109,7 +109,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -127,16 +127,17 @@ var data = {
     "labels": [
         "Michael Schumacher",
         "Fernando Alonso",
-        "Kimi Räikkönen",
         "Lewis Hamilton",
+        "Kimi Räikkönen",
+        "Sebastian Vettel",
         "David Coulthard",
         "Rubens Barrichello",
-        "Sebastian Vettel",
         "Felipe Massa",
         "Jacques Villeneuve",
         "Jean Alesi",
         "Mika Häkkinen",
         "Alain Prost",
+        "Daniel Ricciardo",
         "Jarno Trulli",
         "Jenson Button",
         "Juan Pablo Montoya",
@@ -145,7 +146,6 @@ var data = {
         "Nigel Mansell",
         "Ayrton Senna",
         "Damon Hill",
-        "Daniel Ricciardo",
         "Gerhard Berger",
         "Giancarlo Fisichella",
         "Johnny Herbert",
@@ -193,25 +193,25 @@ var chart = new Chart("chart", {
 |--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 12 |
 | 2. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 7 |
-| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 5 |
-| 4. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
-| 5. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
-| 6. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 4 |
-| 7. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
+| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 4. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 5 |
+| 5. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 5 |
+| 6. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
+| 7. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 4 |
 | 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 |
 | 9. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 3 |
 | 10. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 3 |
 | 11. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 3 |
 | 12. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 2 |
-| 13. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
-| 14. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
-| 15. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
-| 16. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
-| 17. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
-| 18. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
-| 19. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
-| 20. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
-| 21. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 13. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2 |
+| 14. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 2 |
+| 15. | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 |
+| 16. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 2 |
+| 17. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
+| 18. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 19. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 20. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 1 |
+| 21. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 1 |
 | 22. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
 | 23. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 1 |
 | 24. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 1 |
@@ -225,14 +225,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Podiums** |
 | **Row Count** | 29 |
-| **Total Sum** | 78.000 |
-| **Mean μ (Average)** | 2.690 |
+| **Total Sum** | 81.000 |
+| **Mean μ (Average)** | 2.793 |
 | **Maximum** | 12.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 5.386 |
-| **Standard Deviation σ** | 2.321 |
+| **Variance** | 5.612 |
+| **Standard Deviation σ** | 2.369 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

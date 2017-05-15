@@ -1,5 +1,5 @@
 ---
-title: Rank of Formula 1® Drivers by Number of Starts from P1 at Circuit de Catalunya
+title: Rank of Formula 1® Drivers by Number of Starts from P1 at Circuit de Barcelona-Catalunya
 layout: page
 collectionName: circuits
 collectionId: catalunya
@@ -64,7 +64,7 @@ var data = {
             "borderWidth": 1,
             "data": [
                 7.0,
-                2.0,
+                3.0,
                 2.0,
                 2.0,
                 2.0,
@@ -84,8 +84,8 @@ var data = {
     ],
     "labels": [
         "Michael Schumacher",
-        "Kimi Räikkönen",
         "Lewis Hamilton",
+        "Kimi Räikkönen",
         "Mark Webber",
         "Mika Häkkinen",
         "Nico Rosberg",
@@ -136,8 +136,8 @@ var chart = new Chart("chart", {
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 7 |
-| 2. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
-| 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 3 |
+| 3. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
 | 4. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
 | 5. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
 | 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
@@ -155,14 +155,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Starts From P1** |
 | **Row Count** | 15 |
-| **Total Sum** | 26.000 |
-| **Mean μ (Average)** | 1.733 |
+| **Total Sum** | 27.000 |
+| **Mean μ (Average)** | 1.800 |
 | **Maximum** | 7.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 2.196 |
-| **Standard Deviation σ** | 1.482 |
+| **Variance** | 2.293 |
+| **Standard Deviation σ** | 1.514 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

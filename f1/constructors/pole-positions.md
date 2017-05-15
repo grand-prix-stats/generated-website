@@ -115,7 +115,7 @@ var data = {
                 214.0,
                 155.0,
                 128.0,
-                76.0,
+                77.0,
                 61.0,
                 58.0,
                 51.0,
@@ -248,13 +248,13 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Pole Positions | % Of Total Participations |
 |--|--|--|--|
-| 1. | Ferrari 🇮🇹 | 214 | 10.15% |
-| 2. | McLaren 🇬🇧 | 155 | 9.73% |
-| 3. | Williams 🇬🇧 | 128 | 9.50% |
-| 4. | Mercedes 🇩🇪 | 76 | 23.60% |
+| 1. | Ferrari 🇮🇹 | 214 | 10.14% |
+| 2. | McLaren 🇬🇧 | 155 | 9.72% |
+| 3. | Williams 🇬🇧 | 128 | 9.49% |
+| 4. | Mercedes 🇩🇪 | 77 | 23.77% |
 | 5. | Team Lotus 🇬🇧 | 61 | 7.00% |
-| 6. | Red Bull 🇦🇹 | 58 | 12.66% |
-| 7. | Renault 🇫🇷 | 51 | 8.01% |
+| 6. | Red Bull 🇦🇹 | 58 | 12.61% |
+| 7. | Renault 🇫🇷 | 51 | 7.98% |
 | 8. | Lotus-Climax 🇬🇧 | 28 | 12.12% |
 | 9. | Brabham 🇬🇧 | 26 | 3.93% |
 | 10. | Lotus-Ford 🇬🇧 | 19 | 14.84% |
@@ -286,7 +286,7 @@ var chart = new Chart("chart", {
 | 36. | Connaught 🇬🇧 | 1 | 1.85% |
 | 37. | Cooper-Maserati 🇬🇧 | 1 | 0.75% |
 | 38. | Ewing 🇺🇸 | 1 | 33.33% |
-| 39. | Force India 🇮🇳 | 1 | 0.29% |
+| 39. | Force India 🇮🇳 | 1 | 0.28% |
 | 40. | Lesovsky 🇺🇸 | 1 | 6.67% |
 | 41. | Lola 🇬🇧 | 1 | 0.61% |
 | 42. | Porsche 🇩🇪 | 1 | 1.19% |
@@ -300,14 +300,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Pole Positions** | **% Of Total Participations** |
 | **Row Count** | 47 | 47 |
-| **Total Sum** | 970.000 | 287.870 |
-| **Mean μ (Average)** | 20.638 | 6.125 |
+| **Total Sum** | 971.000 | 287.920 |
+| **Mean μ (Average)** | 20.660 | 6.126 |
 | **Maximum** | 214.000 | 33.330 |
-| **75th Percentile** | 14.000 | 9.730 |
+| **75th Percentile** | 14.000 | 9.720 |
 | **Median** | 3.000 | 2.880 |
 | **25th Percentile** | 1.000 | 1.070 |
 | **Minimum** | 1.000 | 0.170 |
-| **Variance** | 1803.422 | 45.479 |
-| **Standard Deviation σ** | 42.467 | 6.744 |
+| **Variance** | 1805.799 | 45.587 |
+| **Standard Deviation σ** | 42.495 | 6.752 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

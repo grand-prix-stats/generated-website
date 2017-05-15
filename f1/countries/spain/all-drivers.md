@@ -26,20 +26,20 @@ collectionId: spain
 |--|--|
 | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 25 |
 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 24 |
+| [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 21 |
 | [Jenson Button 🇬🇧](/f1/drivers/button) | 21 |
-| [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 20 |
+| [Felipe Massa 🇧🇷](/f1/drivers/massa) | 19 |
 | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 19 |
-| [Felipe Massa 🇧🇷](/f1/drivers/massa) | 18 |
+| [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 18 |
 | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 17 |
 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 17 |
-| [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 17 |
 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 17 |
+| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 16 |
 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 16 |
 | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 15 |
-| [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 15 |
+| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 15 |
 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 14 |
 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 14 |
-| [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 14 |
 | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 12 |
 | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 12 |
 | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 12 |
@@ -59,23 +59,25 @@ collectionId: spain
 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 9 |
 | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 9 |
 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 9 |
+| [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 9 |
 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 9 |
+| [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 9 |
 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 8 |
 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 8 |
 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 8 |
 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 8 |
 | [Mika Salo 🇫🇮](/f1/drivers/salo) | 8 |
 | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 8 |
-| [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 8 |
 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 8 |
 | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 8 |
 | [Pierluigi Martini 🇮🇹](/f1/drivers/martini) | 8 |
+| [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 8 |
 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 8 |
-| [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 8 |
 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 8 |
 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 8 |
 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 7 |
 | [Chris Amon 🇳🇿](/f1/drivers/amon) | 7 |
+| [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 7 |
 | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 7 |
 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 7 |
 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 7 |
@@ -84,10 +86,8 @@ collectionId: spain
 | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 7 |
 | [Pedro Diniz 🇧🇷](/f1/drivers/diniz) | 7 |
 | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 7 |
-| [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 7 |
 | [Vitantonio Liuzzi 🇮🇹](/f1/drivers/liuzzi) | 7 |
 | [Arturo Merzario 🇮🇹](/f1/drivers/merzario) | 6 |
-| [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 6 |
 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 6 |
 | [Gianni Morbidelli 🇮🇹](/f1/drivers/morbidelli) | 6 |
 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 6 |
@@ -123,10 +123,12 @@ collectionId: spain
 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 5 |
 | [Stefano Modena 🇮🇹](/f1/drivers/modena) | 5 |
 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 5 |
+| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 5 |
 | [Alex Caffi 🇮🇹](/f1/drivers/caffi) | 4 |
 | [Alexander Wurz 🇦🇹](/f1/drivers/wurz) | 4 |
 | [Bruno Senna 🇧🇷](/f1/drivers/bruno_senna) | 4 |
 | [Christian Fittipaldi 🇧🇷](/f1/drivers/fittipaldi) | 4 |
+| [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 4 |
 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 4 |
 | [Éric Bernard 🇫🇷](/f1/drivers/bernard) | 4 |
 | [Jean-Éric Vergne 🇫🇷](/f1/drivers/vergne) | 4 |
@@ -134,6 +136,7 @@ collectionId: spain
 | [John Surtees 🇬🇧](/f1/drivers/surtees) | 4 |
 | [Jonathan Palmer 🇬🇧](/f1/drivers/palmer) | 4 |
 | [Kazuki Nakajima 🇯🇵](/f1/drivers/nakajima) | 4 |
+| [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 4 |
 | [Mark Blundell 🇬🇧](/f1/drivers/blundell) | 4 |
 | [Olivier Grouillard 🇫🇷](/f1/drivers/grouillard) | 4 |
 | [Patrick Tambay 🇫🇷](/f1/drivers/tambay) | 4 |
@@ -141,7 +144,6 @@ collectionId: spain
 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 4 |
 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 4 |
 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 4 |
-| [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 4 |
 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 4 |
 | [Alex Soler-Roig 🇪🇸](/f1/drivers/roig) | 3 |
 | [Andrea de Adamich 🇮🇹](/f1/drivers/adamich) | 3 |
@@ -149,9 +151,9 @@ collectionId: spain
 | [Bernd Schneider 🇩🇪](/f1/drivers/schneider) | 3 |
 | [Brett Lunger 🇺🇸](/f1/drivers/lunger) | 3 |
 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 3 |
+| [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 3 |
 | [Charles Pic 🇫🇷](/f1/drivers/pic) | 3 |
 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 3 |
-| [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 3 |
 | [David Brabham 🇦🇺](/f1/drivers/brabham) | 3 |
 | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 3 |
 | [Elio de Angelis 🇮🇹](/f1/drivers/angelis) | 3 |
@@ -169,7 +171,8 @@ collectionId: spain
 | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 3 |
 | [Karl Wendlinger 🇦🇹](/f1/drivers/wendlinger) | 3 |
 | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 3 |
-| [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 3 |
+| [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 3 |
+| [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 3 |
 | [Mike Hailwood 🇬🇧](/f1/drivers/hailwood) | 3 |
 | [Nelson Piquet Jr. 🇧🇷](/f1/drivers/piquet_jr) | 3 |
 | [Paul Belmondo 🇫🇷](/f1/drivers/belmondo) | 3 |
@@ -185,7 +188,6 @@ collectionId: spain
 | [Brian Henton 🇬🇧](/f1/drivers/henton) | 2 |
 | [Brian Redman 🇬🇧](/f1/drivers/redman) | 2 |
 | [Bruno Giacomelli 🇮🇹](/f1/drivers/giacomelli) | 2 |
-| [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 2 |
 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 2 |
 | [Christian Klien 🇦🇹](/f1/drivers/klien) | 2 |
 | [Cristiano da Matta 🇧🇷](/f1/drivers/matta) | 2 |
@@ -199,10 +201,10 @@ collectionId: spain
 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 2 |
 | [Harald Ertl 🇦🇹](/f1/drivers/ertl) | 2 |
 | [Jérôme d'Ambrosio 🇧🇪](/f1/drivers/ambrosio) | 2 |
+| [Jolyon Palmer 🇬🇧](/f1/drivers/jolyon_palmer) | 2 |
 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 |
 | [Jules Bianchi 🇫🇷](/f1/drivers/jules_bianchi) | 2 |
 | [Karun Chandhok 🇮🇳](/f1/drivers/chandhok) | 2 |
-| [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 2 |
 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 2 |
 | [Lucas di Grassi 🇧🇷](/f1/drivers/grassi) | 2 |
 | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 2 |
@@ -210,10 +212,10 @@ collectionId: spain
 | [Marc Gené 🇪🇸](/f1/drivers/gene) | 2 |
 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 2 |
 | [Max Chilton 🇬🇧](/f1/drivers/chilton) | 2 |
-| [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 2 |
 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 2 |
 | [Oscar Larrauri 🇦🇷](/f1/drivers/larrauri) | 2 |
 | [Paco Godia 🇪🇸](/f1/drivers/godia) | 2 |
+| [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 2 |
 | [Peter Gethin 🇬🇧](/f1/drivers/gethin) | 2 |
 | [Peter Revson 🇺🇸](/f1/drivers/revson) | 2 |
 | [Prince Bira 🇹🇭](/f1/drivers/bira) | 2 |
@@ -246,6 +248,7 @@ collectionId: spain
 | [Eliseo Salazar 🇨🇱](/f1/drivers/salazar) | 1 |
 | [Emilio Zapico 🇪🇸](/f1/drivers/zapico) | 1 |
 | [Enrico Bertaggia 🇮🇹](/f1/drivers/bertaggia) | 1 |
+| [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 1 |
 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 1 |
 | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 1 |
 | [Franck Montagny 🇫🇷](/f1/drivers/montagny) | 1 |
@@ -274,13 +277,13 @@ collectionId: spain
 | [Johnny Claes 🇧🇪](/f1/drivers/claes) | 1 |
 | [Johnny Dumfries 🇬🇧](/f1/drivers/dumfries) | 1 |
 | [Johnny Servoz-Gavin 🇫🇷](/f1/drivers/gavin) | 1 |
-| [Jolyon Palmer 🇬🇧](/f1/drivers/jolyon_palmer) | 1 |
 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 1 |
 | [Juan Jover 🇪🇸](/f1/drivers/jover) | 1 |
 | [Julian Bailey 🇬🇧](/f1/drivers/bailey) | 1 |
 | [Justin Wilson 🇬🇧](/f1/drivers/wilson) | 1 |
 | [Karl Kling 🇩🇪](/f1/drivers/kling) | 1 |
 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 1 |
+| [Lance Stroll 🇨🇦](/f1/drivers/stroll) | 1 |
 | [Larry Perkins 🇦🇺](/f1/drivers/perkins) | 1 |
 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 1 |
 | [Loris Kessel 🇨🇭](/f1/drivers/kessel) | 1 |
@@ -302,7 +305,6 @@ collectionId: spain
 | [Ottorino Volonterio 🇨🇭](/f1/drivers/volonterio) | 1 |
 | [Paolo Barilla 🇮🇹](/f1/drivers/barilla) | 1 |
 | [Pascal Fabre 🇫🇷](/f1/drivers/fabre) | 1 |
-| [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 1 |
 | [Patrick Friesacher 🇦🇹](/f1/drivers/friesacher) | 1 |
 | [Patrick Nève 🇧🇪](/f1/drivers/neve) | 1 |
 | [Pedro Lamy 🇵🇹](/f1/drivers/lamy) | 1 |
@@ -324,6 +326,7 @@ collectionId: spain
 | [Siegfried Stohr 🇮🇹](/f1/drivers/stohr) | 1 |
 | [Slim Borgudd 🇸🇪](/f1/drivers/borgudd) | 1 |
 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 1 |
+| [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 1 |
 | [Taki Inoue 🇯🇵](/f1/drivers/inoue) | 1 |
 | [Tom Belsø 🇩🇰](/f1/drivers/belso) | 1 |
 | [Tony Brise 🇬🇧](/f1/drivers/brise) | 1 |
@@ -334,15 +337,15 @@ collectionId: spain
 #### Statistic Summary
 
 | **Column** | **Times** |
-| **Row Count** | 306 |
-| **Total Sum** | 1277.000 |
-| **Mean μ (Average)** | 4.173 |
+| **Row Count** | 309 |
+| **Total Sum** | 1297.000 |
+| **Mean μ (Average)** | 4.197 |
 | **Maximum** | 25.000 |
 | **75th Percentile** | 5.000 |
 | **Median** | 3.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 18.307 |
-| **Standard Deviation σ** | 4.279 |
+| **Variance** | 18.670 |
+| **Standard Deviation σ** | 4.321 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

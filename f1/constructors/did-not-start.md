@@ -603,7 +603,7 @@ var chart = new Chart("chart", {
 | 77. | OSCA 🇮🇹 | 2 | 25.00% |
 | 78. | Penske 🇺🇸 | 2 | 4.35% |
 | 79. | Rebaque 🇲🇽 | 2 | 66.67% |
-| 80. | Red Bull 🇦🇹 | 2 | 0.44% |
+| 80. | Red Bull 🇦🇹 | 2 | 0.43% |
 | 81. | Simtek 🇬🇧 | 2 | 5.00% |
 | 82. | Spirit 🇬🇧 | 2 | 8.00% |
 | 83. | Trojan 🇬🇧 | 2 | 25.00% |
@@ -645,14 +645,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Start** | **% Of Total Participations** |
 | **Row Count** | 116 | 116 |
-| **Total Sum** | 1537.000 | 3616.220 |
+| **Total Sum** | 1537.000 | 3616.210 |
 | **Mean μ (Average)** | 13.250 | 31.174 |
 | **Maximum** | 83.000 | 100.000 |
 | **75th Percentile** | 22.000 | 50.000 |
 | **Median** | 4.000 | 15.700 |
 | **25th Percentile** | 1.000 | 5.240 |
 | **Minimum** | 1.000 | 0.190 |
-| **Variance** | 319.636 | 1072.995 |
+| **Variance** | 319.636 | 1073.001 |
 | **Standard Deviation σ** | 17.878 | 32.757 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

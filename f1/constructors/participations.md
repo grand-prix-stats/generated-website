@@ -89,8 +89,8 @@ var data = {
                 "888888",
                 "888888",
                 "888888",
-                "888888",
                 "CF0F18",
+                "888888",
                 "888888",
                 "888888",
                 "2077C9",
@@ -211,8 +211,8 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "444444",
                 "4D4E52",
+                "444444",
                 "444444",
                 "444444",
                 "444444",
@@ -258,26 +258,26 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                2108.0,
-                1593.0,
-                1347.0,
+                2110.0,
+                1595.0,
+                1349.0,
                 881.0,
                 871.0,
-                714.0,
+                716.0,
                 672.0,
                 662.0,
-                637.0,
+                639.0,
                 611.0,
                 590.0,
                 562.0,
                 524.0,
                 520.0,
                 500.0,
-                458.0,
+                460.0,
                 436.0,
-                420.0,
-                350.0,
-                322.0,
+                422.0,
+                352.0,
+                324.0,
                 280.0,
                 268.0,
                 260.0,
@@ -335,7 +335,7 @@ var data = {
                 54.0,
                 54.0,
                 52.0,
-                50.0,
+                52.0,
                 48.0,
                 47.0,
                 46.0,
@@ -459,8 +459,8 @@ var data = {
         "Iso Marlboro",
         "Connaught",
         "Forti",
-        "Onyx",
         "Haas F1 Team",
+        "Onyx",
         "Rial",
         "HWM",
         "Penske",
@@ -540,26 +540,26 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Participations |
 |--|--|--|
-| 1. | Ferrari 🇮🇹 | 2108 |
-| 2. | McLaren 🇬🇧 | 1593 |
-| 3. | Williams 🇬🇧 | 1347 |
+| 1. | Ferrari 🇮🇹 | 2110 |
+| 2. | McLaren 🇬🇧 | 1595 |
+| 3. | Williams 🇬🇧 | 1349 |
 | 4. | Tyrrell 🇬🇧 | 881 |
 | 5. | Team Lotus 🇬🇧 | 871 |
-| 6. | Sauber 🇨🇭 | 714 |
+| 6. | Sauber 🇨🇭 | 716 |
 | 7. | Minardi 🇮🇹 | 672 |
 | 8. | Brabham 🇬🇧 | 662 |
-| 9. | Renault 🇫🇷 | 637 |
+| 9. | Renault 🇫🇷 | 639 |
 | 10. | Ligier 🇫🇷 | 611 |
 | 11. | Arrows 🇬🇧 | 590 |
 | 12. | BRM 🇬🇧 | 562 |
 | 13. | March 🇬🇧 | 524 |
 | 14. | Benetton 🇮🇹 | 520 |
 | 15. | Jordan 🇮🇪 | 500 |
-| 16. | Red Bull 🇦🇹 | 458 |
+| 16. | Red Bull 🇦🇹 | 460 |
 | 17. | Maserati 🇮🇹 | 436 |
-| 18. | Toro Rosso 🇮🇹 | 420 |
-| 19. | Force India 🇮🇳 | 350 |
-| 20. | Mercedes 🇩🇪 | 322 |
+| 18. | Toro Rosso 🇮🇹 | 422 |
+| 19. | Force India 🇮🇳 | 352 |
+| 20. | Mercedes 🇩🇪 | 324 |
 | 21. | Toyota 🇯🇵 | 280 |
 | 22. | Cooper-Climax 🇬🇧 | 268 |
 | 23. | Surtees 🇬🇧 | 260 |
@@ -616,8 +616,8 @@ var chart = new Chart("chart", {
 | 74. | Iso Marlboro 🇬🇧 | 55 |
 | 75. | Connaught 🇬🇧 | 54 |
 | 76. | Forti 🇮🇹 | 54 |
-| 77. | Onyx 🇬🇧 | 52 |
-| 78. | Haas F1 Team 🇺🇸 | 50 |
+| 77. | Haas F1 Team 🇺🇸 | 52 |
+| 78. | Onyx 🇬🇧 | 52 |
 | 79. | Rial 🇩🇪 | 48 |
 | 80. | HWM 🇬🇧 | 47 |
 | 81. | Penske 🇺🇸 | 46 |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Participations** |
 | **Row Count** | 120 |
-| **Total Sum** | 23139.000 |
-| **Mean μ (Average)** | 192.825 |
-| **Maximum** | 2108.000 |
+| **Total Sum** | 23159.000 |
+| **Mean μ (Average)** | 192.992 |
+| **Maximum** | 2110.000 |
 | **75th Percentile** | 211.000 |
 | **Median** | 79.000 |
 | **25th Percentile** | 32.000 |
 | **Minimum** | 8.000 |
-| **Variance** | 95931.011 |
-| **Standard Deviation σ** | 309.727 |
+| **Variance** | 96133.675 |
+| **Standard Deviation σ** | 310.054 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})
