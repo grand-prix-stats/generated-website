@@ -14,7 +14,7 @@ collectionId:
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2017-04-16 | 57 | 1:33:53.374 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | [Sochi Autodrom](/f1/circuits/sochi) | 2017-04-30 | 52 | 1:28:08.743 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | Mercedes 🇩🇪 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | 2017-05-14 | 66 | 1:35:56.497 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
-| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2017-05-28 |   |   |   |   |
+| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2017-05-28 | 78 | 1:44:44.340 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2017-06-11 |   |   |   |   |
 | 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2017-06-25 |   |   |   |   |
 | 2017 | 9 | 2017 Austrian Grand Prix 🇦🇹 | [Red Bull Ring](/f1/circuits/red_bull_ring) | 2017-07-09 |   |   |   |   |
@@ -33,15 +33,15 @@ collectionId:
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 20 |  |  |  | 5 |  |  |  |
-| **Total Sum** | 210.000 |  |  |  | 288.000 |  |  |  |
-| **Mean μ (Average)** | 10.500 |  |  |  | 57.600 |  |  |  |
-| **Maximum** | 20.000 |  |  |  | 66.000 |  |  |  |
-| **75th Percentile** | 16.000 |  |  |  | 57.000 |  |  |  |
+| **Row Count** | 20 |  |  |  | 6 |  |  |  |
+| **Total Sum** | 210.000 |  |  |  | 366.000 |  |  |  |
+| **Mean μ (Average)** | 10.500 |  |  |  | 61.000 |  |  |  |
+| **Maximum** | 20.000 |  |  |  | 78.000 |  |  |  |
+| **75th Percentile** | 16.000 |  |  |  | 66.000 |  |  |  |
 | **Median** | 11.000 |  |  |  | 57.000 |  |  |  |
 | **25th Percentile** | 6.000 |  |  |  | 56.000 |  |  |  |
 | **Minimum** | 1.000 |  |  |  | 52.000 |  |  |  |
-| **Variance** | 33.250 |  |  |  | 21.040 |  |  |  |
-| **Standard Deviation σ** | 5.766 |  |  |  | 4.587 |  |  |  |
+| **Variance** | 33.250 |  |  |  | 75.333 |  |  |  |
+| **Standard Deviation σ** | 5.766 |  |  |  | 8.679 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

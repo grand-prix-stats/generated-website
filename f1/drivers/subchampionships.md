@@ -261,7 +261,7 @@ var chart = new Chart("chart", {
 | 27. | [Heinz-Harald Frentzen 🇩🇪](/f1/drivers/frentzen) | 1 | 10.00% |
 | 28. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 | 6.25% |
 | 29. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 | 9.09% |
-| 30. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 | 5.88% |
+| 30. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 | 5.56% |
 | 31. | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 11.11% |
 | 32. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 | 11.11% |
 | 33. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 | 7.69% |
@@ -280,14 +280,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Subchampionships** | **% Of Total Seasons** |
 | **Row Count** | 43 | 43 |
-| **Total Sum** | 67.000 | 610.310 |
-| **Mean μ (Average)** | 1.558 | 14.193 |
+| **Total Sum** | 67.000 | 609.990 |
+| **Mean μ (Average)** | 1.558 | 14.186 |
 | **Maximum** | 4.000 | 36.360 |
 | **75th Percentile** | 2.000 | 18.180 |
 | **Median** | 1.000 | 11.110 |
 | **25th Percentile** | 1.000 | 9.090 |
-| **Minimum** | 1.000 | 5.880 |
-| **Variance** | 0.665 | 48.394 |
-| **Standard Deviation σ** | 0.816 | 6.957 |
+| **Minimum** | 1.000 | 5.560 |
+| **Variance** | 0.665 | 48.520 |
+| **Standard Deviation σ** | 0.816 | 6.966 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

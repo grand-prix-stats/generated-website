@@ -24,7 +24,7 @@ collectionId: monaco
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|
-| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2017-05-28 |   |   |   |   |
+| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2017-05-28 | 78 | 1:44:44.340 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2016 | 6 | 2016 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2016-05-29 | 78 | 1:59:29.133 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2015 | 6 | 2015 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2015-05-24 | 78 | 1:49:18.420 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2014 | 6 | 2014 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2014-05-25 | 78 | 1:49:27.661 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
@@ -92,15 +92,15 @@ collectionId: monaco
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 64 |  |  |  | 63 |  |  |  |
-| **Total Sum** | 289.000 |  |  |  | 5149.000 |  |  |  |
-| **Mean μ (Average)** | 4.516 |  |  |  | 81.730 |  |  |  |
+| **Row Count** | 64 |  |  |  | 64 |  |  |  |
+| **Total Sum** | 289.000 |  |  |  | 5227.000 |  |  |  |
+| **Mean μ (Average)** | 4.516 |  |  |  | 81.672 |  |  |  |
 | **Maximum** | 7.000 |  |  |  | 105.000 |  |  |  |
 | **75th Percentile** | 6.000 |  |  |  | 80.000 |  |  |  |
 | **Median** | 5.000 |  |  |  | 78.000 |  |  |  |
 | **25th Percentile** | 3.000 |  |  |  | 78.000 |  |  |  |
 | **Minimum** | 1.000 |  |  |  | 31.000 |  |  |  |
-| **Variance** | 3.531 |  |  |  | 137.880 |  |  |  |
-| **Standard Deviation σ** | 1.879 |  |  |  | 11.742 |  |  |  |
+| **Variance** | 3.531 |  |  |  | 135.939 |  |  |  |
+| **Standard Deviation σ** | 1.879 |  |  |  | 11.659 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -213,7 +213,7 @@ var chart = new Chart("chart", {
 | 19. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 | 10.00% |
 | 20. | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | 1 | 9.09% |
 | 21. | [James Hunt 🇬🇧](/f1/drivers/hunt) | 1 | 14.29% |
-| 22. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 | 5.88% |
+| 22. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 | 5.56% |
 | 23. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 | 14.29% |
 | 24. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 1 | 11.11% |
 | 25. | [John Surtees 🇬🇧](/f1/drivers/surtees) | 1 | 7.69% |
@@ -230,14 +230,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Championships** | **% Of Total Seasons** |
 | **Row Count** | 33 | 33 |
-| **Total Sum** | 67.000 | 612.110 |
-| **Mean μ (Average)** | 2.030 | 18.549 |
+| **Total Sum** | 67.000 | 611.790 |
+| **Mean μ (Average)** | 2.030 | 18.539 |
 | **Maximum** | 7.000 | 62.500 |
 | **75th Percentile** | 3.000 | 23.080 |
 | **Median** | 1.000 | 14.290 |
 | **25th Percentile** | 1.000 | 10.000 |
-| **Minimum** | 1.000 | 5.880 |
-| **Variance** | 1.969 | 142.854 |
-| **Standard Deviation σ** | 1.403 | 11.952 |
+| **Minimum** | 1.000 | 5.560 |
+| **Variance** | 1.969 | 143.103 |
+| **Standard Deviation σ** | 1.403 | 11.963 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

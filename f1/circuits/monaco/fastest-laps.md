@@ -54,7 +54,7 @@ var data = {
                 3.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -68,12 +68,12 @@ var data = {
         "Michael Schumacher",
         "Kimi Räikkönen",
         "Sebastian Vettel",
+        "Sergio Pérez",
         "Daniel Ricciardo",
         "Felipe Massa",
         "Fernando Alonso",
         "Lewis Hamilton",
-        "Mark Webber",
-        "Sergio Pérez"
+        "Mark Webber"
     ]
 };
 var options = {
@@ -114,19 +114,19 @@ var chart = new Chart("chart", {
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 3 |
 | 2. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
 | 3. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
-| 4. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
-| 5. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
-| 6. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
-| 7. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
-| 8. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
-| 9. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
+| 4. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 2 |
+| 5. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 6. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
+| 7. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
+| 8. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 9. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Fastest Laps** |
 | **Row Count** | 9 |
-| **Total Sum** | 13.000 |
-| **Mean μ (Average)** | 1.444 |
+| **Total Sum** | 14.000 |
+| **Mean μ (Average)** | 1.556 |
 | **Maximum** | 3.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 1.000 |

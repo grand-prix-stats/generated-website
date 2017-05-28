@@ -24,6 +24,7 @@ collectionId: vettel
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 2 | 1 | 25.0 | 78 | 1:44:44.340 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 | 2 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 2 | 2 | 18.0 | 66 | +3.490 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 | R |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 1 | 2 | 18.0 | 52 | +0.617 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 | 3 |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 3 | 1 | 25.0 | 57 | 1:33:53.374 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 5 | 4 |
@@ -212,15 +213,15 @@ collectionId: vettel
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 184 |  |  | 184 | 158 | 184 | 184 | 95 |  |  | 184 | 155 |
-| **Total Sum** | 1835.000 |  |  | 975.000 | 630.000 | 2212.000 | 9921.000 | 2221.489 |  |  | 1204.000 | 868.000 |
-| **Mean μ (Average)** | 9.973 |  |  | 5.299 | 3.987 | 12.022 | 53.918 | 23.384 |  |  | 6.543 | 5.600 |
+| **Row Count** | 185 |  |  | 185 | 159 | 185 | 185 | 95 |  |  | 185 | 156 |
+| **Total Sum** | 1841.000 |  |  | 977.000 | 631.000 | 2237.000 | 9999.000 | 2221.489 |  |  | 1205.000 | 870.000 |
+| **Mean μ (Average)** | 9.951 |  |  | 5.281 | 3.969 | 12.092 | 54.049 | 23.384 |  |  | 6.514 | 5.577 |
 | **Maximum** | 21.000 |  |  | 24.000 | 22.000 | 25.000 | 78.000 | 67.700 |  |  | 22.000 | 20.000 |
 | **75th Percentile** | 15.000 |  |  | 7.000 | 5.000 | 18.000 | 66.000 | 38.011 |  |  | 9.000 | 7.000 |
 | **Median** | 10.000 |  |  | 3.000 | 3.000 | 12.000 | 56.000 | 20.269 |  |  | 5.000 | 4.000 |
 | **25th Percentile** | 5.000 |  |  | 1.000 | 1.000 | 4.000 | 52.000 | 5.953 |  |  | 3.000 | 3.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.293 |  |  | 1.000 | 1.000 |
-| **Variance** | 30.592 |  |  | 27.492 | 14.494 | 79.652 | 298.390 | 317.579 |  |  | 26.618 | 16.795 |
-| **Standard Deviation σ** | 5.531 |  |  | 5.243 | 3.807 | 8.925 | 17.274 | 17.821 |  |  | 5.159 | 4.098 |
+| **Variance** | 30.511 |  |  | 27.402 | 14.458 | 80.127 | 299.895 | 317.579 |  |  | 26.639 | 16.770 |
+| **Standard Deviation σ** | 5.524 |  |  | 5.235 | 3.802 | 8.951 | 17.317 | 17.821 |  |  | 5.161 | 4.095 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

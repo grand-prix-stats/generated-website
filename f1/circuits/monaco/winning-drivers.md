@@ -114,7 +114,7 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
+                2.0,
                 1.0,
                 1.0,
                 1.0,
@@ -152,6 +152,7 @@ var data = {
         "Mark Webber",
         "Maurice Trintignant",
         "Niki Lauda",
+        "Sebastian Vettel",
         "Bruce McLaren",
         "Carlos Reutemann",
         "Denny Hulme",
@@ -168,8 +169,7 @@ var data = {
         "Olivier Panis",
         "Patrick Depailler",
         "Riccardo Patrese",
-        "Ronnie Peterson",
-        "Sebastian Vettel"
+        "Ronnie Peterson"
     ]
 };
 var options = {
@@ -222,37 +222,37 @@ var chart = new Chart("chart", {
 | 13. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 |
 | 14. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 2 |
 | 15. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 2 |
-| 16. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
-| 17. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
-| 18. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
-| 19. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
-| 20. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
-| 21. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
-| 22. | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 1 |
-| 23. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
-| 24. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
-| 25. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
-| 26. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
-| 27. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
-| 28. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
-| 29. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 1 |
-| 30. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 1 |
-| 31. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
-| 32. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
-| 33. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 16. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 |
+| 17. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 18. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 1 |
+| 19. | [Denny Hulme 🇳🇿](/f1/drivers/hulme) | 1 |
+| 20. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 1 |
+| 21. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 1 |
+| 22. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 1 |
+| 23. | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 1 |
+| 24. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
+| 25. | [Jochen Rindt 🇦🇹](/f1/drivers/rindt) | 1 |
+| 26. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 1 |
+| 27. | [Keke Rosberg 🇫🇮](/f1/drivers/keke_rosberg) | 1 |
+| 28. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 |
+| 29. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 1 |
+| 30. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 1 |
+| 31. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 1 |
+| 32. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 1 |
+| 33. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Wins** |
 | **Row Count** | 33 |
-| **Total Sum** | 63.000 |
-| **Mean μ (Average)** | 1.909 |
+| **Total Sum** | 64.000 |
+| **Mean μ (Average)** | 1.939 |
 | **Maximum** | 6.000 |
 | **75th Percentile** | 2.000 |
 | **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1.780 |
-| **Standard Deviation σ** | 1.334 |
+| **Variance** | 1.754 |
+| **Standard Deviation σ** | 1.324 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

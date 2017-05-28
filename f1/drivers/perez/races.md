@@ -24,6 +24,7 @@ collectionId: perez
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 7 | 13 | 0.0 | 78 | +39.089 | Force India 🇮🇳 | [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 15 | 12 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 8 | 4 | 12.0 | 65 |   | Force India 🇮🇳 | [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 10 | 5 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 9 | 6 | 8.0 | 52 | +1:26.788 | Force India 🇮🇳 | [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 10 | 7 |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 18 | 7 | 6.0 | 57 | +1:02.606 | Force India 🇮🇳 | [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 14 | 10 |
@@ -148,15 +149,15 @@ collectionId: perez
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 120 |  |  | 120 | 105 | 120 | 120 | 34 |  |  | 120 | 100 |
-| **Total Sum** | 1203.000 |  |  | 1373.000 | 969.000 | 401.000 | 6510.000 | 1283.553 |  |  | 1305.000 | 917.000 |
-| **Mean μ (Average)** | 10.025 |  |  | 11.442 | 9.229 | 3.342 | 54.250 | 37.752 |  |  | 10.875 | 9.170 |
+| **Row Count** | 121 |  |  | 121 | 106 | 121 | 121 | 35 |  |  | 121 | 101 |
+| **Total Sum** | 1209.000 |  |  | 1380.000 | 982.000 | 401.000 | 6588.000 | 1322.642 |  |  | 1320.000 | 929.000 |
+| **Mean μ (Average)** | 9.992 |  |  | 11.405 | 9.264 | 3.314 | 54.446 | 37.790 |  |  | 10.909 | 9.198 |
 | **Maximum** | 21.000 |  |  | 23.000 | 20.000 | 18.000 | 78.000 | 84.341 |  |  | 24.000 | 19.000 |
 | **75th Percentile** | 15.000 |  |  | 14.000 | 11.000 | 6.000 | 65.000 | 50.619 |  |  | 13.000 | 11.000 |
-| **Median** | 10.000 |  |  | 11.000 | 9.000 | 1.000 | 56.000 | 39.377 |  |  | 11.000 | 9.000 |
-| **25th Percentile** | 5.000 |  |  | 9.000 | 7.000 |  | 53.000 | 25.346 |  |  | 8.000 | 7.000 |
+| **Median** | 10.000 |  |  | 11.000 | 9.000 | 1.000 | 56.000 | 39.089 |  |  | 11.000 | 9.000 |
+| **25th Percentile** | 5.000 |  |  | 8.000 | 7.000 |  | 53.000 | 25.346 |  |  | 8.000 | 7.000 |
 | **Minimum** | 1.000 |  |  | 4.000 | 2.000 |  |  | 2.263 |  |  | 2.000 | 3.000 |
-| **Variance** | 33.091 |  |  | 15.547 | 12.329 | 20.608 | 260.871 | 352.067 |  |  | 14.909 | 11.321 |
-| **Standard Deviation σ** | 5.752 |  |  | 3.943 | 3.511 | 4.540 | 16.151 | 18.763 |  |  | 3.861 | 3.365 |
+| **Variance** | 32.950 |  |  | 15.580 | 12.345 | 20.529 | 263.338 | 342.057 |  |  | 14.926 | 11.288 |
+| **Standard Deviation σ** | 5.740 |  |  | 3.947 | 3.514 | 4.531 | 16.228 | 18.495 |  |  | 3.863 | 3.360 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

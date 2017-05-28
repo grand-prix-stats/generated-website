@@ -580,7 +580,7 @@ var chart = new Chart("chart", {
 | 54. | Bellasi 🇨🇭 | 4 | 66.67% |
 | 55. | Gilby 🇬🇧 | 4 | 57.14% |
 | 56. | HWM 🇬🇧 | 4 | 8.51% |
-| 57. | Renault 🇫🇷 | 4 | 0.63% |
+| 57. | Renault 🇫🇷 | 4 | 0.62% |
 | 58. | Scarab 🇺🇸 | 4 | 44.44% |
 | 59. | Alfa Romeo 🇮🇹 | 3 | 1.23% |
 | 60. | Brabham-BRM 🇬🇧 | 3 | 7.32% |
@@ -645,14 +645,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Start** | **% Of Total Participations** |
 | **Row Count** | 116 | 116 |
-| **Total Sum** | 1537.000 | 3616.210 |
+| **Total Sum** | 1537.000 | 3616.200 |
 | **Mean μ (Average)** | 13.250 | 31.174 |
 | **Maximum** | 83.000 | 100.000 |
 | **75th Percentile** | 22.000 | 50.000 |
 | **Median** | 4.000 | 15.700 |
 | **25th Percentile** | 1.000 | 5.240 |
 | **Minimum** | 1.000 | 0.190 |
-| **Variance** | 319.636 | 1073.001 |
+| **Variance** | 319.636 | 1073.006 |
 | **Standard Deviation σ** | 17.878 | 32.757 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

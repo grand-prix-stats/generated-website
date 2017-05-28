@@ -24,6 +24,7 @@ collectionId: button
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 20 | R | 0.0 | 57 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 12 | R |
 | 2016 | 21 | 2016 Abu Dhabi Grand Prix 🇦🇪 | 2016-11-27 | 12 | R | 0.0 | 12 |   | McLaren 🇬🇧 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 9 | 10 |
 | 2016 | 20 | 2016 Brazilian Grand Prix 🇧🇷 | 2016-11-13 | 17 | 16 | 0.0 | 71 | +1:21.994 | McLaren 🇬🇧 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 10 | 10 |
 | 2016 | 19 | 2016 Mexican Grand Prix 🇲🇽 | 2016-10-30 | 13 | 12 | 0.0 | 70 |   | McLaren 🇬🇧 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 11 | 13 |
@@ -336,15 +337,15 @@ collectionId: button
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 308 |  |  | 308 | 242 | 308 | 308 | 105 |  |  | 308 | 230 |
-| **Total Sum** | 2984.000 |  |  | 3072.000 | 1793.000 | 1235.000 | 16217.000 | 2994.789 |  |  | 2993.000 | 1882.000 |
-| **Mean μ (Average)** | 9.688 |  |  | 9.974 | 7.409 | 4.010 | 52.653 | 28.522 |  |  | 9.718 | 8.183 |
+| **Row Count** | 309 |  |  | 309 | 242 | 309 | 309 | 105 |  |  | 309 | 230 |
+| **Total Sum** | 2990.000 |  |  | 3092.000 | 1793.000 | 1235.000 | 16274.000 | 2994.789 |  |  | 3005.000 | 1882.000 |
+| **Mean μ (Average)** | 9.676 |  |  | 10.006 | 7.409 | 3.997 | 52.667 | 28.522 |  |  | 9.725 | 8.183 |
 | **Maximum** | 21.000 |  |  | 22.000 | 18.000 | 25.000 | 78.000 | 72.056 |  |  | 24.000 | 20.000 |
 | **75th Percentile** | 14.000 |  |  | 14.000 | 11.000 | 6.000 | 66.000 | 40.794 |  |  | 14.000 | 11.000 |
 | **Median** | 10.000 |  |  | 10.000 | 7.000 | 1.000 | 56.000 | 27.996 |  |  | 9.000 | 8.000 |
 | **25th Percentile** | 5.000 |  |  | 5.000 | 4.000 |  | 52.000 | 12.658 |  |  | 5.000 | 5.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.497 |  |  | 1.000 | 1.000 |
-| **Variance** | 28.500 |  |  | 29.045 | 18.895 | 35.347 | 364.584 | 289.393 |  |  | 30.690 | 19.436 |
-| **Standard Deviation σ** | 5.339 |  |  | 5.389 | 4.347 | 5.945 | 19.094 | 17.012 |  |  | 5.540 | 4.409 |
+| **Variance** | 28.452 |  |  | 29.275 | 18.895 | 35.285 | 363.465 | 289.393 |  |  | 30.607 | 19.436 |
+| **Standard Deviation σ** | 5.334 |  |  | 5.411 | 4.347 | 5.940 | 19.065 | 17.012 |  |  | 5.532 | 4.409 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

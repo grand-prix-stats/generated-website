@@ -202,6 +202,7 @@ var data = {
                 5.0,
                 5.0,
                 5.0,
+                5.0,
                 4.0,
                 4.0,
                 4.0,
@@ -226,7 +227,6 @@ var data = {
                 3.0,
                 3.0,
                 3.0,
-                2.0,
                 2.0,
                 2.0,
                 2.0,
@@ -288,22 +288,23 @@ var data = {
         "Jody Scheckter",
         "Lewis Hamilton",
         "Rubens Barrichello",
+        "Sebastian Vettel",
         "David Coulthard",
         "Eddie Irvine",
         "Fernando Alonso",
         "Gerhard Berger",
         "Jackie Stewart",
+        "Kimi Räikkönen",
         "Mark Webber",
         "Nico Rosberg",
         "Niki Lauda",
-        "Sebastian Vettel",
         "Bruce McLaren",
         "Carlos Reutemann",
+        "Daniel Ricciardo",
         "Emerson Fittipaldi",
         "Jean Alesi",
         "Jenson Button",
         "Juan Fangio",
-        "Kimi Räikkönen",
         "Lorenzo Bandini",
         "Maurice Trintignant",
         "Michele Alboreto",
@@ -313,7 +314,6 @@ var data = {
         "Ronnie Peterson",
         "Stirling Moss",
         "Damon Hill",
-        "Daniel Ricciardo",
         "Felipe Massa",
         "Giancarlo Fisichella",
         "Jack Brabham",
@@ -406,32 +406,32 @@ var chart = new Chart("chart", {
 | 5. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 5 |
 | 6. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
 | 7. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 5 |
-| 8. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
-| 9. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 4 |
-| 10. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 4 |
-| 11. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 4 |
-| 12. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 4 |
-| 13. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 4 |
-| 14. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 4 |
-| 15. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 4 |
-| 16. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 |
-| 17. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 3 |
-| 18. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 3 |
-| 19. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 3 |
-| 20. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 3 |
-| 21. | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
-| 22. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
-| 23. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 |
-| 24. | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 3 |
-| 25. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 3 |
-| 26. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 3 |
-| 27. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
-| 28. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 3 |
-| 29. | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 3 |
-| 30. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 3 |
-| 31. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 3 |
-| 32. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
-| 33. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2 |
+| 8. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 5 |
+| 9. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 4 |
+| 10. | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | 4 |
+| 11. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 4 |
+| 12. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 4 |
+| 13. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 4 |
+| 14. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 |
+| 15. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 4 |
+| 16. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 4 |
+| 17. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 4 |
+| 18. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 3 |
+| 19. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 3 |
+| 20. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 3 |
+| 21. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 3 |
+| 22. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 3 |
+| 23. | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
+| 24. | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 3 |
+| 25. | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 3 |
+| 26. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 3 |
+| 27. | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 3 |
+| 28. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
+| 29. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 3 |
+| 30. | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 3 |
+| 31. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 3 |
+| 32. | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 3 |
+| 33. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 2 |
 | 34. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 2 |
 | 35. | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 2 |
 | 36. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
@@ -485,14 +485,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Podiums** |
 | **Row Count** | 81 |
-| **Total Sum** | 191.000 |
-| **Mean μ (Average)** | 2.358 |
+| **Total Sum** | 194.000 |
+| **Mean μ (Average)** | 2.395 |
 | **Maximum** | 8.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 2.501 |
-| **Standard Deviation σ** | 1.582 |
+| **Variance** | 2.585 |
+| **Standard Deviation σ** | 1.608 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

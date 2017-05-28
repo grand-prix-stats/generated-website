@@ -14,7 +14,7 @@ collectionId:
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2017-04-16 | 57 | 1:33:53.374 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | [Sochi Autodrom](/f1/circuits/sochi) | 2017-04-30 | 52 | 1:28:08.743 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | Mercedes 🇩🇪 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | 2017-05-14 | 66 | 1:35:56.497 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
-| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2017-05-28 |   |   |   |   |
+| 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2017-05-28 | 78 | 1:44:44.340 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
 | 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2017-06-11 |   |   |   |   |
 | 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2017-06-25 |   |   |   |   |
 | 2017 | 9 | 2017 Austrian Grand Prix 🇦🇹 | [Red Bull Ring](/f1/circuits/red_bull_ring) | 2017-07-09 |   |   |   |   |
@@ -989,15 +989,15 @@ collectionId:
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 976 |  |  |  | 961 |  |  |  |
-| **Total Sum** | 7978.000 |  |  |  | 62854.000 |  |  |  |
-| **Mean μ (Average)** | 8.174 |  |  |  | 65.405 |  |  |  |
+| **Row Count** | 976 |  |  |  | 962 |  |  |  |
+| **Total Sum** | 7978.000 |  |  |  | 62932.000 |  |  |  |
+| **Mean μ (Average)** | 8.174 |  |  |  | 65.418 |  |  |  |
 | **Maximum** | 21.000 |  |  |  | 200.000 |  |  |  |
 | **75th Percentile** | 12.000 |  |  |  | 75.000 |  |  |  |
 | **Median** | 8.000 |  |  |  | 65.000 |  |  |  |
 | **25th Percentile** | 4.000 |  |  |  | 54.000 |  |  |  |
 | **Minimum** | 1.000 |  |  |  | 12.000 |  |  |  |
-| **Variance** | 23.392 |  |  |  | 451.941 |  |  |  |
-| **Standard Deviation σ** | 4.837 |  |  |  | 21.259 |  |  |  |
+| **Variance** | 23.392 |  |  |  | 451.636 |  |  |  |
+| **Standard Deviation σ** | 4.837 |  |  |  | 21.252 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

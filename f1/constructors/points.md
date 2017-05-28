@@ -218,11 +218,11 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                7714.77,
+                7757.77,
                 5284.5,
-                3592.5,
-                3494.0,
-                3350.14,
+                3617.5,
+                3496.0,
+                3368.14,
                 1340.0,
                 995.0,
                 861.5,
@@ -233,7 +233,7 @@ var data = {
                 537.5,
                 508.0,
                 388.0,
-                350.0,
+                358.0,
                 336.5,
                 313.14,
                 308.0,
@@ -266,7 +266,7 @@ var data = {
                 47.0,
                 44.0,
                 44.0,
-                38.0,
+                43.0,
                 38.0,
                 37.0,
                 36.0,
@@ -460,11 +460,11 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Points |
 |--|--|--|
-| 1. | Ferrari 🇮🇹 | 7714.77 |
+| 1. | Ferrari 🇮🇹 | 7757.77 |
 | 2. | McLaren 🇬🇧 | 5284.5 |
-| 3. | Red Bull 🇦🇹 | 3592.5 |
-| 4. | Williams 🇬🇧 | 3494.0 |
-| 5. | Mercedes 🇩🇪 | 3350.14 |
+| 3. | Red Bull 🇦🇹 | 3617.5 |
+| 4. | Williams 🇬🇧 | 3496.0 |
+| 5. | Mercedes 🇩🇪 | 3368.14 |
 | 6. | Renault 🇫🇷 | 1340.0 |
 | 7. | Team Lotus 🇬🇧 | 995.0 |
 | 8. | Benetton 🇮🇹 | 861.5 |
@@ -475,7 +475,7 @@ var chart = new Chart("chart", {
 | 13. | BRM 🇬🇧 | 537.5 |
 | 14. | Sauber 🇨🇭 | 508.0 |
 | 15. | Ligier 🇫🇷 | 388.0 |
-| 16. | Toro Rosso 🇮🇹 | 350.0 |
+| 16. | Toro Rosso 🇮🇹 | 358.0 |
 | 17. | Cooper-Climax 🇬🇧 | 336.5 |
 | 18. | Maserati 🇮🇹 | 313.14 |
 | 19. | BMW Sauber 🇩🇪 | 308.0 |
@@ -508,7 +508,7 @@ var chart = new Chart("chart", {
 | 46. | Stewart 🇬🇧 | 47.0 |
 | 47. | Epperly 🇺🇸 | 44.0 |
 | 48. | Fittipaldi 🇧🇷 | 44.0 |
-| 49. | Haas F1 Team 🇺🇸 | 38.0 |
+| 49. | Haas F1 Team 🇺🇸 | 43.0 |
 | 50. | Minardi 🇮🇹 | 38.0 |
 | 51. | March-Ford 🇬🇧 | 37.0 |
 | 52. | Watson 🇺🇸 | 36.0 |
@@ -565,14 +565,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Points** |
 | **Row Count** | 100 |
-| **Total Sum** | 36559.550 |
-| **Mean μ (Average)** | 365.596 |
-| **Maximum** | 7714.770 |
+| **Total Sum** | 36660.550 |
+| **Mean μ (Average)** | 366.606 |
+| **Maximum** | 7757.770 |
 | **75th Percentile** | 209.000 |
 | **Median** | 38.000 |
 | **25th Percentile** | 8.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 1178392.786 |
-| **Standard Deviation σ** | 1085.538 |
+| **Variance** | 1187518.736 |
+| **Standard Deviation σ** | 1089.733 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

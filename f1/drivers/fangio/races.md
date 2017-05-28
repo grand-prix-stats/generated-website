@@ -104,8 +104,8 @@ collectionId: fangio
 | 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 7 | 2 | 3.0 | 50 | +5.7 | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 0 | W |
 | 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 1 | 8 | 0.0 | 46 |   | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 1 | 8 |
 | 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 1 | 8 | 0.0 | 46 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 7 | 2 |
-| 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 1 | 8 | 0.0 | 46 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 7 | 2 |
 | 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 7 | 2 | 3.0 | 50 | +5.7 | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 1 | 8 |
+| 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 1 | 8 | 0.0 | 46 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 7 | 2 |
 | 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 7 | 2 | 3.0 | 50 | +5.7 | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 7 | 2 |
 | 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 7 | 2 | 3.0 | 50 | +5.7 | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 7 | 2 |
 | 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 1 | 8 | 0.0 | 46 |   | Ferrari 🇮🇹 | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 3 | R |
@@ -143,18 +143,18 @@ collectionId: fangio
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 9 | 2 | 4.0 | 100 | +6.1 | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 3 | R |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 9 | 2 | 4.0 | 100 | +6.1 | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 1 | 4 |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 1 | 4 | 1.5 | 99 |   | Ferrari 🇮🇹 | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 8 | R |
-| 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 1 | 4 | 1.5 | 99 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 9 | 2 |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 9 | 2 | 4.0 | 100 | +6.1 | Ferrari 🇮🇹 | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 8 | R |
-| 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 9 | 2 | 4.0 | 100 | +6.1 | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 9 | 2 |
+| 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 1 | 4 | 1.5 | 99 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 9 | 2 |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 1 | 4 | 1.5 | 99 |   | Ferrari 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 0 | F |
+| 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 9 | 2 | 4.0 | 100 | +6.1 | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 9 | 2 |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 1 | 4 | 1.5 | 99 |   | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 3 | R |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 9 | 2 | 4.0 | 100 | +6.1 | Ferrari 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 0 | F |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 9 | 2 | 4.0 | 100 | +6.1 | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 3 | R |
 | 1956 | 2 | 1956 Monaco Grand Prix 🇲🇨 | 1956-05-13 | 1 | 4 | 1.5 | 99 |   | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 1 | 4 |
 | 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 3 | 1 | 5.0 | 98 | 3:00:03.7 | Ferrari 🇮🇹 | [Olivier Gendebien 🇧🇪](/f1/drivers/gendebien) | 10 | 5 |
 | 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 1 | R | 0.0 | 22 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 9 | R |
-| 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 1 | R | 0.0 | 22 |   | Ferrari 🇮🇹 | [Olivier Gendebien 🇧🇪](/f1/drivers/gendebien) | 10 | 5 |
 | 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 3 | 1 | 5.0 | 98 | 3:00:03.7 | Ferrari 🇮🇹 | [Eugenio Castellotti 🇮🇹](/f1/drivers/castellotti) | 2 | R |
+| 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 1 | R | 0.0 | 22 |   | Ferrari 🇮🇹 | [Olivier Gendebien 🇧🇪](/f1/drivers/gendebien) | 10 | 5 |
 | 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 1 | R | 0.0 | 22 |   | Ferrari 🇮🇹 | [Luigi Musso 🇮🇹](/f1/drivers/musso) | 3 | 1 |
 | 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 3 | 1 | 5.0 | 98 | 3:00:03.7 | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 9 | R |
 | 1956 | 1 | 1956 Argentine Grand Prix 🇦🇷 | 1956-01-22 | 3 | 1 | 5.0 | 98 | 3:00:03.7 | Ferrari 🇮🇹 | [Olivier Gendebien 🇧🇪](/f1/drivers/gendebien) | 10 | 5 |
@@ -300,10 +300,10 @@ collectionId: fangio
 | 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 7 | 1 | 5.0 | 77 | 3:22:11.0 | Alfa Romeo 🇮🇹 | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 7 | 1 |
 | 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 1 | 11 | 0.0 | 55 |   | Alfa Romeo 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 2 | 5 |
 | 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 7 | 1 | 5.0 | 77 | 3:22:11.0 | Alfa Romeo 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 2 | 5 |
-| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 1 | 11 | 0.0 | 55 |   | Alfa Romeo 🇮🇹 | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 7 | 1 |
 | 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 1 | 11 | 0.0 | 55 |   | Alfa Romeo 🇮🇹 | [Consalvo Sanesi 🇮🇹](/f1/drivers/sanesi) | 5 | 10 |
-| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 7 | 1 | 5.0 | 77 | 3:22:11.0 | Alfa Romeo 🇮🇹 | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 7 | 1 |
+| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 1 | 11 | 0.0 | 55 |   | Alfa Romeo 🇮🇹 | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 7 | 1 |
 | 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 7 | 1 | 5.0 | 77 | 3:22:11.0 | Alfa Romeo 🇮🇹 | [Consalvo Sanesi 🇮🇹](/f1/drivers/sanesi) | 5 | 10 |
+| 1951 | 4 | 1951 French Grand Prix 🇫🇷 | 1951-07-01 | 7 | 1 | 5.0 | 77 | 3:22:11.0 | Alfa Romeo 🇮🇹 | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 7 | 1 |
 | 1951 | 3 | 1951 Belgian Grand Prix 🇧🇪 | 1951-06-17 | 1 | 9 | 1.0 | 32 |   | Alfa Romeo 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 2 | 1 |
 | 1951 | 3 | 1951 Belgian Grand Prix 🇧🇪 | 1951-06-17 | 1 | 9 | 1.0 | 32 |   | Alfa Romeo 🇮🇹 | [Consalvo Sanesi 🇮🇹](/f1/drivers/sanesi) | 6 | R |
 | 1951 | 1 | 1951 Swiss Grand Prix 🇨🇭 | 1951-05-27 | 1 | 1 | 9.0 | 42 | 2:07:53.64 | Alfa Romeo 🇮🇹 | [Consalvo Sanesi 🇮🇹](/f1/drivers/sanesi) | 4 | 4 |

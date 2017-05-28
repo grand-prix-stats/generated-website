@@ -221,7 +221,7 @@ var data = {
                 24.0,
                 22.0,
                 24.0,
-                21.0
+                22.0
             ],
             "label": "Drivers"
         }
@@ -399,20 +399,20 @@ var chart = new Chart("chart", {
 | 2014 | 24 |
 | 2015 | 22 |
 | 2016 | 24 |
-| 2017 | 21 |
+| 2017 | 22 |
 
 #### Statistic Summary
 
 | **Column** | **Drivers** |
 | **Row Count** | 68 |
-| **Total Sum** | 3055.000 |
-| **Mean μ (Average)** | 44.926 |
+| **Total Sum** | 3056.000 |
+| **Mean μ (Average)** | 44.941 |
 | **Maximum** | 108.000 |
 | **75th Percentile** | 54.000 |
 | **Median** | 39.000 |
 | **25th Percentile** | 27.000 |
-| **Minimum** | 21.000 |
-| **Variance** | 519.245 |
-| **Standard Deviation σ** | 22.787 |
+| **Minimum** | 22.000 |
+| **Variance** | 518.555 |
+| **Standard Deviation σ** | 22.772 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

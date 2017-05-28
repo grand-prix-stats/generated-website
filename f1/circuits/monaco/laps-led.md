@@ -78,11 +78,11 @@ var data = {
                 167.0,
                 153.0,
                 140.0,
+                121.0,
+                118.0,
                 101.0,
                 93.0,
-                85.0,
                 78.0,
-                76.0,
                 74.0,
                 40.0,
                 38.0,
@@ -103,11 +103,11 @@ var data = {
         "Lewis Hamilton",
         "Fernando Alonso",
         "Mark Webber",
+        "Sebastian Vettel",
+        "Kimi Räikkönen",
         "David Coulthard",
         "Jenson Button",
-        "Kimi Räikkönen",
         "Mika Häkkinen",
-        "Sebastian Vettel",
         "Jarno Trulli",
         "Juan Pablo Montoya",
         "Damon Hill",
@@ -160,11 +160,11 @@ var chart = new Chart("chart", {
 | 3. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 167 |
 | 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 153 |
 | 5. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 140 |
-| 6. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 101 |
-| 7. | [Jenson Button 🇬🇧](/f1/drivers/button) | 93 |
-| 8. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 85 |
-| 9. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 78 |
-| 10. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 76 |
+| 6. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 121 |
+| 7. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 118 |
+| 8. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 101 |
+| 9. | [Jenson Button 🇬🇧](/f1/drivers/button) | 93 |
+| 10. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 78 |
 | 11. | [Jarno Trulli 🇮🇹](/f1/drivers/trulli) | 74 |
 | 12. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 40 |
 | 13. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 38 |
@@ -180,14 +180,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Laps Led** |
 | **Row Count** | 20 |
-| **Total Sum** | 1616.000 |
-| **Mean μ (Average)** | 80.800 |
+| **Total Sum** | 1694.000 |
+| **Mean μ (Average)** | 84.700 |
 | **Maximum** | 282.000 |
 | **75th Percentile** | 140.000 |
-| **Median** | 76.000 |
+| **Median** | 78.000 |
 | **25th Percentile** | 23.000 |
 | **Minimum** | 5.000 |
-| **Variance** | 4876.560 |
-| **Standard Deviation σ** | 69.832 |
+| **Variance** | 5009.310 |
+| **Standard Deviation σ** | 70.776 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})
