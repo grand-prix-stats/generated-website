@@ -1,0 +1,52 @@
+---
+title: List of All Formula 1® Races in Mexico by Year
+layout: page
+collectionName: countries
+collectionId: mexico
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Circuit</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>2017</td><td>18</td><td>2017 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>2017-10-29T00:00:00.000Z</td><td> </td><td> </td><td> </td><td> </td></tr>
+<tr><td>2016</td><td>19</td><td>2016 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>2016-10-30T00:00:00.000Z</td><td>71</td><td>1:40:31.402</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2015</td><td>17</td><td>2015 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>2015-11-01T00:00:00.000Z</td><td>71</td><td>1:42:35.038</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>1992</td><td>2</td><td>1992 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1992-03-22T00:00:00.000Z</td><td>69</td><td>1:31:53.587</td><td><a href="/f1/drivers/mansell">Nigel Mansell 🇬🇧</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1991</td><td>6</td><td>1991 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1991-06-16T00:00:00.000Z</td><td>67</td><td>1:29:52.205</td><td><a href="/f1/drivers/patrese">Riccardo Patrese 🇮🇹</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1990</td><td>6</td><td>1990 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1990-06-24T00:00:00.000Z</td><td>69</td><td>1:32:35.783</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1989</td><td>4</td><td>1989 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1989-05-28T00:00:00.000Z</td><td>69</td><td>1:35:21.431</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1988</td><td>4</td><td>1988 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1988-05-29T00:00:00.000Z</td><td>67</td><td>1:30:15.737</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1987</td><td>14</td><td>1987 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1987-10-18T00:00:00.000Z</td><td>63</td><td>1:26:24.207</td><td><a href="/f1/drivers/mansell">Nigel Mansell 🇬🇧</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1986</td><td>15</td><td>1986 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1986-10-12T00:00:00.000Z</td><td>68</td><td>1:33:18.700</td><td><a href="/f1/drivers/berger">Gerhard Berger 🇦🇹</a></td><td>Benetton 🇮🇹</td></tr>
+<tr><td>1970</td><td>13</td><td>1970 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1970-10-25T00:00:00.000Z</td><td>65</td><td>1:53:28.3</td><td><a href="/f1/drivers/ickx">Jacky Ickx 🇧🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1969</td><td>11</td><td>1969 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1969-10-19T00:00:00.000Z</td><td>65</td><td>1:54:08.80</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>McLaren-Ford 🇬🇧</td></tr>
+<tr><td>1968</td><td>12</td><td>1968 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1968-11-03T00:00:00.000Z</td><td>65</td><td>1:56:43.95</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>Lotus-Ford 🇬🇧</td></tr>
+<tr><td>1967</td><td>11</td><td>1967 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1967-10-22T00:00:00.000Z</td><td>65</td><td>1:59:28.70</td><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>Lotus-Ford 🇬🇧</td></tr>
+<tr><td>1966</td><td>9</td><td>1966 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1966-10-23T00:00:00.000Z</td><td>65</td><td>2:06:35.34</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>Cooper-Maserati 🇬🇧</td></tr>
+<tr><td>1965</td><td>10</td><td>1965 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1965-10-24T00:00:00.000Z</td><td>65</td><td>2:08:32.10</td><td><a href="/f1/drivers/ginther">Richie Ginther 🇺🇸</a></td><td>Honda 🇯🇵</td></tr>
+<tr><td>1964</td><td>10</td><td>1964 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1964-10-25T00:00:00.000Z</td><td>65</td><td>2:09:50.32</td><td><a href="/f1/drivers/gurney">Dan Gurney 🇺🇸</a></td><td>Brabham-Climax 🇬🇧</td></tr>
+<tr><td>1963</td><td>9</td><td>1963 Mexican Grand Prix 🇲🇽</td><td><a href="/f1/circuits/rodriguez">Autódromo Hermanos Rodríguez</a></td><td>1963-10-27T00:00:00.000Z</td><td>65</td><td>2:09:52.1</td><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>Lotus-Climax 🇬🇧</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Circuit</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>18</td><td></td><td></td><td>18</td><td>17</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>190.000</td><td></td><td></td><td>8063625600.000</td><td>1134.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>10.556</td><td></td><td></td><td>447979200.000</td><td>66.706</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>19.000</td><td></td><td></td><td>1509235200.000</td><td>71.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>14.000</td><td></td><td></td><td>677030400.000</td><td>69.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>11.000</td><td></td><td></td><td>561513600.000</td><td>65.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td></td><td>-69292800.000</td><td>65.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>2.000</td><td></td><td></td><td>-195091200.000</td><td>63.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>23.025</td><td></td><td></td><td>317561122368000000.000</td><td>5.384</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>4.798</td><td></td><td></td><td>563525618.200</td><td>2.320</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

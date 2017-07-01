@@ -1,0 +1,74 @@
+---
+title: List of Formula 1® Races by Tim Schenken
+layout: page
+collectionName: drivers
+collectionId: schenken
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1974</td><td>15</td><td>1974 United States Grand Prix 🇺🇸</td><td>1974-10-06T00:00:00.000Z</td><td>27</td><td>D</td><td>0.0</td><td>6</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>19</td><td>R</td></tr>
+<tr><td>1974</td><td>15</td><td>1974 United States Grand Prix 🇺🇸</td><td>1974-10-06T00:00:00.000Z</td><td>27</td><td>D</td><td>0.0</td><td>6</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/ickx">Jacky Ickx 🇧🇪</a></td><td>16</td><td>R</td></tr>
+<tr><td>1973</td><td>14</td><td>1973 Canadian Grand Prix 🇨🇦</td><td>1973-09-23T00:00:00.000Z</td><td>24</td><td>14</td><td>0.0</td><td>75</td><td> </td><td>Iso Marlboro 🇬🇧</td><td><a href="/f1/drivers/ganley">Howden Ganley 🇳🇿</a></td><td>22</td><td>6</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>31</td><td>R</td><td>0.0</td><td>22</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/posey">Sam Posey 🇺🇸</a></td><td>22</td><td>12</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>31</td><td>R</td><td>0.0</td><td>22</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>14</td><td>17</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>31</td><td>R</td><td>0.0</td><td>22</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>19</td><td>R</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>13</td><td>7</td><td>0.0</td><td>79</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>15</td><td>R</td></tr>
+<tr><td>1972</td><td>10</td><td>1972 Italian Grand Prix 🇮🇹</td><td>1972-09-10T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>9</td><td>2</td></tr>
+<tr><td>1972</td><td>10</td><td>1972 Italian Grand Prix 🇮🇹</td><td>1972-09-10T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1972</td><td>10</td><td>1972 Italian Grand Prix 🇮🇹</td><td>1972-09-10T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>22</td><td>R</td></tr>
+<tr><td>1972</td><td>9</td><td>1972 Austrian Grand Prix 🇦🇹</td><td>1972-08-13T00:00:00.000Z</td><td>8</td><td>11</td><td>0.0</td><td>52</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>12</td><td>4</td></tr>
+<tr><td>1972</td><td>9</td><td>1972 Austrian Grand Prix 🇦🇹</td><td>1972-08-13T00:00:00.000Z</td><td>8</td><td>11</td><td>0.0</td><td>52</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>13</td><td>14</td></tr>
+<tr><td>1972</td><td>8</td><td>1972 German Grand Prix 🇩🇪</td><td>1972-07-30T00:00:00.000Z</td><td>12</td><td>14</td><td>0.0</td><td>13</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>20</td><td>13</td></tr>
+<tr><td>1972</td><td>8</td><td>1972 German Grand Prix 🇩🇪</td><td>1972-07-30T00:00:00.000Z</td><td>12</td><td>14</td><td>0.0</td><td>13</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>16</td><td>R</td></tr>
+<tr><td>1972</td><td>7</td><td>1972 British Grand Prix 🇬🇧</td><td>1972-07-15T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>64</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>7</td><td>R</td></tr>
+<tr><td>1972</td><td>7</td><td>1972 British Grand Prix 🇬🇧</td><td>1972-07-15T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>64</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>20</td><td>R</td></tr>
+<tr><td>1972</td><td>6</td><td>1972 French Grand Prix 🇫🇷</td><td>1972-07-02T00:00:00.000Z</td><td>5</td><td>17</td><td>0.0</td><td>36</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>10</td><td>6</td></tr>
+<tr><td>1972</td><td>6</td><td>1972 French Grand Prix 🇫🇷</td><td>1972-07-02T00:00:00.000Z</td><td>5</td><td>17</td><td>0.0</td><td>36</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>12</td><td>14</td></tr>
+<tr><td>1972</td><td>5</td><td>1972 Belgian Grand Prix 🇧🇪</td><td>1972-06-04T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>11</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>8</td><td>4</td></tr>
+<tr><td>1972</td><td>5</td><td>1972 Belgian Grand Prix 🇧🇪</td><td>1972-06-04T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>11</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>10</td><td>R</td></tr>
+<tr><td>1972</td><td>4</td><td>1972 Monaco Grand Prix 🇲🇨</td><td>1972-05-14T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>18</td><td>7</td></tr>
+<tr><td>1972</td><td>4</td><td>1972 Monaco Grand Prix 🇲🇨</td><td>1972-05-14T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>11</td><td>R</td></tr>
+<tr><td>1972</td><td>3</td><td>1972 Spanish Grand Prix 🇪🇸</td><td>1972-05-01T00:00:00.000Z</td><td>18</td><td>8</td><td>0.0</td><td>88</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>13</td><td>4</td></tr>
+<tr><td>1972</td><td>3</td><td>1972 Spanish Grand Prix 🇪🇸</td><td>1972-05-01T00:00:00.000Z</td><td>18</td><td>8</td><td>0.0</td><td>88</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>15</td><td>R</td></tr>
+<tr><td>1972</td><td>2</td><td>1972 South African Grand Prix 🇿🇦</td><td>1972-03-04T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/love">John Love 🇿🇼</a></td><td>26</td><td>16</td></tr>
+<tr><td>1972</td><td>2</td><td>1972 South African Grand Prix 🇿🇦</td><td>1972-03-04T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>20</td><td>N</td></tr>
+<tr><td>1972</td><td>2</td><td>1972 South African Grand Prix 🇿🇦</td><td>1972-03-04T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>4</td><td>R</td></tr>
+<tr><td>1972</td><td>1</td><td>1972 Argentine Grand Prix 🇦🇷</td><td>1972-01-23T00:00:00.000Z</td><td>11</td><td>5</td><td>2.0</td><td>95</td><td>+1:09.11</td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>14</td><td>R</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>41</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>18</td><td>7</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>41</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/craft">Chris Craft 🇬🇧</a></td><td>27</td><td>R</td></tr>
+<tr><td>1971</td><td>10</td><td>1971 Canadian Grand Prix 🇨🇦</td><td>1971-09-19T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>15</td><td>R</td></tr>
+<tr><td>1971</td><td>10</td><td>1971 Canadian Grand Prix 🇨🇦</td><td>1971-09-19T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/craft">Chris Craft 🇬🇧</a></td><td>0</td><td>F</td></tr>
+<tr><td>1971</td><td>9</td><td>1971 Italian Grand Prix 🇮🇹</td><td>1971-09-05T00:00:00.000Z</td><td>9</td><td>R</td><td>0.0</td><td>5</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>14</td><td>R</td></tr>
+<tr><td>1971</td><td>8</td><td>1971 Austrian Grand Prix 🇦🇹</td><td>1971-08-15T00:00:00.000Z</td><td>7</td><td>3</td><td>4.0</td><td>54</td><td>+19.77</td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>8</td><td>5</td></tr>
+<tr><td>1971</td><td>7</td><td>1971 German Grand Prix 🇩🇪</td><td>1971-08-01T00:00:00.000Z</td><td>9</td><td>6</td><td>1.0</td><td>12</td><td>+2:58.6</td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>13</td><td>9</td></tr>
+<tr><td>1971</td><td>6</td><td>1971 British Grand Prix 🇬🇧</td><td>1971-07-17T00:00:00.000Z</td><td>7</td><td>12</td><td>0.0</td><td>63</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>22</td><td>R</td></tr>
+<tr><td>1971</td><td>5</td><td>1971 French Grand Prix 🇫🇷</td><td>1971-07-04T00:00:00.000Z</td><td>14</td><td>12</td><td>0.0</td><td>50</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>4</td><td>R</td></tr>
+<tr><td>1971</td><td>4</td><td>1971 Dutch Grand Prix 🇳🇱</td><td>1971-06-20T00:00:00.000Z</td><td>19</td><td>R</td><td>0.0</td><td>39</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>16</td><td>10</td></tr>
+<tr><td>1971</td><td>3</td><td>1971 Monaco Grand Prix 🇲🇨</td><td>1971-05-23T00:00:00.000Z</td><td>18</td><td>10</td><td>0.0</td><td>76</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>9</td><td>R</td></tr>
+<tr><td>1971</td><td>2</td><td>1971 Spanish Grand Prix 🇪🇸</td><td>1971-04-18T00:00:00.000Z</td><td>21</td><td>9</td><td>0.0</td><td>72</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>10</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>40</td><td></td><td>40</td><td>40</td><td>17</td><td>40</td><td>40</td><td>1</td><td></td><td></td><td>40</td><td>17</td></tr><tr><td><b>Total Sum</b></td><td>298.000</td><td></td><td>2985638400.000</td><td>602.000</td><td>178.000</td><td>7.000</td><td>1459.000</td><td>19.770</td><td></td><td></td><td>584.000</td><td>150.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>7.450</td><td></td><td>74640960.000</td><td>15.050</td><td>10.471</td><td>0.175</td><td>36.475</td><td>19.770</td><td></td><td></td><td>14.600</td><td>8.824</td></tr><tr><td><b>Maximum</b></td><td>15.000</td><td></td><td>150249600.000</td><td>31.000</td><td>17.000</td><td>4.000</td><td>95.000</td><td>19.770</td><td></td><td></td><td>27.000</td><td>17.000</td></tr><tr><td><b>75th Percentile</b></td><td>10.000</td><td></td><td>84931200.000</td><td>19.000</td><td>14.000</td><td></td><td>63.000</td><td>19.770</td><td></td><td></td><td>20.000</td><td>13.000</td></tr><tr><td><b>Median</b></td><td>8.000</td><td></td><td>76464000.000</td><td>15.000</td><td>11.000</td><td></td><td>31.000</td><td>19.770</td><td></td><td></td><td>15.000</td><td>7.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>55296000.000</td><td>10.000</td><td>8.000</td><td></td><td>12.000</td><td>19.770</td><td></td><td></td><td>10.000</td><td>5.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>40780800.000</td><td>5.000</td><td>3.000</td><td></td><td>1.000</td><td>19.770</td><td></td><td></td><td></td><td>2.000</td></tr><tr><td><b>Variance</b></td><td>14.447</td><td></td><td>557423418470400.000</td><td>52.898</td><td>15.308</td><td>0.494</td><td>755.549</td><td></td><td></td><td></td><td>36.090</td><td>20.851</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.801</td><td></td><td>23609816.146</td><td>7.273</td><td>3.913</td><td>0.703</td><td>27.487</td><td></td><td></td><td></td><td>6.007</td><td>4.566</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

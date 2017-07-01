@@ -1,0 +1,54 @@
+---
+title: List of Formula 1® Races by Fabrizio Barbazza
+layout: page
+collectionName: drivers
+collectionId: barbazza
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1993</td><td>8</td><td>1993 French Grand Prix 🇫🇷</td><td>1993-07-04T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>16</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>23</td><td>8</td></tr>
+<tr><td>1993</td><td>7</td><td>1993 Canadian Grand Prix 🇨🇦</td><td>1993-06-13T00:00:00.000Z</td><td>23</td><td>R</td><td>0.0</td><td>33</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>17</td><td>9</td></tr>
+<tr><td>1993</td><td>6</td><td>1993 Monaco Grand Prix 🇲🇨</td><td>1993-05-23T00:00:00.000Z</td><td>25</td><td>11</td><td>0.0</td><td>75</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>17</td><td>5</td></tr>
+<tr><td>1993</td><td>5</td><td>1993 Spanish Grand Prix 🇪🇸</td><td>1993-05-09T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>37</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>20</td><td>8</td></tr>
+<tr><td>1993</td><td>4</td><td>1993 San Marino Grand Prix 🇮🇹</td><td>1993-04-25T00:00:00.000Z</td><td>25</td><td>6</td><td>1.0</td><td>59</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>23</td><td>R</td></tr>
+<tr><td>1993</td><td>3</td><td>1993 European Grand Prix 🇬🇧</td><td>1993-04-11T00:00:00.000Z</td><td>20</td><td>6</td><td>1.0</td><td>74</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>16</td><td>7</td></tr>
+<tr><td>1993</td><td>2</td><td>1993 Brazilian Grand Prix 🇧🇷</td><td>1993-03-28T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>20</td><td>R</td></tr>
+<tr><td>1993</td><td>1</td><td>1993 South African Grand Prix 🇿🇦</td><td>1993-03-14T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>21</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/fittipaldi">Christian Fittipaldi 🇧🇷</a></td><td>13</td><td>4</td></tr>
+<tr><td>1991</td><td>14</td><td>1991 Spanish Grand Prix 🇪🇸</td><td>1991-09-29T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/grouillard">Olivier Grouillard 🇫🇷</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>13</td><td>1991 Portuguese Grand Prix 🇵🇹</td><td>1991-09-22T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>12</td><td>1991 Italian Grand Prix 🇮🇹</td><td>1991-09-08T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>11</td><td>1991 Belgian Grand Prix 🇧🇪</td><td>1991-08-25T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>10</td><td>1991 Hungarian Grand Prix 🇭🇺</td><td>1991-08-11T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>9</td><td>1991 German Grand Prix 🇩🇪</td><td>1991-07-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>8</td><td>1991 British Grand Prix 🇬🇧</td><td>1991-07-14T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>7</td><td>1991 French Grand Prix 🇫🇷</td><td>1991-07-07T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>6</td><td>1991 Mexican Grand Prix 🇲🇽</td><td>1991-06-16T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>5</td><td>1991 Canadian Grand Prix 🇨🇦</td><td>1991-06-02T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1991</td><td>4</td><td>1991 Monaco Grand Prix 🇲🇨</td><td>1991-05-12T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>24</td><td>R</td></tr>
+<tr><td>1991</td><td>3</td><td>1991 San Marino Grand Prix 🇮🇹</td><td>1991-04-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>AGS 🇫🇷</td><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>0</td><td>F</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>20</td><td></td><td>20</td><td>20</td><td>3</td><td>20</td><td>20</td><td></td><td></td><td></td><td>20</td><td>6</td></tr><tr><td><b>Total Sum</b></td><td>138.000</td><td></td><td>14051664000.000</td><td>190.000</td><td>23.000</td><td>2.000</td><td>315.000</td><td></td><td></td><td></td><td>173.000</td><td>41.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>6.900</td><td></td><td>702583200.000</td><td>9.500</td><td>7.667</td><td>0.100</td><td>15.750</td><td></td><td></td><td></td><td>8.650</td><td>6.833</td></tr><tr><td><b>Maximum</b></td><td>14.000</td><td></td><td>741744000.000</td><td>25.000</td><td>11.000</td><td>1.000</td><td>75.000</td><td></td><td></td><td></td><td>24.000</td><td>9.000</td></tr><tr><td><b>75th Percentile</b></td><td>10.000</td><td></td><td>735696000.000</td><td>24.000</td><td>11.000</td><td></td><td>33.000</td><td></td><td></td><td></td><td>20.000</td><td>8.000</td></tr><tr><td><b>Median</b></td><td>7.000</td><td></td><td>685497600.000</td><td></td><td>6.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>8.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>679449600.000</td><td></td><td>6.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>5.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>672796800.000</td><td></td><td>6.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>4.000</td></tr><tr><td><b>Variance</b></td><td>13.090</td><td></td><td>782734555008000.000</td><td>136.350</td><td>5.556</td><td>0.090</td><td>638.788</td><td></td><td></td><td></td><td>97.028</td><td>3.139</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.618</td><td></td><td>27977393.642</td><td>11.677</td><td>2.357</td><td>0.300</td><td>25.274</td><td></td><td></td><td></td><td>9.850</td><td>1.772</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

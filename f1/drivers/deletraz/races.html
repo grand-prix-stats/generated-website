@@ -1,0 +1,37 @@
+---
+title: List of Formula 1® Races by Jean-Denis Délétraz
+layout: page
+collectionName: drivers
+collectionId: deletraz
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1995</td><td>14</td><td>1995 European Grand Prix 🇩🇪</td><td>1995-10-01T00:00:00.000Z</td><td>24</td><td>15</td><td>0.0</td><td>60</td><td> </td><td>Pacific 🇬🇧</td><td><a href="/f1/drivers/montermini">Andrea Montermini 🇮🇹</a></td><td>20</td><td>R</td></tr>
+<tr><td>1995</td><td>13</td><td>1995 Portuguese Grand Prix 🇵🇹</td><td>1995-09-24T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>14</td><td> </td><td>Pacific 🇬🇧</td><td><a href="/f1/drivers/montermini">Andrea Montermini 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1994</td><td>16</td><td>1994 Australian Grand Prix 🇦🇺</td><td>1994-11-13T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>56</td><td> </td><td>Larrousse 🇫🇷</td><td><a href="/f1/drivers/noda">Hideki Noda 🇯🇵</a></td><td>23</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>3</td><td></td><td>3</td><td>3</td><td>1</td><td>3</td><td>3</td><td></td><td></td><td></td><td>3</td><td></td></tr><tr><td><b>Total Sum</b></td><td>43.000</td><td></td><td>2409091200.000</td><td>73.000</td><td>15.000</td><td></td><td>130.000</td><td></td><td></td><td></td><td>64.000</td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>14.333</td><td></td><td>803030400.000</td><td>24.333</td><td>15.000</td><td></td><td>43.333</td><td></td><td></td><td></td><td>21.333</td><td></td></tr><tr><td><b>Maximum</b></td><td>16.000</td><td></td><td>812505600.000</td><td>25.000</td><td>15.000</td><td></td><td>60.000</td><td></td><td></td><td></td><td>23.000</td><td></td></tr><tr><td><b>75th Percentile</b></td><td>16.000</td><td></td><td>812505600.000</td><td>25.000</td><td>15.000</td><td></td><td>60.000</td><td></td><td></td><td></td><td>23.000</td><td></td></tr><tr><td><b>Median</b></td><td>14.000</td><td></td><td>811900800.000</td><td>24.000</td><td>15.000</td><td></td><td>56.000</td><td></td><td></td><td></td><td>21.000</td><td></td></tr><tr><td><b>25th Percentile</b></td><td>13.000</td><td></td><td>784684800.000</td><td>24.000</td><td>15.000</td><td></td><td>14.000</td><td></td><td></td><td></td><td>20.000</td><td></td></tr><tr><td><b>Minimum</b></td><td>13.000</td><td></td><td>784684800.000</td><td>24.000</td><td>15.000</td><td></td><td>14.000</td><td></td><td></td><td></td><td>20.000</td><td></td></tr><tr><td><b>Variance</b></td><td>1.556</td><td></td><td>168341483520000.000</td><td>0.222</td><td></td><td></td><td>432.889</td><td></td><td></td><td></td><td>1.556</td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.247</td><td></td><td>12974647.722</td><td>0.471</td><td></td><td></td><td>20.806</td><td></td><td></td><td></td><td>1.247</td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,38 @@
+---
+title: List of All Formula 1® Races at Montjuïc
+layout: page
+collectionName: circuits
+collectionId: montjuic
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>1975</td><td>4</td><td>1975 Spanish Grand Prix 🇪🇸</td><td>1975-04-27T00:00:00.000Z</td><td>29</td><td>42:53.7</td><td><a href="/f1/drivers/mass">Jochen Mass 🇩🇪</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1973</td><td>4</td><td>1973 Spanish Grand Prix 🇪🇸</td><td>1973-04-29T00:00:00.000Z</td><td>75</td><td>1:48:18.7</td><td><a href="/f1/drivers/emerson_fittipaldi">Emerson Fittipaldi 🇧🇷</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1971</td><td>2</td><td>1971 Spanish Grand Prix 🇪🇸</td><td>1971-04-18T00:00:00.000Z</td><td>75</td><td>1:49:03.4</td><td><a href="/f1/drivers/stewart">Jackie Stewart 🇬🇧</a></td><td>Tyrrell 🇬🇧</td></tr>
+<tr><td>1969</td><td>2</td><td>1969 Spanish Grand Prix 🇪🇸</td><td>1969-05-04T00:00:00.000Z</td><td>90</td><td>2:16:54.0</td><td><a href="/f1/drivers/stewart">Jackie Stewart 🇬🇧</a></td><td>Matra-Ford 🇫🇷</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>4</td><td></td><td>4</td><td>4</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>12.000</td><td></td><td>292550400.000</td><td>269.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>3.000</td><td></td><td>73137600.000</td><td>67.250</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>4.000</td><td></td><td>167788800.000</td><td>90.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>4.000</td><td></td><td>167788800.000</td><td>90.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>4.000</td><td></td><td>104889600.000</td><td>75.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>2.000</td><td></td><td>40780800.000</td><td>75.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>2.000</td><td></td><td>-20908800.000</td><td>29.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>1.000</td><td></td><td>4964681756160000.000</td><td>525.188</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.000</td><td></td><td>70460497.842</td><td>22.917</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

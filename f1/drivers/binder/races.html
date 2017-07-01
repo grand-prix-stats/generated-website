@@ -1,0 +1,48 @@
+---
+title: List of Formula 1® Races by Hans Binder
+layout: page
+collectionName: drivers
+collectionId: binder
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1978</td><td>12</td><td>1978 Austrian Grand Prix 🇦🇹</td><td>1978-08-13T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>ATS 🇮🇹</td><td><a href="/f1/drivers/mass">Jochen Mass 🇩🇪</a></td><td>0</td><td>F</td></tr>
+<tr><td>1977</td><td>17</td><td>1977 Japanese Grand Prix 🇯🇵</td><td>1977-10-23T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>9</td><td>8</td></tr>
+<tr><td>1977</td><td>16</td><td>1977 Canadian Grand Prix 🇨🇦</td><td>1977-10-09T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>15</td><td>6</td></tr>
+<tr><td>1977</td><td>15</td><td>1977 United States Grand Prix 🇺🇸</td><td>1977-10-02T00:00:00.000Z</td><td>25</td><td>11</td><td>0.0</td><td>57</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>11</td><td>19</td></tr>
+<tr><td>1977</td><td>14</td><td>1977 Italian Grand Prix 🇮🇹</td><td>1977-09-11T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Penske 🇺🇸</td><td><a href="/f1/drivers/jarier">Jean-Pierre Jarier 🇫🇷</a></td><td>18</td><td>R</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>18</td><td>8</td><td>0.0</td><td>73</td><td> </td><td>Penske 🇺🇸</td><td><a href="/f1/drivers/jarier">Jean-Pierre Jarier 🇫🇷</a></td><td>21</td><td>R</td></tr>
+<tr><td>1977</td><td>12</td><td>1977 Austrian Grand Prix 🇦🇹</td><td>1977-08-14T00:00:00.000Z</td><td>19</td><td>12</td><td>0.0</td><td>53</td><td> </td><td>Penske 🇺🇸</td><td><a href="/f1/drivers/jarier">Jean-Pierre Jarier 🇫🇷</a></td><td>18</td><td>14</td></tr>
+<tr><td>1977</td><td>6</td><td>1977 Monaco Grand Prix 🇲🇨</td><td>1977-05-22T00:00:00.000Z</td><td>19</td><td>R</td><td>0.0</td><td>41</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>14</td><td>8</td></tr>
+<tr><td>1977</td><td>5</td><td>1977 Spanish Grand Prix 🇪🇸</td><td>1977-05-08T00:00:00.000Z</td><td>20</td><td>9</td><td>0.0</td><td>73</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>11</td><td>R</td></tr>
+<tr><td>1977</td><td>4</td><td>1977 United States Grand Prix West 🇺🇸</td><td>1977-04-03T00:00:00.000Z</td><td>19</td><td>11</td><td>0.0</td><td>77</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>11</td><td>R</td></tr>
+<tr><td>1977</td><td>3</td><td>1977 South African Grand Prix 🇿🇦</td><td>1977-03-05T00:00:00.000Z</td><td>19</td><td>11</td><td>0.0</td><td>77</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>14</td><td>7</td></tr>
+<tr><td>1977</td><td>2</td><td>1977 Brazilian Grand Prix 🇧🇷</td><td>1977-01-23T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>32</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>11</td><td>R</td></tr>
+<tr><td>1977</td><td>1</td><td>1977 Argentine Grand Prix 🇦🇷</td><td>1977-01-09T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>18</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>13</td><td>7</td></tr>
+<tr><td>1976</td><td>16</td><td>1976 Japanese Grand Prix 🇯🇵</td><td>1976-10-24T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>49</td><td> </td><td>Wolf 🇨🇦</td><td><a href="/f1/drivers/merzario">Arturo Merzario 🇮🇹</a></td><td>19</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>14</td><td></td><td>14</td><td>14</td><td>6</td><td>14</td><td>14</td><td></td><td></td><td></td><td>14</td><td>7</td></tr><tr><td><b>Total Sum</b></td><td>136.000</td><td></td><td>3312403200.000</td><td>247.000</td><td>62.000</td><td></td><td>582.000</td><td></td><td></td><td></td><td>185.000</td><td>69.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>9.714</td><td></td><td>236600228.571</td><td>17.643</td><td>10.333</td><td></td><td>41.571</td><td></td><td></td><td></td><td>13.214</td><td>9.857</td></tr><tr><td><b>Maximum</b></td><td>17.000</td><td></td><td>271814400.000</td><td>25.000</td><td>12.000</td><td></td><td>77.000</td><td></td><td></td><td></td><td>21.000</td><td>19.000</td></tr><tr><td><b>75th Percentile</b></td><td>15.000</td><td></td><td>244598400.000</td><td>21.000</td><td>11.000</td><td></td><td>73.000</td><td></td><td></td><td></td><td>18.000</td><td>14.000</td></tr><tr><td><b>Median</b></td><td>12.000</td><td></td><td>240364800.000</td><td>19.000</td><td>11.000</td><td></td><td>49.000</td><td></td><td></td><td></td><td>14.000</td><td>8.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>226368000.000</td><td>18.000</td><td>9.000</td><td></td><td>18.000</td><td></td><td></td><td></td><td>11.000</td><td>7.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>214963200.000</td><td></td><td>8.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6.000</td></tr><tr><td><b>Variance</b></td><td>32.061</td><td></td><td>188043104130612.250</td><td>57.230</td><td>1.889</td><td></td><td>769.388</td><td></td><td></td><td></td><td>25.454</td><td>19.837</td></tr><tr><td><b>Standard Deviation σ</b></td><td>5.662</td><td></td><td>13712880.957</td><td>7.565</td><td>1.374</td><td></td><td>27.738</td><td></td><td></td><td></td><td>5.045</td><td>4.454</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

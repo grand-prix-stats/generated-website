@@ -1,0 +1,44 @@
+---
+title: List of All Formula 1® Races at Zolder
+layout: page
+collectionName: circuits
+collectionId: zolder
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>1984</td><td>3</td><td>1984 Belgian Grand Prix 🇧🇪</td><td>1984-04-29T00:00:00.000Z</td><td>70</td><td>1:36:32.048</td><td><a href="/f1/drivers/alboreto">Michele Alboreto 🇮🇹</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1982</td><td>5</td><td>1982 Belgian Grand Prix 🇧🇪</td><td>1982-05-09T00:00:00.000Z</td><td>70</td><td>1:35:41.995</td><td><a href="/f1/drivers/watson">John Watson 🇬🇧</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1981</td><td>5</td><td>1981 Belgian Grand Prix 🇧🇪</td><td>1981-05-17T00:00:00.000Z</td><td>54</td><td>1:16:31.61</td><td><a href="/f1/drivers/reutemann">Carlos Reutemann 🇦🇷</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1980</td><td>5</td><td>1980 Belgian Grand Prix 🇧🇪</td><td>1980-05-04T00:00:00.000Z</td><td>72</td><td>1:38:47.4</td><td><a href="/f1/drivers/pironi">Didier Pironi 🇫🇷</a></td><td>Ligier 🇫🇷</td></tr>
+<tr><td>1979</td><td>6</td><td>1979 Belgian Grand Prix 🇧🇪</td><td>1979-05-13T00:00:00.000Z</td><td>70</td><td>1:39:59.53</td><td><a href="/f1/drivers/scheckter">Jody Scheckter 🇿🇦</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1978</td><td>6</td><td>1978 Belgian Grand Prix 🇧🇪</td><td>1978-05-21T00:00:00.000Z</td><td>70</td><td>1:39:52.02</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1977</td><td>7</td><td>1977 Belgian Grand Prix 🇧🇪</td><td>1977-06-05T00:00:00.000Z</td><td>70</td><td>1:55:05.71</td><td><a href="/f1/drivers/nilsson">Gunnar Nilsson 🇸🇪</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1976</td><td>5</td><td>1976 Belgian Grand Prix 🇧🇪</td><td>1976-05-16T00:00:00.000Z</td><td>70</td><td>1:42:53.23</td><td><a href="/f1/drivers/lauda">Niki Lauda 🇦🇹</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1975</td><td>6</td><td>1975 Belgian Grand Prix 🇧🇪</td><td>1975-05-25T00:00:00.000Z</td><td>70</td><td>1:43:53.98</td><td><a href="/f1/drivers/lauda">Niki Lauda 🇦🇹</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1973</td><td>5</td><td>1973 Belgian Grand Prix 🇧🇪</td><td>1973-05-20T00:00:00.000Z</td><td>70</td><td>1:42:13.43</td><td><a href="/f1/drivers/stewart">Jackie Stewart 🇬🇧</a></td><td>Tyrrell 🇬🇧</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>10</td><td></td><td>10</td><td>10</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>53.000</td><td></td><td>2799187200.000</td><td>686.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>5.300</td><td></td><td>279918720.000</td><td>68.600</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>7.000</td><td></td><td>452044800.000</td><td>72.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>6.000</td><td></td><td>358905600.000</td><td>70.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>5.000</td><td></td><td>295401600.000</td><td>70.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>201052800.000</td><td>70.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>3.000</td><td></td><td>106704000.000</td><td>54.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>1.010</td><td></td><td>10089042440601600.000</td><td>24.040</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.005</td><td></td><td>100444225.521</td><td>4.903</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

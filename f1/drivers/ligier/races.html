@@ -1,0 +1,72 @@
+---
+title: List of Formula 1® Races by Guy Ligier
+layout: page
+collectionName: drivers
+collectionId: ligier
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1967</td><td>11</td><td>1967 Mexican Grand Prix 🇲🇽</td><td>1967-10-22T00:00:00.000Z</td><td>19</td><td>11</td><td>0.0</td><td>41</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>5</td><td>2</td></tr>
+<tr><td>1967</td><td>11</td><td>1967 Mexican Grand Prix 🇲🇽</td><td>1967-10-22T00:00:00.000Z</td><td>19</td><td>11</td><td>0.0</td><td>41</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>6</td><td>3</td></tr>
+<tr><td>1967</td><td>10</td><td>1967 United States Grand Prix 🇺🇸</td><td>1967-10-01T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>43</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>6</td><td>3</td></tr>
+<tr><td>1967</td><td>10</td><td>1967 United States Grand Prix 🇺🇸</td><td>1967-10-01T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>43</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>5</td><td>5</td></tr>
+<tr><td>1967</td><td>9</td><td>1967 Italian Grand Prix 🇮🇹</td><td>1967-09-10T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>26</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>2</td><td>2</td></tr>
+<tr><td>1967</td><td>9</td><td>1967 Italian Grand Prix 🇮🇹</td><td>1967-09-10T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>26</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>6</td><td>R</td></tr>
+<tr><td>1967</td><td>7</td><td>1967 German Grand Prix 🇩🇪</td><td>1967-08-06T00:00:00.000Z</td><td>17</td><td>8</td><td>1.0</td><td>14</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>2</td><td>1</td></tr>
+<tr><td>1967</td><td>7</td><td>1967 German Grand Prix 🇩🇪</td><td>1967-08-06T00:00:00.000Z</td><td>17</td><td>8</td><td>1.0</td><td>14</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>7</td><td>2</td></tr>
+<tr><td>1967</td><td>6</td><td>1967 British Grand Prix 🇬🇧</td><td>1967-07-15T00:00:00.000Z</td><td>21</td><td>10</td><td>0.0</td><td>76</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>4</td><td>2</td></tr>
+<tr><td>1967</td><td>6</td><td>1967 British Grand Prix 🇬🇧</td><td>1967-07-15T00:00:00.000Z</td><td>21</td><td>10</td><td>0.0</td><td>76</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>3</td><td>4</td></tr>
+<tr><td>1967</td><td>5</td><td>1967 French Grand Prix 🇫🇷</td><td>1967-07-02T00:00:00.000Z</td><td>15</td><td>N</td><td>0.0</td><td>68</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>11</td><td>4</td></tr>
+<tr><td>1967</td><td>5</td><td>1967 French Grand Prix 🇫🇷</td><td>1967-07-02T00:00:00.000Z</td><td>15</td><td>N</td><td>0.0</td><td>68</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rodriguez">Pedro Rodríguez 🇲🇽</a></td><td>13</td><td>6</td></tr>
+<tr><td>1967</td><td>5</td><td>1967 French Grand Prix 🇫🇷</td><td>1967-07-02T00:00:00.000Z</td><td>15</td><td>N</td><td>0.0</td><td>68</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>8</td><td>R</td></tr>
+<tr><td>1967</td><td>4</td><td>1967 Belgian Grand Prix 🇧🇪</td><td>1967-06-18T00:00:00.000Z</td><td>18</td><td>10</td><td>0.0</td><td>25</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>4</td><td>4</td></tr>
+<tr><td>1967</td><td>4</td><td>1967 Belgian Grand Prix 🇧🇪</td><td>1967-06-18T00:00:00.000Z</td><td>18</td><td>10</td><td>0.0</td><td>25</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>16</td><td>7</td></tr>
+<tr><td>1967</td><td>4</td><td>1967 Belgian Grand Prix 🇧🇪</td><td>1967-06-18T00:00:00.000Z</td><td>18</td><td>10</td><td>0.0</td><td>25</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rodriguez">Pedro Rodríguez 🇲🇽</a></td><td>13</td><td>9</td></tr>
+<tr><td>1967</td><td>4</td><td>1967 Belgian Grand Prix 🇧🇪</td><td>1967-06-18T00:00:00.000Z</td><td>18</td><td>10</td><td>0.0</td><td>25</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>12</td><td>R</td></tr>
+<tr><td>1966</td><td>6</td><td>1966 German Grand Prix 🇩🇪</td><td>1966-08-07T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>2</td><td>2</td></tr>
+<tr><td>1966</td><td>6</td><td>1966 German Grand Prix 🇩🇪</td><td>1966-08-07T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>9</td><td>3</td></tr>
+<tr><td>1966</td><td>6</td><td>1966 German Grand Prix 🇩🇪</td><td>1966-08-07T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>12</td><td>R</td></tr>
+<tr><td>1966</td><td>5</td><td>1966 Dutch Grand Prix 🇳🇱</td><td>1966-07-24T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>84</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>13</td><td>7</td></tr>
+<tr><td>1966</td><td>5</td><td>1966 Dutch Grand Prix 🇳🇱</td><td>1966-07-24T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>84</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>11</td><td>R</td></tr>
+<tr><td>1966</td><td>5</td><td>1966 Dutch Grand Prix 🇳🇱</td><td>1966-07-24T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>84</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>10</td><td>R</td></tr>
+<tr><td>1966</td><td>5</td><td>1966 Dutch Grand Prix 🇳🇱</td><td>1966-07-24T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>84</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>6</td><td>R</td></tr>
+<tr><td>1966</td><td>4</td><td>1966 British Grand Prix 🇬🇧</td><td>1966-07-16T00:00:00.000Z</td><td>17</td><td>10</td><td>0.0</td><td>75</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>7</td><td>5</td></tr>
+<tr><td>1966</td><td>4</td><td>1966 British Grand Prix 🇬🇧</td><td>1966-07-16T00:00:00.000Z</td><td>17</td><td>10</td><td>0.0</td><td>75</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>11</td><td>N</td></tr>
+<tr><td>1966</td><td>4</td><td>1966 British Grand Prix 🇬🇧</td><td>1966-07-16T00:00:00.000Z</td><td>17</td><td>10</td><td>0.0</td><td>75</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>6</td><td>R</td></tr>
+<tr><td>1966</td><td>3</td><td>1966 French Grand Prix 🇫🇷</td><td>1966-07-03T00:00:00.000Z</td><td>11</td><td>N</td><td>0.0</td><td>42</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>5</td><td>4</td></tr>
+<tr><td>1966</td><td>3</td><td>1966 French Grand Prix 🇫🇷</td><td>1966-07-03T00:00:00.000Z</td><td>11</td><td>N</td><td>0.0</td><td>42</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/amon">Chris Amon 🇳🇿</a></td><td>7</td><td>8</td></tr>
+<tr><td>1966</td><td>3</td><td>1966 French Grand Prix 🇫🇷</td><td>1966-07-03T00:00:00.000Z</td><td>11</td><td>N</td><td>0.0</td><td>42</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>6</td><td>R</td></tr>
+<tr><td>1966</td><td>3</td><td>1966 French Grand Prix 🇫🇷</td><td>1966-07-03T00:00:00.000Z</td><td>11</td><td>N</td><td>0.0</td><td>42</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>2</td><td>R</td></tr>
+<tr><td>1966</td><td>2</td><td>1966 Belgian Grand Prix 🇧🇪</td><td>1966-06-12T00:00:00.000Z</td><td>12</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>2</td><td>2</td></tr>
+<tr><td>1966</td><td>2</td><td>1966 Belgian Grand Prix 🇧🇪</td><td>1966-06-12T00:00:00.000Z</td><td>12</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/ginther">Richie Ginther 🇺🇸</a></td><td>8</td><td>5</td></tr>
+<tr><td>1966</td><td>2</td><td>1966 Belgian Grand Prix 🇧🇪</td><td>1966-06-12T00:00:00.000Z</td><td>12</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>6</td><td>R</td></tr>
+<tr><td>1966</td><td>2</td><td>1966 Belgian Grand Prix 🇧🇪</td><td>1966-06-12T00:00:00.000Z</td><td>12</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>14</td><td>R</td></tr>
+<tr><td>1966</td><td>1</td><td>1966 Monaco Grand Prix 🇲🇨</td><td>1966-05-22T00:00:00.000Z</td><td>15</td><td>N</td><td>0.0</td><td>75</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/ginther">Richie Ginther 🇺🇸</a></td><td>9</td><td>R</td></tr>
+<tr><td>1966</td><td>1</td><td>1966 Monaco Grand Prix 🇲🇨</td><td>1966-05-22T00:00:00.000Z</td><td>15</td><td>N</td><td>0.0</td><td>75</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>16</td><td>N</td></tr>
+<tr><td>1966</td><td>1</td><td>1966 Monaco Grand Prix 🇲🇨</td><td>1966-05-22T00:00:00.000Z</td><td>15</td><td>N</td><td>0.0</td><td>75</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>7</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>38</td><td></td><td>38</td><td>38</td><td>17</td><td>38</td><td>38</td><td></td><td></td><td></td><td>38</td><td>22</td></tr><tr><td><b>Total Sum</b></td><td>190.000</td><td></td><td>-3609100800.000</td><td>553.000</td><td>164.000</td><td>2.000</td><td>1754.000</td><td></td><td></td><td></td><td>292.000</td><td>90.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>5.000</td><td></td><td>-94976336.842</td><td>14.553</td><td>9.647</td><td>0.053</td><td>46.158</td><td></td><td></td><td></td><td>7.684</td><td>4.091</td></tr><tr><td><b>Maximum</b></td><td>11.000</td><td></td><td>-69292800.000</td><td>21.000</td><td>11.000</td><td>1.000</td><td>84.000</td><td></td><td></td><td></td><td>16.000</td><td>9.000</td></tr><tr><td><b>75th Percentile</b></td><td>6.000</td><td></td><td>-77846400.000</td><td>18.000</td><td>10.000</td><td></td><td>75.000</td><td></td><td></td><td></td><td>11.000</td><td>5.000</td></tr><tr><td><b>Median</b></td><td>5.000</td><td></td><td>-107395200.000</td><td>16.000</td><td>10.000</td><td></td><td>42.000</td><td></td><td></td><td></td><td>7.000</td><td>4.000</td></tr><tr><td><b>25th Percentile</b></td><td>3.000</td><td></td><td>-110419200.000</td><td>12.000</td><td>9.000</td><td></td><td>25.000</td><td></td><td></td><td></td><td>5.000</td><td>2.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>-114048000.000</td><td></td><td>8.000</td><td></td><td></td><td></td><td></td><td></td><td>2.000</td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>7.211</td><td></td><td>301168579524432.062</td><td>25.195</td><td>0.699</td><td>0.050</td><td>713.186</td><td></td><td></td><td></td><td>15.690</td><td>4.628</td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.685</td><td></td><td>17354209.274</td><td>5.019</td><td>0.836</td><td>0.223</td><td>26.706</td><td></td><td></td><td></td><td>3.961</td><td>2.151</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

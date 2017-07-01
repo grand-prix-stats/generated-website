@@ -1,0 +1,60 @@
+---
+title: List of Formula 1® Races by John Love
+layout: page
+collectionName: drivers
+collectionId: love
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1972</td><td>2</td><td>1972 South African Grand Prix 🇿🇦</td><td>1972-03-04T00:00:00.000Z</td><td>26</td><td>16</td><td>0.0</td><td>73</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>20</td><td>N</td></tr>
+<tr><td>1972</td><td>2</td><td>1972 South African Grand Prix 🇿🇦</td><td>1972-03-04T00:00:00.000Z</td><td>26</td><td>16</td><td>0.0</td><td>73</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>4</td><td>R</td></tr>
+<tr><td>1972</td><td>2</td><td>1972 South African Grand Prix 🇿🇦</td><td>1972-03-04T00:00:00.000Z</td><td>26</td><td>16</td><td>0.0</td><td>73</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/schenken">Tim Schenken 🇦🇺</a></td><td>10</td><td>R</td></tr>
+<tr><td>1971</td><td>1</td><td>1971 South African Grand Prix 🇿🇦</td><td>1971-03-06T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>30</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>13</td><td>10</td></tr>
+<tr><td>1971</td><td>1</td><td>1971 South African Grand Prix 🇿🇦</td><td>1971-03-06T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>30</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>18</td><td>11</td></tr>
+<tr><td>1971</td><td>1</td><td>1971 South African Grand Prix 🇿🇦</td><td>1971-03-06T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>30</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/roig">Alex Soler-Roig 🇪🇸</a></td><td>25</td><td>R</td></tr>
+<tr><td>1970</td><td>1</td><td>1970 South African Grand Prix 🇿🇦</td><td>1970-03-07T00:00:00.000Z</td><td>22</td><td>8</td><td>0.0</td><td>78</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/miles">John Miles 🇬🇧</a></td><td>14</td><td>5</td></tr>
+<tr><td>1970</td><td>1</td><td>1970 South African Grand Prix 🇿🇦</td><td>1970-03-07T00:00:00.000Z</td><td>22</td><td>8</td><td>0.0</td><td>78</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>19</td><td>6</td></tr>
+<tr><td>1970</td><td>1</td><td>1970 South African Grand Prix 🇿🇦</td><td>1970-03-07T00:00:00.000Z</td><td>22</td><td>8</td><td>0.0</td><td>78</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/charlton">Dave Charlton 🇿🇦</a></td><td>13</td><td>12</td></tr>
+<tr><td>1970</td><td>1</td><td>1970 South African Grand Prix 🇿🇦</td><td>1970-03-07T00:00:00.000Z</td><td>22</td><td>8</td><td>0.0</td><td>78</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>4</td><td>13</td></tr>
+<tr><td>1969</td><td>1</td><td>1969 South African Grand Prix 🇿🇦</td><td>1969-03-01T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>7</td><td>2</td></tr>
+<tr><td>1969</td><td>1</td><td>1969 South African Grand Prix 🇿🇦</td><td>1969-03-01T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>12</td><td>4</td></tr>
+<tr><td>1969</td><td>1</td><td>1969 South African Grand Prix 🇿🇦</td><td>1969-03-01T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>2</td><td>R</td></tr>
+<tr><td>1969</td><td>1</td><td>1969 South African Grand Prix 🇿🇦</td><td>1969-03-01T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>6</td><td>R</td></tr>
+<tr><td>1968</td><td>1</td><td>1968 South African Grand Prix 🇿🇦</td><td>1968-01-01T00:00:00.000Z</td><td>17</td><td>9</td><td>0.0</td><td>75</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>4</td><td>3</td></tr>
+<tr><td>1968</td><td>1</td><td>1968 South African Grand Prix 🇿🇦</td><td>1968-01-01T00:00:00.000Z</td><td>17</td><td>9</td><td>0.0</td><td>75</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>5</td><td>R</td></tr>
+<tr><td>1968</td><td>1</td><td>1968 South African Grand Prix 🇿🇦</td><td>1968-01-01T00:00:00.000Z</td><td>17</td><td>9</td><td>0.0</td><td>75</td><td> </td><td>Brabham-Repco 🇬🇧</td><td><a href="/f1/drivers/charlton">Dave Charlton 🇿🇦</a></td><td>14</td><td>R</td></tr>
+<tr><td>1965</td><td>1</td><td>1965 South African Grand Prix 🇿🇦</td><td>1965-01-01T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>8</td><td>5</td></tr>
+<tr><td>1965</td><td>1</td><td>1965 South African Grand Prix 🇿🇦</td><td>1965-01-01T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>10</td><td>R</td></tr>
+<tr><td>1965</td><td>1</td><td>1965 South African Grand Prix 🇿🇦</td><td>1965-01-01T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/blignaut">Alex Blignaut 🇿🇦</a></td><td>0</td><td>W</td></tr>
+<tr><td>1964</td><td>8</td><td>1964 Italian Grand Prix 🇮🇹</td><td>1964-09-06T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>5</td><td>2</td></tr>
+<tr><td>1963</td><td>10</td><td>1963 South African Grand Prix 🇿🇦</td><td>1963-12-28T00:00:00.000Z</td><td>13</td><td>9</td><td>0.0</td><td>80</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>9</td><td>4</td></tr>
+<tr><td>1963</td><td>10</td><td>1963 South African Grand Prix 🇿🇦</td><td>1963-12-28T00:00:00.000Z</td><td>13</td><td>9</td><td>0.0</td><td>80</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>11</td><td>6</td></tr>
+<tr><td>1963</td><td>10</td><td>1963 South African Grand Prix 🇿🇦</td><td>1963-12-28T00:00:00.000Z</td><td>13</td><td>9</td><td>0.0</td><td>80</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/maggs">Tony Maggs 🇿🇦</a></td><td>10</td><td>7</td></tr>
+<tr><td>1962</td><td>9</td><td>1962 South African Grand Prix 🇿🇦</td><td>1962-12-29T00:00:00.000Z</td><td>12</td><td>8</td><td>0.0</td><td>78</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>8</td><td>2</td></tr>
+<tr><td>1962</td><td>9</td><td>1962 South African Grand Prix 🇿🇦</td><td>1962-12-29T00:00:00.000Z</td><td>12</td><td>8</td><td>0.0</td><td>78</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/maggs">Tony Maggs 🇿🇦</a></td><td>6</td><td>3</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>26</td><td></td><td>26</td><td>26</td><td>15</td><td>26</td><td>26</td><td></td><td></td><td></td><td>26</td><td>16</td></tr><tr><td><b>Total Sum</b></td><td>79.000</td><td></td><td>-1608768000.000</td><td>437.000</td><td>150.000</td><td></td><td>1426.000</td><td></td><td></td><td></td><td>257.000</td><td>95.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>3.038</td><td></td><td>-61875692.308</td><td>16.808</td><td>10.000</td><td></td><td>54.846</td><td></td><td></td><td></td><td>9.885</td><td>5.938</td></tr><tr><td><b>Maximum</b></td><td>10.000</td><td></td><td>68515200.000</td><td>26.000</td><td>16.000</td><td></td><td>80.000</td><td></td><td></td><td></td><td>25.000</td><td>13.000</td></tr><tr><td><b>75th Percentile</b></td><td>2.000</td><td></td><td>5616000.000</td><td>22.000</td><td>9.000</td><td></td><td>78.000</td><td></td><td></td><td></td><td>13.000</td><td>10.000</td></tr><tr><td><b>Median</b></td><td>1.000</td><td></td><td>-26438400.000</td><td>18.000</td><td>9.000</td><td></td><td>73.000</td><td></td><td></td><td></td><td>10.000</td><td>5.000</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td><td></td><td>-157766400.000</td><td>12.000</td><td>8.000</td><td></td><td>30.000</td><td></td><td></td><td></td><td>5.000</td><td>3.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>-221184000.000</td><td></td><td>8.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.000</td></tr><tr><td><b>Variance</b></td><td>12.114</td><td></td><td>9317113443794556.000</td><td>37.540</td><td>9.200</td><td></td><td>696.130</td><td></td><td></td><td></td><td>34.487</td><td>12.684</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.481</td><td></td><td>96525195.901</td><td>6.127</td><td>3.033</td><td></td><td>26.384</td><td></td><td></td><td></td><td>5.873</td><td>3.561</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

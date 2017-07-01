@@ -1,0 +1,35 @@
+---
+title: List of All Formula 1® Races in Morocco by Year
+layout: page
+collectionName: countries
+collectionId: morocco
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Circuit</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>1958</td><td>11</td><td>1958 Moroccan Grand Prix 🇲🇦</td><td><a href="/f1/circuits/ain-diab">Ain Diab</a></td><td>1958-10-19T00:00:00.000Z</td><td>53</td><td>2:09:15.1</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>Vanwall 🇬🇧</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Circuit</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>1</td><td></td><td></td><td>1</td><td>1</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>11.000</td><td></td><td></td><td>-353548800.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>11.000</td><td></td><td></td><td>-353548800.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>11.000</td><td></td><td></td><td>-353548800.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>11.000</td><td></td><td></td><td>-353548800.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>11.000</td><td></td><td></td><td>-353548800.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>11.000</td><td></td><td></td><td>-353548800.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>11.000</td><td></td><td></td><td>-353548800.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

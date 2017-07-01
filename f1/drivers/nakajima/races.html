@@ -1,0 +1,70 @@
+---
+title: List of Formula 1® Races by Kazuki Nakajima
+layout: page
+collectionName: drivers
+collectionId: nakajima
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2009</td><td>17</td><td>2009 Abu Dhabi Grand Prix 🇦🇪</td><td>2009-11-01T00:00:00.000Z</td><td>13</td><td>13</td><td>0.0</td><td>55</td><td>+59.839</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>9</td><td>9</td></tr>
+<tr><td>2009</td><td>16</td><td>2009 Brazilian Grand Prix 🇧🇷</td><td>2009-10-18T00:00:00.000Z</td><td>9</td><td>R</td><td>0.0</td><td>30</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>7</td><td>R</td></tr>
+<tr><td>2009</td><td>15</td><td>2009 Japanese Grand Prix 🇯🇵</td><td>2009-10-04T00:00:00.000Z</td><td>15</td><td>15</td><td>0.0</td><td>53</td><td>+17.973</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>7</td><td>5</td></tr>
+<tr><td>2009</td><td>14</td><td>2009 Singapore Grand Prix 🇸🇬</td><td>2009-09-27T00:00:00.000Z</td><td>10</td><td>9</td><td>0.0</td><td>61</td><td>+56.054</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>3</td><td>11</td></tr>
+<tr><td>2009</td><td>13</td><td>2009 Italian Grand Prix 🇮🇹</td><td>2009-09-13T00:00:00.000Z</td><td>17</td><td>10</td><td>0.0</td><td>53</td><td>+2:42.163</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>18</td><td>16</td></tr>
+<tr><td>2009</td><td>12</td><td>2009 Belgian Grand Prix 🇧🇪</td><td>2009-08-30T00:00:00.000Z</td><td>18</td><td>13</td><td>0.0</td><td>44</td><td>+54.241</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>10</td><td>8</td></tr>
+<tr><td>2009</td><td>11</td><td>2009 European Grand Prix 🇪🇸</td><td>2009-08-23T00:00:00.000Z</td><td>17</td><td>18</td><td>0.0</td><td>54</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>7</td><td>5</td></tr>
+<tr><td>2009</td><td>10</td><td>2009 Hungarian Grand Prix 🇭🇺</td><td>2009-07-26T00:00:00.000Z</td><td>9</td><td>9</td><td>0.0</td><td>70</td><td>+1:08.774</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>5</td><td>4</td></tr>
+<tr><td>2009</td><td>9</td><td>2009 German Grand Prix 🇩🇪</td><td>2009-07-12T00:00:00.000Z</td><td>13</td><td>12</td><td>0.0</td><td>60</td><td>+1:02.876</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>15</td><td>4</td></tr>
+<tr><td>2009</td><td>8</td><td>2009 British Grand Prix 🇬🇧</td><td>2009-06-21T00:00:00.000Z</td><td>5</td><td>11</td><td>0.0</td><td>60</td><td>+1:14.023</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>7</td><td>5</td></tr>
+<tr><td>2009</td><td>7</td><td>2009 Turkish Grand Prix 🇹🇷</td><td>2009-06-07T00:00:00.000Z</td><td>12</td><td>12</td><td>0.0</td><td>58</td><td>+1:06.376</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>9</td><td>5</td></tr>
+<tr><td>2009</td><td>6</td><td>2009 Monaco Grand Prix 🇲🇨</td><td>2009-05-24T00:00:00.000Z</td><td>10</td><td>15</td><td>0.0</td><td>76</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>6</td><td>6</td></tr>
+<tr><td>2009</td><td>5</td><td>2009 Spanish Grand Prix 🇪🇸</td><td>2009-05-10T00:00:00.000Z</td><td>11</td><td>13</td><td>0.0</td><td>65</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>9</td><td>8</td></tr>
+<tr><td>2009</td><td>4</td><td>2009 Bahrain Grand Prix 🇧🇭</td><td>2009-04-26T00:00:00.000Z</td><td>12</td><td>R</td><td>0.0</td><td>48</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>9</td><td>9</td></tr>
+<tr><td>2009</td><td>3</td><td>2009 Chinese Grand Prix 🇨🇳</td><td>2009-04-19T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>43</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>7</td><td>15</td></tr>
+<tr><td>2009</td><td>2</td><td>2009 Malaysian Grand Prix 🇲🇾</td><td>2009-04-05T00:00:00.000Z</td><td>11</td><td>12</td><td>0.0</td><td>31</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>4</td><td>8</td></tr>
+<tr><td>2009</td><td>1</td><td>2009 Australian Grand Prix 🇦🇺</td><td>2009-03-29T00:00:00.000Z</td><td>11</td><td>R</td><td>0.0</td><td>17</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>5</td><td>6</td></tr>
+<tr><td>2008</td><td>18</td><td>2008 Brazilian Grand Prix 🇧🇷</td><td>2008-11-02T00:00:00.000Z</td><td>16</td><td>17</td><td>0.0</td><td>69</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>18</td><td>12</td></tr>
+<tr><td>2008</td><td>17</td><td>2008 Chinese Grand Prix 🇨🇳</td><td>2008-10-19T00:00:00.000Z</td><td>17</td><td>12</td><td>0.0</td><td>56</td><td>+1:30.847</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>14</td><td>15</td></tr>
+<tr><td>2008</td><td>16</td><td>2008 Japanese Grand Prix 🇯🇵</td><td>2008-10-12T00:00:00.000Z</td><td>14</td><td>15</td><td>0.0</td><td>66</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>15</td><td>11</td></tr>
+<tr><td>2008</td><td>15</td><td>2008 Singapore Grand Prix 🇸🇬</td><td>2008-09-28T00:00:00.000Z</td><td>10</td><td>8</td><td>1.0</td><td>61</td><td>+18.489</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>8</td><td>2</td></tr>
+<tr><td>2008</td><td>14</td><td>2008 Italian Grand Prix 🇮🇹</td><td>2008-09-14T00:00:00.000Z</td><td>18</td><td>12</td><td>0.0</td><td>53</td><td>+1:02.015</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>5</td><td>14</td></tr>
+<tr><td>2008</td><td>13</td><td>2008 Belgian Grand Prix 🇧🇪</td><td>2008-09-07T00:00:00.000Z</td><td>19</td><td>14</td><td>0.0</td><td>43</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>15</td><td>12</td></tr>
+<tr><td>2008</td><td>12</td><td>2008 European Grand Prix 🇪🇸</td><td>2008-08-24T00:00:00.000Z</td><td>11</td><td>15</td><td>0.0</td><td>56</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>9</td><td>8</td></tr>
+<tr><td>2008</td><td>11</td><td>2008 Hungarian Grand Prix 🇭🇺</td><td>2008-08-03T00:00:00.000Z</td><td>16</td><td>13</td><td>0.0</td><td>69</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>14</td><td>14</td></tr>
+<tr><td>2008</td><td>10</td><td>2008 German Grand Prix 🇩🇪</td><td>2008-07-20T00:00:00.000Z</td><td>16</td><td>14</td><td>0.0</td><td>67</td><td>+1:00.003</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>13</td><td>10</td></tr>
+<tr><td>2008</td><td>9</td><td>2008 British Grand Prix 🇬🇧</td><td>2008-07-06T00:00:00.000Z</td><td>15</td><td>8</td><td>1.0</td><td>59</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>20</td><td>9</td></tr>
+<tr><td>2008</td><td>8</td><td>2008 French Grand Prix 🇫🇷</td><td>2008-06-22T00:00:00.000Z</td><td>15</td><td>15</td><td>0.0</td><td>69</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>19</td><td>16</td></tr>
+<tr><td>2008</td><td>7</td><td>2008 Canadian Grand Prix 🇨🇦</td><td>2008-06-08T00:00:00.000Z</td><td>12</td><td>R</td><td>0.0</td><td>46</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>5</td><td>10</td></tr>
+<tr><td>2008</td><td>6</td><td>2008 Monaco Grand Prix 🇲🇨</td><td>2008-05-25T00:00:00.000Z</td><td>13</td><td>7</td><td>2.0</td><td>76</td><td>+30.180</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>6</td><td>R</td></tr>
+<tr><td>2008</td><td>5</td><td>2008 Turkish Grand Prix 🇹🇷</td><td>2008-05-11T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>11</td><td>8</td></tr>
+<tr><td>2008</td><td>4</td><td>2008 Spanish Grand Prix 🇪🇸</td><td>2008-04-27T00:00:00.000Z</td><td>12</td><td>7</td><td>2.0</td><td>66</td><td>+58.244</td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>15</td><td>R</td></tr>
+<tr><td>2008</td><td>3</td><td>2008 Bahrain Grand Prix 🇧🇭</td><td>2008-04-06T00:00:00.000Z</td><td>16</td><td>14</td><td>0.0</td><td>56</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>8</td><td>8</td></tr>
+<tr><td>2008</td><td>2</td><td>2008 Malaysian Grand Prix 🇲🇾</td><td>2008-03-23T00:00:00.000Z</td><td>22</td><td>17</td><td>0.0</td><td>54</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>16</td><td>14</td></tr>
+<tr><td>2008</td><td>1</td><td>2008 Australian Grand Prix 🇦🇺</td><td>2008-03-16T00:00:00.000Z</td><td>13</td><td>6</td><td>3.0</td><td>57</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>7</td><td>3</td></tr>
+<tr><td>2007</td><td>17</td><td>2007 Brazilian Grand Prix 🇧🇷</td><td>2007-10-21T00:00:00.000Z</td><td>19</td><td>10</td><td>0.0</td><td>70</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>10</td><td>4</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>36</td><td></td><td>36</td><td>36</td><td>30</td><td>36</td><td>36</td><td>7</td><td></td><td></td><td>36</td><td>33</td></tr><tr><td><b>Total Sum</b></td><td>341.000</td><td></td><td>44283715200.000</td><td>497.000</td><td>366.000</td><td>9.000</td><td>1972.000</td><td>295.020</td><td></td><td></td><td>365.000</td><td>294.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>9.472</td><td></td><td>1230103200.000</td><td>13.806</td><td>12.200</td><td>0.250</td><td>54.778</td><td>42.146</td><td></td><td></td><td>10.139</td><td>8.909</td></tr><tr><td><b>Maximum</b></td><td>18.000</td><td></td><td>1257033600.000</td><td>22.000</td><td>18.000</td><td>3.000</td><td>76.000</td><td>59.839</td><td></td><td></td><td>20.000</td><td>16.000</td></tr><tr><td><b>75th Percentile</b></td><td>14.000</td><td></td><td>1247356800.000</td><td>16.000</td><td>15.000</td><td></td><td>66.000</td><td>58.244</td><td></td><td></td><td>15.000</td><td>12.000</td></tr><tr><td><b>Median</b></td><td>10.000</td><td></td><td>1225584000.000</td><td>14.000</td><td>13.000</td><td></td><td>57.000</td><td>54.241</td><td></td><td></td><td>9.000</td><td>8.000</td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>1215302400.000</td><td>11.000</td><td>10.000</td><td></td><td>53.000</td><td>18.489</td><td></td><td></td><td>7.000</td><td>5.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>1192924800.000</td><td>5.000</td><td>6.000</td><td></td><td>1.000</td><td>17.973</td><td></td><td></td><td>3.000</td><td>2.000</td></tr><tr><td><b>Variance</b></td><td>26.471</td><td></td><td>318830440320000.000</td><td>11.934</td><td>9.693</td><td>0.465</td><td>240.895</td><td>314.155</td><td></td><td></td><td>21.397</td><td>15.780</td></tr><tr><td><b>Standard Deviation σ</b></td><td>5.145</td><td></td><td>17855823.709</td><td>3.455</td><td>3.113</td><td>0.682</td><td>15.521</td><td>17.724</td><td></td><td></td><td>4.626</td><td>3.972</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

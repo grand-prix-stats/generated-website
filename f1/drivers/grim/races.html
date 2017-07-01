@@ -1,0 +1,46 @@
+---
+title: List of Formula 1® Races by Bobby Grim
+layout: page
+collectionName: drivers
+collectionId: grim
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1960</td><td>3</td><td>1960 Indianapolis 500 🇺🇸</td><td>1960-05-30T00:00:00.000Z</td><td>21</td><td>16</td><td>0.0</td><td>194</td><td> </td><td>Meskowski 🇺🇸</td><td><a href="/f1/drivers/veith">Bob Veith 🇺🇸</a></td><td>25</td><td>8</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/darter">Duane Carter 🇺🇸</a></td><td>12</td><td>7</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/johnson">Eddie Johnson 🇺🇸</a></td><td>8</td><td>8</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/paul_russo">Paul Russo 🇺🇸</a></td><td>27</td><td>9</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/daywalt">Jimmy Daywalt 🇺🇸</a></td><td>13</td><td>14</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/arnold">Chuck Arnold 🇺🇸</a></td><td>21</td><td>15</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/mcwithey">Jim McWithey 🇺🇸</a></td><td>33</td><td>16</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/freeland">Don Freeland 🇺🇸</a></td><td>25</td><td>R</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/christie">Bob Christie 🇺🇸</a></td><td>24</td><td>R</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/weyant">Chuck Weyant 🇺🇸</a></td><td>29</td><td>R</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/larson">Jud Larson 🇺🇸</a></td><td>19</td><td>R</td></tr>
+<tr><td>1959</td><td>2</td><td>1959 Indianapolis 500 🇺🇸</td><td>1959-05-30T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>85</td><td> </td><td>Kurtis Kraft 🇺🇸</td><td><a href="/f1/drivers/amick">Red Amick 🇺🇸</a></td><td>26</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>12</td><td></td><td>12</td><td>12</td><td>1</td><td>12</td><td>12</td><td></td><td></td><td></td><td>12</td><td>7</td></tr><tr><td><b>Total Sum</b></td><td>25.000</td><td></td><td>-3979756800.000</td><td>76.000</td><td>16.000</td><td></td><td>1129.000</td><td></td><td></td><td></td><td>262.000</td><td>77.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>2.083</td><td></td><td>-331646400.000</td><td>6.333</td><td>16.000</td><td></td><td>94.083</td><td></td><td></td><td></td><td>21.833</td><td>11.000</td></tr><tr><td><b>Maximum</b></td><td>3.000</td><td></td><td>-302659200.000</td><td>21.000</td><td>16.000</td><td></td><td>194.000</td><td></td><td></td><td></td><td>33.000</td><td>16.000</td></tr><tr><td><b>75th Percentile</b></td><td>2.000</td><td></td><td>-334281600.000</td><td>5.000</td><td>16.000</td><td></td><td>85.000</td><td></td><td></td><td></td><td>27.000</td><td>15.000</td></tr><tr><td><b>Median</b></td><td>2.000</td><td></td><td>-334281600.000</td><td>5.000</td><td>16.000</td><td></td><td>85.000</td><td></td><td></td><td></td><td>25.000</td><td>9.000</td></tr><tr><td><b>25th Percentile</b></td><td>2.000</td><td></td><td>-334281600.000</td><td>5.000</td><td>16.000</td><td></td><td>85.000</td><td></td><td></td><td></td><td>19.000</td><td>8.000</td></tr><tr><td><b>Minimum</b></td><td>2.000</td><td></td><td>-334281600.000</td><td>5.000</td><td>16.000</td><td></td><td>85.000</td><td></td><td></td><td></td><td>8.000</td><td>7.000</td></tr><tr><td><b>Variance</b></td><td>0.076</td><td></td><td>76387069440000.000</td><td>19.556</td><td></td><td></td><td>907.576</td><td></td><td></td><td></td><td>51.639</td><td>12.571</td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.276</td><td></td><td>8739969.648</td><td>4.422</td><td></td><td></td><td>30.126</td><td></td><td></td><td></td><td>7.186</td><td>3.546</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,40 @@
+---
+title: List of Formula 1® Races by Fritz Riess
+layout: page
+collectionName: drivers
+collectionId: riess
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1952</td><td>6</td><td>1952 German Grand Prix 🇩🇪</td><td>1952-08-03T00:00:00.000Z</td><td>12</td><td>7</td><td>0.0</td><td>16</td><td> </td><td>Veritas 🇩🇪</td><td><a href="/f1/drivers/ulmen">Toni Ulmen 🇩🇪</a></td><td>15</td><td>8</td></tr>
+<tr><td>1952</td><td>6</td><td>1952 German Grand Prix 🇩🇪</td><td>1952-08-03T00:00:00.000Z</td><td>12</td><td>7</td><td>0.0</td><td>16</td><td> </td><td>Veritas 🇩🇪</td><td><a href="/f1/drivers/klenk">Hans Klenk 🇩🇪</a></td><td>8</td><td>11</td></tr>
+<tr><td>1952</td><td>6</td><td>1952 German Grand Prix 🇩🇪</td><td>1952-08-03T00:00:00.000Z</td><td>12</td><td>7</td><td>0.0</td><td>16</td><td> </td><td>Veritas 🇩🇪</td><td><a href="/f1/drivers/brudes">Adolf Brudes 🇩🇪</a></td><td>19</td><td>R</td></tr>
+<tr><td>1952</td><td>6</td><td>1952 German Grand Prix 🇩🇪</td><td>1952-08-03T00:00:00.000Z</td><td>12</td><td>7</td><td>0.0</td><td>16</td><td> </td><td>Veritas 🇩🇪</td><td><a href="/f1/drivers/pietsch">Paul Pietsch 🇩🇪</a></td><td>7</td><td>R</td></tr>
+<tr><td>1952</td><td>6</td><td>1952 German Grand Prix 🇩🇪</td><td>1952-08-03T00:00:00.000Z</td><td>12</td><td>7</td><td>0.0</td><td>16</td><td> </td><td>Veritas 🇩🇪</td><td><a href="/f1/drivers/helfrich">Theo Helfrich 🇩🇪</a></td><td>18</td><td>R</td></tr>
+<tr><td>1952</td><td>6</td><td>1952 German Grand Prix 🇩🇪</td><td>1952-08-03T00:00:00.000Z</td><td>12</td><td>7</td><td>0.0</td><td>16</td><td> </td><td>Veritas 🇩🇪</td><td><a href="/f1/drivers/peters">Josef Peters 🇩🇪</a></td><td>20</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>6</td><td></td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td></td><td></td><td></td><td>6</td><td>2</td></tr><tr><td><b>Total Sum</b></td><td>36.000</td><td></td><td>-3297024000.000</td><td>72.000</td><td>42.000</td><td></td><td>96.000</td><td></td><td></td><td></td><td>87.000</td><td>19.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>6.000</td><td></td><td>-549504000.000</td><td>12.000</td><td>7.000</td><td></td><td>16.000</td><td></td><td></td><td></td><td>14.500</td><td>9.500</td></tr><tr><td><b>Maximum</b></td><td>6.000</td><td></td><td>-549504000.000</td><td>12.000</td><td>7.000</td><td></td><td>16.000</td><td></td><td></td><td></td><td>20.000</td><td>11.000</td></tr><tr><td><b>75th Percentile</b></td><td>6.000</td><td></td><td>-549504000.000</td><td>12.000</td><td>7.000</td><td></td><td>16.000</td><td></td><td></td><td></td><td>19.000</td><td>11.000</td></tr><tr><td><b>Median</b></td><td>6.000</td><td></td><td>-549504000.000</td><td>12.000</td><td>7.000</td><td></td><td>16.000</td><td></td><td></td><td></td><td>18.000</td><td>11.000</td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td>-549504000.000</td><td>12.000</td><td>7.000</td><td></td><td>16.000</td><td></td><td></td><td></td><td>8.000</td><td>8.000</td></tr><tr><td><b>Minimum</b></td><td>6.000</td><td></td><td>-549504000.000</td><td>12.000</td><td>7.000</td><td></td><td>16.000</td><td></td><td></td><td></td><td>7.000</td><td>8.000</td></tr><tr><td><b>Variance</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>26.917</td><td>2.250</td></tr><tr><td><b>Standard Deviation σ</b></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>5.188</td><td>1.500</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

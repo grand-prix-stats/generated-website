@@ -1,0 +1,44 @@
+---
+title: List of All Formula 1® Races in Singapore by Year
+layout: page
+collectionName: countries
+collectionId: singapore
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Circuit</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>2017</td><td>14</td><td>2017 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2017-09-17T00:00:00.000Z</td><td> </td><td> </td><td> </td><td> </td></tr>
+<tr><td>2016</td><td>15</td><td>2016 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2016-09-18T00:00:00.000Z</td><td>61</td><td>1:55:48.950</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2015</td><td>13</td><td>2015 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2015-09-20T00:00:00.000Z</td><td>61</td><td>2:01:22.118</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2014</td><td>14</td><td>2014 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2014-09-21T00:00:00.000Z</td><td>60</td><td>2:00:04.795</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2013</td><td>13</td><td>2013 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2013-09-22T00:00:00.000Z</td><td>61</td><td>1:59:13.132</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2012</td><td>14</td><td>2012 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2012-09-23T00:00:00.000Z</td><td>59</td><td>2:00:26.144</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2011</td><td>14</td><td>2011 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2011-09-25T00:00:00.000Z</td><td>61</td><td>1:59:04.757</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2010</td><td>15</td><td>2010 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2010-09-26T00:00:00.000Z</td><td>61</td><td>1:57:53.579</td><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2009</td><td>14</td><td>2009 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2009-09-27T00:00:00.000Z</td><td>61</td><td>1:56:06.337</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>2008</td><td>15</td><td>2008 Singapore Grand Prix 🇸🇬</td><td><a href="/f1/circuits/marina_bay">Marina Bay Street Circuit</a></td><td>2008-09-28T00:00:00.000Z</td><td>61</td><td>1:57:16.304</td><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>Renault 🇫🇷</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Circuit</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>10</td><td></td><td></td><td>10</td><td>9</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>141.000</td><td></td><td></td><td>13640832000.000</td><td>546.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>14.100</td><td></td><td></td><td>1364083200.000</td><td>60.667</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>15.000</td><td></td><td></td><td>1505606400.000</td><td>61.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>15.000</td><td></td><td></td><td>1442707200.000</td><td>61.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>14.000</td><td></td><td></td><td>1379808000.000</td><td>61.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>14.000</td><td></td><td></td><td>1285459200.000</td><td>61.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>13.000</td><td></td><td></td><td>1222560000.000</td><td>59.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>0.490</td><td></td><td></td><td>8159888056320000.000</td><td>0.444</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.700</td><td></td><td></td><td>90332098.704</td><td>0.667</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

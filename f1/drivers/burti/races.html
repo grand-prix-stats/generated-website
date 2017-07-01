@@ -1,0 +1,49 @@
+---
+title: List of Formula 1® Races by Luciano Burti
+layout: page
+collectionName: drivers
+collectionId: burti
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2001</td><td>14</td><td>2001 Belgian Grand Prix 🇧🇪</td><td>2001-09-02T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>4</td><td>9</td></tr>
+<tr><td>2001</td><td>13</td><td>2001 Hungarian Grand Prix 🇭🇺</td><td>2001-08-19T00:00:00.000Z</td><td>19</td><td>R</td><td>0.0</td><td>8</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>16</td><td>R</td></tr>
+<tr><td>2001</td><td>12</td><td>2001 German Grand Prix 🇩🇪</td><td>2001-07-29T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>23</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>14</td><td>6</td></tr>
+<tr><td>2001</td><td>11</td><td>2001 British Grand Prix 🇬🇧</td><td>2001-07-15T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>6</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>14</td><td>11</td></tr>
+<tr><td>2001</td><td>10</td><td>2001 French Grand Prix 🇫🇷</td><td>2001-07-01T00:00:00.000Z</td><td>15</td><td>10</td><td>0.0</td><td>71</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>19</td><td>12</td></tr>
+<tr><td>2001</td><td>9</td><td>2001 European Grand Prix 🇩🇪</td><td>2001-06-24T00:00:00.000Z</td><td>17</td><td>12</td><td>0.0</td><td>65</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>14</td><td>15</td></tr>
+<tr><td>2001</td><td>8</td><td>2001 Canadian Grand Prix 🇨🇦</td><td>2001-06-10T00:00:00.000Z</td><td>19</td><td>8</td><td>0.0</td><td>68</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>16</td><td>5</td></tr>
+<tr><td>2001</td><td>7</td><td>2001 Monaco Grand Prix 🇲🇨</td><td>2001-05-27T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>24</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>11</td><td>6</td></tr>
+<tr><td>2001</td><td>6</td><td>2001 Austrian Grand Prix 🇦🇹</td><td>2001-05-13T00:00:00.000Z</td><td>17</td><td>11</td><td>0.0</td><td>69</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>20</td><td>10</td></tr>
+<tr><td>2001</td><td>5</td><td>2001 Spanish Grand Prix 🇪🇸</td><td>2001-04-29T00:00:00.000Z</td><td>14</td><td>11</td><td>0.0</td><td>64</td><td> </td><td>Prost 🇫🇷</td><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>15</td><td>10</td></tr>
+<tr><td>2001</td><td>4</td><td>2001 San Marino Grand Prix 🇮🇹</td><td>2001-04-15T00:00:00.000Z</td><td>15</td><td>11</td><td>0.0</td><td>60</td><td> </td><td>Jaguar 🇬🇧</td><td><a href="/f1/drivers/irvine">Eddie Irvine 🇬🇧</a></td><td>13</td><td>R</td></tr>
+<tr><td>2001</td><td>3</td><td>2001 Brazilian Grand Prix 🇧🇷</td><td>2001-04-01T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>30</td><td> </td><td>Jaguar 🇬🇧</td><td><a href="/f1/drivers/irvine">Eddie Irvine 🇬🇧</a></td><td>13</td><td>R</td></tr>
+<tr><td>2001</td><td>2</td><td>2001 Malaysian Grand Prix 🇲🇾</td><td>2001-03-18T00:00:00.000Z</td><td>15</td><td>10</td><td>0.0</td><td>54</td><td> </td><td>Jaguar 🇬🇧</td><td><a href="/f1/drivers/irvine">Eddie Irvine 🇬🇧</a></td><td>12</td><td>R</td></tr>
+<tr><td>2001</td><td>1</td><td>2001 Australian Grand Prix 🇦🇺</td><td>2001-03-04T00:00:00.000Z</td><td>21</td><td>8</td><td>0.0</td><td>57</td><td> </td><td>Jaguar 🇬🇧</td><td><a href="/f1/drivers/irvine">Eddie Irvine 🇬🇧</a></td><td>12</td><td>11</td></tr>
+<tr><td>2000</td><td>10</td><td>2000 Austrian Grand Prix 🇦🇹</td><td>2000-07-16T00:00:00.000Z</td><td>21</td><td>11</td><td>0.0</td><td>69</td><td> </td><td>Jaguar 🇬🇧</td><td><a href="/f1/drivers/herbert">Johnny Herbert 🇬🇧</a></td><td>16</td><td>7</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>15</td><td></td><td>15</td><td>15</td><td>9</td><td>15</td><td>15</td><td></td><td></td><td></td><td>15</td><td>11</td></tr><tr><td><b>Total Sum</b></td><td>115.000</td><td></td><td>14843260800.000</td><td>258.000</td><td>92.000</td><td></td><td>668.000</td><td></td><td></td><td></td><td>209.000</td><td>102.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>7.667</td><td></td><td>989550720.000</td><td>17.200</td><td>10.222</td><td></td><td>44.533</td><td></td><td></td><td></td><td>13.933</td><td>9.273</td></tr><tr><td><b>Maximum</b></td><td>14.000</td><td></td><td>999388800.000</td><td>21.000</td><td>12.000</td><td></td><td>71.000</td><td></td><td></td><td></td><td>20.000</td><td>15.000</td></tr><tr><td><b>75th Percentile</b></td><td>11.000</td><td></td><td>995155200.000</td><td>19.000</td><td>11.000</td><td></td><td>68.000</td><td></td><td></td><td></td><td>16.000</td><td>11.000</td></tr><tr><td><b>Median</b></td><td>8.000</td><td></td><td>990921600.000</td><td>17.000</td><td>11.000</td><td></td><td>57.000</td><td></td><td></td><td></td><td>14.000</td><td>10.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>986083200.000</td><td>15.000</td><td>10.000</td><td></td><td>23.000</td><td></td><td></td><td></td><td>12.000</td><td>6.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>963705600.000</td><td>14.000</td><td>8.000</td><td></td><td></td><td></td><td></td><td></td><td>4.000</td><td>5.000</td></tr><tr><td><b>Variance</b></td><td>15.556</td><td></td><td>68936284569600.000</td><td>5.893</td><td>1.728</td><td></td><td>641.982</td><td></td><td></td><td></td><td>12.862</td><td>8.380</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.944</td><td></td><td>8302787.759</td><td>2.428</td><td>1.315</td><td></td><td>25.337</td><td></td><td></td><td></td><td>3.586</td><td>2.895</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

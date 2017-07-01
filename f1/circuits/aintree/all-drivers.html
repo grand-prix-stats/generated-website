@@ -1,0 +1,111 @@
+---
+title: List of All Formula 1® Drivers that Have Raced at Aintree
+layout: page
+collectionName: circuits
+collectionId: aintree
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Driver</th><th>Times</th></tr>
+<tr><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/salvadori">Roy Salvadori 🇬🇧</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/schell">Harry Schell 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/fairman">Jack Fairman 🇬🇧</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/greene">Keith Greene 🇬🇧</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/brooks">Tony Brooks 🇬🇧</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/burgess">Ian Burgess 🇬🇧</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/collins">Peter Collins 🇬🇧</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/beaufort">Carel Godin de Beaufort 🇳🇱</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/gurney">Dan Gurney 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/castellotti">Eugenio Castellotti 🇮🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/henry_taylor">Henry Taylor 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/gould">Horace Gould 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/bueb">Ivor Bueb 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/lewis">Jackie Lewis 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/behra">Jean Behra 🇫🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/musso">Luigi Musso 🇮🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/hawthorn">Mike Hawthorn 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/phil_hill">Phil Hill 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/ginther">Richie Ginther 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/parnell">Tim Parnell 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/maggs">Tony Maggs 🇿🇦</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/trevor_taylor">Trevor Taylor 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/seidel">Wolfgang Seidel 🇩🇪</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/stacey">Alan Stacey 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/simon">André Simon 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bill_moss">Bill Moss 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/gerard">Bob Gerard 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/naylor">Brian Naylor 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/menditeguy">Carlos Menditeguy 🇦🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/shelby">Carroll Shelby 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bristow">Chris Bristow 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/piper">David Piper 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/dennis_taylor">Dennis Taylor 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/orey">Fritz d'Orey 🇧🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ashmore">Gerry Ashmore 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/baghetti">Giancarlo Baghetti 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ramos">Hernando da Silva Ramos 🇧🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/chamberlain">Jay Chamberlain 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/campbell-jones">John Campbell-Jones 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/kling">Karl Kling 🇩🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/wharton">Ken Wharton 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/mcalpine">Kenneth McAlpine 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/macklin">Lance Macklin 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/leston">Les Leston 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/marr">Leslie Marr 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bandini">Lorenzo Bandini 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bianchi">Lucien Bianchi 🇧🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/natili">Massimo Natili 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/parkes">Mike Parkes 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/sparken">Mike Sparken 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/mike_taylor">Mike Taylor 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/gendebien">Olivier Gendebien 🇧🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ashdown">Peter Ashdown 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/peter_walker">Peter Walker 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/taruffi">Piero Taruffi 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/manzon">Robert Manzon 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/mieres">Roberto Mieres 🇦🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/flockhart">Ron Flockhart 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/lewis-evans">Stuart Lewis-Evans 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/marsh">Tony Marsh 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/rolt">Tony Rolt 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/settember">Tony Settember 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/shelly">Tony Shelly 🇳🇿</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/trips">Wolfgang von Trips 🇩🇪</a></td><td>1</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Times</b></td></tr><tr><td><b>Row Count</b></td><td>77</td></tr><tr><td><b>Total Sum</b></td><td>138.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>1.792</td></tr><tr><td><b>Maximum</b></td><td>6.000</td></tr><tr><td><b>75th Percentile</b></td><td>2.000</td></tr><tr><td><b>Median</b></td><td>1.000</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>1.333</td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.155</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

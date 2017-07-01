@@ -1,0 +1,48 @@
+---
+title: List of Formula 1® Races by Giorgio Pantano
+layout: page
+collectionName: drivers
+collectionId: pantano
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2004</td><td>15</td><td>2004 Italian Grand Prix 🇮🇹</td><td>2004-09-12T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>33</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>20</td><td>14</td></tr>
+<tr><td>2004</td><td>14</td><td>2004 Belgian Grand Prix 🇧🇪</td><td>2004-08-29T00:00:00.000Z</td><td>19</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>16</td><td>11</td></tr>
+<tr><td>2004</td><td>13</td><td>2004 Hungarian Grand Prix 🇭🇺</td><td>2004-08-15T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>48</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>16</td><td>12</td></tr>
+<tr><td>2004</td><td>12</td><td>2004 German Grand Prix 🇩🇪</td><td>2004-07-25T00:00:00.000Z</td><td>17</td><td>15</td><td>0.0</td><td>63</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>18</td><td>R</td></tr>
+<tr><td>2004</td><td>11</td><td>2004 British Grand Prix 🇬🇧</td><td>2004-07-11T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>47</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>15</td><td>15</td></tr>
+<tr><td>2004</td><td>10</td><td>2004 French Grand Prix 🇫🇷</td><td>2004-07-04T00:00:00.000Z</td><td>18</td><td>17</td><td>0.0</td><td>67</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>17</td><td>16</td></tr>
+<tr><td>2004</td><td>9</td><td>2004 United States Grand Prix 🇺🇸</td><td>2004-06-20T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>16</td><td>R</td></tr>
+<tr><td>2004</td><td>7</td><td>2004 European Grand Prix 🇩🇪</td><td>2004-05-30T00:00:00.000Z</td><td>15</td><td>13</td><td>0.0</td><td>58</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>13</td><td>10</td></tr>
+<tr><td>2004</td><td>6</td><td>2004 Monaco Grand Prix 🇲🇨</td><td>2004-05-23T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>12</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>17</td><td>7</td></tr>
+<tr><td>2004</td><td>5</td><td>2004 Spanish Grand Prix 🇪🇸</td><td>2004-05-09T00:00:00.000Z</td><td>19</td><td>R</td><td>0.0</td><td>51</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>15</td><td>R</td></tr>
+<tr><td>2004</td><td>4</td><td>2004 San Marino Grand Prix 🇮🇹</td><td>2004-04-25T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>6</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>16</td><td>R</td></tr>
+<tr><td>2004</td><td>3</td><td>2004 Bahrain Grand Prix 🇧🇭</td><td>2004-04-04T00:00:00.000Z</td><td>15</td><td>16</td><td>0.0</td><td>55</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>18</td><td>15</td></tr>
+<tr><td>2004</td><td>2</td><td>2004 Malaysian Grand Prix 🇲🇾</td><td>2004-03-21T00:00:00.000Z</td><td>18</td><td>13</td><td>0.0</td><td>54</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>15</td><td>R</td></tr>
+<tr><td>2004</td><td>1</td><td>2004 Australian Grand Prix 🇦🇺</td><td>2004-03-07T00:00:00.000Z</td><td>16</td><td>14</td><td>0.0</td><td>55</td><td> </td><td>Jordan 🇮🇪</td><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>15</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>14</td><td></td><td>14</td><td>14</td><td>6</td><td>14</td><td>14</td><td></td><td></td><td></td><td>14</td><td>8</td></tr><tr><td><b>Total Sum</b></td><td>112.000</td><td></td><td>15215558400.000</td><td>235.000</td><td>88.000</td><td></td><td>549.000</td><td></td><td></td><td></td><td>227.000</td><td>100.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>8.000</td><td></td><td>1086825600.000</td><td>16.786</td><td>14.667</td><td></td><td>39.214</td><td></td><td></td><td></td><td>16.214</td><td>12.500</td></tr><tr><td><b>Maximum</b></td><td>15.000</td><td></td><td>1094947200.000</td><td>19.000</td><td>17.000</td><td></td><td>67.000</td><td></td><td></td><td></td><td>20.000</td><td>16.000</td></tr><tr><td><b>75th Percentile</b></td><td>12.000</td><td></td><td>1090713600.000</td><td>18.000</td><td>16.000</td><td></td><td>55.000</td><td></td><td></td><td></td><td>17.000</td><td>15.000</td></tr><tr><td><b>Median</b></td><td>9.000</td><td></td><td>1087689600.000</td><td>17.000</td><td>15.000</td><td></td><td>51.000</td><td></td><td></td><td></td><td>16.000</td><td>14.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>1082851200.000</td><td>15.000</td><td>13.000</td><td></td><td>12.000</td><td></td><td></td><td></td><td>15.000</td><td>11.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>1078617600.000</td><td>14.000</td><td>13.000</td><td></td><td></td><td></td><td></td><td></td><td>13.000</td><td>7.000</td></tr><tr><td><b>Variance</b></td><td>20.000</td><td></td><td>25015080960000.000</td><td>2.311</td><td>2.222</td><td></td><td>545.883</td><td></td><td></td><td></td><td>2.740</td><td>8.250</td></tr><tr><td><b>Standard Deviation σ</b></td><td>4.472</td><td></td><td>5001507.869</td><td>1.520</td><td>1.491</td><td></td><td>23.364</td><td></td><td></td><td></td><td>1.655</td><td>2.872</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,50 @@
+---
+title: List of Formula 1® Races by Johnny Dumfries
+layout: page
+collectionName: drivers
+collectionId: dumfries
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1986</td><td>16</td><td>1986 Australian Grand Prix 🇦🇺</td><td>1986-10-26T00:00:00.000Z</td><td>14</td><td>6</td><td>1.0</td><td>80</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>3</td><td>R</td></tr>
+<tr><td>1986</td><td>15</td><td>1986 Mexican Grand Prix 🇲🇽</td><td>1986-10-12T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>53</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>3</td></tr>
+<tr><td>1986</td><td>14</td><td>1986 Portuguese Grand Prix 🇵🇹</td><td>1986-09-21T00:00:00.000Z</td><td>15</td><td>9</td><td>0.0</td><td>68</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>4</td></tr>
+<tr><td>1986</td><td>13</td><td>1986 Italian Grand Prix 🇮🇹</td><td>1986-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>18</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>5</td><td>R</td></tr>
+<tr><td>1986</td><td>12</td><td>1986 Austrian Grand Prix 🇦🇹</td><td>1986-08-17T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>8</td><td>R</td></tr>
+<tr><td>1986</td><td>11</td><td>1986 Hungarian Grand Prix 🇭🇺</td><td>1986-08-10T00:00:00.000Z</td><td>8</td><td>5</td><td>2.0</td><td>74</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>2</td></tr>
+<tr><td>1986</td><td>10</td><td>1986 German Grand Prix 🇩🇪</td><td>1986-07-27T00:00:00.000Z</td><td>12</td><td>R</td><td>0.0</td><td>17</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>3</td><td>2</td></tr>
+<tr><td>1986</td><td>9</td><td>1986 British Grand Prix 🇬🇧</td><td>1986-07-13T00:00:00.000Z</td><td>10</td><td>7</td><td>0.0</td><td>72</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>3</td><td>R</td></tr>
+<tr><td>1986</td><td>8</td><td>1986 French Grand Prix 🇫🇷</td><td>1986-07-06T00:00:00.000Z</td><td>12</td><td>R</td><td>0.0</td><td>56</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>R</td></tr>
+<tr><td>1986</td><td>7</td><td>1986 Detroit Grand Prix 🇺🇸</td><td>1986-06-22T00:00:00.000Z</td><td>14</td><td>7</td><td>0.0</td><td>61</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1986</td><td>6</td><td>1986 Canadian Grand Prix 🇨🇦</td><td>1986-06-15T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>28</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>2</td><td>5</td></tr>
+<tr><td>1986</td><td>5</td><td>1986 Belgian Grand Prix 🇧🇪</td><td>1986-05-25T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>7</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>4</td><td>2</td></tr>
+<tr><td>1986</td><td>4</td><td>1986 Monaco Grand Prix 🇲🇨</td><td>1986-05-11T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>3</td><td>3</td></tr>
+<tr><td>1986</td><td>3</td><td>1986 San Marino Grand Prix 🇮🇹</td><td>1986-04-27T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>8</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>R</td></tr>
+<tr><td>1986</td><td>2</td><td>1986 Spanish Grand Prix 🇪🇸</td><td>1986-04-13T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>52</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1986</td><td>1</td><td>1986 Brazilian Grand Prix 🇧🇷</td><td>1986-03-23T00:00:00.000Z</td><td>11</td><td>9</td><td>0.0</td><td>58</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>1</td><td>2</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>16</td><td></td><td>16</td><td>16</td><td>6</td><td>16</td><td>16</td><td></td><td></td><td></td><td>16</td><td>10</td></tr><tr><td><b>Total Sum</b></td><td>136.000</td><td></td><td>8341315200.000</td><td>201.000</td><td>43.000</td><td>3.000</td><td>661.000</td><td></td><td></td><td></td><td>39.000</td><td>25.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>8.500</td><td></td><td>521332200.000</td><td>12.562</td><td>7.167</td><td>0.188</td><td>41.312</td><td></td><td></td><td></td><td>2.438</td><td>2.500</td></tr><tr><td><b>Maximum</b></td><td>16.000</td><td></td><td>530668800.000</td><td>17.000</td><td>9.000</td><td>2.000</td><td>80.000</td><td></td><td></td><td></td><td>8.000</td><td>5.000</td></tr><tr><td><b>75th Percentile</b></td><td>13.000</td><td></td><td>526435200.000</td><td>16.000</td><td>9.000</td><td></td><td>68.000</td><td></td><td></td><td></td><td>3.000</td><td>3.000</td></tr><tr><td><b>Median</b></td><td>9.000</td><td></td><td>521596800.000</td><td>14.000</td><td>7.000</td><td></td><td>53.000</td><td></td><td></td><td></td><td>2.000</td><td>2.000</td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>517363200.000</td><td>11.000</td><td>6.000</td><td></td><td>17.000</td><td></td><td></td><td></td><td>1.000</td><td>2.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>511920000.000</td><td></td><td>5.000</td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>21.250</td><td></td><td>29764166040000.000</td><td>17.621</td><td>2.139</td><td>0.277</td><td>731.340</td><td></td><td></td><td></td><td>3.621</td><td>1.450</td></tr><tr><td><b>Standard Deviation σ</b></td><td>4.610</td><td></td><td>5455654.502</td><td>4.198</td><td>1.462</td><td>0.527</td><td>27.043</td><td></td><td></td><td></td><td>1.903</td><td>1.204</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

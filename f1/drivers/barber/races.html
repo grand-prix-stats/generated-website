@@ -1,0 +1,56 @@
+---
+title: List of Formula 1® Races by Skip Barber
+layout: page
+collectionName: drivers
+collectionId: barber
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>20</td><td>16</td><td>0.0</td><td>57</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>26</td><td>4</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>20</td><td>16</td><td>0.0</td><td>57</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/beuttler">Mike Beuttler 🇬🇧</a></td><td>20</td><td>13</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>20</td><td>16</td><td>0.0</td><td>57</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>21</td><td>14</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>20</td><td>16</td><td>0.0</td><td>57</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/lauda">Niki Lauda 🇦🇹</a></td><td>25</td><td>19</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>20</td><td>16</td><td>0.0</td><td>57</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/pace">Carlos Pace 🇧🇷</a></td><td>15</td><td>R</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>22</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/pace">Carlos Pace 🇧🇷</a></td><td>18</td><td>9</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>22</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>21</td><td>13</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>22</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/lauda">Niki Lauda 🇦🇹</a></td><td>19</td><td>D</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>22</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>3</td><td>D</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>22</td><td>N</td><td>0.0</td><td>24</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/beuttler">Mike Beuttler 🇬🇧</a></td><td>24</td><td>N</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>25</td><td>N</td><td>0.0</td><td>52</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>11</td><td>3</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>25</td><td>N</td><td>0.0</td><td>52</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>20</td><td>R</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>25</td><td>N</td><td>0.0</td><td>52</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/galli">Nanni Galli 🇮🇹</a></td><td>23</td><td>R</td></tr>
+<tr><td>1971</td><td>10</td><td>1971 Canadian Grand Prix 🇨🇦</td><td>1971-09-19T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>13</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>6</td><td>2</td></tr>
+<tr><td>1971</td><td>10</td><td>1971 Canadian Grand Prix 🇨🇦</td><td>1971-09-19T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>13</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/galli">Nanni Galli 🇮🇹</a></td><td>20</td><td>16</td></tr>
+<tr><td>1971</td><td>10</td><td>1971 Canadian Grand Prix 🇨🇦</td><td>1971-09-19T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>13</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/beuttler">Mike Beuttler 🇬🇧</a></td><td>22</td><td>N</td></tr>
+<tr><td>1971</td><td>4</td><td>1971 Dutch Grand Prix 🇳🇱</td><td>1971-06-20T00:00:00.000Z</td><td>24</td><td>N</td><td>0.0</td><td>60</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>13</td><td>4</td></tr>
+<tr><td>1971</td><td>4</td><td>1971 Dutch Grand Prix 🇳🇱</td><td>1971-06-20T00:00:00.000Z</td><td>24</td><td>N</td><td>0.0</td><td>60</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>15</td><td>N</td></tr>
+<tr><td>1971</td><td>4</td><td>1971 Dutch Grand Prix 🇳🇱</td><td>1971-06-20T00:00:00.000Z</td><td>24</td><td>N</td><td>0.0</td><td>60</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/roig">Alex Soler-Roig 🇪🇸</a></td><td>17</td><td>R</td></tr>
+<tr><td>1971</td><td>3</td><td>1971 Monaco Grand Prix 🇲🇨</td><td>1971-05-23T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>6</td><td>2</td></tr>
+<tr><td>1971</td><td>3</td><td>1971 Monaco Grand Prix 🇲🇨</td><td>1971-05-23T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>13</td><td>8</td></tr>
+<tr><td>1971</td><td>3</td><td>1971 Monaco Grand Prix 🇲🇨</td><td>1971-05-23T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March-Ford 🇬🇧</td><td><a href="/f1/drivers/roig">Alex Soler-Roig 🇪🇸</a></td><td>0</td><td>F</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>22</td><td></td><td>22</td><td>22</td><td>5</td><td>22</td><td>22</td><td></td><td></td><td></td><td>22</td><td>12</td></tr><tr><td><b>Total Sum</b></td><td>199.000</td><td></td><td>1465689600.000</td><td>429.000</td><td>80.000</td><td></td><td>780.000</td><td></td><td></td><td></td><td>358.000</td><td>107.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>9.045</td><td></td><td>66622254.545</td><td>19.500</td><td>16.000</td><td></td><td>35.455</td><td></td><td></td><td></td><td>16.273</td><td>8.917</td></tr><tr><td><b>Maximum</b></td><td>12.000</td><td></td><td>87350400.000</td><td>25.000</td><td>16.000</td><td></td><td>60.000</td><td></td><td></td><td></td><td>26.000</td><td>19.000</td></tr><tr><td><b>75th Percentile</b></td><td>11.000</td><td></td><td>86140800.000</td><td>24.000</td><td>16.000</td><td></td><td>57.000</td><td></td><td></td><td></td><td>21.000</td><td>14.000</td></tr><tr><td><b>Median</b></td><td>11.000</td><td></td><td>55296000.000</td><td>22.000</td><td>16.000</td><td></td><td>52.000</td><td></td><td></td><td></td><td>19.000</td><td>9.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>46224000.000</td><td>20.000</td><td>16.000</td><td></td><td>13.000</td><td></td><td></td><td></td><td>13.000</td><td>4.000</td></tr><tr><td><b>Minimum</b></td><td>3.000</td><td></td><td>43804800.000</td><td></td><td>16.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.000</td></tr><tr><td><b>Variance</b></td><td>11.952</td><td></td><td>350891740371570.188</td><td>62.977</td><td></td><td></td><td>494.975</td><td></td><td></td><td></td><td>50.471</td><td>32.576</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.457</td><td></td><td>18732104.537</td><td>7.936</td><td></td><td></td><td>22.248</td><td></td><td></td><td></td><td>7.104</td><td>5.708</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

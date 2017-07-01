@@ -1,0 +1,46 @@
+---
+title: List of Formula 1® Races by Ricardo Zunino
+layout: page
+collectionName: drivers
+collectionId: zunino
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1981</td><td>3</td><td>1981 Argentine Grand Prix 🇦🇷</td><td>1981-04-12T00:00:00.000Z</td><td>24</td><td>13</td><td>0.0</td><td>51</td><td> </td><td>Tyrrell 🇬🇧</td><td><a href="/f1/drivers/cheever">Eddie Cheever 🇺🇸</a></td><td>13</td><td>R</td></tr>
+<tr><td>1981</td><td>2</td><td>1981 Brazilian Grand Prix 🇧🇷</td><td>1981-03-29T00:00:00.000Z</td><td>24</td><td>13</td><td>0.0</td><td>57</td><td> </td><td>Tyrrell 🇬🇧</td><td><a href="/f1/drivers/cheever">Eddie Cheever 🇺🇸</a></td><td>14</td><td>N</td></tr>
+<tr><td>1980</td><td>7</td><td>1980 French Grand Prix 🇫🇷</td><td>1980-06-29T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>8</td><td>4</td></tr>
+<tr><td>1980</td><td>6</td><td>1980 Monaco Grand Prix 🇲🇨</td><td>1980-05-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>4</td><td>3</td></tr>
+<tr><td>1980</td><td>5</td><td>1980 Belgian Grand Prix 🇧🇪</td><td>1980-05-04T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>5</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>7</td><td>R</td></tr>
+<tr><td>1980</td><td>4</td><td>1980 United States Grand Prix West 🇺🇸</td><td>1980-03-30T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1980</td><td>3</td><td>1980 South African Grand Prix 🇿🇦</td><td>1980-03-01T00:00:00.000Z</td><td>17</td><td>10</td><td>0.0</td><td>77</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>3</td><td>4</td></tr>
+<tr><td>1980</td><td>2</td><td>1980 Brazilian Grand Prix 🇧🇷</td><td>1980-01-27T00:00:00.000Z</td><td>18</td><td>8</td><td>0.0</td><td>39</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>9</td><td>R</td></tr>
+<tr><td>1980</td><td>1</td><td>1980 Argentine Grand Prix 🇦🇷</td><td>1980-01-13T00:00:00.000Z</td><td>16</td><td>7</td><td>0.0</td><td>51</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>4</td><td>2</td></tr>
+<tr><td>1979</td><td>15</td><td>1979 United States Grand Prix 🇺🇸</td><td>1979-10-07T00:00:00.000Z</td><td>9</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Brabham-Ford 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>2</td><td>R</td></tr>
+<tr><td>1979</td><td>14</td><td>1979 Canadian Grand Prix 🇨🇦</td><td>1979-09-30T00:00:00.000Z</td><td>17</td><td>7</td><td>0.0</td><td>68</td><td> </td><td>Brabham-Ford 🇬🇧</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>4</td><td>R</td></tr>
+<tr><td>1979</td><td>14</td><td>1979 Canadian Grand Prix 🇨🇦</td><td>1979-09-30T00:00:00.000Z</td><td>17</td><td>7</td><td>0.0</td><td>68</td><td> </td><td>Brabham-Ford 🇬🇧</td><td><a href="/f1/drivers/lauda">Niki Lauda 🇦🇹</a></td><td>0</td><td>W</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>12</td><td></td><td>12</td><td>12</td><td>7</td><td>12</td><td>12</td><td></td><td></td><td></td><td>12</td><td>5</td></tr><tr><td><b>Total Sum</b></td><td>76.000</td><td></td><td>3896726400.000</td><td>204.000</td><td>65.000</td><td></td><td>441.000</td><td></td><td></td><td></td><td>69.000</td><td>14.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>6.333</td><td></td><td>324727200.000</td><td>17.000</td><td>9.286</td><td></td><td>36.750</td><td></td><td></td><td></td><td>5.750</td><td>2.800</td></tr><tr><td><b>Maximum</b></td><td>15.000</td><td></td><td>355881600.000</td><td>24.000</td><td>13.000</td><td></td><td>77.000</td><td></td><td></td><td></td><td>14.000</td><td>4.000</td></tr><tr><td><b>75th Percentile</b></td><td>14.000</td><td></td><td>331084800.000</td><td>22.000</td><td>13.000</td><td></td><td>68.000</td><td></td><td></td><td></td><td>9.000</td><td>4.000</td></tr><tr><td><b>Median</b></td><td>5.000</td><td></td><td>323222400.000</td><td>18.000</td><td>8.000</td><td></td><td>51.000</td><td></td><td></td><td></td><td>4.000</td><td>3.000</td></tr><tr><td><b>25th Percentile</b></td><td>3.000</td><td></td><td>316569600.000</td><td>17.000</td><td>7.000</td><td></td><td>5.000</td><td></td><td></td><td></td><td>3.000</td><td>2.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>307497600.000</td><td></td><td>7.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>24.056</td><td></td><td>243394346880000.000</td><td>42.000</td><td>6.490</td><td></td><td>799.354</td><td></td><td></td><td></td><td>18.688</td><td>1.360</td></tr><tr><td><b>Standard Deviation σ</b></td><td>4.905</td><td></td><td>15601100.823</td><td>6.481</td><td>2.548</td><td></td><td>28.273</td><td></td><td></td><td></td><td>4.323</td><td>1.166</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

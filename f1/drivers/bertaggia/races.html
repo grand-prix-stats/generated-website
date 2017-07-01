@@ -1,0 +1,40 @@
+---
+title: List of Formula 1® Races by Enrico Bertaggia
+layout: page
+collectionName: drivers
+collectionId: bertaggia
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1989</td><td>16</td><td>1989 Australian Grand Prix 🇦🇺</td><td>1989-11-05T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Coloni 🇮🇹</td><td><a href="/f1/drivers/moreno">Roberto Moreno 🇧🇷</a></td><td>0</td><td>F</td></tr>
+<tr><td>1989</td><td>15</td><td>1989 Japanese Grand Prix 🇯🇵</td><td>1989-10-22T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Coloni 🇮🇹</td><td><a href="/f1/drivers/moreno">Roberto Moreno 🇧🇷</a></td><td>0</td><td>F</td></tr>
+<tr><td>1989</td><td>14</td><td>1989 Spanish Grand Prix 🇪🇸</td><td>1989-10-01T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Coloni 🇮🇹</td><td><a href="/f1/drivers/moreno">Roberto Moreno 🇧🇷</a></td><td>0</td><td>F</td></tr>
+<tr><td>1989</td><td>13</td><td>1989 Portuguese Grand Prix 🇵🇹</td><td>1989-09-24T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Coloni 🇮🇹</td><td><a href="/f1/drivers/moreno">Roberto Moreno 🇧🇷</a></td><td>15</td><td>R</td></tr>
+<tr><td>1989</td><td>12</td><td>1989 Italian Grand Prix 🇮🇹</td><td>1989-09-10T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Coloni 🇮🇹</td><td><a href="/f1/drivers/moreno">Roberto Moreno 🇧🇷</a></td><td>0</td><td>F</td></tr>
+<tr><td>1989</td><td>11</td><td>1989 Belgian Grand Prix 🇧🇪</td><td>1989-08-27T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Coloni 🇮🇹</td><td><a href="/f1/drivers/moreno">Roberto Moreno 🇧🇷</a></td><td>0</td><td>F</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>6</td><td></td><td>6</td><td>6</td><td></td><td>6</td><td>6</td><td></td><td></td><td></td><td>6</td><td></td></tr><tr><td><b>Total Sum</b></td><td>81.000</td><td></td><td>3738614400.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>15.000</td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>13.500</td><td></td><td>623102400.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.500</td><td></td></tr><tr><td><b>Maximum</b></td><td>16.000</td><td></td><td>626227200.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>15.000</td><td></td></tr><tr><td><b>75th Percentile</b></td><td>15.000</td><td></td><td>625017600.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>14.000</td><td></td><td>623203200.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>12.000</td><td></td><td>621388800.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>11.000</td><td></td><td>620179200.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>2.917</td><td></td><td>4196344320000.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>31.250</td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.708</td><td></td><td>2048498.064</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>5.590</td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,65 @@
+---
+title: List of Formula 1® Races by Gunnar Nilsson
+layout: page
+collectionName: drivers
+collectionId: nilsson
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1977</td><td>17</td><td>1977 Japanese Grand Prix 🇯🇵</td><td>1977-10-23T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>63</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>R</td></tr>
+<tr><td>1977</td><td>16</td><td>1977 Canadian Grand Prix 🇨🇦</td><td>1977-10-09T00:00:00.000Z</td><td>4</td><td>R</td><td>0.0</td><td>17</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>9</td></tr>
+<tr><td>1977</td><td>15</td><td>1977 United States Grand Prix 🇺🇸</td><td>1977-10-02T00:00:00.000Z</td><td>12</td><td>R</td><td>0.0</td><td>17</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>4</td><td>2</td></tr>
+<tr><td>1977</td><td>14</td><td>1977 Italian Grand Prix 🇮🇹</td><td>1977-09-11T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>4</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>4</td><td>1</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>34</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>R</td></tr>
+<tr><td>1977</td><td>12</td><td>1977 Austrian Grand Prix 🇦🇹</td><td>1977-08-14T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>38</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>3</td><td>R</td></tr>
+<tr><td>1977</td><td>11</td><td>1977 German Grand Prix 🇩🇪</td><td>1977-07-31T00:00:00.000Z</td><td>9</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>7</td><td>R</td></tr>
+<tr><td>1977</td><td>10</td><td>1977 British Grand Prix 🇬🇧</td><td>1977-07-16T00:00:00.000Z</td><td>5</td><td>3</td><td>4.0</td><td>68</td><td>+19.57</td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>6</td><td>14</td></tr>
+<tr><td>1977</td><td>9</td><td>1977 French Grand Prix 🇫🇷</td><td>1977-07-03T00:00:00.000Z</td><td>3</td><td>4</td><td>3.0</td><td>80</td><td>+1:11.08</td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>1</td></tr>
+<tr><td>1977</td><td>8</td><td>1977 Swedish Grand Prix 🇸🇪</td><td>1977-06-19T00:00:00.000Z</td><td>7</td><td>19</td><td>0.0</td><td>64</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>6</td></tr>
+<tr><td>1977</td><td>7</td><td>1977 Belgian Grand Prix 🇧🇪</td><td>1977-06-05T00:00:00.000Z</td><td>3</td><td>1</td><td>9.0</td><td>70</td><td>1:55:05.71</td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>R</td></tr>
+<tr><td>1977</td><td>6</td><td>1977 Monaco Grand Prix 🇲🇨</td><td>1977-05-22T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>51</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>10</td><td>5</td></tr>
+<tr><td>1977</td><td>5</td><td>1977 Spanish Grand Prix 🇪🇸</td><td>1977-05-08T00:00:00.000Z</td><td>12</td><td>5</td><td>2.0</td><td>75</td><td>+1:05.83</td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>1</td></tr>
+<tr><td>1977</td><td>4</td><td>1977 United States Grand Prix West 🇺🇸</td><td>1977-04-03T00:00:00.000Z</td><td>16</td><td>8</td><td>0.0</td><td>79</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>2</td><td>1</td></tr>
+<tr><td>1977</td><td>3</td><td>1977 South African Grand Prix 🇿🇦</td><td>1977-03-05T00:00:00.000Z</td><td>10</td><td>12</td><td>0.0</td><td>77</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>6</td><td>R</td></tr>
+<tr><td>1977</td><td>2</td><td>1977 Brazilian Grand Prix 🇧🇷</td><td>1977-01-23T00:00:00.000Z</td><td>10</td><td>5</td><td>2.0</td><td>39</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>3</td><td>R</td></tr>
+<tr><td>1977</td><td>1</td><td>1977 Argentine Grand Prix 🇦🇷</td><td>1977-01-09T00:00:00.000Z</td><td>10</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>8</td><td>5</td></tr>
+<tr><td>1976</td><td>16</td><td>1976 Japanese Grand Prix 🇯🇵</td><td>1976-10-24T00:00:00.000Z</td><td>16</td><td>6</td><td>1.0</td><td>72</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>1</td><td>1</td></tr>
+<tr><td>1976</td><td>15</td><td>1976 United States Grand Prix 🇺🇸</td><td>1976-10-10T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>13</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>11</td><td>R</td></tr>
+<tr><td>1976</td><td>14</td><td>1976 Canadian Grand Prix 🇨🇦</td><td>1976-10-03T00:00:00.000Z</td><td>15</td><td>12</td><td>0.0</td><td>79</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>5</td><td>3</td></tr>
+<tr><td>1976</td><td>13</td><td>1976 Italian Grand Prix 🇮🇹</td><td>1976-09-12T00:00:00.000Z</td><td>12</td><td>13</td><td>0.0</td><td>51</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>14</td><td>R</td></tr>
+<tr><td>1976</td><td>12</td><td>1976 Dutch Grand Prix 🇳🇱</td><td>1976-08-29T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>10</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>6</td><td>3</td></tr>
+<tr><td>1976</td><td>11</td><td>1976 Austrian Grand Prix 🇦🇹</td><td>1976-08-15T00:00:00.000Z</td><td>4</td><td>3</td><td>4.0</td><td>54</td><td>+11.98</td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>9</td><td>5</td></tr>
+<tr><td>1976</td><td>10</td><td>1976 German Grand Prix 🇩🇪</td><td>1976-08-01T00:00:00.000Z</td><td>16</td><td>5</td><td>2.0</td><td>14</td><td>+1:57.3</td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>12</td><td>12</td></tr>
+<tr><td>1976</td><td>9</td><td>1976 British Grand Prix 🇬🇧</td><td>1976-07-18T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>67</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>3</td><td>R</td></tr>
+<tr><td>1976</td><td>8</td><td>1976 French Grand Prix 🇫🇷</td><td>1976-07-04T00:00:00.000Z</td><td>12</td><td>R</td><td>0.0</td><td>8</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>7</td><td>5</td></tr>
+<tr><td>1976</td><td>7</td><td>1976 Swedish Grand Prix 🇸🇪</td><td>1976-06-13T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>2</td><td>R</td></tr>
+<tr><td>1976</td><td>5</td><td>1976 Belgian Grand Prix 🇧🇪</td><td>1976-05-16T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>7</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>11</td><td>R</td></tr>
+<tr><td>1976</td><td>4</td><td>1976 Spanish Grand Prix 🇪🇸</td><td>1976-05-02T00:00:00.000Z</td><td>7</td><td>3</td><td>4.0</td><td>75</td><td>+48.02</td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>9</td><td>R</td></tr>
+<tr><td>1976</td><td>3</td><td>1976 United States Grand Prix West 🇺🇸</td><td>1976-03-28T00:00:00.000Z</td><td>8</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/evans">Bob Evans 🇬🇧</a></td><td>0</td><td>F</td></tr>
+<tr><td>1976</td><td>2</td><td>1976 South African Grand Prix 🇿🇦</td><td>1976-03-06T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>18</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/evans">Bob Evans 🇬🇧</a></td><td>23</td><td>10</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>31</td><td></td><td>31</td><td>31</td><td>14</td><td>31</td><td>31</td><td>3</td><td></td><td></td><td>31</td><td>17</td></tr><tr><td><b>Total Sum</b></td><td>282.000</td><td></td><td>6897052800.000</td><td>361.000</td><td>99.000</td><td>31.000</td><td>1277.000</td><td>79.570</td><td></td><td></td><td>173.000</td><td>84.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>9.097</td><td></td><td>222485574.194</td><td>11.645</td><td>7.071</td><td>1.000</td><td>41.194</td><td>26.523</td><td></td><td></td><td>5.581</td><td>4.941</td></tr><tr><td><b>Maximum</b></td><td>17.000</td><td></td><td>246412800.000</td><td>25.000</td><td>19.000</td><td>9.000</td><td>80.000</td><td>48.020</td><td></td><td></td><td>23.000</td><td>14.000</td></tr><tr><td><b>75th Percentile</b></td><td>13.000</td><td></td><td>237859200.000</td><td>16.000</td><td>12.000</td><td>2.000</td><td>70.000</td><td>48.020</td><td></td><td></td><td>9.000</td><td>6.000</td></tr><tr><td><b>Median</b></td><td>9.000</td><td></td><td>222825600.000</td><td>12.000</td><td>5.000</td><td></td><td>39.000</td><td>19.570</td><td></td><td></td><td>4.000</td><td>5.000</td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>207705600.000</td><td>7.000</td><td>3.000</td><td></td><td>13.000</td><td>11.980</td><td></td><td></td><td>1.000</td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>194918400.000</td><td>3.000</td><td>1.000</td><td></td><td></td><td>11.980</td><td></td><td></td><td></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>21.894</td><td></td><td>263311262203204.969</td><td>33.003</td><td>24.066</td><td>3.871</td><td>819.963</td><td>240.655</td><td></td><td></td><td>25.082</td><td>15.820</td></tr><tr><td><b>Standard Deviation σ</b></td><td>4.679</td><td></td><td>16226868.527</td><td>5.745</td><td>4.906</td><td>1.967</td><td>28.635</td><td>15.513</td><td></td><td></td><td>5.008</td><td>3.977</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

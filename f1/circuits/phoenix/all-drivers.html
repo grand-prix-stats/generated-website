@@ -1,0 +1,88 @@
+---
+title: List of All Formula 1® Drivers that Have Raced at Phoenix street circuit
+layout: page
+collectionName: circuits
+collectionId: phoenix
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Driver</th><th>Times</th></tr>
+<tr><td><a href="/f1/drivers/suzuki">Aguri Suzuki 🇯🇵</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/cesaris">Andrea de Cesaris 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/gachot">Bertrand Gachot 🇧🇪</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/tarquini">Gabriele Tarquini 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/berger">Gerhard Berger 🇦🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/capelli">Ivan Capelli 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/gugelmin">Maurício Gugelmin 🇧🇷</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/alboreto">Michele Alboreto 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/larini">Nicola Larini 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/mansell">Nigel Mansell 🇬🇧</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/grouillard">Olivier Grouillard 🇫🇷</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/martini">Pierluigi Martini 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/patrese">Riccardo Patrese 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/moreno">Roberto Moreno 🇧🇷</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/satoru_nakajima">Satoru Nakajima 🇯🇵</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/johansson">Stefan Johansson 🇸🇪</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/modena">Stefano Modena 🇮🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/boutsen">Thierry Boutsen 🇧🇪</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/nannini">Alessandro Nannini 🇮🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/caffi">Alex Caffi 🇮🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/schneider">Bernd Schneider 🇩🇪</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/warwick">Derek Warwick 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/bernard">Éric Bernard 🇫🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/morbidelli">Gianni Morbidelli 🇮🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/foitek">Gregor Foitek 🇨🇭</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/lehto">Jyrki Järvilehto 🇫🇮</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/brundle">Martin Brundle 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/alliot">Philippe Alliot 🇫🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/dalmas">Yannick Dalmas 🇫🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/danner">Christian Danner 🇩🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/langes">Claudio Langes 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/cheever">Eddie Cheever 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/pirro">Emanuele Pirro 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/poele">Eric van de Poele 🇧🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/comas">Érik Comas 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/gary_brabham">Gary Brabham 🇦🇺</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/joachim_winkelhock">Joachim Winkelhock 🇩🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/herbert">Johnny Herbert 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/palmer">Jonathan Palmer 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bailey">Julian Bailey 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/sala">Luis Pérez-Sala 🇪🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/blundell">Mark Blundell 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/donnelly">Martin Donnelly 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/barilla">Paolo Barilla 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/chaves">Pedro Chaves 🇵🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ghinzani">Piercarlo Ghinzani 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/raphanel">Pierre-Henri Raphanel 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/arnoux">René Arnoux 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/weidler">Volker Weidler 🇩🇪</a></td><td>1</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Times</b></td></tr><tr><td><b>Row Count</b></td><td>54</td></tr><tr><td><b>Total Sum</b></td><td>108.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>2.000</td></tr><tr><td><b>Maximum</b></td><td>3.000</td></tr><tr><td><b>75th Percentile</b></td><td>3.000</td></tr><tr><td><b>Median</b></td><td>2.000</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>0.778</td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.882</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

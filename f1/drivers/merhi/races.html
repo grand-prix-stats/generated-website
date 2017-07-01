@@ -1,0 +1,47 @@
+---
+title: List of Formula 1® Races by Roberto Merhi
+layout: page
+collectionName: drivers
+collectionId: merhi
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2015</td><td>19</td><td>2015 Abu Dhabi Grand Prix 🇦🇪</td><td>2015-11-29T00:00:00.000Z</td><td>20</td><td>19</td><td>0.0</td><td>52</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>19</td><td>18</td></tr>
+<tr><td>2015</td><td>15</td><td>2015 Russian Grand Prix 🇷🇺</td><td>2015-10-11T00:00:00.000Z</td><td>18</td><td>13</td><td>0.0</td><td>52</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>17</td><td>14</td></tr>
+<tr><td>2015</td><td>12</td><td>2015 Italian Grand Prix 🇮🇹</td><td>2015-09-06T00:00:00.000Z</td><td>14</td><td>16</td><td>0.0</td><td>51</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>13</td><td>15</td></tr>
+<tr><td>2015</td><td>11</td><td>2015 Belgian Grand Prix 🇧🇪</td><td>2015-08-23T00:00:00.000Z</td><td>17</td><td>15</td><td>0.0</td><td>42</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>15</td><td>16</td></tr>
+<tr><td>2015</td><td>10</td><td>2015 Hungarian Grand Prix 🇭🇺</td><td>2015-07-26T00:00:00.000Z</td><td>19</td><td>15</td><td>0.0</td><td>67</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>20</td><td>16</td></tr>
+<tr><td>2015</td><td>9</td><td>2015 British Grand Prix 🇬🇧</td><td>2015-07-05T00:00:00.000Z</td><td>20</td><td>12</td><td>0.0</td><td>49</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>19</td><td>13</td></tr>
+<tr><td>2015</td><td>8</td><td>2015 Austrian Grand Prix 🇦🇹</td><td>2015-06-21T00:00:00.000Z</td><td>16</td><td>14</td><td>0.0</td><td>68</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>17</td><td>R</td></tr>
+<tr><td>2015</td><td>7</td><td>2015 Canadian Grand Prix 🇨🇦</td><td>2015-06-07T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>57</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>17</td><td>17</td></tr>
+<tr><td>2015</td><td>6</td><td>2015 Monaco Grand Prix 🇲🇨</td><td>2015-05-24T00:00:00.000Z</td><td>19</td><td>16</td><td>0.0</td><td>76</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>18</td><td>17</td></tr>
+<tr><td>2015</td><td>5</td><td>2015 Spanish Grand Prix 🇪🇸</td><td>2015-05-10T00:00:00.000Z</td><td>20</td><td>18</td><td>0.0</td><td>62</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>19</td><td>17</td></tr>
+<tr><td>2015</td><td>4</td><td>2015 Bahrain Grand Prix 🇧🇭</td><td>2015-04-19T00:00:00.000Z</td><td>19</td><td>17</td><td>0.0</td><td>54</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>18</td><td>16</td></tr>
+<tr><td>2015</td><td>3</td><td>2015 Chinese Grand Prix 🇨🇳</td><td>2015-04-12T00:00:00.000Z</td><td>20</td><td>16</td><td>0.0</td><td>54</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>19</td><td>15</td></tr>
+<tr><td>2015</td><td>2</td><td>2015 Malaysian Grand Prix 🇲🇾</td><td>2015-03-29T00:00:00.000Z</td><td>19</td><td>15</td><td>0.0</td><td>53</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/stevens">Will Stevens 🇬🇧</a></td><td>0</td><td>W</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>13</td><td></td><td>13</td><td>13</td><td>12</td><td>13</td><td>13</td><td></td><td></td><td></td><td>13</td><td>11</td></tr><tr><td><b>Total Sum</b></td><td>111.000</td><td></td><td>18666892800.000</td><td>237.000</td><td>186.000</td><td></td><td>737.000</td><td></td><td></td><td></td><td>211.000</td><td>174.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>8.538</td><td></td><td>1435914830.769</td><td>18.231</td><td>15.500</td><td></td><td>56.692</td><td></td><td></td><td></td><td>16.231</td><td>15.818</td></tr><tr><td><b>Maximum</b></td><td>19.000</td><td></td><td>1448755200.000</td><td>20.000</td><td>19.000</td><td></td><td>76.000</td><td></td><td></td><td></td><td>20.000</td><td>18.000</td></tr><tr><td><b>75th Percentile</b></td><td>11.000</td><td></td><td>1440288000.000</td><td>20.000</td><td>17.000</td><td></td><td>62.000</td><td></td><td></td><td></td><td>19.000</td><td>17.000</td></tr><tr><td><b>Median</b></td><td>8.000</td><td></td><td>1434844800.000</td><td>19.000</td><td>16.000</td><td></td><td>54.000</td><td></td><td></td><td></td><td>18.000</td><td>16.000</td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>1431216000.000</td><td>17.000</td><td>15.000</td><td></td><td>52.000</td><td></td><td></td><td></td><td>17.000</td><td>15.000</td></tr><tr><td><b>Minimum</b></td><td>2.000</td><td></td><td>1427587200.000</td><td>14.000</td><td>12.000</td><td></td><td>42.000</td><td></td><td></td><td></td><td></td><td>13.000</td></tr><tr><td><b>Variance</b></td><td>22.095</td><td></td><td>38162642374437.867</td><td>3.408</td><td>3.583</td><td></td><td>78.059</td><td></td><td></td><td></td><td>25.254</td><td>1.967</td></tr><tr><td><b>Standard Deviation σ</b></td><td>4.700</td><td></td><td>6177591.956</td><td>1.846</td><td>1.893</td><td></td><td>8.835</td><td></td><td></td><td></td><td>5.025</td><td>1.402</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

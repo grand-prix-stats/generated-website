@@ -1,0 +1,41 @@
+---
+title: List of All Formula 1® Races at Detroit Street Circuit
+layout: page
+collectionName: circuits
+collectionId: detroit
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>1988</td><td>6</td><td>1988 Detroit Grand Prix 🇺🇸</td><td>1988-06-19T00:00:00.000Z</td><td>63</td><td>1:54:56.035</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1987</td><td>5</td><td>1987 Detroit Grand Prix 🇺🇸</td><td>1987-06-21T00:00:00.000Z</td><td>63</td><td>1:50:16.358</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1986</td><td>7</td><td>1986 Detroit Grand Prix 🇺🇸</td><td>1986-06-22T00:00:00.000Z</td><td>63</td><td>1:51:12.847</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1985</td><td>6</td><td>1985 Detroit Grand Prix 🇺🇸</td><td>1985-06-23T00:00:00.000Z</td><td>63</td><td>1:55:39.851</td><td><a href="/f1/drivers/keke_rosberg">Keke Rosberg 🇫🇮</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1984</td><td>8</td><td>1984 Detroit Grand Prix 🇺🇸</td><td>1984-06-24T00:00:00.000Z</td><td>63</td><td>1:55:41.842</td><td><a href="/f1/drivers/piquet">Nelson Piquet 🇧🇷</a></td><td>Brabham 🇬🇧</td></tr>
+<tr><td>1983</td><td>7</td><td>1983 Detroit Grand Prix 🇺🇸</td><td>1983-06-05T00:00:00.000Z</td><td>60</td><td>1:50:53.669</td><td><a href="/f1/drivers/alboreto">Michele Alboreto 🇮🇹</a></td><td>Tyrrell 🇬🇧</td></tr>
+<tr><td>1982</td><td>7</td><td>1982 Detroit Grand Prix 🇺🇸</td><td>1982-06-06T00:00:00.000Z</td><td>62</td><td>1:58:41.043</td><td><a href="/f1/drivers/watson">John Watson 🇬🇧</a></td><td>McLaren 🇬🇧</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>7</td><td></td><td>7</td><td>7</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>46.000</td><td></td><td>3414700800.000</td><td>437.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>6.571</td><td></td><td>487814400.000</td><td>62.429</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>8.000</td><td></td><td>582681600.000</td><td>63.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>7.000</td><td></td><td>551232000.000</td><td>63.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>7.000</td><td></td><td>488332800.000</td><td>63.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td>423619200.000</td><td>62.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>5.000</td><td></td><td>392169600.000</td><td>60.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>0.816</td><td></td><td>4038498570240000.000</td><td>1.102</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.904</td><td></td><td>63549182.294</td><td>1.050</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

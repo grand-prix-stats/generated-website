@@ -1,0 +1,53 @@
+---
+title: List of Formula 1® Races by Will Stevens
+layout: page
+collectionName: drivers
+collectionId: stevens
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2015</td><td>19</td><td>2015 Abu Dhabi Grand Prix 🇦🇪</td><td>2015-11-29T00:00:00.000Z</td><td>19</td><td>18</td><td>0.0</td><td>53</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>20</td><td>19</td></tr>
+<tr><td>2015</td><td>18</td><td>2015 Brazilian Grand Prix 🇧🇷</td><td>2015-11-15T00:00:00.000Z</td><td>18</td><td>17</td><td>0.0</td><td>67</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/rossi">Alexander Rossi 🇺🇸</a></td><td>17</td><td>18</td></tr>
+<tr><td>2015</td><td>17</td><td>2015 Mexican Grand Prix 🇲🇽</td><td>2015-11-01T00:00:00.000Z</td><td>17</td><td>16</td><td>0.0</td><td>69</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/rossi">Alexander Rossi 🇺🇸</a></td><td>16</td><td>15</td></tr>
+<tr><td>2015</td><td>16</td><td>2015 United States Grand Prix 🇺🇸</td><td>2015-10-25T00:00:00.000Z</td><td>19</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/rossi">Alexander Rossi 🇺🇸</a></td><td>17</td><td>12</td></tr>
+<tr><td>2015</td><td>15</td><td>2015 Russian Grand Prix 🇷🇺</td><td>2015-10-11T00:00:00.000Z</td><td>17</td><td>14</td><td>0.0</td><td>51</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>18</td><td>13</td></tr>
+<tr><td>2015</td><td>14</td><td>2015 Japanese Grand Prix 🇯🇵</td><td>2015-09-27T00:00:00.000Z</td><td>18</td><td>19</td><td>0.0</td><td>50</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/rossi">Alexander Rossi 🇺🇸</a></td><td>19</td><td>18</td></tr>
+<tr><td>2015</td><td>13</td><td>2015 Singapore Grand Prix 🇸🇬</td><td>2015-09-20T00:00:00.000Z</td><td>19</td><td>15</td><td>0.0</td><td>59</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/rossi">Alexander Rossi 🇺🇸</a></td><td>20</td><td>14</td></tr>
+<tr><td>2015</td><td>12</td><td>2015 Italian Grand Prix 🇮🇹</td><td>2015-09-06T00:00:00.000Z</td><td>13</td><td>15</td><td>0.0</td><td>51</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>14</td><td>16</td></tr>
+<tr><td>2015</td><td>11</td><td>2015 Belgian Grand Prix 🇧🇪</td><td>2015-08-23T00:00:00.000Z</td><td>15</td><td>16</td><td>0.0</td><td>42</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>17</td><td>15</td></tr>
+<tr><td>2015</td><td>10</td><td>2015 Hungarian Grand Prix 🇭🇺</td><td>2015-07-26T00:00:00.000Z</td><td>20</td><td>16</td><td>0.0</td><td>65</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>19</td><td>15</td></tr>
+<tr><td>2015</td><td>9</td><td>2015 British Grand Prix 🇬🇧</td><td>2015-07-05T00:00:00.000Z</td><td>19</td><td>13</td><td>0.0</td><td>49</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>20</td><td>12</td></tr>
+<tr><td>2015</td><td>8</td><td>2015 Austrian Grand Prix 🇦🇹</td><td>2015-06-21T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>16</td><td>14</td></tr>
+<tr><td>2015</td><td>7</td><td>2015 Canadian Grand Prix 🇨🇦</td><td>2015-06-07T00:00:00.000Z</td><td>17</td><td>17</td><td>0.0</td><td>66</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>16</td><td>R</td></tr>
+<tr><td>2015</td><td>6</td><td>2015 Monaco Grand Prix 🇲🇨</td><td>2015-05-24T00:00:00.000Z</td><td>18</td><td>17</td><td>0.0</td><td>76</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>19</td><td>16</td></tr>
+<tr><td>2015</td><td>5</td><td>2015 Spanish Grand Prix 🇪🇸</td><td>2015-05-10T00:00:00.000Z</td><td>19</td><td>17</td><td>0.0</td><td>63</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>20</td><td>18</td></tr>
+<tr><td>2015</td><td>4</td><td>2015 Bahrain Grand Prix 🇧🇭</td><td>2015-04-19T00:00:00.000Z</td><td>18</td><td>16</td><td>0.0</td><td>55</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>19</td><td>17</td></tr>
+<tr><td>2015</td><td>3</td><td>2015 Chinese Grand Prix 🇨🇳</td><td>2015-04-12T00:00:00.000Z</td><td>19</td><td>15</td><td>0.0</td><td>54</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>20</td><td>16</td></tr>
+<tr><td>2015</td><td>2</td><td>2015 Malaysian Grand Prix 🇲🇾</td><td>2015-03-29T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Manor Marussia 🇬🇧</td><td><a href="/f1/drivers/merhi">Roberto Merhi 🇪🇸</a></td><td>19</td><td>15</td></tr>
+<tr><td>2014</td><td>19</td><td>2014 Abu Dhabi Grand Prix 🇦🇪</td><td>2014-11-23T00:00:00.000Z</td><td>17</td><td>17</td><td>0.0</td><td>54</td><td> </td><td>Caterham 🇲🇾</td><td><a href="/f1/drivers/kobayashi">Kamui Kobayashi 🇯🇵</a></td><td>16</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>19</td><td></td><td>19</td><td>19</td><td>16</td><td>19</td><td>19</td><td></td><td></td><td></td><td>19</td><td>17</td></tr><tr><td><b>Total Sum</b></td><td>208.000</td><td></td><td>27309225600.000</td><td>319.000</td><td>258.000</td><td></td><td>926.000</td><td></td><td></td><td></td><td>342.000</td><td>263.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>10.947</td><td></td><td>1437327663.158</td><td>16.789</td><td>16.125</td><td></td><td>48.737</td><td></td><td></td><td></td><td>18.000</td><td>15.471</td></tr><tr><td><b>Maximum</b></td><td>19.000</td><td></td><td>1448755200.000</td><td>20.000</td><td>19.000</td><td></td><td>76.000</td><td></td><td></td><td></td><td>20.000</td><td>19.000</td></tr><tr><td><b>75th Percentile</b></td><td>16.000</td><td></td><td>1444521600.000</td><td>19.000</td><td>17.000</td><td></td><td>65.000</td><td></td><td></td><td></td><td>20.000</td><td>17.000</td></tr><tr><td><b>Median</b></td><td>11.000</td><td></td><td>1437868800.000</td><td>18.000</td><td>16.000</td><td></td><td>54.000</td><td></td><td></td><td></td><td>19.000</td><td>15.000</td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td>1431216000.000</td><td>17.000</td><td>15.000</td><td></td><td>49.000</td><td></td><td></td><td></td><td>16.000</td><td>14.000</td></tr><tr><td><b>Minimum</b></td><td>2.000</td><td></td><td>1416700800.000</td><td></td><td>13.000</td><td></td><td></td><td></td><td></td><td></td><td>14.000</td><td>12.000</td></tr><tr><td><b>Variance</b></td><td>29.102</td><td></td><td>66760977671800.555</td><td>18.166</td><td>2.109</td><td></td><td>497.983</td><td></td><td></td><td></td><td>3.158</td><td>4.131</td></tr><tr><td><b>Standard Deviation σ</b></td><td>5.395</td><td></td><td>8170739.114</td><td>4.262</td><td>1.452</td><td></td><td>22.316</td><td></td><td></td><td></td><td>1.777</td><td>2.033</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

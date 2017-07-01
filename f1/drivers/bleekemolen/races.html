@@ -1,0 +1,43 @@
+---
+title: List of Formula 1® Races by Michael Bleekemolen
+layout: page
+collectionName: drivers
+collectionId: bleekemolen
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1978</td><td>16</td><td>1978 Canadian Grand Prix 🇨🇦</td><td>1978-10-08T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>ATS 🇮🇹</td><td><a href="/f1/drivers/keke_rosberg">Keke Rosberg 🇫🇮</a></td><td>21</td><td>N</td></tr>
+<tr><td>1978</td><td>15</td><td>1978 United States Grand Prix 🇺🇸</td><td>1978-10-01T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>43</td><td> </td><td>ATS 🇮🇹</td><td><a href="/f1/drivers/keke_rosberg">Keke Rosberg 🇫🇮</a></td><td>15</td><td>R</td></tr>
+<tr><td>1978</td><td>14</td><td>1978 Italian Grand Prix 🇮🇹</td><td>1978-09-10T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>ATS 🇮🇹</td><td><a href="/f1/drivers/ertl">Harald Ertl 🇦🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1978</td><td>13</td><td>1978 Dutch Grand Prix 🇳🇱</td><td>1978-08-27T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>ATS 🇮🇹</td><td><a href="/f1/drivers/mass">Jochen Mass 🇩🇪</a></td><td>0</td><td>F</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/ian_scheckter">Ian Scheckter 🇿🇦</a></td><td>25</td><td>10</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/ribeiro">Alex Ribeiro 🇧🇷</a></td><td>24</td><td>11</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/neve">Patrick Nève 🇧🇪</a></td><td>0</td><td>F</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/merzario">Arturo Merzario 🇮🇹</a></td><td>0</td><td>F</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>March 🇬🇧</td><td><a href="/f1/drivers/hayje">Boy Lunger 🇳🇱</a></td><td>0</td><td>F</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>9</td><td></td><td>9</td><td>9</td><td></td><td>9</td><td>9</td><td></td><td></td><td></td><td>9</td><td>2</td></tr><tr><td><b>Total Sum</b></td><td>123.000</td><td></td><td>2307830400.000</td><td>25.000</td><td></td><td></td><td>43.000</td><td></td><td></td><td></td><td>85.000</td><td>21.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>13.667</td><td></td><td>256425600.000</td><td>2.778</td><td></td><td></td><td>4.778</td><td></td><td></td><td></td><td>9.444</td><td>10.500</td></tr><tr><td><b>Maximum</b></td><td>16.000</td><td></td><td>276652800.000</td><td>25.000</td><td></td><td></td><td>43.000</td><td></td><td></td><td></td><td>25.000</td><td>11.000</td></tr><tr><td><b>75th Percentile</b></td><td>14.000</td><td></td><td>274233600.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>21.000</td><td>11.000</td></tr><tr><td><b>Median</b></td><td>13.000</td><td></td><td>241574400.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>11.000</td></tr><tr><td><b>25th Percentile</b></td><td>13.000</td><td></td><td>241574400.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>10.000</td></tr><tr><td><b>Minimum</b></td><td>13.000</td><td></td><td>241574400.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>10.000</td></tr><tr><td><b>Variance</b></td><td>1.111</td><td></td><td>276622295040000.000</td><td>61.728</td><td></td><td></td><td>182.617</td><td></td><td></td><td></td><td>118.247</td><td>0.250</td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.054</td><td></td><td>16631966.061</td><td>7.857</td><td></td><td></td><td>13.514</td><td></td><td></td><td></td><td>10.874</td><td>0.500</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,44 @@
+---
+title: List of Formula 1® Races by Giovanni Lavaggi
+layout: page
+collectionName: drivers
+collectionId: lavaggi
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1996</td><td>16</td><td>1996 Japanese Grand Prix 🇯🇵</td><td>1996-10-13T00:00:00.000Z</td><td>20</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/lamy">Pedro Lamy 🇵🇹</a></td><td>18</td><td>12</td></tr>
+<tr><td>1996</td><td>15</td><td>1996 Portuguese Grand Prix 🇵🇹</td><td>1996-09-22T00:00:00.000Z</td><td>20</td><td>15</td><td>0.0</td><td>65</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/lamy">Pedro Lamy 🇵🇹</a></td><td>19</td><td>16</td></tr>
+<tr><td>1996</td><td>14</td><td>1996 Italian Grand Prix 🇮🇹</td><td>1996-09-08T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>5</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/lamy">Pedro Lamy 🇵🇹</a></td><td>18</td><td>R</td></tr>
+<tr><td>1996</td><td>13</td><td>1996 Belgian Grand Prix 🇧🇪</td><td>1996-08-25T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/lamy">Pedro Lamy 🇵🇹</a></td><td>19</td><td>10</td></tr>
+<tr><td>1996</td><td>12</td><td>1996 Hungarian Grand Prix 🇭🇺</td><td>1996-08-11T00:00:00.000Z</td><td>20</td><td>10</td><td>0.0</td><td>69</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/lamy">Pedro Lamy 🇵🇹</a></td><td>19</td><td>R</td></tr>
+<tr><td>1996</td><td>11</td><td>1996 German Grand Prix 🇩🇪</td><td>1996-07-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/lamy">Pedro Lamy 🇵🇹</a></td><td>18</td><td>12</td></tr>
+<tr><td>1995</td><td>12</td><td>1995 Italian Grand Prix 🇮🇹</td><td>1995-09-10T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>6</td><td> </td><td>Pacific 🇬🇧</td><td><a href="/f1/drivers/montermini">Andrea Montermini 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1995</td><td>11</td><td>1995 Belgian Grand Prix 🇧🇪</td><td>1995-08-27T00:00:00.000Z</td><td>23</td><td>R</td><td>0.0</td><td>27</td><td> </td><td>Pacific 🇬🇧</td><td><a href="/f1/drivers/montermini">Andrea Montermini 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1995</td><td>10</td><td>1995 Hungarian Grand Prix 🇭🇺</td><td>1995-08-13T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>5</td><td> </td><td>Pacific 🇬🇧</td><td><a href="/f1/drivers/montermini">Andrea Montermini 🇮🇹</a></td><td>22</td><td>12</td></tr>
+<tr><td>1995</td><td>9</td><td>1995 German Grand Prix 🇩🇪</td><td>1995-07-30T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>27</td><td> </td><td>Pacific 🇬🇧</td><td><a href="/f1/drivers/montermini">Andrea Montermini 🇮🇹</a></td><td>23</td><td>8</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>10</td><td></td><td>10</td><td>10</td><td>2</td><td>10</td><td>10</td><td></td><td></td><td></td><td>10</td><td>6</td></tr><tr><td><b>Total Sum</b></td><td>123.000</td><td></td><td>8285328000.000</td><td>175.000</td><td>25.000</td><td></td><td>204.000</td><td></td><td></td><td></td><td>198.000</td><td>70.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>12.300</td><td></td><td>828532800.000</td><td>17.500</td><td>12.500</td><td></td><td>20.400</td><td></td><td></td><td></td><td>19.800</td><td>11.667</td></tr><tr><td><b>Maximum</b></td><td>16.000</td><td></td><td>845164800.000</td><td>24.000</td><td>15.000</td><td></td><td>69.000</td><td></td><td></td><td></td><td>23.000</td><td>16.000</td></tr><tr><td><b>75th Percentile</b></td><td>14.000</td><td></td><td>842140800.000</td><td>24.000</td><td>15.000</td><td></td><td>27.000</td><td></td><td></td><td></td><td>21.000</td><td>12.000</td></tr><tr><td><b>Median</b></td><td>12.000</td><td></td><td>839721600.000</td><td>20.000</td><td>15.000</td><td></td><td>6.000</td><td></td><td></td><td></td><td>19.000</td><td>12.000</td></tr><tr><td><b>25th Percentile</b></td><td>11.000</td><td></td><td>809481600.000</td><td>20.000</td><td>10.000</td><td></td><td></td><td></td><td></td><td></td><td>18.000</td><td>10.000</td></tr><tr><td><b>Minimum</b></td><td>9.000</td><td></td><td>807062400.000</td><td></td><td>10.000</td><td></td><td></td><td></td><td></td><td></td><td>18.000</td><td>8.000</td></tr><tr><td><b>Variance</b></td><td>4.410</td><td></td><td>261260536320000.000</td><td>79.450</td><td>6.250</td><td></td><td>636.840</td><td></td><td></td><td></td><td>2.960</td><td>5.889</td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.100</td><td></td><td>16163555.807</td><td>8.913</td><td>2.500</td><td></td><td>25.236</td><td></td><td></td><td></td><td>1.720</td><td>2.427</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

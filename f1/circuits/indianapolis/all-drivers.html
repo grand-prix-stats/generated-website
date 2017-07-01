@@ -1,0 +1,195 @@
+---
+title: List of All Formula 1® Drivers that Have Raced at Indianapolis Motor Speedway
+layout: page
+collectionName: circuits
+collectionId: indianapolis
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Driver</th><th>Times</th></tr>
+<tr><td><a href="/f1/drivers/bettenhausen">Tony Bettenhausen 🇺🇸</a></td><td>13</td></tr>
+<tr><td><a href="/f1/drivers/rathmann">Jim Rathmann 🇺🇸</a></td><td>12</td></tr>
+<tr><td><a href="/f1/drivers/linden">Andy Linden 🇺🇸</a></td><td>11</td></tr>
+<tr><td><a href="/f1/drivers/darter">Duane Carter 🇺🇸</a></td><td>10</td></tr>
+<tr><td><a href="/f1/drivers/parsons">Johnnie Parsons 🇺🇸</a></td><td>10</td></tr>
+<tr><td><a href="/f1/drivers/ward">Rodger Ward 🇺🇸</a></td><td>10</td></tr>
+<tr><td><a href="/f1/drivers/johnson">Eddie Johnson 🇺🇸</a></td><td>9</td></tr>
+<tr><td><a href="/f1/drivers/hartley">Gene Hartley 🇺🇸</a></td><td>9</td></tr>
+<tr><td><a href="/f1/drivers/bryan">Jimmy Bryan 🇺🇸</a></td><td>9</td></tr>
+<tr><td><a href="/f1/drivers/thomson">Johnny Thomson 🇺🇸</a></td><td>9</td></tr>
+<tr><td><a href="/f1/drivers/paul_russo">Paul Russo 🇺🇸</a></td><td>9</td></tr>
+<tr><td><a href="/f1/drivers/hanks">Sam Hanks 🇺🇸</a></td><td>9</td></tr>
+<tr><td><a href="/f1/drivers/coulthard">David Coulthard 🇬🇧</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/freeland">Don Freeland 🇺🇸</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/agabashian">Fred Agabashian 🇺🇸</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/fisichella">Giancarlo Fisichella 🇮🇹</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/trulli">Jarno Trulli 🇮🇹</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/button">Jenson Button 🇬🇧</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/heidfeld">Nick Heidfeld 🇩🇪</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/barrichello">Rubens Barrichello 🇧🇷</a></td><td>8</td></tr>
+<tr><td><a href="/f1/drivers/stevenson">Chuck Stevenson 🇺🇸</a></td><td>7</td></tr>
+<tr><td><a href="/f1/drivers/daywalt">Jimmy Daywalt 🇺🇸</a></td><td>7</td></tr>
+<tr><td><a href="/f1/drivers/raikkonen">Kimi Räikkönen 🇫🇮</a></td><td>7</td></tr>
+<tr><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>7</td></tr>
+<tr><td><a href="/f1/drivers/ralf_schumacher">Ralf Schumacher 🇩🇪</a></td><td>7</td></tr>
+<tr><td><a href="/f1/drivers/ruttman">Troy Ruttman 🇺🇸</a></td><td>7</td></tr>
+<tr><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/mcgrath">Jack McGrath 🇺🇸</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/villeneuve">Jacques Villeneuve 🇨🇦</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/davies">Jimmy Davies 🇺🇸</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/reece">Jimmy Reece 🇺🇸</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/boyd">Johnny Boyd 🇺🇸</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/montoya">Juan Pablo Montoya 🇨🇴</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/webber">Mark Webber 🇦🇺</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/flaherty">Pat Flaherty 🇺🇸</a></td><td>6</td></tr>
+<tr><td><a href="/f1/drivers/herman">Al Herman 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/keller">Al Keller 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/vukovich">Bill Vukovich 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/christie">Bob Christie 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/bob_scott">Bob Scott 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/sweikert">Bob Sweikert 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/veith">Bob Veith 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/dick_rathmann">Dick Rathmann 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/elisian">Ed Elisian 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/hoyt">Jerry Hoyt 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/connor">Pat O'Connor 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/sato">Takuma Sato 🇯🇵</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/faulkner">Walt Faulkner 🇺🇸</a></td><td>5</td></tr>
+<tr><td><a href="/f1/drivers/cross">Art Cross 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/weyant">Chuck Weyant 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/dinsmore">Duke Dinsmore 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/russo">Eddie Russo 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/sachs">Eddie Sachs 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/massa">Felipe Massa 🇧🇷</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/turner">Jack Turner 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/ayulo">Manny Ayulo 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/teague">Marshall Teague 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/panis">Olivier Panis 🇫🇷</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/webb">Travis Webb 🇺🇸</a></td><td>4</td></tr>
+<tr><td><a href="/f1/drivers/foyt">Anthony Foyt 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/cheesbourg">Bill Cheesbourg 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/homeier">Bill Homeier 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/schindler">Bill Schindler 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/niday">Cal Niday 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/klien">Christian Klien 🇦🇹</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/albers">Christijan Albers 🇳🇱</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/griffith">Cliff Griffith 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/nalon">Duke Nalon 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/irvine">Eddie Irvine 🇬🇧</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/george_connor">George Connor 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/fonder">George Fonder 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/banks">Henry Banks 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/tolan">Johnnie Tolan 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/mcdowell">Johnny McDowell 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/verstappen">Jos Verstappen 🇳🇱</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/sutton">Len Sutton 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/magill">Mike Magill 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/nazaruk">Mike Nazaruk 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/goldsmith">Paul Goldsmith 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/rosa">Pedro de la Rosa 🇪🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/ray_crawford">Ray Crawford 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/templeman">Shorty Templeman 🇺🇸</a></td><td>3</td></tr>
+<tr><td><a href="/f1/drivers/yoong">Alex Yoong 🇲🇾</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/wurz">Alexander Wurz 🇦🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/holland">Bill Holland 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/garrett">Billy Garrett 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/ball">Bobby Ball 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/grim">Bobby Grim 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/scarborough">Carl Scarborough 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/green">Cecil Green 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/miller">Chet Miller 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/matta">Cristiano da Matta 🇧🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/dempsey_wilson">Dempsey Wilson 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/branson">Don Branson 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/mccoy">Ernie McCoy 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/force">Gene Force 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/holmes">Jackie Holmes 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/alesi">Jean Alesi 🇫🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/mcwithey">Jim McWithey 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/jackson">Jimmy Jackson 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/james">Joe James 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/larson">Jud Larson 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/andrews">Keith Andrews 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/wallard">Lee Wallard 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/hellings">Mack Hellings 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/rose">Mauri Rose 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/salo">Mika Salo 🇫🇮</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/amick">Red Amick 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/zonta">Ricardo Zonta 🇧🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/speed">Scott Speed 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/monteiro">Tiago Monteiro 🇵🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/liuzzi">Vitantonio Liuzzi 🇮🇹</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/walt_brown">Walt Brown 🇺🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/sutil">Adrian Sutil 🇩🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ascari">Alberto Ascari 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/mcnish">Allan McNish 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/davidson">Anthony Davidson 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bisch">Art Bisch 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/levrett">Bayliss Levrett 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/cantrell">Bill Cantrell 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/mackey">Bill Mackey 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/tingelstad">Bud Tingelstad 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/forberg">Carl Forberg 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/arnold">Chuck Arnold 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/kladis">Danny Kladis 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/edmunds">Don Edmunds 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/george">Elmer George 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bernoldi">Enrique Bernoldi 🇧🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/montagny">Franck Montagny 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/armi">Frank Armi 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/mazzacane">Gastón Mazzacane 🇦🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/george_amick">George Amick 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/bruni">Gianmaria Bruni 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/pantano">Giorgio Pantano 🇮🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/kovalainen">Heikki Kovalainen 🇫🇮</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/jerry_unser">Jerry Unser 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/hurtubise">Jim Hurtubise 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/rigsby">Jim Rigsby 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/herbert">Johnny Herbert 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/mantz">Johnny Mantz 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/chitwood">Joie Chitwood 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/wilson">Justin Wilson 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/crockett">Larry Crockett 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/duncan">Len Duncan 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ruby">Lloyd Ruby 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/gene">Marc Gené 🇪🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/fohr">Myron Fohr 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/karthikeyan">Narain Karthikeyan 🇮🇳</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/kiesa">Nicolas Kiesa 🇩🇰</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/friesacher">Patrick Friesacher 🇦🇹</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/diniz">Pedro Diniz 🇧🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/firman">Ralph Firman 🇮🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/enge">Tomáš Enge 🇨🇿</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ader">Walt Ader 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/weiler">Wayne Weiler 🇺🇸</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>1</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Times</b></td></tr><tr><td><b>Row Count</b></td><td>161</td></tr><tr><td><b>Total Sum</b></td><td>573.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>3.559</td></tr><tr><td><b>Maximum</b></td><td>13.000</td></tr><tr><td><b>75th Percentile</b></td><td>5.000</td></tr><tr><td><b>Median</b></td><td>3.000</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>7.526</td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.743</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

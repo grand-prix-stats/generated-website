@@ -1,0 +1,161 @@
+---
+title: Rank of Formula 1® Constructor Teams by Number of Subchampionships (Runner-Up)
+layout: page
+collectionName: 
+collectionId: 
+---
+
+
+
+<canvas id="chart" width="400" height="180"></canvas>
+<script>
+var data = {
+  "labels" : [
+    "Ferrari",
+    "McLaren",
+    "Williams",
+    "BRM",
+    "Red Bull",
+    "Brabham",
+    "Lotus-Climax",
+    "Team Lotus",
+    "Tyrrell",
+    "BAR",
+    "Benetton",
+    "BMW Sauber",
+    "Brabham-Ford",
+    "Ligier",
+    "Lotus-Ford",
+    "McLaren-Ford",
+    "Mercedes",
+    "Renault"
+  ],
+  "datasets" : [
+    {
+      "label" : "Subchampionships",
+      "data" : [
+        16,
+        13,
+        6,
+        4,
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "16191A",
+        "0D1D20",
+        "082957",
+        "444444",
+        "FDCC2F",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "D7D7D5",
+        "424B52"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "EB212E",
+        "FCA13B",
+        "EAE4ED",
+        "144D44",
+        "121D32",
+        "243F73",
+        "025839",
+        "09630C",
+        "274B72",
+        "FFFFFF",
+        "73C2FB",
+        "20359D",
+        "07316F",
+        "0F5DBB",
+        "025839",
+        "AAAAAA",
+        "18A19B",
+        "FDE139"
+      ]
+    }
+  ]
+};
+var options = {
+  legend: {
+    display: false
+  },
+  scales: {
+    xAxes: [{
+      ticks: {
+        beginAtZero: true,
+        maxRotation: 180,
+        display: window.innerWidth > 800
+      }
+    }],
+    yAxes: [{
+      ticks: {
+        beginAtZero: true
+      }
+    }]
+  },
+  onResize: function(chart, size) {
+    chart.options.scales.xAxes[0].ticks.display = size.width > 800;
+  }
+};
+var chart = new Chart("chart", {
+    data: data,
+    type: 'bar',
+    options: options
+});
+</script>
+
+
+
+<h3>Data Table</h3>
+
+<table>
+<tr><th>#</th><th>Constructor</th><th>Subchampionships</th><th>% Of Total Seasons</th></tr>
+<tr><td>1.</td><td>Ferrari 🇮🇹</td><td>16</td><td>23.53%</td></tr>
+<tr><td>2.</td><td>McLaren 🇬🇧</td><td>13</td><td>27.08%</td></tr>
+<tr><td>3.</td><td>Williams 🇬🇧</td><td>6</td><td>14.29%</td></tr>
+<tr><td>4.</td><td>BRM 🇬🇧</td><td>4</td><td>17.39%</td></tr>
+<tr><td>5.</td><td>Red Bull 🇦🇹</td><td>3</td><td>23.08%</td></tr>
+<tr><td>6.</td><td>Brabham 🇬🇧</td><td>2</td><td>9.09%</td></tr>
+<tr><td>7.</td><td>Lotus-Climax 🇬🇧</td><td>2</td><td>28.57%</td></tr>
+<tr><td>8.</td><td>Team Lotus 🇬🇧</td><td>2</td><td>6.90%</td></tr>
+<tr><td>9.</td><td>Tyrrell 🇬🇧</td><td>2</td><td>6.90%</td></tr>
+<tr><td>10.</td><td>BAR 🇬🇧</td><td>1</td><td>14.29%</td></tr>
+<tr><td>11.</td><td>Benetton 🇮🇹</td><td>1</td><td>6.25%</td></tr>
+<tr><td>12.</td><td>BMW Sauber 🇩🇪</td><td>1</td><td>25.00%</td></tr>
+<tr><td>13.</td><td>Brabham-Ford 🇬🇧</td><td>1</td><td>16.67%</td></tr>
+<tr><td>14.</td><td>Ligier 🇫🇷</td><td>1</td><td>4.76%</td></tr>
+<tr><td>15.</td><td>Lotus-Ford 🇬🇧</td><td>1</td><td>16.67%</td></tr>
+<tr><td>16.</td><td>McLaren-Ford 🇬🇧</td><td>1</td><td>20.00%</td></tr>
+<tr><td>17.</td><td>Mercedes 🇩🇪</td><td>1</td><td>10.00%</td></tr>
+<tr><td>18.</td><td>Renault 🇫🇷</td><td>1</td><td>4.76%</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Subchampionships</b></td><td><b>% Of Total Seasons</b></td></tr><tr><td><b>Row Count</b></td><td>18</td><td>18</td></tr><tr><td><b>Total Sum</b></td><td>59.000</td><td>275.230</td></tr><tr><td><b>Mean μ (Average)</b></td><td>3.278</td><td>15.291</td></tr><tr><td><b>Maximum</b></td><td>16.000</td><td>28.570</td></tr><tr><td><b>75th Percentile</b></td><td>3.000</td><td>23.080</td></tr><tr><td><b>Median</b></td><td>2.000</td><td>16.670</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td><td>6.900</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td>4.760</td></tr><tr><td><b>Variance</b></td><td>17.645</td><td>60.073</td></tr><tr><td><b>Standard Deviation σ</b></td><td>4.201</td><td>7.751</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>
+

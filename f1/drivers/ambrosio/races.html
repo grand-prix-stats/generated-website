@@ -1,0 +1,54 @@
+---
+title: List of Formula 1® Races by Jérôme d'Ambrosio
+layout: page
+collectionName: drivers
+collectionId: ambrosio
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2012</td><td>13</td><td>2012 Italian Grand Prix 🇮🇹</td><td>2012-09-09T00:00:00.000Z</td><td>15</td><td>13</td><td>0.0</td><td>53</td><td>+1:15.861</td><td>Lotus F1 🇬🇧</td><td><a href="/f1/drivers/raikkonen">Kimi Räikkönen 🇫🇮</a></td><td>7</td><td>5</td></tr>
+<tr><td>2011</td><td>19</td><td>2011 Brazilian Grand Prix 🇧🇷</td><td>2011-11-27T00:00:00.000Z</td><td>23</td><td>19</td><td>0.0</td><td>68</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>24</td><td>R</td></tr>
+<tr><td>2011</td><td>18</td><td>2011 Abu Dhabi Grand Prix 🇦🇪</td><td>2011-11-13T00:00:00.000Z</td><td>21</td><td>R</td><td>0.0</td><td>18</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>19</td><td>19</td></tr>
+<tr><td>2011</td><td>17</td><td>2011 Indian Grand Prix 🇮🇳</td><td>2011-10-30T00:00:00.000Z</td><td>21</td><td>16</td><td>0.0</td><td>57</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>22</td><td>R</td></tr>
+<tr><td>2011</td><td>16</td><td>2011 Korean Grand Prix 🇰🇷</td><td>2011-10-16T00:00:00.000Z</td><td>22</td><td>20</td><td>0.0</td><td>54</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>18</td></tr>
+<tr><td>2011</td><td>15</td><td>2011 Japanese Grand Prix 🇯🇵</td><td>2011-10-09T00:00:00.000Z</td><td>20</td><td>21</td><td>0.0</td><td>51</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>20</td></tr>
+<tr><td>2011</td><td>14</td><td>2011 Singapore Grand Prix 🇸🇬</td><td>2011-09-25T00:00:00.000Z</td><td>22</td><td>18</td><td>0.0</td><td>59</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>R</td></tr>
+<tr><td>2011</td><td>13</td><td>2011 Italian Grand Prix 🇮🇹</td><td>2011-09-11T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>15</td></tr>
+<tr><td>2011</td><td>12</td><td>2011 Belgian Grand Prix 🇧🇪</td><td>2011-08-28T00:00:00.000Z</td><td>20</td><td>17</td><td>0.0</td><td>43</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>19</td><td>18</td></tr>
+<tr><td>2011</td><td>11</td><td>2011 Hungarian Grand Prix 🇭🇺</td><td>2011-07-31T00:00:00.000Z</td><td>24</td><td>19</td><td>0.0</td><td>65</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>20</td><td>17</td></tr>
+<tr><td>2011</td><td>10</td><td>2011 German Grand Prix 🇩🇪</td><td>2011-07-24T00:00:00.000Z</td><td>21</td><td>18</td><td>0.0</td><td>57</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>19</td><td>17</td></tr>
+<tr><td>2011</td><td>9</td><td>2011 British Grand Prix 🇬🇧</td><td>2011-07-10T00:00:00.000Z</td><td>22</td><td>17</td><td>0.0</td><td>50</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>20</td><td>16</td></tr>
+<tr><td>2011</td><td>8</td><td>2011 European Grand Prix 🇪🇸</td><td>2011-06-26T00:00:00.000Z</td><td>23</td><td>22</td><td>0.0</td><td>55</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>21</td></tr>
+<tr><td>2011</td><td>7</td><td>2011 Canadian Grand Prix 🇨🇦</td><td>2011-06-12T00:00:00.000Z</td><td>23</td><td>15</td><td>0.0</td><td>69</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>16</td></tr>
+<tr><td>2011</td><td>6</td><td>2011 Monaco Grand Prix 🇲🇨</td><td>2011-05-29T00:00:00.000Z</td><td>21</td><td>15</td><td>0.0</td><td>75</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>20</td><td>R</td></tr>
+<tr><td>2011</td><td>5</td><td>2011 Spanish Grand Prix 🇪🇸</td><td>2011-05-22T00:00:00.000Z</td><td>23</td><td>20</td><td>0.0</td><td>62</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>20</td><td>19</td></tr>
+<tr><td>2011</td><td>4</td><td>2011 Turkish Grand Prix 🇹🇷</td><td>2011-05-08T00:00:00.000Z</td><td>23</td><td>20</td><td>0.0</td><td>56</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>W</td></tr>
+<tr><td>2011</td><td>3</td><td>2011 Chinese Grand Prix 🇨🇳</td><td>2011-04-17T00:00:00.000Z</td><td>21</td><td>20</td><td>0.0</td><td>54</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>22</td><td>21</td></tr>
+<tr><td>2011</td><td>2</td><td>2011 Malaysian Grand Prix 🇲🇾</td><td>2011-04-10T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>42</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>16</td></tr>
+<tr><td>2011</td><td>1</td><td>2011 Australian Grand Prix 🇦🇺</td><td>2011-03-27T00:00:00.000Z</td><td>22</td><td>14</td><td>0.0</td><td>54</td><td> </td><td>Virgin 🇬🇧</td><td><a href="/f1/drivers/glock">Timo Glock 🇩🇪</a></td><td>21</td><td>N</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>20</td><td></td><td>20</td><td>20</td><td>17</td><td>20</td><td>20</td><td></td><td></td><td></td><td>20</td><td>14</td></tr><tr><td><b>Total Sum</b></td><td>203.000</td><td></td><td>26269228800.000</td><td>431.000</td><td>304.000</td><td></td><td>1043.000</td><td></td><td></td><td></td><td>401.000</td><td>238.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>10.150</td><td></td><td>1313461440.000</td><td>21.550</td><td>17.882</td><td></td><td>52.150</td><td></td><td></td><td></td><td>20.050</td><td>17.000</td></tr><tr><td><b>Maximum</b></td><td>19.000</td><td></td><td>1347148800.000</td><td>24.000</td><td>22.000</td><td></td><td>75.000</td><td></td><td></td><td></td><td>24.000</td><td>21.000</td></tr><tr><td><b>75th Percentile</b></td><td>15.000</td><td></td><td>1318723200.000</td><td>23.000</td><td>20.000</td><td></td><td>62.000</td><td></td><td></td><td></td><td>21.000</td><td>19.000</td></tr><tr><td><b>Median</b></td><td>11.000</td><td></td><td>1312070400.000</td><td>22.000</td><td>18.000</td><td></td><td>55.000</td><td></td><td></td><td></td><td>21.000</td><td>18.000</td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td>1306627200.000</td><td>21.000</td><td>16.000</td><td></td><td>51.000</td><td></td><td></td><td></td><td>20.000</td><td>16.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>1301184000.000</td><td>15.000</td><td>13.000</td><td></td><td>1.000</td><td></td><td></td><td></td><td>7.000</td><td>5.000</td></tr><tr><td><b>Variance</b></td><td>28.928</td><td></td><td>100447680614400.000</td><td>3.348</td><td>6.339</td><td></td><td>271.128</td><td></td><td></td><td></td><td>10.248</td><td>14.429</td></tr><tr><td><b>Standard Deviation σ</b></td><td>5.378</td><td></td><td>10022359.034</td><td>1.830</td><td>2.518</td><td></td><td>16.466</td><td></td><td></td><td></td><td>3.201</td><td>3.798</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,74 @@
+---
+title: List of All Formula 1® Races at Nürburgring
+layout: page
+collectionName: circuits
+collectionId: nurburgring
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>2013</td><td>9</td><td>2013 German Grand Prix 🇩🇪</td><td>2013-07-07T00:00:00.000Z</td><td>60</td><td>1:41:14.711</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2011</td><td>10</td><td>2011 German Grand Prix 🇩🇪</td><td>2011-07-24T00:00:00.000Z</td><td>60</td><td>1:37:30.344</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>2009</td><td>9</td><td>2009 German Grand Prix 🇩🇪</td><td>2009-07-12T00:00:00.000Z</td><td>60</td><td>1:36:43.310</td><td><a href="/f1/drivers/webber">Mark Webber 🇦🇺</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2007</td><td>10</td><td>2007 European Grand Prix 🇩🇪</td><td>2007-07-22T00:00:00.000Z</td><td>60</td><td>2:06:26.358</td><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>2006</td><td>5</td><td>2006 European Grand Prix 🇩🇪</td><td>2006-05-07T00:00:00.000Z</td><td>60</td><td>1:35:58.765</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2005</td><td>7</td><td>2005 European Grand Prix 🇩🇪</td><td>2005-05-29T00:00:00.000Z</td><td>59</td><td>1:31:46.648</td><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>Renault 🇫🇷</td></tr>
+<tr><td>2004</td><td>7</td><td>2004 European Grand Prix 🇩🇪</td><td>2004-05-30T00:00:00.000Z</td><td>60</td><td>1:32:35.101</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2003</td><td>9</td><td>2003 European Grand Prix 🇩🇪</td><td>2003-06-29T00:00:00.000Z</td><td>60</td><td>1:34:43.622</td><td><a href="/f1/drivers/ralf_schumacher">Ralf Schumacher 🇩🇪</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>2002</td><td>9</td><td>2002 European Grand Prix 🇩🇪</td><td>2002-06-23T00:00:00.000Z</td><td>60</td><td>1:35:07.426</td><td><a href="/f1/drivers/barrichello">Rubens Barrichello 🇧🇷</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2001</td><td>9</td><td>2001 European Grand Prix 🇩🇪</td><td>2001-06-24T00:00:00.000Z</td><td>67</td><td>1:29:42.724</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2000</td><td>6</td><td>2000 European Grand Prix 🇩🇪</td><td>2000-05-21T00:00:00.000Z</td><td>67</td><td>1:42:00.307</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1999</td><td>14</td><td>1999 European Grand Prix 🇩🇪</td><td>1999-09-26T00:00:00.000Z</td><td>66</td><td>1:41:54.314</td><td><a href="/f1/drivers/herbert">Johnny Herbert 🇬🇧</a></td><td>Stewart 🇬🇧</td></tr>
+<tr><td>1998</td><td>15</td><td>1998 Luxembourg Grand Prix 🇩🇪</td><td>1998-09-27T00:00:00.000Z</td><td>67</td><td>1:32:14.789</td><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1997</td><td>15</td><td>1997 Luxembourg Grand Prix 🇩🇪</td><td>1997-09-28T00:00:00.000Z</td><td>67</td><td>1:31:27.843</td><td><a href="/f1/drivers/villeneuve">Jacques Villeneuve 🇨🇦</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1996</td><td>4</td><td>1996 European Grand Prix 🇩🇪</td><td>1996-04-28T00:00:00.000Z</td><td>67</td><td>1:33:26.473</td><td><a href="/f1/drivers/villeneuve">Jacques Villeneuve 🇨🇦</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1995</td><td>14</td><td>1995 European Grand Prix 🇩🇪</td><td>1995-10-01T00:00:00.000Z</td><td>67</td><td>1:39:59.044</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Benetton 🇮🇹</td></tr>
+<tr><td>1985</td><td>9</td><td>1985 German Grand Prix 🇩🇪</td><td>1985-08-04T00:00:00.000Z</td><td>67</td><td>1:35:31.337</td><td><a href="/f1/drivers/alboreto">Michele Alboreto 🇮🇹</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1984</td><td>15</td><td>1984 European Grand Prix 🇩🇪</td><td>1984-10-07T00:00:00.000Z</td><td>67</td><td>1:35:13.284</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1976</td><td>10</td><td>1976 German Grand Prix 🇩🇪</td><td>1976-08-01T00:00:00.000Z</td><td>14</td><td>1:41:42.7</td><td><a href="/f1/drivers/hunt">James Hunt 🇬🇧</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1975</td><td>11</td><td>1975 German Grand Prix 🇩🇪</td><td>1975-08-03T00:00:00.000Z</td><td>14</td><td>1:41:14.1</td><td><a href="/f1/drivers/reutemann">Carlos Reutemann 🇦🇷</a></td><td>Brabham 🇬🇧</td></tr>
+<tr><td>1974</td><td>11</td><td>1974 German Grand Prix 🇩🇪</td><td>1974-08-04T00:00:00.000Z</td><td>14</td><td>1:41:35.0</td><td><a href="/f1/drivers/regazzoni">Clay Regazzoni 🇨🇭</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1973</td><td>11</td><td>1973 German Grand Prix 🇩🇪</td><td>1973-08-05T00:00:00.000Z</td><td>14</td><td>1:42:03.0</td><td><a href="/f1/drivers/stewart">Jackie Stewart 🇬🇧</a></td><td>Tyrrell 🇬🇧</td></tr>
+<tr><td>1972</td><td>8</td><td>1972 German Grand Prix 🇩🇪</td><td>1972-07-30T00:00:00.000Z</td><td>14</td><td>1:42:12.3</td><td><a href="/f1/drivers/ickx">Jacky Ickx 🇧🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1971</td><td>7</td><td>1971 German Grand Prix 🇩🇪</td><td>1971-08-01T00:00:00.000Z</td><td>12</td><td>1:29:16.3</td><td><a href="/f1/drivers/stewart">Jackie Stewart 🇬🇧</a></td><td>Tyrrell 🇬🇧</td></tr>
+<tr><td>1969</td><td>7</td><td>1969 German Grand Prix 🇩🇪</td><td>1969-08-03T00:00:00.000Z</td><td>14</td><td>1:49:55.4</td><td><a href="/f1/drivers/ickx">Jacky Ickx 🇧🇪</a></td><td>Brabham-Ford 🇬🇧</td></tr>
+<tr><td>1968</td><td>8</td><td>1968 German Grand Prix 🇩🇪</td><td>1968-08-04T00:00:00.000Z</td><td>14</td><td>2:19:03.2</td><td><a href="/f1/drivers/stewart">Jackie Stewart 🇬🇧</a></td><td>Matra-Ford 🇫🇷</td></tr>
+<tr><td>1967</td><td>7</td><td>1967 German Grand Prix 🇩🇪</td><td>1967-08-06T00:00:00.000Z</td><td>15</td><td>2:05:55.7</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>Brabham-Repco 🇬🇧</td></tr>
+<tr><td>1966</td><td>6</td><td>1966 German Grand Prix 🇩🇪</td><td>1966-08-07T00:00:00.000Z</td><td>15</td><td>2:27:03.0</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>Brabham-Repco 🇬🇧</td></tr>
+<tr><td>1965</td><td>7</td><td>1965 German Grand Prix 🇩🇪</td><td>1965-08-01T00:00:00.000Z</td><td>15</td><td>2:07:52.4</td><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>Lotus-Climax 🇬🇧</td></tr>
+<tr><td>1964</td><td>6</td><td>1964 German Grand Prix 🇩🇪</td><td>1964-08-02T00:00:00.000Z</td><td>15</td><td>2:12:04.8</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1963</td><td>6</td><td>1963 German Grand Prix 🇩🇪</td><td>1963-08-04T00:00:00.000Z</td><td>15</td><td>2:13:06.8</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1962</td><td>6</td><td>1962 German Grand Prix 🇩🇪</td><td>1962-08-05T00:00:00.000Z</td><td>15</td><td>2:38:45.3</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>BRM 🇬🇧</td></tr>
+<tr><td>1961</td><td>6</td><td>1961 German Grand Prix 🇩🇪</td><td>1961-08-06T00:00:00.000Z</td><td>15</td><td>2:18:12.4</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>Lotus-Climax 🇬🇧</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>15</td><td>2:21:15.0</td><td><a href="/f1/drivers/brooks">Tony Brooks 🇬🇧</a></td><td>Vanwall 🇬🇧</td></tr>
+<tr><td>1957</td><td>6</td><td>1957 German Grand Prix 🇩🇪</td><td>1957-08-04T00:00:00.000Z</td><td>22</td><td>3:30:38.3</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>Maserati 🇮🇹</td></tr>
+<tr><td>1956</td><td>7</td><td>1956 German Grand Prix 🇩🇪</td><td>1956-08-05T00:00:00.000Z</td><td>22</td><td>3:38:43.7</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1954</td><td>6</td><td>1954 German Grand Prix 🇩🇪</td><td>1954-08-01T00:00:00.000Z</td><td>22</td><td>3:45:45.8</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>1953</td><td>7</td><td>1953 German Grand Prix 🇩🇪</td><td>1953-08-02T00:00:00.000Z</td><td>18</td><td>3:02:25.0</td><td><a href="/f1/drivers/farina">Nino Farina 🇮🇹</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1952</td><td>6</td><td>1952 German Grand Prix 🇩🇪</td><td>1952-08-03T00:00:00.000Z</td><td>18</td><td>3:06:13.3</td><td><a href="/f1/drivers/ascari">Alberto Ascari 🇮🇹</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1951</td><td>6</td><td>1951 German Grand Prix 🇩🇪</td><td>1951-07-29T00:00:00.000Z</td><td>20</td><td>3:23:03.3</td><td><a href="/f1/drivers/ascari">Alberto Ascari 🇮🇹</a></td><td>Ferrari 🇮🇹</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>40</td><td></td><td>40</td><td>40</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>339.000</td><td></td><td>14032656000.000</td><td>1493.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>8.475</td><td></td><td>350816400.000</td><td>37.325</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>15.000</td><td></td><td>1373155200.000</td><td>67.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>10.000</td><td></td><td>993340800.000</td><td>60.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>8.000</td><td></td><td>176256000.000</td><td>22.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td>-170899200.000</td><td>15.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>4.000</td><td></td><td>-581558400.000</td><td>12.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>8.199</td><td></td><td>392407375862879808.000</td><td>565.969</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.863</td><td></td><td>626424277.836</td><td>23.790</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

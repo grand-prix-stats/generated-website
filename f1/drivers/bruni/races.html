@@ -1,0 +1,52 @@
+---
+title: List of Formula 1® Races by Gianmaria Bruni
+layout: page
+collectionName: drivers
+collectionId: bruni
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2004</td><td>18</td><td>2004 Brazilian Grand Prix 🇧🇷</td><td>2004-10-24T00:00:00.000Z</td><td>20</td><td>17</td><td>0.0</td><td>67</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>19</td><td>16</td></tr>
+<tr><td>2004</td><td>17</td><td>2004 Japanese Grand Prix 🇯🇵</td><td>2004-10-10T00:00:00.000Z</td><td>18</td><td>16</td><td>0.0</td><td>50</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>20</td><td>R</td></tr>
+<tr><td>2004</td><td>16</td><td>2004 Chinese Grand Prix 🇨🇳</td><td>2004-09-26T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>38</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>19</td><td>16</td></tr>
+<tr><td>2004</td><td>15</td><td>2004 Italian Grand Prix 🇮🇹</td><td>2004-09-12T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>29</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>19</td><td>15</td></tr>
+<tr><td>2004</td><td>14</td><td>2004 Belgian Grand Prix 🇧🇪</td><td>2004-08-29T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>18</td><td>R</td></tr>
+<tr><td>2004</td><td>13</td><td>2004 Hungarian Grand Prix 🇭🇺</td><td>2004-08-15T00:00:00.000Z</td><td>19</td><td>14</td><td>0.0</td><td>66</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>18</td><td>15</td></tr>
+<tr><td>2004</td><td>12</td><td>2004 German Grand Prix 🇩🇪</td><td>2004-07-25T00:00:00.000Z</td><td>19</td><td>17</td><td>0.0</td><td>62</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>20</td><td>16</td></tr>
+<tr><td>2004</td><td>11</td><td>2004 British Grand Prix 🇬🇧</td><td>2004-07-11T00:00:00.000Z</td><td>18</td><td>16</td><td>0.0</td><td>56</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>19</td><td>R</td></tr>
+<tr><td>2004</td><td>10</td><td>2004 French Grand Prix 🇫🇷</td><td>2004-07-04T00:00:00.000Z</td><td>19</td><td>18</td><td>0.0</td><td>66</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>20</td><td>R</td></tr>
+<tr><td>2004</td><td>9</td><td>2004 United States Grand Prix 🇺🇸</td><td>2004-06-20T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>19</td><td>8</td></tr>
+<tr><td>2004</td><td>8</td><td>2004 Canadian Grand Prix 🇨🇦</td><td>2004-06-13T00:00:00.000Z</td><td>19</td><td>R</td><td>0.0</td><td>30</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>18</td><td>10</td></tr>
+<tr><td>2004</td><td>7</td><td>2004 European Grand Prix 🇩🇪</td><td>2004-05-30T00:00:00.000Z</td><td>20</td><td>14</td><td>0.0</td><td>57</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>17</td><td>15</td></tr>
+<tr><td>2004</td><td>6</td><td>2004 Monaco Grand Prix 🇲🇨</td><td>2004-05-23T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>15</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>19</td><td>9</td></tr>
+<tr><td>2004</td><td>5</td><td>2004 Spanish Grand Prix 🇪🇸</td><td>2004-05-09T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>20</td><td>R</td></tr>
+<tr><td>2004</td><td>4</td><td>2004 San Marino Grand Prix 🇮🇹</td><td>2004-04-25T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>22</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>19</td><td>15</td></tr>
+<tr><td>2004</td><td>3</td><td>2004 Bahrain Grand Prix 🇧🇭</td><td>2004-04-04T00:00:00.000Z</td><td>17</td><td>17</td><td>0.0</td><td>52</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>20</td><td>R</td></tr>
+<tr><td>2004</td><td>2</td><td>2004 Malaysian Grand Prix 🇲🇾</td><td>2004-03-21T00:00:00.000Z</td><td>16</td><td>14</td><td>0.0</td><td>53</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>17</td><td>16</td></tr>
+<tr><td>2004</td><td>1</td><td>2004 Australian Grand Prix 🇦🇺</td><td>2004-03-07T00:00:00.000Z</td><td>20</td><td>N</td><td>0.0</td><td>43</td><td> </td><td>Minardi 🇮🇹</td><td><a href="/f1/drivers/baumgartner">Zsolt Baumgartner 🇭🇺</a></td><td>17</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>18</td><td></td><td>18</td><td>18</td><td>9</td><td>18</td><td>18</td><td></td><td></td><td></td><td>18</td><td>11</td></tr><tr><td><b>Total Sum</b></td><td>171.000</td><td></td><td>19594742400.000</td><td>330.000</td><td>143.000</td><td></td><td>737.000</td><td></td><td></td><td></td><td>338.000</td><td>151.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>9.500</td><td></td><td>1088596800.000</td><td>18.333</td><td>15.889</td><td></td><td>40.944</td><td></td><td></td><td></td><td>18.778</td><td>13.727</td></tr><tr><td><b>Maximum</b></td><td>18.000</td><td></td><td>1098576000.000</td><td>20.000</td><td>18.000</td><td></td><td>67.000</td><td></td><td></td><td></td><td>20.000</td><td>16.000</td></tr><tr><td><b>75th Percentile</b></td><td>14.000</td><td></td><td>1093737600.000</td><td>19.000</td><td>17.000</td><td></td><td>57.000</td><td></td><td></td><td></td><td>20.000</td><td>16.000</td></tr><tr><td><b>Median</b></td><td>10.000</td><td></td><td>1088899200.000</td><td>18.000</td><td>16.000</td><td></td><td>50.000</td><td></td><td></td><td></td><td>19.000</td><td>15.000</td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>1084060800.000</td><td>17.000</td><td>14.000</td><td></td><td>29.000</td><td></td><td></td><td></td><td>18.000</td><td>10.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>1078617600.000</td><td>16.000</td><td>14.000</td><td></td><td></td><td></td><td></td><td></td><td>17.000</td><td>8.000</td></tr><tr><td><b>Variance</b></td><td>26.917</td><td></td><td>35003404800000.000</td><td>1.444</td><td>2.099</td><td></td><td>442.830</td><td></td><td></td><td></td><td>1.062</td><td>8.744</td></tr><tr><td><b>Standard Deviation σ</b></td><td>5.188</td><td></td><td>5916367.534</td><td>1.202</td><td>1.449</td><td></td><td>21.044</td><td></td><td></td><td></td><td>1.030</td><td>2.957</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,65 @@
+---
+title: List of Formula 1® Races by Pete Lovely
+layout: page
+collectionName: drivers
+collectionId: lovely
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>29</td><td>N</td><td>0.0</td><td>49</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/emerson_fittipaldi">Emerson Fittipaldi 🇧🇷</a></td><td>2</td><td>N</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>29</td><td>N</td><td>0.0</td><td>49</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/wisell">Reine Wisell 🇸🇪</a></td><td>9</td><td>R</td></tr>
+<tr><td>1971</td><td>10</td><td>1971 Canadian Grand Prix 🇨🇦</td><td>1971-09-19T00:00:00.000Z</td><td>25</td><td>N</td><td>0.0</td><td>55</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/wisell">Reine Wisell 🇸🇪</a></td><td>7</td><td>5</td></tr>
+<tr><td>1971</td><td>10</td><td>1971 Canadian Grand Prix 🇨🇦</td><td>1971-09-19T00:00:00.000Z</td><td>25</td><td>N</td><td>0.0</td><td>55</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/emerson_fittipaldi">Emerson Fittipaldi 🇧🇷</a></td><td>4</td><td>7</td></tr>
+<tr><td>1970</td><td>12</td><td>1970 United States Grand Prix 🇺🇸</td><td>1970-10-04T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/emerson_fittipaldi">Emerson Fittipaldi 🇧🇷</a></td><td>3</td><td>1</td></tr>
+<tr><td>1970</td><td>12</td><td>1970 United States Grand Prix 🇺🇸</td><td>1970-10-04T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/wisell">Reine Wisell 🇸🇪</a></td><td>9</td><td>3</td></tr>
+<tr><td>1970</td><td>12</td><td>1970 United States Grand Prix 🇺🇸</td><td>1970-10-04T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>10</td><td>R</td></tr>
+<tr><td>1970</td><td>7</td><td>1970 British Grand Prix 🇬🇧</td><td>1970-07-18T00:00:00.000Z</td><td>23</td><td>N</td><td>0.0</td><td>69</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>1</td><td>1</td></tr>
+<tr><td>1970</td><td>7</td><td>1970 British Grand Prix 🇬🇧</td><td>1970-07-18T00:00:00.000Z</td><td>23</td><td>N</td><td>0.0</td><td>69</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>22</td><td>6</td></tr>
+<tr><td>1970</td><td>7</td><td>1970 British Grand Prix 🇬🇧</td><td>1970-07-18T00:00:00.000Z</td><td>23</td><td>N</td><td>0.0</td><td>69</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/emerson_fittipaldi">Emerson Fittipaldi 🇧🇷</a></td><td>21</td><td>8</td></tr>
+<tr><td>1970</td><td>7</td><td>1970 British Grand Prix 🇬🇧</td><td>1970-07-18T00:00:00.000Z</td><td>23</td><td>N</td><td>0.0</td><td>69</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/miles">John Miles 🇬🇧</a></td><td>7</td><td>R</td></tr>
+<tr><td>1970</td><td>6</td><td>1970 French Grand Prix 🇫🇷</td><td>1970-07-05T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>6</td><td>1</td></tr>
+<tr><td>1970</td><td>6</td><td>1970 French Grand Prix 🇫🇷</td><td>1970-07-05T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/miles">John Miles 🇬🇧</a></td><td>18</td><td>8</td></tr>
+<tr><td>1970</td><td>6</td><td>1970 French Grand Prix 🇫🇷</td><td>1970-07-05T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>20</td><td>10</td></tr>
+<tr><td>1970</td><td>6</td><td>1970 French Grand Prix 🇫🇷</td><td>1970-07-05T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/roig">Alex Soler-Roig 🇪🇸</a></td><td>0</td><td>F</td></tr>
+<tr><td>1970</td><td>5</td><td>1970 Dutch Grand Prix 🇳🇱</td><td>1970-06-21T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>1</td><td>1</td></tr>
+<tr><td>1970</td><td>5</td><td>1970 Dutch Grand Prix 🇳🇱</td><td>1970-06-21T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/miles">John Miles 🇬🇧</a></td><td>8</td><td>7</td></tr>
+<tr><td>1970</td><td>5</td><td>1970 Dutch Grand Prix 🇳🇱</td><td>1970-06-21T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>20</td><td>N</td></tr>
+<tr><td>1969</td><td>11</td><td>1969 Mexican Grand Prix 🇲🇽</td><td>1969-10-19T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>62</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>6</td><td>R</td></tr>
+<tr><td>1969</td><td>11</td><td>1969 Mexican Grand Prix 🇲🇽</td><td>1969-10-19T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>62</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>5</td><td>R</td></tr>
+<tr><td>1969</td><td>11</td><td>1969 Mexican Grand Prix 🇲🇽</td><td>1969-10-19T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>62</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/miles">John Miles 🇬🇧</a></td><td>11</td><td>R</td></tr>
+<tr><td>1969</td><td>10</td><td>1969 United States Grand Prix 🇺🇸</td><td>1969-10-05T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>1</td><td>1</td></tr>
+<tr><td>1969</td><td>10</td><td>1969 United States Grand Prix 🇺🇸</td><td>1969-10-05T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>4</td><td>R</td></tr>
+<tr><td>1969</td><td>10</td><td>1969 United States Grand Prix 🇺🇸</td><td>1969-10-05T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>13</td><td>R</td></tr>
+<tr><td>1969</td><td>10</td><td>1969 United States Grand Prix 🇺🇸</td><td>1969-10-05T00:00:00.000Z</td><td>16</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/mario_andretti">Mario Andretti 🇺🇸</a></td><td>5</td><td>R</td></tr>
+<tr><td>1969</td><td>9</td><td>1969 Canadian Grand Prix 🇨🇦</td><td>1969-09-20T00:00:00.000Z</td><td>16</td><td>7</td><td>0.0</td><td>81</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>3</td><td>3</td></tr>
+<tr><td>1969</td><td>9</td><td>1969 Canadian Grand Prix 🇨🇦</td><td>1969-09-20T00:00:00.000Z</td><td>16</td><td>7</td><td>0.0</td><td>81</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>7</td><td>R</td></tr>
+<tr><td>1969</td><td>9</td><td>1969 Canadian Grand Prix 🇨🇦</td><td>1969-09-20T00:00:00.000Z</td><td>16</td><td>7</td><td>0.0</td><td>81</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>8</td><td>R</td></tr>
+<tr><td>1969</td><td>9</td><td>1969 Canadian Grand Prix 🇨🇦</td><td>1969-09-20T00:00:00.000Z</td><td>16</td><td>7</td><td>0.0</td><td>81</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/miles">John Miles 🇬🇧</a></td><td>11</td><td>R</td></tr>
+<tr><td>1959</td><td>1</td><td>1959 Monaco Grand Prix 🇲🇨</td><td>1959-05-10T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>14</td><td>R</td></tr>
+<tr><td>1959</td><td>1</td><td>1959 Monaco Grand Prix 🇲🇨</td><td>1959-05-10T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/halford">Bruce Halford 🇬🇧</a></td><td>16</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>31</td><td></td><td>31</td><td>31</td><td>7</td><td>31</td><td>31</td><td></td><td></td><td></td><td>31</td><td>14</td></tr><tr><td><b>Total Sum</b></td><td>256.000</td><td></td><td>-290217600.000</td><td>376.000</td><td>55.000</td><td></td><td>1094.000</td><td></td><td></td><td></td><td>272.000</td><td>62.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>8.258</td><td></td><td>-9361858.065</td><td>12.129</td><td>7.857</td><td></td><td>35.290</td><td></td><td></td><td></td><td>8.774</td><td>4.429</td></tr><tr><td><b>Maximum</b></td><td>12.000</td><td></td><td>55296000.000</td><td>29.000</td><td>9.000</td><td></td><td>81.000</td><td></td><td></td><td></td><td>22.000</td><td>10.000</td></tr><tr><td><b>75th Percentile</b></td><td>11.000</td><td></td><td>17107200.000</td><td>23.000</td><td>9.000</td><td></td><td>69.000</td><td></td><td></td><td></td><td>13.000</td><td>7.000</td></tr><tr><td><b>Median</b></td><td>9.000</td><td></td><td>14774400.000</td><td>16.000</td><td>7.000</td><td></td><td>25.000</td><td></td><td></td><td></td><td>7.000</td><td>5.000</td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td>-7603200.000</td><td></td><td>7.000</td><td></td><td></td><td></td><td></td><td></td><td>4.000</td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>-336009600.000</td><td></td><td>7.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>8.514</td><td></td><td>7750900981610822.000</td><td>106.564</td><td>0.980</td><td></td><td>1018.206</td><td></td><td></td><td></td><td>40.046</td><td>9.673</td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.918</td><td></td><td>88039201.391</td><td>10.323</td><td>0.990</td><td></td><td>31.909</td><td></td><td></td><td></td><td>6.328</td><td>3.110</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,45 @@
+---
+title: List of Formula 1® Races by Jean-Christophe Boullion
+layout: page
+collectionName: drivers
+collectionId: boullion
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1995</td><td>15</td><td>1995 Pacific Grand Prix 🇯🇵</td><td>1995-10-22T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>7</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>8</td><td>7</td></tr>
+<tr><td>1995</td><td>14</td><td>1995 European Grand Prix 🇩🇪</td><td>1995-10-01T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>44</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>8</td><td>R</td></tr>
+<tr><td>1995</td><td>13</td><td>1995 Portuguese Grand Prix 🇵🇹</td><td>1995-09-24T00:00:00.000Z</td><td>14</td><td>12</td><td>0.0</td><td>70</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>5</td><td>6</td></tr>
+<tr><td>1995</td><td>12</td><td>1995 Italian Grand Prix 🇮🇹</td><td>1995-09-10T00:00:00.000Z</td><td>14</td><td>6</td><td>1.0</td><td>52</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>10</td><td>3</td></tr>
+<tr><td>1995</td><td>11</td><td>1995 Belgian Grand Prix 🇧🇪</td><td>1995-08-27T00:00:00.000Z</td><td>14</td><td>11</td><td>0.0</td><td>43</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>10</td><td>4</td></tr>
+<tr><td>1995</td><td>10</td><td>1995 Hungarian Grand Prix 🇭🇺</td><td>1995-08-13T00:00:00.000Z</td><td>19</td><td>10</td><td>0.0</td><td>74</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>11</td><td>5</td></tr>
+<tr><td>1995</td><td>9</td><td>1995 German Grand Prix 🇩🇪</td><td>1995-07-30T00:00:00.000Z</td><td>14</td><td>5</td><td>2.0</td><td>44</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>11</td><td>R</td></tr>
+<tr><td>1995</td><td>8</td><td>1995 British Grand Prix 🇬🇧</td><td>1995-07-16T00:00:00.000Z</td><td>16</td><td>9</td><td>0.0</td><td>60</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>12</td><td>6</td></tr>
+<tr><td>1995</td><td>7</td><td>1995 French Grand Prix 🇫🇷</td><td>1995-07-02T00:00:00.000Z</td><td>15</td><td>R</td><td>0.0</td><td>48</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>12</td><td>10</td></tr>
+<tr><td>1995</td><td>6</td><td>1995 Canadian Grand Prix 🇨🇦</td><td>1995-06-11T00:00:00.000Z</td><td>18</td><td>R</td><td>0.0</td><td>19</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>12</td><td>R</td></tr>
+<tr><td>1995</td><td>5</td><td>1995 Monaco Grand Prix 🇲🇨</td><td>1995-05-28T00:00:00.000Z</td><td>19</td><td>8</td><td>0.0</td><td>74</td><td> </td><td>Sauber 🇨🇭</td><td><a href="/f1/drivers/frentzen">Heinz-Harald Frentzen 🇩🇪</a></td><td>14</td><td>6</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>11</td><td></td><td>11</td><td>11</td><td>7</td><td>11</td><td>11</td><td></td><td></td><td></td><td>11</td><td>8</td></tr><tr><td><b>Total Sum</b></td><td>110.000</td><td></td><td>8889177600.000</td><td>171.000</td><td>61.000</td><td>3.000</td><td>535.000</td><td></td><td></td><td></td><td>113.000</td><td>47.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>10.000</td><td></td><td>808107054.545</td><td>15.545</td><td>8.714</td><td>0.273</td><td>48.636</td><td></td><td></td><td></td><td>10.273</td><td>5.875</td></tr><tr><td><b>Maximum</b></td><td>15.000</td><td></td><td>814320000.000</td><td>19.000</td><td>12.000</td><td>2.000</td><td>74.000</td><td></td><td></td><td></td><td>14.000</td><td>10.000</td></tr><tr><td><b>75th Percentile</b></td><td>13.000</td><td></td><td>811900800.000</td><td>18.000</td><td>11.000</td><td></td><td>70.000</td><td></td><td></td><td></td><td>12.000</td><td>7.000</td></tr><tr><td><b>Median</b></td><td>10.000</td><td></td><td>808272000.000</td><td>15.000</td><td>9.000</td><td></td><td>48.000</td><td></td><td></td><td></td><td>11.000</td><td>6.000</td></tr><tr><td><b>25th Percentile</b></td><td>7.000</td><td></td><td>804643200.000</td><td>14.000</td><td>6.000</td><td></td><td>43.000</td><td></td><td></td><td></td><td>8.000</td><td>5.000</td></tr><tr><td><b>Minimum</b></td><td>5.000</td><td></td><td>801619200.000</td><td>13.000</td><td>5.000</td><td></td><td>7.000</td><td></td><td></td><td></td><td>5.000</td><td>3.000</td></tr><tr><td><b>Variance</b></td><td>10.000</td><td></td><td>15368933680661.154</td><td>4.248</td><td>5.633</td><td>0.380</td><td>415.504</td><td></td><td></td><td></td><td>5.653</td><td>3.859</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.162</td><td></td><td>3920323.160</td><td>2.061</td><td>2.373</td><td>0.617</td><td>20.384</td><td></td><td></td><td></td><td>2.378</td><td>1.965</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

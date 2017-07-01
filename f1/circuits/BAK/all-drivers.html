@@ -1,0 +1,59 @@
+---
+title: List of All Formula 1® Drivers that Have Raced at Baku City Circuit
+layout: page
+collectionName: circuits
+collectionId: BAK
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Driver</th><th>Times</th></tr>
+<tr><td><a href="/f1/drivers/sainz">Carlos Sainz 🇪🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/ricciardo">Daniel Ricciardo 🇦🇺</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/kvyat">Daniil Kvyat 🇷🇺</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/massa">Felipe Massa 🇧🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/jolyon_palmer">Jolyon Palmer 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/kevin_magnussen">Kevin Magnussen 🇩🇰</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/raikkonen">Kimi Räikkönen 🇫🇮</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/ericsson">Marcus Ericsson 🇸🇪</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/max_verstappen">Max Verstappen 🇳🇱</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/hulkenberg">Nico Hülkenberg 🇩🇪</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/wehrlein">Pascal Wehrlein 🇩🇪</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/grosjean">Romain Grosjean 🇫🇷</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/perez">Sergio Pérez 🇲🇽</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/bottas">Valtteri Bottas 🇫🇮</a></td><td>2</td></tr>
+<tr><td><a href="/f1/drivers/gutierrez">Esteban Gutiérrez 🇲🇽</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/ocon">Esteban Ocon 🇫🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/nasr">Felipe Nasr 🇧🇷</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/button">Jenson Button 🇬🇧</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/stroll">Lance Stroll 🇨🇦</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/haryanto">Rio Haryanto 🇮🇩</a></td><td>1</td></tr>
+<tr><td><a href="/f1/drivers/vandoorne">Stoffel Vandoorne 🇧🇪</a></td><td>1</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Times</b></td></tr><tr><td><b>Row Count</b></td><td>25</td></tr><tr><td><b>Total Sum</b></td><td>42.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>1.680</td></tr><tr><td><b>Maximum</b></td><td>2.000</td></tr><tr><td><b>75th Percentile</b></td><td>2.000</td></tr><tr><td><b>Median</b></td><td>2.000</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>0.218</td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.466</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

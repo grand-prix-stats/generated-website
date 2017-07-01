@@ -1,0 +1,42 @@
+---
+title: List of Formula 1® Races by Bill Brack
+layout: page
+collectionName: drivers
+collectionId: brack
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>23</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/ganley">Howden Ganley 🇳🇿</a></td><td>14</td><td>10</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>23</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/gethin">Peter Gethin 🇬🇧</a></td><td>12</td><td>R</td></tr>
+<tr><td>1972</td><td>11</td><td>1972 Canadian Grand Prix 🇨🇦</td><td>1972-09-24T00:00:00.000Z</td><td>23</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>20</td><td>R</td></tr>
+<tr><td>1969</td><td>9</td><td>1969 Canadian Grand Prix 🇨🇦</td><td>1969-09-20T00:00:00.000Z</td><td>18</td><td>N</td><td>0.0</td><td>80</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>14</td><td>R</td></tr>
+<tr><td>1969</td><td>9</td><td>1969 Canadian Grand Prix 🇨🇦</td><td>1969-09-20T00:00:00.000Z</td><td>18</td><td>N</td><td>0.0</td><td>80</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/oliver">Jackie Oliver 🇬🇧</a></td><td>12</td><td>R</td></tr>
+<tr><td>1968</td><td>10</td><td>1968 Canadian Grand Prix 🇨🇦</td><td>1968-09-22T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>18</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>5</td><td>4</td></tr>
+<tr><td>1968</td><td>10</td><td>1968 Canadian Grand Prix 🇨🇦</td><td>1968-09-22T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>18</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/oliver">Jackie Oliver 🇬🇧</a></td><td>19</td><td>R</td></tr>
+<tr><td>1968</td><td>10</td><td>1968 Canadian Grand Prix 🇨🇦</td><td>1968-09-22T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>18</td><td> </td><td>Lotus-Ford 🇬🇧</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>3</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>8</td><td></td><td>8</td><td>8</td><td></td><td>8</td><td>8</td><td></td><td></td><td></td><td>8</td><td>2</td></tr><tr><td><b>Total Sum</b></td><td>81.000</td><td></td><td>119836800.000</td><td>165.000</td><td></td><td></td><td>274.000</td><td></td><td></td><td></td><td>99.000</td><td>14.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>10.125</td><td></td><td>14979600.000</td><td>20.625</td><td></td><td></td><td>34.250</td><td></td><td></td><td></td><td>12.375</td><td>7.000</td></tr><tr><td><b>Maximum</b></td><td>11.000</td><td></td><td>86140800.000</td><td>23.000</td><td></td><td></td><td>80.000</td><td></td><td></td><td></td><td>20.000</td><td>10.000</td></tr><tr><td><b>75th Percentile</b></td><td>11.000</td><td></td><td>86140800.000</td><td>23.000</td><td></td><td></td><td>80.000</td><td></td><td></td><td></td><td>19.000</td><td>10.000</td></tr><tr><td><b>Median</b></td><td>10.000</td><td></td><td>-8899200.000</td><td>20.000</td><td></td><td></td><td>20.000</td><td></td><td></td><td></td><td>14.000</td><td>10.000</td></tr><tr><td><b>25th Percentile</b></td><td>10.000</td><td></td><td>-40262400.000</td><td>20.000</td><td></td><td></td><td>18.000</td><td></td><td></td><td></td><td>12.000</td><td>4.000</td></tr><tr><td><b>Minimum</b></td><td>9.000</td><td></td><td>-40262400.000</td><td>18.000</td><td></td><td></td><td>18.000</td><td></td><td></td><td></td><td>3.000</td><td>4.000</td></tr><tr><td><b>Variance</b></td><td>0.609</td><td></td><td>3185897378400000.000</td><td>3.984</td><td></td><td></td><td>698.438</td><td></td><td></td><td></td><td>31.234</td><td>9.000</td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.781</td><td></td><td>56443754.113</td><td>1.996</td><td></td><td></td><td>26.428</td><td></td><td></td><td></td><td>5.589</td><td>3.000</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

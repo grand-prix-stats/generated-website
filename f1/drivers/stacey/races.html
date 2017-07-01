@@ -1,0 +1,52 @@
+---
+title: List of Formula 1® Races by Alan Stacey
+layout: page
+collectionName: drivers
+collectionId: stacey
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1960</td><td>5</td><td>1960 Belgian Grand Prix 🇧🇪</td><td>1960-06-19T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>24</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>10</td><td>5</td></tr>
+<tr><td>1960</td><td>5</td><td>1960 Belgian Grand Prix 🇧🇪</td><td>1960-06-19T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>24</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>8</td><td>R</td></tr>
+<tr><td>1960</td><td>5</td><td>1960 Belgian Grand Prix 🇧🇪</td><td>1960-06-19T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>24</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>3</td><td>W</td></tr>
+<tr><td>1960</td><td>5</td><td>1960 Belgian Grand Prix 🇧🇪</td><td>1960-06-19T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>24</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/mike_taylor">Mike Taylor 🇬🇧</a></td><td>19</td><td>W</td></tr>
+<tr><td>1960</td><td>4</td><td>1960 Dutch Grand Prix 🇳🇱</td><td>1960-06-06T00:00:00.000Z</td><td>8</td><td>R</td><td>0.0</td><td>57</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>3</td><td>2</td></tr>
+<tr><td>1960</td><td>4</td><td>1960 Dutch Grand Prix 🇳🇱</td><td>1960-06-06T00:00:00.000Z</td><td>8</td><td>R</td><td>0.0</td><td>57</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>1</td><td>4</td></tr>
+<tr><td>1960</td><td>4</td><td>1960 Dutch Grand Prix 🇳🇱</td><td>1960-06-06T00:00:00.000Z</td><td>8</td><td>R</td><td>0.0</td><td>57</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>11</td><td>R</td></tr>
+<tr><td>1960</td><td>2</td><td>1960 Monaco Grand Prix 🇲🇨</td><td>1960-05-29T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>23</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>1</td><td>1</td></tr>
+<tr><td>1960</td><td>2</td><td>1960 Monaco Grand Prix 🇲🇨</td><td>1960-05-29T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>23</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>7</td><td>9</td></tr>
+<tr><td>1960</td><td>2</td><td>1960 Monaco Grand Prix 🇲🇨</td><td>1960-05-29T00:00:00.000Z</td><td>13</td><td>R</td><td>0.0</td><td>23</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>15</td><td>R</td></tr>
+<tr><td>1960</td><td>1</td><td>1960 Argentine Grand Prix 🇦🇷</td><td>1960-02-07T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>24</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>2</td><td>6</td></tr>
+<tr><td>1960</td><td>1</td><td>1960 Argentine Grand Prix 🇦🇷</td><td>1960-02-07T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>24</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/larreta">Alberto Rodriguez Larreta 🇦🇷</a></td><td>15</td><td>9</td></tr>
+<tr><td>1959</td><td>9</td><td>1959 United States Grand Prix 🇺🇸</td><td>1959-12-12T00:00:00.000Z</td><td>12</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>9</td><td>5</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>12</td><td>8</td><td>0.0</td><td>71</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>9</td><td>9</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>12</td><td>8</td><td>0.0</td><td>71</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/piper">David Piper 🇬🇧</a></td><td>22</td><td>R</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>12</td><td>8</td><td>0.0</td><td>71</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/dennis_taylor">Dennis Taylor 🇬🇧</a></td><td>0</td><td>F</td></tr>
+<tr><td>1958</td><td>7</td><td>1958 British Grand Prix 🇬🇧</td><td>1958-07-19T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>19</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/allison">Cliff Allison 🇬🇧</a></td><td>5</td><td>R</td></tr>
+<tr><td>1958</td><td>7</td><td>1958 British Grand Prix 🇬🇧</td><td>1958-07-19T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>19</td><td> </td><td>Team Lotus 🇬🇧</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>14</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>18</td><td></td><td>18</td><td>18</td><td>3</td><td>18</td><td>18</td><td></td><td></td><td></td><td>18</td><td>9</td></tr><tr><td><b>Total Sum</b></td><td>78.000</td><td></td><td>-5673456000.000</td><td>247.000</td><td>24.000</td><td></td><td>637.000</td><td></td><td></td><td></td><td>154.000</td><td>50.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>4.333</td><td></td><td>-315192000.000</td><td>13.722</td><td>8.000</td><td></td><td>35.389</td><td></td><td></td><td></td><td>8.556</td><td>5.556</td></tr><tr><td><b>Maximum</b></td><td>9.000</td><td></td><td>-300931200.000</td><td>20.000</td><td>8.000</td><td></td><td>71.000</td><td></td><td></td><td></td><td>22.000</td><td>9.000</td></tr><tr><td><b>75th Percentile</b></td><td>5.000</td><td></td><td>-302054400.000</td><td>17.000</td><td>8.000</td><td></td><td>57.000</td><td></td><td></td><td></td><td>14.000</td><td>9.000</td></tr><tr><td><b>Median</b></td><td>5.000</td><td></td><td>-302745600.000</td><td>13.000</td><td>8.000</td><td></td><td>24.000</td><td></td><td></td><td></td><td>9.000</td><td>5.000</td></tr><tr><td><b>25th Percentile</b></td><td>2.000</td><td></td><td>-330048000.000</td><td>12.000</td><td>8.000</td><td></td><td>23.000</td><td></td><td></td><td></td><td>3.000</td><td>4.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>-361497600.000</td><td>8.000</td><td>8.000</td><td></td><td>2.000</td><td></td><td></td><td></td><td></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>4.333</td><td></td><td>375917529600000.000</td><td>12.978</td><td></td><td></td><td>449.793</td><td></td><td></td><td></td><td>39.914</td><td>8.025</td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.082</td><td></td><td>19388592.770</td><td>3.603</td><td></td><td></td><td>21.208</td><td></td><td></td><td></td><td>6.318</td><td>2.833</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

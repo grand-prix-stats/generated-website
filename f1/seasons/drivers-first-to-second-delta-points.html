@@ -1,0 +1,406 @@
+---
+title: Rank of Formula 1® Seasons by 1st to 2nd Point Difference in Driver's Championship
+layout: page
+collectionName: 
+collectionId: 
+---
+
+
+
+<canvas id="chart" width="400" height="180"></canvas>
+<script>
+var data = {
+  "labels" : [
+    "1984",
+    "2008",
+    "2007",
+    "1994",
+    "1958",
+    "1981",
+    "1976",
+    "1961",
+    "1964",
+    "1983",
+    "2003",
+    "1999",
+    "1986",
+    "1950",
+    "2012",
+    "1988",
+    "1956",
+    "1974",
+    "2010",
+    "1959",
+    "1979",
+    "2016",
+    "1967",
+    "1970",
+    "1982",
+    "1951",
+    "1953",
+    "1990",
+    "1960",
+    "2009",
+    "1962",
+    "1968",
+    "1952",
+    "1987",
+    "1978",
+    "1980",
+    "2006",
+    "1965",
+    "1998",
+    "1966",
+    "1957",
+    "1972",
+    "1989",
+    "1973",
+    "1954",
+    "1977",
+    "1955",
+    "1996",
+    "2000",
+    "1975",
+    "1985",
+    "2005",
+    "1991",
+    "1963",
+    "1993",
+    "1969",
+    "1971",
+    "1995",
+    "2004",
+    "1997",
+    "1992",
+    "2001",
+    "2015",
+    "2002",
+    "2014",
+    "2011",
+    "2013"
+  ],
+  "datasets" : [
+    {
+      "label" : "Drivers First To Second Delta Points",
+      "data" : [
+        0.5,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6.5,
+        7,
+        9,
+        11,
+        12,
+        12,
+        12,
+        12,
+        13,
+        13,
+        13,
+        14,
+        14,
+        14,
+        15,
+        16,
+        16,
+        16,
+        16.86000061035156,
+        17,
+        17,
+        19,
+        19,
+        19.5,
+        20,
+        21,
+        24,
+        25,
+        26,
+        26,
+        29,
+        33,
+        34,
+        39,
+        52,
+        58,
+        59,
+        67,
+        67,
+        122,
+        155
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
+};
+var options = {
+  legend: {
+    display: false
+  },
+  scales: {
+    xAxes: [{
+      ticks: {
+        beginAtZero: true,
+        maxRotation: 180,
+        display: window.innerWidth > 800
+      }
+    }],
+    yAxes: [{
+      ticks: {
+        beginAtZero: true
+      }
+    }]
+  },
+  onResize: function(chart, size) {
+    chart.options.scales.xAxes[0].ticks.display = size.width > 800;
+  }
+};
+var chart = new Chart("chart", {
+    data: data,
+    type: 'bar',
+    options: options
+});
+</script>
+
+
+
+<h3>Data Table</h3>
+
+<table>
+<tr><th>#</th><th>Year</th><th>Drivers First To Second Delta Points</th></tr>
+<tr><td>1.</td><td>1984</td><td>0.5</td></tr>
+<tr><td>2.</td><td>2008</td><td>1.0</td></tr>
+<tr><td>3.</td><td>2007</td><td>1.0</td></tr>
+<tr><td>4.</td><td>1994</td><td>1.0</td></tr>
+<tr><td>5.</td><td>1958</td><td>1.0</td></tr>
+<tr><td>6.</td><td>1981</td><td>1.0</td></tr>
+<tr><td>7.</td><td>1976</td><td>1.0</td></tr>
+<tr><td>8.</td><td>1961</td><td>1.0</td></tr>
+<tr><td>9.</td><td>1964</td><td>1.0</td></tr>
+<tr><td>10.</td><td>1983</td><td>2.0</td></tr>
+<tr><td>11.</td><td>2003</td><td>2.0</td></tr>
+<tr><td>12.</td><td>1999</td><td>2.0</td></tr>
+<tr><td>13.</td><td>1986</td><td>2.0</td></tr>
+<tr><td>14.</td><td>1950</td><td>3.0</td></tr>
+<tr><td>15.</td><td>2012</td><td>3.0</td></tr>
+<tr><td>16.</td><td>1988</td><td>3.0</td></tr>
+<tr><td>17.</td><td>1956</td><td>3.0</td></tr>
+<tr><td>18.</td><td>1974</td><td>3.0</td></tr>
+<tr><td>19.</td><td>2010</td><td>4.0</td></tr>
+<tr><td>20.</td><td>1959</td><td>4.0</td></tr>
+<tr><td>21.</td><td>1979</td><td>4.0</td></tr>
+<tr><td>22.</td><td>2016</td><td>5.0</td></tr>
+<tr><td>23.</td><td>1967</td><td>5.0</td></tr>
+<tr><td>24.</td><td>1970</td><td>5.0</td></tr>
+<tr><td>25.</td><td>1982</td><td>5.0</td></tr>
+<tr><td>26.</td><td>1951</td><td>6.0</td></tr>
+<tr><td>27.</td><td>1953</td><td>6.5</td></tr>
+<tr><td>28.</td><td>1990</td><td>7.0</td></tr>
+<tr><td>29.</td><td>1960</td><td>9.0</td></tr>
+<tr><td>30.</td><td>2009</td><td>11.0</td></tr>
+<tr><td>31.</td><td>1962</td><td>12.0</td></tr>
+<tr><td>32.</td><td>1968</td><td>12.0</td></tr>
+<tr><td>33.</td><td>1952</td><td>12.0</td></tr>
+<tr><td>34.</td><td>1987</td><td>12.0</td></tr>
+<tr><td>35.</td><td>1978</td><td>13.0</td></tr>
+<tr><td>36.</td><td>1980</td><td>13.0</td></tr>
+<tr><td>37.</td><td>2006</td><td>13.0</td></tr>
+<tr><td>38.</td><td>1965</td><td>14.0</td></tr>
+<tr><td>39.</td><td>1998</td><td>14.0</td></tr>
+<tr><td>40.</td><td>1966</td><td>14.0</td></tr>
+<tr><td>41.</td><td>1957</td><td>15.0</td></tr>
+<tr><td>42.</td><td>1972</td><td>16.0</td></tr>
+<tr><td>43.</td><td>1989</td><td>16.0</td></tr>
+<tr><td>44.</td><td>1973</td><td>16.0</td></tr>
+<tr><td>45.</td><td>1954</td><td>16.8600006103516</td></tr>
+<tr><td>46.</td><td>1977</td><td>17.0</td></tr>
+<tr><td>47.</td><td>1955</td><td>17.0</td></tr>
+<tr><td>48.</td><td>1996</td><td>19.0</td></tr>
+<tr><td>49.</td><td>2000</td><td>19.0</td></tr>
+<tr><td>50.</td><td>1975</td><td>19.5</td></tr>
+<tr><td>51.</td><td>1985</td><td>20.0</td></tr>
+<tr><td>52.</td><td>2005</td><td>21.0</td></tr>
+<tr><td>53.</td><td>1991</td><td>24.0</td></tr>
+<tr><td>54.</td><td>1963</td><td>25.0</td></tr>
+<tr><td>55.</td><td>1993</td><td>26.0</td></tr>
+<tr><td>56.</td><td>1969</td><td>26.0</td></tr>
+<tr><td>57.</td><td>1971</td><td>29.0</td></tr>
+<tr><td>58.</td><td>1995</td><td>33.0</td></tr>
+<tr><td>59.</td><td>2004</td><td>34.0</td></tr>
+<tr><td>60.</td><td>1997</td><td>39.0</td></tr>
+<tr><td>61.</td><td>1992</td><td>52.0</td></tr>
+<tr><td>62.</td><td>2001</td><td>58.0</td></tr>
+<tr><td>63.</td><td>2015</td><td>59.0</td></tr>
+<tr><td>64.</td><td>2002</td><td>67.0</td></tr>
+<tr><td>65.</td><td>2014</td><td>67.0</td></tr>
+<tr><td>66.</td><td>2011</td><td>122.0</td></tr>
+<tr><td>67.</td><td>2013</td><td>155.0</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Drivers First To Second Delta Points</b></td></tr><tr><td><b>Row Count</b></td><td>67</td></tr><tr><td><b>Total Sum</b></td><td>1260.360</td></tr><tr><td><b>Mean μ (Average)</b></td><td>18.811</td></tr><tr><td><b>Maximum</b></td><td>155.000</td></tr><tr><td><b>75th Percentile</b></td><td>20.000</td></tr><tr><td><b>Median</b></td><td>12.000</td></tr><tr><td><b>25th Percentile</b></td><td>3.000</td></tr><tr><td><b>Minimum</b></td><td>0.500</td></tr><tr><td><b>Variance</b></td><td>700.044</td></tr><tr><td><b>Standard Deviation σ</b></td><td>26.458</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>
+

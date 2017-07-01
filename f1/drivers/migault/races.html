@@ -1,0 +1,59 @@
+---
+title: List of Formula 1® Races by François Migault
+layout: page
+collectionName: drivers
+collectionId: migault
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1975</td><td>9</td><td>1975 French Grand Prix 🇫🇷</td><td>1975-07-06T00:00:00.000Z</td><td>24</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/laffite">Jacques Laffite 🇫🇷</a></td><td>16</td><td>11</td></tr>
+<tr><td>1975</td><td>6</td><td>1975 Belgian Grand Prix 🇧🇪</td><td>1975-05-25T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>57</td><td> </td><td>Embassy Hill 🇬🇧</td><td><a href="/f1/drivers/brise">Tony Brise 🇬🇧</a></td><td>7</td><td>R</td></tr>
+<tr><td>1975</td><td>4</td><td>1975 Spanish Grand Prix 🇪🇸</td><td>1975-04-27T00:00:00.000Z</td><td>22</td><td>N</td><td>0.0</td><td>18</td><td> </td><td>Lola 🇬🇧</td><td><a href="/f1/drivers/stommelen">Rolf Stommelen 🇩🇪</a></td><td>9</td><td>R</td></tr>
+<tr><td>1974</td><td>13</td><td>1974 Italian Grand Prix 🇮🇹</td><td>1974-09-08T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>25</td><td>R</td></tr>
+<tr><td>1974</td><td>13</td><td>1974 Italian Grand Prix 🇮🇹</td><td>1974-09-08T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>11</td><td>R</td></tr>
+<tr><td>1974</td><td>11</td><td>1974 German Grand Prix 🇩🇪</td><td>1974-08-04T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>24</td><td>10</td></tr>
+<tr><td>1974</td><td>11</td><td>1974 German Grand Prix 🇩🇪</td><td>1974-08-04T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>15</td><td>R</td></tr>
+<tr><td>1974</td><td>10</td><td>1974 British Grand Prix 🇬🇧</td><td>1974-07-20T00:00:00.000Z</td><td>14</td><td>N</td><td>0.0</td><td>62</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>23</td><td>12</td></tr>
+<tr><td>1974</td><td>10</td><td>1974 British Grand Prix 🇬🇧</td><td>1974-07-20T00:00:00.000Z</td><td>14</td><td>N</td><td>0.0</td><td>62</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>24</td><td>R</td></tr>
+<tr><td>1974</td><td>9</td><td>1974 French Grand Prix 🇫🇷</td><td>1974-07-07T00:00:00.000Z</td><td>22</td><td>14</td><td>0.0</td><td>78</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>17</td><td>10</td></tr>
+<tr><td>1974</td><td>9</td><td>1974 French Grand Prix 🇫🇷</td><td>1974-07-07T00:00:00.000Z</td><td>22</td><td>14</td><td>0.0</td><td>78</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>19</td><td>R</td></tr>
+<tr><td>1974</td><td>8</td><td>1974 Dutch Grand Prix 🇳🇱</td><td>1974-06-23T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>60</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>16</td><td>R</td></tr>
+<tr><td>1974</td><td>8</td><td>1974 Dutch Grand Prix 🇳🇱</td><td>1974-06-23T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>60</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>24</td><td>R</td></tr>
+<tr><td>1974</td><td>6</td><td>1974 Monaco Grand Prix 🇲🇨</td><td>1974-05-26T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>4</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>27</td><td>R</td></tr>
+<tr><td>1974</td><td>6</td><td>1974 Monaco Grand Prix 🇲🇨</td><td>1974-05-26T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>4</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>11</td><td>R</td></tr>
+<tr><td>1974</td><td>5</td><td>1974 Belgian Grand Prix 🇧🇪</td><td>1974-05-12T00:00:00.000Z</td><td>25</td><td>16</td><td>0.0</td><td>82</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>7</td><td>5</td></tr>
+<tr><td>1974</td><td>5</td><td>1974 Belgian Grand Prix 🇧🇪</td><td>1974-05-12T00:00:00.000Z</td><td>25</td><td>16</td><td>0.0</td><td>82</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>15</td><td>R</td></tr>
+<tr><td>1974</td><td>4</td><td>1974 Spanish Grand Prix 🇪🇸</td><td>1974-04-28T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>27</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>20</td><td>12</td></tr>
+<tr><td>1974</td><td>4</td><td>1974 Spanish Grand Prix 🇪🇸</td><td>1974-04-28T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>27</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>11</td><td>R</td></tr>
+<tr><td>1974</td><td>3</td><td>1974 South African Grand Prix 🇿🇦</td><td>1974-03-30T00:00:00.000Z</td><td>25</td><td>15</td><td>0.0</td><td>75</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>11</td><td>2</td></tr>
+<tr><td>1974</td><td>3</td><td>1974 South African Grand Prix 🇿🇦</td><td>1974-03-30T00:00:00.000Z</td><td>25</td><td>15</td><td>0.0</td><td>75</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>21</td><td>18</td></tr>
+<tr><td>1974</td><td>2</td><td>1974 Brazilian Grand Prix 🇧🇷</td><td>1974-01-27T00:00:00.000Z</td><td>23</td><td>16</td><td>0.0</td><td>30</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>17</td><td>10</td></tr>
+<tr><td>1974</td><td>2</td><td>1974 Brazilian Grand Prix 🇧🇷</td><td>1974-01-27T00:00:00.000Z</td><td>23</td><td>16</td><td>0.0</td><td>30</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>22</td><td>14</td></tr>
+<tr><td>1974</td><td>1</td><td>1974 Argentine Grand Prix 🇦🇷</td><td>1974-01-13T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>14</td><td>5</td></tr>
+<tr><td>1974</td><td>1</td><td>1974 Argentine Grand Prix 🇦🇷</td><td>1974-01-13T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>31</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/pescarolo">Henri Pescarolo 🇫🇷</a></td><td>21</td><td>9</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>25</td><td></td><td>25</td><td>25</td><td>8</td><td>25</td><td>25</td><td></td><td></td><td></td><td>25</td><td>12</td></tr><tr><td><b>Total Sum</b></td><td>163.000</td><td></td><td>3555705600.000</td><td>520.000</td><td>122.000</td><td></td><td>975.000</td><td></td><td></td><td></td><td>427.000</td><td>118.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>6.520</td><td></td><td>142228224.000</td><td>20.800</td><td>15.250</td><td></td><td>39.000</td><td></td><td></td><td></td><td>17.080</td><td>9.833</td></tr><tr><td><b>Maximum</b></td><td>13.000</td><td></td><td>173836800.000</td><td>25.000</td><td>16.000</td><td></td><td>82.000</td><td></td><td></td><td></td><td>27.000</td><td>18.000</td></tr><tr><td><b>75th Percentile</b></td><td>9.000</td><td></td><td>144806400.000</td><td>24.000</td><td>16.000</td><td></td><td>62.000</td><td></td><td></td><td></td><td>22.000</td><td>12.000</td></tr><tr><td><b>Median</b></td><td>6.000</td><td></td><td>141177600.000</td><td>23.000</td><td>16.000</td><td></td><td>31.000</td><td></td><td></td><td></td><td>17.000</td><td>10.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>136339200.000</td><td>22.000</td><td>15.000</td><td></td><td>4.000</td><td></td><td></td><td></td><td>11.000</td><td>9.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>127267200.000</td><td></td><td>14.000</td><td></td><td></td><td></td><td></td><td></td><td>7.000</td><td>2.000</td></tr><tr><td><b>Variance</b></td><td>12.890</td><td></td><td>144838545997824.000</td><td>45.440</td><td>0.688</td><td></td><td>900.640</td><td></td><td></td><td></td><td>33.754</td><td>16.972</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.590</td><td></td><td>12034888.699</td><td>6.741</td><td>0.829</td><td></td><td>30.011</td><td></td><td></td><td></td><td>5.810</td><td>4.120</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

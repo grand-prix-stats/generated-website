@@ -1,0 +1,251 @@
+---
+title: List of All Formula 1® Drivers that Have Won a Race in Monaco by Number of Times
+layout: page
+collectionName: countries
+collectionId: monaco
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<canvas id="chart" width="400" height="180"></canvas>
+<script>
+var data = {
+  "labels" : [
+    "Ayrton Senna",
+    "Graham Hill",
+    "Michael Schumacher",
+    "Alain Prost",
+    "Jackie Stewart",
+    "Nico Rosberg",
+    "Stirling Moss",
+    "David Coulthard",
+    "Fernando Alonso",
+    "Jody Scheckter",
+    "Juan Fangio",
+    "Lewis Hamilton",
+    "Mark Webber",
+    "Maurice Trintignant",
+    "Niki Lauda",
+    "Sebastian Vettel",
+    "Bruce McLaren",
+    "Carlos Reutemann",
+    "Denny Hulme",
+    "Gilles Villeneuve",
+    "Jack Brabham",
+    "Jarno Trulli",
+    "Jean-Pierre Beltoise",
+    "Jenson Button",
+    "Jochen Rindt",
+    "Juan Pablo Montoya",
+    "Keke Rosberg",
+    "Kimi Räikkönen",
+    "Mika Häkkinen",
+    "Olivier Panis",
+    "Patrick Depailler",
+    "Riccardo Patrese",
+    "Ronnie Peterson"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        6,
+        5,
+        5,
+        4,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
+};
+var options = {
+  legend: {
+    display: false
+  },
+  scales: {
+    xAxes: [{
+      ticks: {
+        beginAtZero: true,
+        maxRotation: 180,
+        display: window.innerWidth > 800
+      }
+    }],
+    yAxes: [{
+      ticks: {
+        beginAtZero: true
+      }
+    }]
+  },
+  onResize: function(chart, size) {
+    chart.options.scales.xAxes[0].ticks.display = size.width > 800;
+  }
+};
+var chart = new Chart("chart", {
+    data: data,
+    type: 'bar',
+    options: options
+});
+</script>
+
+
+
+<h3>Data Table</h3>
+
+<table>
+<tr><th>#</th><th>Driver</th><th>Times</th></tr>
+<tr><td>1.</td><td><a href="/f1/drivers/senna">Ayrton Senna 🇧🇷</a></td><td>6</td></tr>
+<tr><td>2.</td><td><a href="/f1/drivers/hill">Graham Hill 🇬🇧</a></td><td>5</td></tr>
+<tr><td>3.</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>5</td></tr>
+<tr><td>4.</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>4</td></tr>
+<tr><td>5.</td><td><a href="/f1/drivers/stewart">Jackie Stewart 🇬🇧</a></td><td>3</td></tr>
+<tr><td>6.</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>3</td></tr>
+<tr><td>7.</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>3</td></tr>
+<tr><td>8.</td><td><a href="/f1/drivers/coulthard">David Coulthard 🇬🇧</a></td><td>2</td></tr>
+<tr><td>9.</td><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>2</td></tr>
+<tr><td>10.</td><td><a href="/f1/drivers/scheckter">Jody Scheckter 🇿🇦</a></td><td>2</td></tr>
+<tr><td>11.</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>2</td></tr>
+<tr><td>12.</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>2</td></tr>
+<tr><td>13.</td><td><a href="/f1/drivers/webber">Mark Webber 🇦🇺</a></td><td>2</td></tr>
+<tr><td>14.</td><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>2</td></tr>
+<tr><td>15.</td><td><a href="/f1/drivers/lauda">Niki Lauda 🇦🇹</a></td><td>2</td></tr>
+<tr><td>16.</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>2</td></tr>
+<tr><td>17.</td><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>1</td></tr>
+<tr><td>18.</td><td><a href="/f1/drivers/reutemann">Carlos Reutemann 🇦🇷</a></td><td>1</td></tr>
+<tr><td>19.</td><td><a href="/f1/drivers/hulme">Denny Hulme 🇳🇿</a></td><td>1</td></tr>
+<tr><td>20.</td><td><a href="/f1/drivers/gilles_villeneuve">Gilles Villeneuve 🇨🇦</a></td><td>1</td></tr>
+<tr><td>21.</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>1</td></tr>
+<tr><td>22.</td><td><a href="/f1/drivers/trulli">Jarno Trulli 🇮🇹</a></td><td>1</td></tr>
+<tr><td>23.</td><td><a href="/f1/drivers/beltoise">Jean-Pierre Beltoise 🇫🇷</a></td><td>1</td></tr>
+<tr><td>24.</td><td><a href="/f1/drivers/button">Jenson Button 🇬🇧</a></td><td>1</td></tr>
+<tr><td>25.</td><td><a href="/f1/drivers/rindt">Jochen Rindt 🇦🇹</a></td><td>1</td></tr>
+<tr><td>26.</td><td><a href="/f1/drivers/montoya">Juan Pablo Montoya 🇨🇴</a></td><td>1</td></tr>
+<tr><td>27.</td><td><a href="/f1/drivers/keke_rosberg">Keke Rosberg 🇫🇮</a></td><td>1</td></tr>
+<tr><td>28.</td><td><a href="/f1/drivers/raikkonen">Kimi Räikkönen 🇫🇮</a></td><td>1</td></tr>
+<tr><td>29.</td><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>1</td></tr>
+<tr><td>30.</td><td><a href="/f1/drivers/panis">Olivier Panis 🇫🇷</a></td><td>1</td></tr>
+<tr><td>31.</td><td><a href="/f1/drivers/depailler">Patrick Depailler 🇫🇷</a></td><td>1</td></tr>
+<tr><td>32.</td><td><a href="/f1/drivers/patrese">Riccardo Patrese 🇮🇹</a></td><td>1</td></tr>
+<tr><td>33.</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>1</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Times</b></td></tr><tr><td><b>Row Count</b></td><td>33</td></tr><tr><td><b>Total Sum</b></td><td>64.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>1.939</td></tr><tr><td><b>Maximum</b></td><td>6.000</td></tr><tr><td><b>75th Percentile</b></td><td>2.000</td></tr><tr><td><b>Median</b></td><td>1.000</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>1.754</td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.324</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>
+

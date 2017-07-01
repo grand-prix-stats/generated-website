@@ -1,0 +1,43 @@
+---
+title: List of All Formula 1® Races in UAE by Year
+layout: page
+collectionName: countries
+collectionId: uae
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Circuit</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>2017</td><td>20</td><td>2017 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2017-11-26T00:00:00.000Z</td><td> </td><td> </td><td> </td><td> </td></tr>
+<tr><td>2016</td><td>21</td><td>2016 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2016-11-27T00:00:00.000Z</td><td>55</td><td>1:38:04.013</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2015</td><td>19</td><td>2015 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2015-11-29T00:00:00.000Z</td><td>55</td><td>1:38:30.175</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2014</td><td>19</td><td>2014 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2014-11-23T00:00:00.000Z</td><td>55</td><td>1:39:02.619</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2013</td><td>17</td><td>2013 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2013-11-03T00:00:00.000Z</td><td>55</td><td>1:38:06.106</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2012</td><td>18</td><td>2012 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2012-11-04T00:00:00.000Z</td><td>55</td><td>1:45:58.667</td><td><a href="/f1/drivers/raikkonen">Kimi Räikkönen 🇫🇮</a></td><td>Lotus F1 🇬🇧</td></tr>
+<tr><td>2011</td><td>18</td><td>2011 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2011-11-13T00:00:00.000Z</td><td>55</td><td>1:37:11.886</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>2010</td><td>19</td><td>2010 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2010-11-14T00:00:00.000Z</td><td>55</td><td>1:39:36.837</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2009</td><td>17</td><td>2009 Abu Dhabi Grand Prix 🇦🇪</td><td><a href="/f1/circuits/yas_marina">Yas Marina Circuit</a></td><td>2009-11-01T00:00:00.000Z</td><td>55</td><td>1:34:03.414</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Circuit</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>9</td><td></td><td></td><td>9</td><td>8</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>168.000</td><td></td><td></td><td>12460608000.000</td><td>440.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>18.667</td><td></td><td></td><td>1384512000.000</td><td>55.000</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>21.000</td><td></td><td></td><td>1511654400.000</td><td>55.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>19.000</td><td></td><td></td><td>1448755200.000</td><td>55.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>19.000</td><td></td><td></td><td>1383436800.000</td><td>55.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>18.000</td><td></td><td></td><td>1321142400.000</td><td>55.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>17.000</td><td></td><td></td><td>1257033600.000</td><td>55.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>1.556</td><td></td><td></td><td>6755750830080000.000</td><td></td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.247</td><td></td><td></td><td>82193374.612</td><td></td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

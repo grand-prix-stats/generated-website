@@ -1,0 +1,64 @@
+---
+title: List of All Formula 1® Races in Austria by Year
+layout: page
+collectionName: countries
+collectionId: austria
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Circuit</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>2017</td><td>9</td><td>2017 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/red_bull_ring">Red Bull Ring</a></td><td>2017-07-09T00:00:00.000Z</td><td> </td><td> </td><td> </td><td> </td></tr>
+<tr><td>2016</td><td>9</td><td>2016 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/red_bull_ring">Red Bull Ring</a></td><td>2016-07-03T00:00:00.000Z</td><td>71</td><td>1:27:38.107</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2015</td><td>8</td><td>2015 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/red_bull_ring">Red Bull Ring</a></td><td>2015-06-21T00:00:00.000Z</td><td>71</td><td>1:30:16.930</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2014</td><td>8</td><td>2014 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/red_bull_ring">Red Bull Ring</a></td><td>2014-06-22T00:00:00.000Z</td><td>71</td><td>1:27:54.976</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2003</td><td>6</td><td>2003 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>2003-05-18T00:00:00.000Z</td><td>69</td><td>1:24:04.888</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2002</td><td>6</td><td>2002 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>2002-05-12T00:00:00.000Z</td><td>71</td><td>1:33:51.562</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2001</td><td>6</td><td>2001 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>2001-05-13T00:00:00.000Z</td><td>71</td><td>1:27:45.927</td><td><a href="/f1/drivers/coulthard">David Coulthard 🇬🇧</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>2000</td><td>10</td><td>2000 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>2000-07-16T00:00:00.000Z</td><td>71</td><td>1:28:15.818</td><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1999</td><td>9</td><td>1999 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1999-07-25T00:00:00.000Z</td><td>71</td><td>1:28:12.438</td><td><a href="/f1/drivers/irvine">Eddie Irvine 🇬🇧</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1998</td><td>10</td><td>1998 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1998-07-26T00:00:00.000Z</td><td>71</td><td>1:30:44.0</td><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1997</td><td>14</td><td>1997 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1997-09-21T00:00:00.000Z</td><td>71</td><td>1:27:35.999</td><td><a href="/f1/drivers/villeneuve">Jacques Villeneuve 🇨🇦</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1987</td><td>10</td><td>1987 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1987-08-16T00:00:00.000Z</td><td>52</td><td>1:18:44.898</td><td><a href="/f1/drivers/mansell">Nigel Mansell 🇬🇧</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1986</td><td>12</td><td>1986 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1986-08-17T00:00:00.000Z</td><td>52</td><td>1:21:22.531</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1985</td><td>10</td><td>1985 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1985-08-18T00:00:00.000Z</td><td>52</td><td>1:20:12.583</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1984</td><td>12</td><td>1984 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1984-08-19T00:00:00.000Z</td><td>51</td><td>1:21:12.851</td><td><a href="/f1/drivers/lauda">Niki Lauda 🇦🇹</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1983</td><td>11</td><td>1983 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1983-08-14T00:00:00.000Z</td><td>53</td><td>1:24:32.745</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>Renault 🇫🇷</td></tr>
+<tr><td>1982</td><td>13</td><td>1982 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1982-08-15T00:00:00.000Z</td><td>53</td><td>1:25:02.212</td><td><a href="/f1/drivers/angelis">Elio de Angelis 🇮🇹</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1981</td><td>11</td><td>1981 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1981-08-16T00:00:00.000Z</td><td>53</td><td>1:27:36.47</td><td><a href="/f1/drivers/laffite">Jacques Laffite 🇫🇷</a></td><td>Ligier 🇫🇷</td></tr>
+<tr><td>1980</td><td>10</td><td>1980 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1980-08-17T00:00:00.000Z</td><td>54</td><td>1:26:15.73</td><td><a href="/f1/drivers/jabouille">Jean-Pierre Jabouille 🇫🇷</a></td><td>Renault 🇫🇷</td></tr>
+<tr><td>1979</td><td>11</td><td>1979 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1979-08-12T00:00:00.000Z</td><td>54</td><td>1:27:38.01</td><td><a href="/f1/drivers/jones">Alan Jones 🇦🇺</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1978</td><td>12</td><td>1978 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1978-08-13T00:00:00.000Z</td><td>54</td><td>1:41:21.57</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1977</td><td>12</td><td>1977 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1977-08-14T00:00:00.000Z</td><td>54</td><td>1:37:16.49</td><td><a href="/f1/drivers/jones">Alan Jones 🇦🇺</a></td><td>Shadow 🇬🇧</td></tr>
+<tr><td>1976</td><td>11</td><td>1976 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1976-08-15T00:00:00.000Z</td><td>54</td><td>1:30:07.86</td><td><a href="/f1/drivers/watson">John Watson 🇬🇧</a></td><td>Penske 🇺🇸</td></tr>
+<tr><td>1975</td><td>12</td><td>1975 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1975-08-17T00:00:00.000Z</td><td>29</td><td>0:57:56.69</td><td><a href="/f1/drivers/brambilla">Vittorio Brambilla 🇮🇹</a></td><td>March 🇬🇧</td></tr>
+<tr><td>1974</td><td>12</td><td>1974 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1974-08-18T00:00:00.000Z</td><td>54</td><td>1:28:44.72</td><td><a href="/f1/drivers/reutemann">Carlos Reutemann 🇦🇷</a></td><td>Brabham 🇬🇧</td></tr>
+<tr><td>1973</td><td>12</td><td>1973 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1973-08-19T00:00:00.000Z</td><td>54</td><td>1:28:48.78</td><td><a href="/f1/drivers/peterson">Ronnie Peterson 🇸🇪</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1972</td><td>9</td><td>1972 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1972-08-13T00:00:00.000Z</td><td>54</td><td>1:29:16.660</td><td><a href="/f1/drivers/emerson_fittipaldi">Emerson Fittipaldi 🇧🇷</a></td><td>Team Lotus 🇬🇧</td></tr>
+<tr><td>1971</td><td>8</td><td>1971 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1971-08-15T00:00:00.000Z</td><td>54</td><td>1:30:23.91</td><td><a href="/f1/drivers/siffert">Jo Siffert 🇨🇭</a></td><td>BRM 🇬🇧</td></tr>
+<tr><td>1970</td><td>9</td><td>1970 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/osterreichring">A1-Ring</a></td><td>1970-08-16T00:00:00.000Z</td><td>60</td><td>1:42:17.3</td><td><a href="/f1/drivers/ickx">Jacky Ickx 🇧🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1964</td><td>7</td><td>1964 Austrian Grand Prix 🇦🇹</td><td><a href="/f1/circuits/zeltweg">Zeltweg</a></td><td>1964-08-23T00:00:00.000Z</td><td>105</td><td>2:06:18.23</td><td><a href="/f1/drivers/bandini">Lorenzo Bandini 🇮🇹</a></td><td>Ferrari 🇮🇹</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Circuit</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>30</td><td></td><td></td><td>30</td><td>29</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>299.000</td><td></td><td></td><td>17554233600.000</td><td>1754.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>9.967</td><td></td><td></td><td>585141120.000</td><td>60.483</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>14.000</td><td></td><td></td><td>1499558400.000</td><td>105.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>12.000</td><td></td><td></td><td>963705600.000</td><td>71.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>10.000</td><td></td><td></td><td>461721600.000</td><td>54.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>9.000</td><td></td><td></td><td>208915200.000</td><td>53.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>6.000</td><td></td><td></td><td>-169084800.000</td><td>29.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>4.366</td><td></td><td></td><td>222325807579545600.000</td><td>168.732</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.089</td><td></td><td></td><td>471514376.854</td><td>12.990</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

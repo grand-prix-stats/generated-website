@@ -1,0 +1,69 @@
+---
+title: List of Formula 1® Races by Carroll Shelby
+layout: page
+collectionName: drivers
+collectionId: shelby
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1959</td><td>8</td><td>1959 Italian Grand Prix 🇮🇹</td><td>1959-09-13T00:00:00.000Z</td><td>19</td><td>10</td><td>0.0</td><td>70</td><td> </td><td>Aston Martin 🇬🇧</td><td><a href="/f1/drivers/salvadori">Roy Salvadori 🇬🇧</a></td><td>17</td><td>R</td></tr>
+<tr><td>1959</td><td>7</td><td>1959 Portuguese Grand Prix 🇵🇹</td><td>1959-08-23T00:00:00.000Z</td><td>13</td><td>8</td><td>0.0</td><td>58</td><td> </td><td>Aston Martin 🇬🇧</td><td><a href="/f1/drivers/salvadori">Roy Salvadori 🇬🇧</a></td><td>12</td><td>6</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>69</td><td> </td><td>Aston Martin 🇬🇧</td><td><a href="/f1/drivers/salvadori">Roy Salvadori 🇬🇧</a></td><td>2</td><td>6</td></tr>
+<tr><td>1959</td><td>3</td><td>1959 Dutch Grand Prix 🇳🇱</td><td>1959-05-31T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Aston Martin 🇬🇧</td><td><a href="/f1/drivers/salvadori">Roy Salvadori 🇬🇧</a></td><td>13</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>11</td><td>4</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/filippis">Maria de Filippis 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/cabianca">Giulio Cabianca 🇮🇹</a></td><td>20</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>18</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gerini">Gerino Gerini 🇮🇹</a></td><td>19</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>11</td><td>4</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/filippis">Maria de Filippis 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/cabianca">Giulio Cabianca 🇮🇹</a></td><td>20</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>18</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gerini">Gerino Gerini 🇮🇹</a></td><td>19</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>11</td><td>4</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/filippis">Maria de Filippis 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/cabianca">Giulio Cabianca 🇮🇹</a></td><td>20</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>18</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gerini">Gerino Gerini 🇮🇹</a></td><td>19</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>11</td><td>4</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/filippis">Maria de Filippis 🇮🇹</a></td><td>21</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/cabianca">Giulio Cabianca 🇮🇹</a></td><td>20</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>18</td><td>R</td></tr>
+<tr><td>1958</td><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>1958-09-07T00:00:00.000Z</td><td>11</td><td>4</td><td>0.0</td><td>69</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gerini">Gerino Gerini 🇮🇹</a></td><td>19</td><td>R</td></tr>
+<tr><td>1958</td><td>9</td><td>1958 Portuguese Grand Prix 🇵🇹</td><td>1958-08-24T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>47</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/allison">Cliff Allison 🇬🇧</a></td><td>13</td><td>R</td></tr>
+<tr><td>1958</td><td>9</td><td>1958 Portuguese Grand Prix 🇵🇹</td><td>1958-08-24T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>47</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>14</td><td>R</td></tr>
+<tr><td>1958</td><td>9</td><td>1958 Portuguese Grand Prix 🇵🇹</td><td>1958-08-24T00:00:00.000Z</td><td>10</td><td>R</td><td>0.0</td><td>47</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/filippis">Maria de Filippis 🇮🇹</a></td><td>15</td><td>R</td></tr>
+<tr><td>1958</td><td>7</td><td>1958 British Grand Prix 🇬🇧</td><td>1958-07-19T00:00:00.000Z</td><td>15</td><td>9</td><td>0.0</td><td>72</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>13</td><td>R</td></tr>
+<tr><td>1958</td><td>7</td><td>1958 British Grand Prix 🇬🇧</td><td>1958-07-19T00:00:00.000Z</td><td>15</td><td>9</td><td>0.0</td><td>72</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gerini">Gerino Gerini 🇮🇹</a></td><td>18</td><td>R</td></tr>
+<tr><td>1958</td><td>6</td><td>1958 French Grand Prix 🇫🇷</td><td>1958-07-06T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>8</td><td>4</td></tr>
+<tr><td>1958</td><td>6</td><td>1958 French Grand Prix 🇫🇷</td><td>1958-07-06T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/phil_hill">Phil Hill 🇺🇸</a></td><td>13</td><td>7</td></tr>
+<tr><td>1958</td><td>6</td><td>1958 French Grand Prix 🇫🇷</td><td>1958-07-06T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/bonnier">Jo Bonnier 🇸🇪</a></td><td>16</td><td>8</td></tr>
+<tr><td>1958</td><td>6</td><td>1958 French Grand Prix 🇫🇷</td><td>1958-07-06T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gerini">Gerino Gerini 🇮🇹</a></td><td>15</td><td>9</td></tr>
+<tr><td>1958</td><td>6</td><td>1958 French Grand Prix 🇫🇷</td><td>1958-07-06T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/ruttman">Troy Ruttman 🇺🇸</a></td><td>18</td><td>10</td></tr>
+<tr><td>1958</td><td>6</td><td>1958 French Grand Prix 🇫🇷</td><td>1958-07-06T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/godia">Paco Godia 🇪🇸</a></td><td>11</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>35</td><td></td><td>35</td><td>35</td><td>14</td><td>35</td><td>35</td><td></td><td></td><td></td><td>35</td><td>11</td></tr><tr><td><b>Total Sum</b></td><td>300.000</td><td></td><td>-12433737600.000</td><td>490.000</td><td>76.000</td><td></td><td>1261.000</td><td></td><td></td><td></td><td>554.000</td><td>66.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>8.571</td><td></td><td>-355249645.714</td><td>14.000</td><td>5.429</td><td></td><td>36.029</td><td></td><td></td><td></td><td>15.829</td><td>6.000</td></tr><tr><td><b>Maximum</b></td><td>10.000</td><td></td><td>-325123200.000</td><td>19.000</td><td>10.000</td><td></td><td>72.000</td><td></td><td></td><td></td><td>21.000</td><td>10.000</td></tr><tr><td><b>75th Percentile</b></td><td>10.000</td><td></td><td>-357177600.000</td><td>17.000</td><td>8.000</td><td></td><td>69.000</td><td></td><td></td><td></td><td>19.000</td><td>8.000</td></tr><tr><td><b>Median</b></td><td>10.000</td><td></td><td>-357177600.000</td><td>15.000</td><td>4.000</td><td></td><td>47.000</td><td></td><td></td><td></td><td>18.000</td><td>6.000</td></tr><tr><td><b>25th Percentile</b></td><td>7.000</td><td></td><td>-358387200.000</td><td>11.000</td><td>4.000</td><td></td><td>1.000</td><td></td><td></td><td></td><td>13.000</td><td>4.000</td></tr><tr><td><b>Minimum</b></td><td>3.000</td><td></td><td>-362620800.000</td><td>6.000</td><td>4.000</td><td></td><td>1.000</td><td></td><td></td><td></td><td>2.000</td><td>4.000</td></tr><tr><td><b>Variance</b></td><td>3.788</td><td></td><td>94158215677910.250</td><td>11.143</td><td>5.245</td><td></td><td>951.971</td><td></td><td></td><td></td><td>19.056</td><td>4.545</td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.946</td><td></td><td>9703515.635</td><td>3.338</td><td>2.290</td><td></td><td>30.854</td><td></td><td></td><td></td><td>4.365</td><td>2.132</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

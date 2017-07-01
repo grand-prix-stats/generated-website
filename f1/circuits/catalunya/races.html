@@ -1,0 +1,61 @@
+---
+title: List of All Formula 1® Races at Circuit de Barcelona-Catalunya
+layout: page
+collectionName: circuits
+collectionId: catalunya
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Laps Completed</th><th>Race Duration</th><th>Winning Driver</th><th>Winning Constructor</th></tr>
+<tr><td>2017</td><td>5</td><td>2017 Spanish Grand Prix 🇪🇸</td><td>2017-05-14T00:00:00.000Z</td><td>66</td><td>1:35:56.497</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2016</td><td>5</td><td>2016 Spanish Grand Prix 🇪🇸</td><td>2016-05-15T00:00:00.000Z</td><td>66</td><td>1:41:40.017</td><td><a href="/f1/drivers/max_verstappen">Max Verstappen 🇳🇱</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2015</td><td>5</td><td>2015 Spanish Grand Prix 🇪🇸</td><td>2015-05-10T00:00:00.000Z</td><td>66</td><td>1:41:12.555</td><td><a href="/f1/drivers/rosberg">Nico Rosberg 🇩🇪</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2014</td><td>5</td><td>2014 Spanish Grand Prix 🇪🇸</td><td>2014-05-11T00:00:00.000Z</td><td>66</td><td>1:41:05.155</td><td><a href="/f1/drivers/hamilton">Lewis Hamilton 🇬🇧</a></td><td>Mercedes 🇩🇪</td></tr>
+<tr><td>2013</td><td>5</td><td>2013 Spanish Grand Prix 🇪🇸</td><td>2013-05-12T00:00:00.000Z</td><td>66</td><td>1:39:16.596</td><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2012</td><td>5</td><td>2012 Spanish Grand Prix 🇪🇸</td><td>2012-05-13T00:00:00.000Z</td><td>66</td><td>1:39:09.145</td><td><a href="/f1/drivers/maldonado">Pastor Maldonado 🇻🇪</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>2011</td><td>5</td><td>2011 Spanish Grand Prix 🇪🇸</td><td>2011-05-22T00:00:00.000Z</td><td>66</td><td>1:39:03.301</td><td><a href="/f1/drivers/vettel">Sebastian Vettel 🇩🇪</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2010</td><td>5</td><td>2010 Spanish Grand Prix 🇪🇸</td><td>2010-05-09T00:00:00.000Z</td><td>66</td><td>1:35:44.101</td><td><a href="/f1/drivers/webber">Mark Webber 🇦🇺</a></td><td>Red Bull 🇦🇹</td></tr>
+<tr><td>2009</td><td>5</td><td>2009 Spanish Grand Prix 🇪🇸</td><td>2009-05-10T00:00:00.000Z</td><td>66</td><td>1:37:19.202</td><td><a href="/f1/drivers/button">Jenson Button 🇬🇧</a></td><td>Brawn 🇬🇧</td></tr>
+<tr><td>2008</td><td>4</td><td>2008 Spanish Grand Prix 🇪🇸</td><td>2008-04-27T00:00:00.000Z</td><td>66</td><td>1:38:19.051</td><td><a href="/f1/drivers/raikkonen">Kimi Räikkönen 🇫🇮</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2007</td><td>4</td><td>2007 Spanish Grand Prix 🇪🇸</td><td>2007-05-13T00:00:00.000Z</td><td>65</td><td>1:31:36.230</td><td><a href="/f1/drivers/massa">Felipe Massa 🇧🇷</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2006</td><td>6</td><td>2006 Spanish Grand Prix 🇪🇸</td><td>2006-05-14T00:00:00.000Z</td><td>66</td><td>1:26:21.759</td><td><a href="/f1/drivers/alonso">Fernando Alonso 🇪🇸</a></td><td>Renault 🇫🇷</td></tr>
+<tr><td>2005</td><td>5</td><td>2005 Spanish Grand Prix 🇪🇸</td><td>2005-05-08T00:00:00.000Z</td><td>66</td><td>1:27:16.830</td><td><a href="/f1/drivers/raikkonen">Kimi Räikkönen 🇫🇮</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>2004</td><td>5</td><td>2004 Spanish Grand Prix 🇪🇸</td><td>2004-05-09T00:00:00.000Z</td><td>66</td><td>1:27:32.841</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2003</td><td>5</td><td>2003 Spanish Grand Prix 🇪🇸</td><td>2003-05-04T00:00:00.000Z</td><td>65</td><td>1:33:46.933</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2002</td><td>5</td><td>2002 Spanish Grand Prix 🇪🇸</td><td>2002-04-28T00:00:00.000Z</td><td>65</td><td>1:30:29.981</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2001</td><td>5</td><td>2001 Spanish Grand Prix 🇪🇸</td><td>2001-04-29T00:00:00.000Z</td><td>65</td><td>1:31:03.305</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>2000</td><td>5</td><td>2000 Spanish Grand Prix 🇪🇸</td><td>2000-05-07T00:00:00.000Z</td><td>65</td><td>1:33:55.390</td><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1999</td><td>5</td><td>1999 Spanish Grand Prix 🇪🇸</td><td>1999-05-30T00:00:00.000Z</td><td>65</td><td>1:34:13.665</td><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1998</td><td>5</td><td>1998 Spanish Grand Prix 🇪🇸</td><td>1998-05-10T00:00:00.000Z</td><td>65</td><td>1:33:38.3</td><td><a href="/f1/drivers/hakkinen">Mika Häkkinen 🇫🇮</a></td><td>McLaren 🇬🇧</td></tr>
+<tr><td>1997</td><td>6</td><td>1997 Spanish Grand Prix 🇪🇸</td><td>1997-05-25T00:00:00.000Z</td><td>64</td><td>1:30:35.896</td><td><a href="/f1/drivers/villeneuve">Jacques Villeneuve 🇨🇦</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1996</td><td>7</td><td>1996 Spanish Grand Prix 🇪🇸</td><td>1996-06-02T00:00:00.000Z</td><td>65</td><td>1:59:49.307</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Ferrari 🇮🇹</td></tr>
+<tr><td>1995</td><td>4</td><td>1995 Spanish Grand Prix 🇪🇸</td><td>1995-05-14T00:00:00.000Z</td><td>65</td><td>1:34:20.507</td><td><a href="/f1/drivers/michael_schumacher">Michael Schumacher 🇩🇪</a></td><td>Benetton 🇮🇹</td></tr>
+<tr><td>1994</td><td>5</td><td>1994 Spanish Grand Prix 🇪🇸</td><td>1994-05-29T00:00:00.000Z</td><td>65</td><td>1:36:14.3</td><td><a href="/f1/drivers/damon_hill">Damon Hill 🇬🇧</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1993</td><td>5</td><td>1993 Spanish Grand Prix 🇪🇸</td><td>1993-05-09T00:00:00.000Z</td><td>65</td><td>1:32:27.685</td><td><a href="/f1/drivers/prost">Alain Prost 🇫🇷</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1992</td><td>4</td><td>1992 Spanish Grand Prix 🇪🇸</td><td>1992-05-03T00:00:00.000Z</td><td>65</td><td>1:56:10.674</td><td><a href="/f1/drivers/mansell">Nigel Mansell 🇬🇧</a></td><td>Williams 🇬🇧</td></tr>
+<tr><td>1991</td><td>14</td><td>1991 Spanish Grand Prix 🇪🇸</td><td>1991-09-29T00:00:00.000Z</td><td>65</td><td>1:38:41.541</td><td><a href="/f1/drivers/mansell">Nigel Mansell 🇬🇧</a></td><td>Williams 🇬🇧</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Laps Completed</b></td><td><b>Race Duration</b></td><td><b>Winning Driver</b></td><td><b>Winning Constructor</b></td></tr><tr><td><b>Row Count</b></td><td>27</td><td></td><td>27</td><td>27</td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td>144.000</td><td></td><td>29288390400.000</td><td>1767.000</td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td>5.333</td><td></td><td>1084755200.000</td><td>65.444</td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td>14.000</td><td></td><td>1494720000.000</td><td>66.000</td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td>5.000</td><td></td><td>1306022400.000</td><td>66.000</td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td>5.000</td><td></td><td>1084060800.000</td><td>65.000</td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>864518400.000</td><td>65.000</td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td>4.000</td><td></td><td>686102400.000</td><td>64.000</td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td>3.259</td><td></td><td>60002012241920000.000</td><td>0.321</td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.805</td><td></td><td>244953081.715</td><td>0.567</td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,63 @@
+---
+title: List of Formula 1® Races by Keith Greene
+layout: page
+collectionName: drivers
+collectionId: greene
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>1</td><td>1</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>9</td><td>5</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>14</td><td>7</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/trevor_taylor">Trevor Taylor 🇬🇧</a></td><td>10</td><td>8</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/chamberlain">Jay Chamberlain 🇺🇸</a></td><td>20</td><td>15</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>3</td><td>16</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/shelly">Tony Shelly 🇳🇿</a></td><td>18</td><td>R</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Lotus-Climax 🇬🇧</td><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>0</td><td>W</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/clark">Jim Clark 🇬🇧</a></td><td>1</td><td>1</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>9</td><td>5</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>14</td><td>7</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/trevor_taylor">Trevor Taylor 🇬🇧</a></td><td>10</td><td>8</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/chamberlain">Jay Chamberlain 🇺🇸</a></td><td>20</td><td>15</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/ireland">Innes Ireland 🇬🇧</a></td><td>3</td><td>16</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/shelly">Tony Shelly 🇳🇿</a></td><td>18</td><td>R</td></tr>
+<tr><td>1962</td><td>5</td><td>1962 British Grand Prix 🇬🇧</td><td>1962-07-21T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Gilby 🇬🇧</td><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>0</td><td>W</td></tr>
+<tr><td>1960</td><td>7</td><td>1960 British Grand Prix 🇬🇧</td><td>1960-07-16T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>12</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>14</td><td>14</td></tr>
+<tr><td>1960</td><td>7</td><td>1960 British Grand Prix 🇬🇧</td><td>1960-07-16T00:00:00.000Z</td><td>22</td><td>R</td><td>0.0</td><td>12</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/burgess">Ian Burgess 🇬🇧</a></td><td>20</td><td>R</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>1</td><td>1</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>8</td><td>3</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>4</td><td>5</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/gregory">Masten Gregory 🇺🇸</a></td><td>5</td><td>7</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/henry_taylor">Henry Taylor 🇬🇧</a></td><td>21</td><td>11</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/ashdown">Peter Ashdown 🇬🇧</a></td><td>23</td><td>12</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/fairman">Jack Fairman 🇬🇧</a></td><td>15</td><td>R</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/mike_taylor">Mike Taylor 🇬🇧</a></td><td>24</td><td>R</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/bill_moss">Bill Moss 🇬🇧</a></td><td>0</td><td>F</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/trevor_taylor">Trevor Taylor 🇬🇧</a></td><td>0</td><td>F</td></tr>
+<tr><td>1959</td><td>5</td><td>1959 British Grand Prix 🇬🇧</td><td>1959-07-18T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Cooper-Climax 🇬🇧</td><td><a href="/f1/drivers/parnell">Tim Parnell 🇬🇧</a></td><td>0</td><td>F</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>29</td><td></td><td>29</td><td>29</td><td></td><td>29</td><td>29</td><td></td><td></td><td></td><td>29</td><td>19</td></tr><tr><td><b>Total Sum</b></td><td>149.000</td><td></td><td>-7989235200.000</td><td>44.000</td><td></td><td></td><td>24.000</td><td></td><td></td><td></td><td>285.000</td><td>157.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>5.138</td><td></td><td>-275490868.966</td><td>1.517</td><td></td><td></td><td>0.828</td><td></td><td></td><td></td><td>9.828</td><td>8.263</td></tr><tr><td><b>Maximum</b></td><td>7.000</td><td></td><td>-235094400.000</td><td>22.000</td><td></td><td></td><td>12.000</td><td></td><td></td><td></td><td>24.000</td><td>16.000</td></tr><tr><td><b>75th Percentile</b></td><td>5.000</td><td></td><td>-235094400.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>18.000</td><td>14.000</td></tr><tr><td><b>Median</b></td><td>5.000</td><td></td><td>-235094400.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9.000</td><td>7.000</td></tr><tr><td><b>25th Percentile</b></td><td>5.000</td><td></td><td>-330048000.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>5.000</td></tr><tr><td><b>Minimum</b></td><td>5.000</td><td></td><td>-330048000.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>0.257</td><td></td><td>2066179216309727.500</td><td>31.077</td><td></td><td></td><td>9.246</td><td></td><td></td><td></td><td>65.315</td><td>25.668</td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.507</td><td></td><td>45455244.101</td><td>5.575</td><td></td><td></td><td>3.041</td><td></td><td></td><td></td><td>8.082</td><td>5.066</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

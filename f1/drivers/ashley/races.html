@@ -1,0 +1,49 @@
+---
+title: List of Formula 1® Races by Ian Ashley
+layout: page
+collectionName: drivers
+collectionId: ashley
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1977</td><td>16</td><td>1977 Canadian Grand Prix 🇨🇦</td><td>1977-10-09T00:00:00.000Z</td><td>0</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>Hesketh 🇬🇧</td><td><a href="/f1/drivers/keegan">Rupert Keegan 🇬🇧</a></td><td>25</td><td>R</td></tr>
+<tr><td>1977</td><td>15</td><td>1977 United States Grand Prix 🇺🇸</td><td>1977-10-02T00:00:00.000Z</td><td>22</td><td>17</td><td>0.0</td><td>55</td><td> </td><td>Hesketh 🇬🇧</td><td><a href="/f1/drivers/keegan">Rupert Keegan 🇬🇧</a></td><td>20</td><td>8</td></tr>
+<tr><td>1977</td><td>14</td><td>1977 Italian Grand Prix 🇮🇹</td><td>1977-09-11T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Hesketh 🇬🇧</td><td><a href="/f1/drivers/keegan">Rupert Keegan 🇬🇧</a></td><td>23</td><td>9</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Hesketh 🇬🇧</td><td><a href="/f1/drivers/keegan">Rupert Keegan 🇬🇧</a></td><td>26</td><td>R</td></tr>
+<tr><td>1977</td><td>13</td><td>1977 Dutch Grand Prix 🇳🇱</td><td>1977-08-28T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Hesketh 🇬🇧</td><td><a href="/f1/drivers/rebaque">Hector Rebaque 🇲🇽</a></td><td>0</td><td>F</td></tr>
+<tr><td>1977</td><td>12</td><td>1977 Austrian Grand Prix 🇦🇹</td><td>1977-08-14T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Hesketh 🇬🇧</td><td><a href="/f1/drivers/keegan">Rupert Keegan 🇬🇧</a></td><td>20</td><td>7</td></tr>
+<tr><td>1977</td><td>12</td><td>1977 Austrian Grand Prix 🇦🇹</td><td>1977-08-14T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Hesketh 🇬🇧</td><td><a href="/f1/drivers/rebaque">Hector Rebaque 🇲🇽</a></td><td>0</td><td>F</td></tr>
+<tr><td>1975</td><td>11</td><td>1975 German Grand Prix 🇩🇪</td><td>1975-08-03T00:00:00.000Z</td><td>20</td><td>R</td><td>0.0</td><td>0</td><td> </td><td>Williams 🇬🇧</td><td><a href="/f1/drivers/laffite">Jacques Laffite 🇫🇷</a></td><td>15</td><td>2</td></tr>
+<tr><td>1974</td><td>15</td><td>1974 United States Grand Prix 🇺🇸</td><td>1974-10-06T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/reutemann">Carlos Reutemann 🇦🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1974</td><td>15</td><td>1974 United States Grand Prix 🇺🇸</td><td>1974-10-06T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/pace">Carlos Pace 🇧🇷</a></td><td>4</td><td>2</td></tr>
+<tr><td>1974</td><td>15</td><td>1974 United States Grand Prix 🇺🇸</td><td>1974-10-06T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/watson">John Watson 🇬🇧</a></td><td>7</td><td>5</td></tr>
+<tr><td>1974</td><td>14</td><td>1974 Canadian Grand Prix 🇨🇦</td><td>1974-09-22T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/pace">Carlos Pace 🇧🇷</a></td><td>9</td><td>8</td></tr>
+<tr><td>1974</td><td>14</td><td>1974 Canadian Grand Prix 🇨🇦</td><td>1974-09-22T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/reutemann">Carlos Reutemann 🇦🇷</a></td><td>4</td><td>9</td></tr>
+<tr><td>1974</td><td>14</td><td>1974 Canadian Grand Prix 🇨🇦</td><td>1974-09-22T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/watson">John Watson 🇬🇧</a></td><td>15</td><td>R</td></tr>
+<tr><td>1974</td><td>14</td><td>1974 Canadian Grand Prix 🇨🇦</td><td>1974-09-22T00:00:00.000Z</td><td>0</td><td>F</td><td>0.0</td><td>0</td><td> </td><td>Brabham 🇬🇧</td><td><a href="/f1/drivers/wietzes">Eppie Wietzes 🇨🇦</a></td><td>26</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>15</td><td></td><td>15</td><td>15</td><td>1</td><td>15</td><td>15</td><td></td><td></td><td></td><td>15</td><td>9</td></tr><tr><td><b>Total Sum</b></td><td>207.000</td><td></td><td>2919628800.000</td><td>42.000</td><td>17.000</td><td></td><td>55.000</td><td></td><td></td><td></td><td>195.000</td><td>51.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>13.800</td><td></td><td>194641920.000</td><td>2.800</td><td>17.000</td><td></td><td>3.667</td><td></td><td></td><td></td><td>13.000</td><td>5.667</td></tr><tr><td><b>Maximum</b></td><td>16.000</td><td></td><td>245203200.000</td><td>22.000</td><td>17.000</td><td></td><td>55.000</td><td></td><td></td><td></td><td>26.000</td><td>9.000</td></tr><tr><td><b>75th Percentile</b></td><td>15.000</td><td></td><td>241574400.000</td><td></td><td>17.000</td><td></td><td></td><td></td><td></td><td></td><td>23.000</td><td>8.000</td></tr><tr><td><b>Median</b></td><td>14.000</td><td></td><td>176256000.000</td><td></td><td>17.000</td><td></td><td></td><td></td><td></td><td></td><td>15.000</td><td>7.000</td></tr><tr><td><b>25th Percentile</b></td><td>13.000</td><td></td><td>149040000.000</td><td></td><td>17.000</td><td></td><td></td><td></td><td></td><td></td><td>4.000</td><td>2.000</td></tr><tr><td><b>Minimum</b></td><td>11.000</td><td></td><td>149040000.000</td><td></td><td>17.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>1.760</td><td></td><td>2034963224985600.000</td><td>51.093</td><td></td><td></td><td>188.222</td><td></td><td></td><td></td><td>92.267</td><td>9.333</td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.327</td><td></td><td>45110566.667</td><td>7.148</td><td></td><td></td><td>13.719</td><td></td><td></td><td></td><td>9.606</td><td>3.055</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

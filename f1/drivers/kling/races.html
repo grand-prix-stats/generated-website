@@ -1,0 +1,72 @@
+---
+title: List of Formula 1® Races by Karl Kling
+layout: page
+collectionName: drivers
+collectionId: kling
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1955</td><td>7</td><td>1955 Italian Grand Prix 🇮🇹</td><td>1955-09-11T00:00:00.000Z</td><td>3</td><td>R</td><td>0.0</td><td>32</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1955</td><td>7</td><td>1955 Italian Grand Prix 🇮🇹</td><td>1955-09-11T00:00:00.000Z</td><td>3</td><td>R</td><td>0.0</td><td>32</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/taruffi">Piero Taruffi 🇮🇹</a></td><td>9</td><td>2</td></tr>
+<tr><td>1955</td><td>7</td><td>1955 Italian Grand Prix 🇮🇹</td><td>1955-09-11T00:00:00.000Z</td><td>3</td><td>R</td><td>0.0</td><td>32</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>2</td><td>R</td></tr>
+<tr><td>1955</td><td>6</td><td>1955 British Grand Prix 🇬🇧</td><td>1955-07-16T00:00:00.000Z</td><td>4</td><td>3</td><td>4.0</td><td>90</td><td>+1:11.8</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>1</td><td>1</td></tr>
+<tr><td>1955</td><td>6</td><td>1955 British Grand Prix 🇬🇧</td><td>1955-07-16T00:00:00.000Z</td><td>4</td><td>3</td><td>4.0</td><td>90</td><td>+1:11.8</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>2</td><td>2</td></tr>
+<tr><td>1955</td><td>6</td><td>1955 British Grand Prix 🇬🇧</td><td>1955-07-16T00:00:00.000Z</td><td>4</td><td>3</td><td>4.0</td><td>90</td><td>+1:11.8</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/taruffi">Piero Taruffi 🇮🇹</a></td><td>5</td><td>4</td></tr>
+<tr><td>1955</td><td>5</td><td>1955 Dutch Grand Prix 🇳🇱</td><td>1955-06-19T00:00:00.000Z</td><td>3</td><td>R</td><td>0.0</td><td>21</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1955</td><td>5</td><td>1955 Dutch Grand Prix 🇳🇱</td><td>1955-06-19T00:00:00.000Z</td><td>3</td><td>R</td><td>0.0</td><td>21</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>2</td><td>2</td></tr>
+<tr><td>1955</td><td>4</td><td>1955 Belgian Grand Prix 🇧🇪</td><td>1955-06-05T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>21</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>2</td><td>1</td></tr>
+<tr><td>1955</td><td>4</td><td>1955 Belgian Grand Prix 🇧🇪</td><td>1955-06-05T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>21</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>3</td><td>2</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>3</td><td>1</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>10</td><td>4</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>8</td><td>R</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>10</td><td>4</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>3</td><td>1</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>10</td><td>4</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>8</td><td>R</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>6</td><td>R</td><td>0.0</td><td>2</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>10</td><td>4</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>3</td><td>1</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>10</td><td>4</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>8</td><td>R</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>10</td><td>4</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>3</td><td>1</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>10</td><td>4</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>8</td><td>R</td></tr>
+<tr><td>1955</td><td>1</td><td>1955 Argentine Grand Prix 🇦🇷</td><td>1955-01-16T00:00:00.000Z</td><td>10</td><td>4</td><td>1.0</td><td>94</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/moss">Stirling Moss 🇬🇧</a></td><td>10</td><td>4</td></tr>
+<tr><td>1954</td><td>9</td><td>1954 Spanish Grand Prix 🇪🇸</td><td>1954-10-24T00:00:00.000Z</td><td>12</td><td>5</td><td>2.0</td><td>79</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>2</td><td>3</td></tr>
+<tr><td>1954</td><td>9</td><td>1954 Spanish Grand Prix 🇪🇸</td><td>1954-10-24T00:00:00.000Z</td><td>12</td><td>5</td><td>2.0</td><td>79</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>9</td><td>R</td></tr>
+<tr><td>1954</td><td>8</td><td>1954 Italian Grand Prix 🇮🇹</td><td>1954-09-05T00:00:00.000Z</td><td>4</td><td>R</td><td>0.0</td><td>36</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1954</td><td>8</td><td>1954 Italian Grand Prix 🇮🇹</td><td>1954-09-05T00:00:00.000Z</td><td>4</td><td>R</td><td>0.0</td><td>36</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>8</td><td>4</td></tr>
+<tr><td>1954</td><td>7</td><td>1954 Swiss Grand Prix 🇨🇭</td><td>1954-08-22T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>38</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>2</td><td>1</td></tr>
+<tr><td>1954</td><td>7</td><td>1954 Swiss Grand Prix 🇨🇭</td><td>1954-08-22T00:00:00.000Z</td><td>5</td><td>R</td><td>0.0</td><td>38</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>7</td><td>3</td></tr>
+<tr><td>1954</td><td>6</td><td>1954 German Grand Prix 🇩🇪</td><td>1954-08-01T00:00:00.000Z</td><td>23</td><td>4</td><td>4.0</td><td>22</td><td>+6:06.5</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1954</td><td>6</td><td>1954 German Grand Prix 🇩🇪</td><td>1954-08-01T00:00:00.000Z</td><td>23</td><td>4</td><td>4.0</td><td>22</td><td>+6:06.5</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/lang">Hermann Lang 🇩🇪</a></td><td>13</td><td>R</td></tr>
+<tr><td>1954</td><td>6</td><td>1954 German Grand Prix 🇩🇪</td><td>1954-08-01T00:00:00.000Z</td><td>23</td><td>4</td><td>4.0</td><td>22</td><td>+6:06.5</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>4</td><td>R</td></tr>
+<tr><td>1954</td><td>5</td><td>1954 British Grand Prix 🇬🇧</td><td>1954-07-17T00:00:00.000Z</td><td>6</td><td>7</td><td>0.0</td><td>87</td><td> </td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>1</td><td>4</td></tr>
+<tr><td>1954</td><td>4</td><td>1954 French Grand Prix 🇫🇷</td><td>1954-07-04T00:00:00.000Z</td><td>2</td><td>2</td><td>6.0</td><td>61</td><td>+0.1</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>1</td><td>1</td></tr>
+<tr><td>1954</td><td>4</td><td>1954 French Grand Prix 🇫🇷</td><td>1954-07-04T00:00:00.000Z</td><td>2</td><td>2</td><td>6.0</td><td>61</td><td>+0.1</td><td>Mercedes 🇩🇪</td><td><a href="/f1/drivers/herrmann">Hans Herrmann 🇩🇪</a></td><td>7</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>38</td><td></td><td>38</td><td>38</td><td>19</td><td>38</td><td>38</td><td>2</td><td></td><td></td><td>38</td><td>29</td></tr><tr><td><b>Total Sum</b></td><td>152.000</td><td></td><td>-17936121600.000</td><td>288.000</td><td>74.000</td><td>48.000</td><td>1799.000</td><td>0.200</td><td></td><td></td><td>208.000</td><td>70.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>4.000</td><td></td><td>-472003200.000</td><td>7.579</td><td>3.895</td><td>1.263</td><td>47.342</td><td>0.100</td><td></td><td></td><td>5.474</td><td>2.414</td></tr><tr><td><b>Maximum</b></td><td>9.000</td><td></td><td>-451526400.000</td><td>23.000</td><td>7.000</td><td>6.000</td><td>94.000</td><td>0.100</td><td></td><td></td><td>13.000</td><td>4.000</td></tr><tr><td><b>75th Percentile</b></td><td>6.000</td><td></td><td>-459993600.000</td><td>10.000</td><td>4.000</td><td>2.000</td><td>90.000</td><td>0.100</td><td></td><td></td><td>9.000</td><td>4.000</td></tr><tr><td><b>Median</b></td><td>4.000</td><td></td><td>-472089600.000</td><td>6.000</td><td>4.000</td><td></td><td>36.000</td><td>0.100</td><td></td><td></td><td>5.000</td><td>2.000</td></tr><tr><td><b>25th Percentile</b></td><td>1.000</td><td></td><td>-483580800.000</td><td>4.000</td><td>3.000</td><td></td><td>21.000</td><td>0.100</td><td></td><td></td><td>2.000</td><td>1.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>-489024000.000</td><td>2.000</td><td>2.000</td><td></td><td>2.000</td><td>0.100</td><td></td><td></td><td>1.000</td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>7.842</td><td></td><td>126218722357894.734</td><td>28.191</td><td>1.147</td><td>3.247</td><td>1292.436</td><td></td><td></td><td></td><td>13.881</td><td>1.829</td></tr><tr><td><b>Standard Deviation σ</b></td><td>2.800</td><td></td><td>11234710.604</td><td>5.310</td><td>1.071</td><td>1.802</td><td>35.950</td><td></td><td></td><td></td><td>3.726</td><td>1.352</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

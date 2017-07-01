@@ -1,0 +1,192 @@
+---
+title: List of All Formula 1® Drivers from USA by Surname
+layout: page
+collectionName: countries
+collectionId: usa
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Forename</th><th>Surname</th><th>Country</th><th>Flag</th></tr>
+<tr><td>Walt</td><td>Ader</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Fred</td><td>Agabashian</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>George</td><td>Amick</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Red</td><td>Amick</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Mario</td><td>Andretti</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Michael</td><td>Andretti</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Keith</td><td>Andrews</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Frank</td><td>Armi</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Chuck</td><td>Arnold</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Manny</td><td>Ayulo</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bobby</td><td>Ball</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Henry</td><td>Banks</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Skip</td><td>Barber</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Tony</td><td>Bettenhausen</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Art</td><td>Bisch</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Harry</td><td>Blanchard</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bob</td><td>Bondurant</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Johnny</td><td>Boyd</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Don</td><td>Branson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Walt</td><td>Brown</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jimmy</td><td>Bryan</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Ronnie</td><td>Bucknum</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Phil</td><td>Cade</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bill</td><td>Cantrell</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Duane</td><td>Carter</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jay</td><td>Chamberlain</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bill</td><td>Cheesbourg</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Eddie</td><td>Cheever</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Joie</td><td>Chitwood</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bob</td><td>Christie</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Kevin</td><td>Cogan</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>George</td><td>Connor</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>George</td><td>Constantine</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Ray</td><td>Crawford</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Larry</td><td>Crockett</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Art</td><td>Cross</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Chuck</td><td>Daigh</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jimmy</td><td>Davies</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jimmy</td><td>Daywalt</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Duke</td><td>Dinsmore</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Frank</td><td>Dochnal</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Mark</td><td>Donohue</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bob</td><td>Drake</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Len</td><td>Duncan</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Don</td><td>Edmunds</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Ed</td><td>Elisian</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Walt</td><td>Faulkner</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Mike</td><td>Fisher</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>John</td><td>Fitch</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Pat</td><td>Flaherty</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Myron</td><td>Fohr</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>George</td><td>Follmer</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>George</td><td>Fonder</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Carl</td><td>Forberg</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Gene</td><td>Force</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Anthony</td><td>Foyt</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Don</td><td>Freeland</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Fred</td><td>Gamble</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Billy</td><td>Garrett</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Elmer</td><td>George</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Richie</td><td>Ginther</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Paul</td><td>Goldsmith</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Cecil</td><td>Green</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Masten</td><td>Gregory</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Cliff</td><td>Griffith</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bobby</td><td>Grim</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Dan</td><td>Gurney</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jim</td><td>Hall</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Sam</td><td>Hanks</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Walt</td><td>Hansgen</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Gene</td><td>Hartley</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Mack</td><td>Hellings</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Al</td><td>Herman</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Phil</td><td>Hill</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bill</td><td>Holland</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jackie</td><td>Holmes</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bill</td><td>Homeier</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jerry</td><td>Hoyt</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jim</td><td>Hurtubise</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Gus</td><td>Hutchison</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jimmy</td><td>Jackson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Joe</td><td>James</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Eddie</td><td>Johnson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Tom</td><td>Jones</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Al</td><td>Keller</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bruce</td><td>Kessler</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Danny</td><td>Kladis</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jud</td><td>Larson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bayliss</td><td>Levrett</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Andy</td><td>Linden</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Pete</td><td>Lovely</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Brett</td><td>Lunger</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Herbert</td><td>MacKay-Fraser</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bill</td><td>Mackey</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Mike</td><td>Magill</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Johnny</td><td>Mantz</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Timmy</td><td>Mayer</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Ernie</td><td>McCoy</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Johnny</td><td>McDowell</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jack</td><td>McGrath</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jim</td><td>McWithey</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Chet</td><td>Miller</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Thomas</td><td>Monarch</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Duke</td><td>Nalon</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Mike</td><td>Nazaruk</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Cal</td><td>Niday</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Robert</td><td>O'Brien</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Pat</td><td>O'Connor</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Danny</td><td>Ongais</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Johnnie</td><td>Parsons</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Roger</td><td>Penske</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Sam</td><td>Posey</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bobby</td><td>Rahal</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Dick</td><td>Rathmann</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jim</td><td>Rathmann</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jimmy</td><td>Reece</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Lance</td><td>Reventlow</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Peter</td><td>Revson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jim</td><td>Rigsby</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Mauri</td><td>Rose</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Alexander</td><td>Rossi</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Lloyd</td><td>Ruby</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Eddie</td><td>Russo</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Paul</td><td>Russo</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Troy</td><td>Ruttman</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Eddie</td><td>Sachs</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bob</td><td>Said</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Carl</td><td>Scarborough</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Harry</td><td>Schell</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bill</td><td>Schindler</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bob</td><td>Scott</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Tony</td><td>Settember</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Hap</td><td>Sharp</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Carroll</td><td>Shelby</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Scott</td><td>Speed</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Chuck</td><td>Stevenson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Danny</td><td>Sullivan</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Len</td><td>Sutton</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jacques</td><td>Swaters</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bob</td><td>Sweikert</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Marshall</td><td>Teague</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Shorty</td><td>Templeman</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Alfonso</td><td>Thiele</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Johnny</td><td>Thomson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bud</td><td>Tingelstad</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Johnnie</td><td>Tolan</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jack</td><td>Turner</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bobby</td><td>Unser</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Jerry</td><td>Unser</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bob</td><td>Veith</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Bill</td><td>Vukovich</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Fred</td><td>Wacker</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Lee</td><td>Wallard</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Rodger</td><td>Ward</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Travis</td><td>Webb</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Wayne</td><td>Weiler</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Chuck</td><td>Weyant</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr>
+<tr><td>Dempsey</td><td>Wilson</td><td><a href="/f1/countries/usa">USA</a></td><td>🇺🇸</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Surname</b></td><td><b>Country</b></td><td><b>Flag</b></td></tr><tr><td><b>Row Count</b></td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

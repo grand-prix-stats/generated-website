@@ -1,0 +1,57 @@
+---
+title: List of All Formula 1® Drivers from Belgium by Surname
+layout: page
+collectionName: countries
+collectionId: belgium
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Forename</th><th>Surname</th><th>Country</th><th>Flag</th></tr>
+<tr><td>Philippe</td><td>Adams</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Georges</td><td>Berger</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Lucien</td><td>Bianchi</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Thierry</td><td>Boutsen</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Johnny</td><td>Claes</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Jérôme</td><td>d'Ambrosio</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Alain</td><td>de Changy</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Bernard</td><td>de Dryver</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Charles</td><td>de Tornaco</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Paul</td><td>Frère</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Bertrand</td><td>Gachot</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Olivier</td><td>Gendebien</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Christian</td><td>Goethals</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Jacky</td><td>Ickx</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Roger</td><td>Laurent</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Arthur</td><td>Legat</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Willy</td><td>Mairesse</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>André</td><td>Milhoux</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Patrick</td><td>Nève</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>André</td><td>Pilette</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Teddy</td><td>Pilette</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Eric</td><td>van de Poele</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr>
+<tr><td>Stoffel</td><td>Vandoorne</td><td><a href="/f1/countries/belgium">Belgium</a></td><td>🇧🇪</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Surname</b></td><td><b>Country</b></td><td><b>Flag</b></td></tr><tr><td><b>Row Count</b></td><td></td><td></td><td></td></tr><tr><td><b>Total Sum</b></td><td></td><td></td><td></td></tr><tr><td><b>Mean μ (Average)</b></td><td></td><td></td><td></td></tr><tr><td><b>Maximum</b></td><td></td><td></td><td></td></tr><tr><td><b>75th Percentile</b></td><td></td><td></td><td></td></tr><tr><td><b>Median</b></td><td></td><td></td><td></td></tr><tr><td><b>25th Percentile</b></td><td></td><td></td><td></td></tr><tr><td><b>Minimum</b></td><td></td><td></td><td></td></tr><tr><td><b>Variance</b></td><td></td><td></td><td></td></tr><tr><td><b>Standard Deviation σ</b></td><td></td><td></td><td></td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

@@ -1,0 +1,39 @@
+---
+title: List of Formula 1® Races by Sam Posey
+layout: page
+collectionName: drivers
+collectionId: posey
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>22</td><td>12</td><td>0.0</td><td>57</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>14</td><td>17</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>22</td><td>12</td><td>0.0</td><td>57</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/adamich">Andrea de Adamich 🇮🇹</a></td><td>19</td><td>R</td></tr>
+<tr><td>1972</td><td>12</td><td>1972 United States Grand Prix 🇺🇸</td><td>1972-10-08T00:00:00.000Z</td><td>22</td><td>12</td><td>0.0</td><td>57</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/schenken">Tim Schenken 🇦🇺</a></td><td>31</td><td>R</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>15</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/hailwood">Mike Hailwood 🇬🇧</a></td><td>14</td><td>15</td></tr>
+<tr><td>1971</td><td>11</td><td>1971 United States Grand Prix 🇺🇸</td><td>1971-10-03T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>15</td><td> </td><td>Surtees 🇬🇧</td><td><a href="/f1/drivers/surtees">John Surtees 🇬🇧</a></td><td>13</td><td>17</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>5</td><td></td><td>5</td><td>5</td><td>3</td><td>5</td><td>5</td><td></td><td></td><td></td><td>5</td><td>3</td></tr><tr><td><b>Total Sum</b></td><td>58.000</td><td></td><td>372643200.000</td><td>100.000</td><td>36.000</td><td></td><td>201.000</td><td></td><td></td><td></td><td>91.000</td><td>49.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>11.600</td><td></td><td>74528640.000</td><td>20.000</td><td>12.000</td><td></td><td>40.200</td><td></td><td></td><td></td><td>18.200</td><td>16.333</td></tr><tr><td><b>Maximum</b></td><td>12.000</td><td></td><td>87350400.000</td><td>22.000</td><td>12.000</td><td></td><td>57.000</td><td></td><td></td><td></td><td>31.000</td><td>17.000</td></tr><tr><td><b>75th Percentile</b></td><td>12.000</td><td></td><td>87350400.000</td><td>22.000</td><td>12.000</td><td></td><td>57.000</td><td></td><td></td><td></td><td>19.000</td><td>17.000</td></tr><tr><td><b>Median</b></td><td>12.000</td><td></td><td>87350400.000</td><td>22.000</td><td>12.000</td><td></td><td>57.000</td><td></td><td></td><td></td><td>14.000</td><td>17.000</td></tr><tr><td><b>25th Percentile</b></td><td>11.000</td><td></td><td>55296000.000</td><td>17.000</td><td>12.000</td><td></td><td>15.000</td><td></td><td></td><td></td><td>14.000</td><td>15.000</td></tr><tr><td><b>Minimum</b></td><td>11.000</td><td></td><td>55296000.000</td><td>17.000</td><td>12.000</td><td></td><td>15.000</td><td></td><td></td><td></td><td>13.000</td><td>15.000</td></tr><tr><td><b>Variance</b></td><td>0.240</td><td></td><td>246596294246400.000</td><td>6.000</td><td></td><td></td><td>423.360</td><td></td><td></td><td></td><td>45.360</td><td>0.889</td></tr><tr><td><b>Standard Deviation σ</b></td><td>0.490</td><td></td><td>15703384.802</td><td>2.449</td><td></td><td></td><td>20.576</td><td></td><td></td><td></td><td>6.735</td><td>0.943</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

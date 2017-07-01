@@ -1,0 +1,51 @@
+---
+title: List of Formula 1® Races by Brian Naylor
+layout: page
+collectionName: drivers
+collectionId: naylor
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1960</td><td>10</td><td>1960 United States Grand Prix 🇺🇸</td><td>1960-11-20T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/trips">Wolfgang von Trips 🇩🇪</a></td><td>16</td><td>9</td></tr>
+<tr><td>1960</td><td>10</td><td>1960 United States Grand Prix 🇺🇸</td><td>1960-11-20T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>19</td><td>15</td></tr>
+<tr><td>1960</td><td>10</td><td>1960 United States Grand Prix 🇺🇸</td><td>1960-11-20T00:00:00.000Z</td><td>17</td><td>R</td><td>0.0</td><td>20</td><td> </td><td>Cooper-Maserati 🇬🇧</td><td><a href="/f1/drivers/burgess">Ian Burgess 🇬🇧</a></td><td>23</td><td>R</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/salvadori">Roy Salvadori 🇬🇧</a></td><td>6</td><td>2</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>7</td><td>3</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/mclaren">Bruce McLaren 🇳🇿</a></td><td>12</td><td>5</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/burgess">Ian Burgess 🇬🇧</a></td><td>11</td><td>7</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/marsh">Tony Marsh 🇬🇧</a></td><td>14</td><td>8</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/seidel">Wolfgang Seidel 🇩🇪</a></td><td>17</td><td>R</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/goethals">Christian Goethals 🇧🇪</a></td><td>23</td><td>R</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/gibson">Dick Gibson 🇬🇧</a></td><td>18</td><td>R</td></tr>
+<tr><td>1958</td><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>1958-08-03T00:00:00.000Z</td><td>25</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>19</td><td>R</td></tr>
+<tr><td>1957</td><td>6</td><td>1957 German Grand Prix 🇩🇪</td><td>1957-08-04T00:00:00.000Z</td><td>17</td><td>13</td><td>0.0</td><td>20</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/marsh">Tony Marsh 🇬🇧</a></td><td>22</td><td>15</td></tr>
+<tr><td>1957</td><td>6</td><td>1957 German Grand Prix 🇩🇪</td><td>1957-08-04T00:00:00.000Z</td><td>17</td><td>13</td><td>0.0</td><td>20</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/salvadori">Roy Salvadori 🇬🇧</a></td><td>14</td><td>R</td></tr>
+<tr><td>1957</td><td>6</td><td>1957 German Grand Prix 🇩🇪</td><td>1957-08-04T00:00:00.000Z</td><td>17</td><td>13</td><td>0.0</td><td>20</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/jack_brabham">Jack Brabham 🇦🇺</a></td><td>18</td><td>R</td></tr>
+<tr><td>1957</td><td>6</td><td>1957 German Grand Prix 🇩🇪</td><td>1957-08-04T00:00:00.000Z</td><td>17</td><td>13</td><td>0.0</td><td>20</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/england">Paul England 🇦🇺</a></td><td>23</td><td>R</td></tr>
+<tr><td>1957</td><td>6</td><td>1957 German Grand Prix 🇩🇪</td><td>1957-08-04T00:00:00.000Z</td><td>17</td><td>13</td><td>0.0</td><td>20</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/gibson">Dick Gibson 🇬🇧</a></td><td>24</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>17</td><td></td><td>17</td><td>17</td><td>5</td><td>17</td><td>17</td><td></td><td></td><td></td><td>17</td><td>8</td></tr><tr><td><b>Total Sum</b></td><td>132.000</td><td></td><td>-6062947200.000</td><td>361.000</td><td>65.000</td><td></td><td>169.000</td><td></td><td></td><td></td><td>286.000</td><td>64.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>7.765</td><td></td><td>-356643952.941</td><td>21.235</td><td>13.000</td><td></td><td>9.941</td><td></td><td></td><td></td><td>16.824</td><td>8.000</td></tr><tr><td><b>Maximum</b></td><td>10.000</td><td></td><td>-287625600.000</td><td>25.000</td><td>13.000</td><td></td><td>20.000</td><td></td><td></td><td></td><td>24.000</td><td>15.000</td></tr><tr><td><b>75th Percentile</b></td><td>8.000</td><td></td><td>-360201600.000</td><td>25.000</td><td>13.000</td><td></td><td>20.000</td><td></td><td></td><td></td><td>22.000</td><td>15.000</td></tr><tr><td><b>Median</b></td><td>8.000</td><td></td><td>-360201600.000</td><td>25.000</td><td>13.000</td><td></td><td>1.000</td><td></td><td></td><td></td><td>18.000</td><td>8.000</td></tr><tr><td><b>25th Percentile</b></td><td>6.000</td><td></td><td>-391651200.000</td><td>17.000</td><td>13.000</td><td></td><td>1.000</td><td></td><td></td><td></td><td>14.000</td><td>5.000</td></tr><tr><td><b>Minimum</b></td><td>6.000</td><td></td><td>-391651200.000</td><td>17.000</td><td>13.000</td><td></td><td>1.000</td><td></td><td></td><td></td><td>6.000</td><td>2.000</td></tr><tr><td><b>Variance</b></td><td>1.827</td><td></td><td>1207767502040138.250</td><td>15.945</td><td></td><td></td><td>89.938</td><td></td><td></td><td></td><td>28.969</td><td>21.250</td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.352</td><td></td><td>34752949.544</td><td>3.993</td><td></td><td></td><td>9.484</td><td></td><td></td><td></td><td>5.382</td><td>4.610</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

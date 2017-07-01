@@ -1,0 +1,45 @@
+---
+title: List of Formula 1® Races by Karun Chandhok
+layout: page
+collectionName: drivers
+collectionId: chandhok
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>2011</td><td>10</td><td>2011 German Grand Prix 🇩🇪</td><td>2011-07-24T00:00:00.000Z</td><td>20</td><td>20</td><td>0.0</td><td>56</td><td> </td><td>Lotus 🇲🇾</td><td><a href="/f1/drivers/kovalainen">Heikki Kovalainen 🇫🇮</a></td><td>18</td><td>16</td></tr>
+<tr><td>2010</td><td>10</td><td>2010 British Grand Prix 🇬🇧</td><td>2010-07-11T00:00:00.000Z</td><td>23</td><td>19</td><td>0.0</td><td>50</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/yamamoto">Sakon Yamamoto 🇯🇵</a></td><td>24</td><td>20</td></tr>
+<tr><td>2010</td><td>9</td><td>2010 European Grand Prix 🇪🇸</td><td>2010-06-27T00:00:00.000Z</td><td>23</td><td>18</td><td>0.0</td><td>55</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>24</td><td>20</td></tr>
+<tr><td>2010</td><td>8</td><td>2010 Canadian Grand Prix 🇨🇦</td><td>2010-06-13T00:00:00.000Z</td><td>24</td><td>18</td><td>0.0</td><td>66</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>22</td><td>R</td></tr>
+<tr><td>2010</td><td>7</td><td>2010 Turkish Grand Prix 🇹🇷</td><td>2010-05-30T00:00:00.000Z</td><td>24</td><td>20</td><td>0.0</td><td>52</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>22</td><td>R</td></tr>
+<tr><td>2010</td><td>6</td><td>2010 Monaco Grand Prix 🇲🇨</td><td>2010-05-16T00:00:00.000Z</td><td>23</td><td>14</td><td>0.0</td><td>70</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>22</td><td>R</td></tr>
+<tr><td>2010</td><td>5</td><td>2010 Spanish Grand Prix 🇪🇸</td><td>2010-05-09T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>27</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>21</td><td>R</td></tr>
+<tr><td>2010</td><td>4</td><td>2010 Chinese Grand Prix 🇨🇳</td><td>2010-04-18T00:00:00.000Z</td><td>24</td><td>17</td><td>0.0</td><td>52</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>23</td><td>16</td></tr>
+<tr><td>2010</td><td>3</td><td>2010 Malaysian Grand Prix 🇲🇾</td><td>2010-04-04T00:00:00.000Z</td><td>22</td><td>15</td><td>0.0</td><td>53</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>23</td><td>16</td></tr>
+<tr><td>2010</td><td>2</td><td>2010 Australian Grand Prix 🇦🇺</td><td>2010-03-28T00:00:00.000Z</td><td>22</td><td>14</td><td>0.0</td><td>53</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>21</td><td>R</td></tr>
+<tr><td>2010</td><td>1</td><td>2010 Bahrain Grand Prix 🇧🇭</td><td>2010-03-14T00:00:00.000Z</td><td>24</td><td>R</td><td>0.0</td><td>1</td><td> </td><td>HRT 🇪🇸</td><td><a href="/f1/drivers/bruno_senna">Bruno Senna 🇧🇷</a></td><td>23</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>11</td><td></td><td>11</td><td>11</td><td>9</td><td>11</td><td>11</td><td></td><td></td><td></td><td>11</td><td>5</td></tr><tr><td><b>Total Sum</b></td><td>65.000</td><td></td><td>14046912000.000</td><td>253.000</td><td>155.000</td><td></td><td>535.000</td><td></td><td></td><td></td><td>243.000</td><td>88.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>5.909</td><td></td><td>1276992000.000</td><td>23.000</td><td>17.222</td><td></td><td>48.636</td><td></td><td></td><td></td><td>22.091</td><td>17.600</td></tr><tr><td><b>Maximum</b></td><td>10.000</td><td></td><td>1311465600.000</td><td>24.000</td><td>20.000</td><td></td><td>70.000</td><td></td><td></td><td></td><td>24.000</td><td>20.000</td></tr><tr><td><b>75th Percentile</b></td><td>9.000</td><td></td><td>1277596800.000</td><td>24.000</td><td>19.000</td><td></td><td>56.000</td><td></td><td></td><td></td><td>23.000</td><td>20.000</td></tr><tr><td><b>Median</b></td><td>6.000</td><td></td><td>1273968000.000</td><td>23.000</td><td>18.000</td><td></td><td>53.000</td><td></td><td></td><td></td><td>22.000</td><td>16.000</td></tr><tr><td><b>25th Percentile</b></td><td>3.000</td><td></td><td>1270339200.000</td><td>22.000</td><td>15.000</td><td></td><td>50.000</td><td></td><td></td><td></td><td>21.000</td><td>16.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>1268524800.000</td><td>20.000</td><td>14.000</td><td></td><td>1.000</td><td></td><td></td><td></td><td>18.000</td><td>16.000</td></tr><tr><td><b>Variance</b></td><td>9.174</td><td></td><td>128755630080000.000</td><td>1.455</td><td>5.062</td><td></td><td>332.050</td><td></td><td></td><td></td><td>2.628</td><td>3.840</td></tr><tr><td><b>Standard Deviation σ</b></td><td>3.029</td><td></td><td>11347053.806</td><td>1.206</td><td>2.250</td><td></td><td>18.222</td><td></td><td></td><td></td><td>1.621</td><td>1.960</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

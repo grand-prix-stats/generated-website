@@ -1,0 +1,58 @@
+---
+title: List of Formula 1® Races by Reg Parnell
+layout: page
+collectionName: drivers
+collectionId: reg_parnell
+---
+
+{% assign url_split = page.url | split: "/" %}
+<div id="collection-navigation">
+<button onclick="selector.options[selector.selectedIndex-1].value && (window.location = selector.options[selector.selectedIndex-1].value);">&lt; Prev</button>
+<button onclick="selector.options[selector.selectedIndex+1].value && (window.location = selector.options[selector.selectedIndex+1].value);">Next &gt;</button>
+<select id="selector" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+  {% for collectionId in site.data[page.collectionName].refs %}
+    {% if collectionId == page.collectionId %}
+      {% assign selected = "selected" %}
+    {% else %}
+      {% assign selected = "" %}
+    {% endif %}
+    {% assign profile = site.data[page.collectionName][collectionId].profile %}
+    <option value="/f1/{{ page.collectionName }}/{{ collectionId }}/{{ url_split[4] }}" {{ selected }}>{{ profile.collection_name }}</option>
+  {% endfor %}
+</select>
+</div>
+
+<table>
+<tr><th>Season</th><th>Round</th><th>Name</th><th>Date</th><th>Grid</th><th>Final Position</th><th>Points</th><th>Laps Completed</th><th>Time</th><th>Constructor</th><th>Teammate</th><th>Teammate Grid</th><th>Teammate Final Position</th></tr>
+<tr><td>1954</td><td>5</td><td>1954 British Grand Prix 🇬🇧</td><td>1954-07-17T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/gonzalez">José Froilán González 🇦🇷</a></td><td>2</td><td>1</td></tr>
+<tr><td>1954</td><td>5</td><td>1954 British Grand Prix 🇬🇧</td><td>1954-07-17T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/hawthorn">Mike Hawthorn 🇬🇧</a></td><td>3</td><td>2</td></tr>
+<tr><td>1954</td><td>5</td><td>1954 British Grand Prix 🇬🇧</td><td>1954-07-17T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/trintignant">Maurice Trintignant 🇫🇷</a></td><td>8</td><td>5</td></tr>
+<tr><td>1954</td><td>5</td><td>1954 British Grand Prix 🇬🇧</td><td>1954-07-17T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/manzon">Robert Manzon 🇫🇷</a></td><td>15</td><td>R</td></tr>
+<tr><td>1954</td><td>5</td><td>1954 British Grand Prix 🇬🇧</td><td>1954-07-17T00:00:00.000Z</td><td>14</td><td>R</td><td>0.0</td><td>25</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/rosier">Louis Rosier 🇫🇷</a></td><td>31</td><td>R</td></tr>
+<tr><td>1952</td><td>5</td><td>1952 British Grand Prix 🇬🇧</td><td>1952-07-19T00:00:00.000Z</td><td>6</td><td>7</td><td>0.0</td><td>82</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/hawthorn">Mike Hawthorn 🇬🇧</a></td><td>7</td><td>3</td></tr>
+<tr><td>1952</td><td>5</td><td>1952 British Grand Prix 🇬🇧</td><td>1952-07-19T00:00:00.000Z</td><td>6</td><td>7</td><td>0.0</td><td>82</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/brandon">Eric Brandon 🇬🇧</a></td><td>18</td><td>20</td></tr>
+<tr><td>1952</td><td>5</td><td>1952 British Grand Prix 🇬🇧</td><td>1952-07-19T00:00:00.000Z</td><td>6</td><td>7</td><td>0.0</td><td>82</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/alan_brown">Alan Brown 🇬🇧</a></td><td>13</td><td>22</td></tr>
+<tr><td>1952</td><td>5</td><td>1952 British Grand Prix 🇬🇧</td><td>1952-07-19T00:00:00.000Z</td><td>6</td><td>7</td><td>0.0</td><td>82</td><td> </td><td>Cooper 🇬🇧</td><td><a href="/f1/drivers/murray">David Murray 🇬🇧</a></td><td>22</td><td>R</td></tr>
+<tr><td>1951</td><td>7</td><td>1951 Italian Grand Prix 🇮🇹</td><td>1951-09-16T00:00:00.000Z</td><td>8</td><td>W</td><td>0.0</td><td>0</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/richardson">Ken Richardson 🇬🇧</a></td><td>10</td><td>W</td></tr>
+<tr><td>1951</td><td>5</td><td>1951 British Grand Prix 🇬🇧</td><td>1951-07-14T00:00:00.000Z</td><td>20</td><td>5</td><td>2.0</td><td>85</td><td> </td><td>BRM 🇬🇧</td><td><a href="/f1/drivers/peter_walker">Peter Walker 🇬🇧</a></td><td>19</td><td>7</td></tr>
+<tr><td>1951</td><td>4</td><td>1951 French Grand Prix 🇫🇷</td><td>1951-07-01T00:00:00.000Z</td><td>9</td><td>4</td><td>3.0</td><td>73</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/ascari">Alberto Ascari 🇮🇹</a></td><td>6</td><td>2</td></tr>
+<tr><td>1951</td><td>4</td><td>1951 French Grand Prix 🇫🇷</td><td>1951-07-01T00:00:00.000Z</td><td>9</td><td>4</td><td>3.0</td><td>73</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/villoresi">Luigi Villoresi 🇮🇹</a></td><td>4</td><td>3</td></tr>
+<tr><td>1951</td><td>4</td><td>1951 French Grand Prix 🇫🇷</td><td>1951-07-01T00:00:00.000Z</td><td>9</td><td>4</td><td>3.0</td><td>73</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/ascari">Alberto Ascari 🇮🇹</a></td><td>3</td><td>R</td></tr>
+<tr><td>1951</td><td>4</td><td>1951 French Grand Prix 🇫🇷</td><td>1951-07-01T00:00:00.000Z</td><td>9</td><td>4</td><td>3.0</td><td>73</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/whitehead">Peter Whitehead 🇬🇧</a></td><td>20</td><td>R</td></tr>
+<tr><td>1951</td><td>4</td><td>1951 French Grand Prix 🇫🇷</td><td>1951-07-01T00:00:00.000Z</td><td>9</td><td>4</td><td>3.0</td><td>73</td><td> </td><td>Ferrari 🇮🇹</td><td><a href="/f1/drivers/gonzalez">José Froilán González 🇦🇷</a></td><td>6</td><td>2</td></tr>
+<tr><td>1950</td><td>6</td><td>1950 French Grand Prix 🇫🇷</td><td>1950-07-02T00:00:00.000Z</td><td>11</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/bonetto">Felice Bonetto 🇮🇹</a></td><td>10</td><td>R</td></tr>
+<tr><td>1950</td><td>6</td><td>1950 French Grand Prix 🇫🇷</td><td>1950-07-02T00:00:00.000Z</td><td>11</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/rol">Franco Rol 🇮🇹</a></td><td>7</td><td>R</td></tr>
+<tr><td>1950</td><td>6</td><td>1950 French Grand Prix 🇫🇷</td><td>1950-07-02T00:00:00.000Z</td><td>11</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/chiron">Louis Chiron 🇲🇨</a></td><td>13</td><td>R</td></tr>
+<tr><td>1950</td><td>6</td><td>1950 French Grand Prix 🇫🇷</td><td>1950-07-02T00:00:00.000Z</td><td>11</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/hampshire">David Hampshire 🇬🇧</a></td><td>17</td><td>R</td></tr>
+<tr><td>1950</td><td>6</td><td>1950 French Grand Prix 🇫🇷</td><td>1950-07-02T00:00:00.000Z</td><td>11</td><td>R</td><td>0.0</td><td>9</td><td> </td><td>Maserati 🇮🇹</td><td><a href="/f1/drivers/gonzalez">José Froilán González 🇦🇷</a></td><td>8</td><td>R</td></tr>
+<tr><td>1950</td><td>1</td><td>1950 British Grand Prix 🇬🇧</td><td>1950-05-13T00:00:00.000Z</td><td>4</td><td>3</td><td>4.0</td><td>70</td><td>+52.0</td><td>Alfa Romeo 🇮🇹</td><td><a href="/f1/drivers/farina">Nino Farina 🇮🇹</a></td><td>1</td><td>1</td></tr>
+<tr><td>1950</td><td>1</td><td>1950 British Grand Prix 🇬🇧</td><td>1950-05-13T00:00:00.000Z</td><td>4</td><td>3</td><td>4.0</td><td>70</td><td>+52.0</td><td>Alfa Romeo 🇮🇹</td><td><a href="/f1/drivers/fagioli">Luigi Fagioli 🇮🇹</a></td><td>2</td><td>2</td></tr>
+<tr><td>1950</td><td>1</td><td>1950 British Grand Prix 🇬🇧</td><td>1950-05-13T00:00:00.000Z</td><td>4</td><td>3</td><td>4.0</td><td>70</td><td>+52.0</td><td>Alfa Romeo 🇮🇹</td><td><a href="/f1/drivers/fangio">Juan Fangio 🇦🇷</a></td><td>3</td><td>R</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Round</b></td><td><b>Name</b></td><td><b>Date</b></td><td><b>Grid</b></td><td><b>Final Position</b></td><td><b>Points</b></td><td><b>Laps Completed</b></td><td><b>Time</b></td><td><b>Constructor</b></td><td><b>Teammate</b></td><td><b>Teammate Grid</b></td><td><b>Teammate Final Position</b></td></tr><tr><td><b>Row Count</b></td><td>24</td><td></td><td>24</td><td>24</td><td>13</td><td>24</td><td>24</td><td>3</td><td></td><td></td><td>24</td><td>12</td></tr><tr><td><b>Total Sum</b></td><td>110.000</td><td></td><td>-13659148800.000</td><td>234.000</td><td>62.000</td><td>29.000</td><td>1158.000</td><td>156.000</td><td></td><td></td><td>248.000</td><td>70.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>4.583</td><td></td><td>-569131200.000</td><td>9.750</td><td>4.769</td><td>1.208</td><td>48.250</td><td>52.000</td><td></td><td></td><td>10.333</td><td>5.833</td></tr><tr><td><b>Maximum</b></td><td>7.000</td><td></td><td>-487900800.000</td><td>20.000</td><td>7.000</td><td>4.000</td><td>85.000</td><td>52.000</td><td></td><td></td><td>31.000</td><td>22.000</td></tr><tr><td><b>75th Percentile</b></td><td>6.000</td><td></td><td>-550800000.000</td><td>14.000</td><td>7.000</td><td>3.000</td><td>73.000</td><td>52.000</td><td></td><td></td><td>17.000</td><td>7.000</td></tr><tr><td><b>Median</b></td><td>5.000</td><td></td><td>-583977600.000</td><td>9.000</td><td>4.000</td><td></td><td>70.000</td><td>52.000</td><td></td><td></td><td>8.000</td><td>3.000</td></tr><tr><td><b>25th Percentile</b></td><td>4.000</td><td></td><td>-615427200.000</td><td>6.000</td><td>4.000</td><td></td><td>25.000</td><td>52.000</td><td></td><td></td><td>4.000</td><td>2.000</td></tr><tr><td><b>Minimum</b></td><td>1.000</td><td></td><td>-619747200.000</td><td>4.000</td><td>3.000</td><td></td><td></td><td>52.000</td><td></td><td></td><td>1.000</td><td>1.000</td></tr><tr><td><b>Variance</b></td><td>2.410</td><td></td><td>2254004029440000.000</td><td>15.188</td><td>2.485</td><td>2.582</td><td>963.438</td><td></td><td></td><td></td><td>57.056</td><td>48.806</td></tr><tr><td><b>Standard Deviation σ</b></td><td>1.552</td><td></td><td>47476352.318</td><td>3.897</td><td>1.576</td><td>1.607</td><td>31.039</td><td></td><td></td><td></td><td>7.554</td><td>6.986</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>

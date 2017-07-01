@@ -1,0 +1,671 @@
+---
+title: Rank of Formula 1® Constructor Teams by Number of Participations
+layout: page
+collectionName: 
+collectionId: 
+---
+
+
+
+<canvas id="chart" width="400" height="180"></canvas>
+<script>
+var data = {
+  "labels" : [
+    "Ferrari",
+    "McLaren",
+    "Williams",
+    "Tyrrell",
+    "Team Lotus",
+    "Sauber",
+    "Minardi",
+    "Brabham",
+    "Renault",
+    "Ligier",
+    "Arrows",
+    "BRM",
+    "March",
+    "Benetton",
+    "Jordan",
+    "Red Bull",
+    "Maserati",
+    "Toro Rosso",
+    "Force India",
+    "Mercedes",
+    "Toyota",
+    "Cooper-Climax",
+    "Surtees",
+    "Osella",
+    "Alfa Romeo",
+    "BAR",
+    "Lotus-Climax",
+    "Kurtis Kraft",
+    "Larrousse",
+    "Shadow",
+    "Footwork",
+    "Jaguar",
+    "Lola",
+    "Prost",
+    "ATS",
+    "Fittipaldi",
+    "Ensign",
+    "Lotus F1",
+    "Honda",
+    "Dallara",
+    "BMW Sauber",
+    "Cooper-Maserati",
+    "Zakspeed",
+    "Toleman",
+    "Lotus-Ford",
+    "AGS",
+    "Lotus-BRM",
+    "HRT",
+    "Caterham",
+    "Marussia",
+    "Cooper",
+    "Gordini",
+    "Stewart",
+    "Hesketh",
+    "Brabham-Climax",
+    "McLaren-Ford",
+    "Porsche",
+    "Talbot-Lago",
+    "Coloni",
+    "Wolf",
+    "Manor Marussia",
+    "Super Aguri",
+    "Brabham-Repco",
+    "Euro Brun",
+    "Lotus",
+    "Virgin",
+    "Matra",
+    "RAM",
+    "Vanwall",
+    "Pacific",
+    "Leyton House",
+    "Brabham-Alfa Romeo",
+    "Brabham-Ford",
+    "Haas F1 Team",
+    "Iso Marlboro",
+    "Connaught",
+    "Forti",
+    "Onyx",
+    "Rial",
+    "HWM",
+    "Penske",
+    "March-Ford",
+    "Fondmetal",
+    "Brabham-BRM",
+    "Matra-Ford",
+    "Simtek",
+    "Kuzma",
+    "Brawn",
+    "Spyker",
+    "Lambo",
+    "Merzario",
+    "Simca",
+    "MF1",
+    "Shadow-Ford",
+    "Spirit",
+    "Watson",
+    "Cooper-BRM",
+    "Eagle-Weslake",
+    "BRP",
+    "Embassy Hill",
+    "Veritas",
+    "Epperly",
+    "Scirocco",
+    "Parnelli",
+    "Andrea Moda",
+    "Lesovsky",
+    "De Tomaso",
+    "Life",
+    "McLaren-BRM",
+    "Eagle-Climax",
+    "ERA",
+    "Aston Martin",
+    "Emeryson",
+    "Lancia",
+    "McLaren-Alfa Romeo",
+    "Tecno",
+    "Stevens",
+    "March-Alfa Romeo",
+    "Scarab",
+    "Boro"
+  ],
+  "datasets" : [
+    {
+      "label" : "Participations",
+      "data" : [
+        2116,
+        1601,
+        1355,
+        881,
+        871,
+        722,
+        672,
+        662,
+        645,
+        611,
+        590,
+        562,
+        524,
+        520,
+        500,
+        466,
+        436,
+        428,
+        358,
+        330,
+        280,
+        268,
+        260,
+        252,
+        244,
+        236,
+        231,
+        226,
+        216,
+        211,
+        194,
+        170,
+        165,
+        165,
+        162,
+        155,
+        154,
+        154,
+        152,
+        144,
+        140,
+        134,
+        133,
+        131,
+        128,
+        123,
+        121,
+        114,
+        112,
+        109,
+        103,
+        102,
+        98,
+        97,
+        93,
+        87,
+        84,
+        82,
+        81,
+        79,
+        78,
+        78,
+        77,
+        76,
+        76,
+        76,
+        71,
+        71,
+        71,
+        66,
+        64,
+        59,
+        58,
+        58,
+        55,
+        54,
+        54,
+        52,
+        48,
+        47,
+        46,
+        43,
+        42,
+        41,
+        40,
+        40,
+        39,
+        34,
+        34,
+        32,
+        32,
+        29,
+        28,
+        26,
+        25,
+        22,
+        21,
+        21,
+        19,
+        19,
+        18,
+        17,
+        17,
+        16,
+        15,
+        15,
+        14,
+        14,
+        14,
+        13,
+        13,
+        11,
+        11,
+        11,
+        11,
+        11,
+        10,
+        9,
+        9,
+        8
+      ],
+      "borderColor" : [
+        "16191A",
+        "0D1D20",
+        "082957",
+        "444444",
+        "444444",
+        "A17A5D",
+        "444444",
+        "444444",
+        "424B52",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "FDCC2F",
+        "444444",
+        "FC181D",
+        "C81625",
+        "D7D7D5",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "4D4E52",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444",
+        "444444"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "EB212E",
+        "FCA13B",
+        "EAE4ED",
+        "274B72",
+        "09630C",
+        "0736A5",
+        "1B1D1D",
+        "243F73",
+        "FDE139",
+        "0F5DBB",
+        "FFA500",
+        "144D44",
+        "E53524",
+        "73C2FB",
+        "FFFF01",
+        "121D32",
+        "C0BEC3",
+        "2039C3",
+        "F6AFC1",
+        "18A19B",
+        "D70028",
+        "273027",
+        "888888",
+        "888888",
+        "B21827",
+        "FFFFFF",
+        "025839",
+        "D33949",
+        "888888",
+        "FA9B27",
+        "888888",
+        "095921",
+        "888888",
+        "0D1773",
+        "888888",
+        "888888",
+        "888888",
+        "F6CA46",
+        "FFFFFF",
+        "888888",
+        "20359D",
+        "1A2446",
+        "888888",
+        "888888",
+        "025839",
+        "888888",
+        "457439",
+        "BE9D56",
+        "124411",
+        "5E0A16",
+        "273027",
+        "888888",
+        "FFFFFF",
+        "FFFFFF",
+        "243F73",
+        "AAAAAA",
+        "DDDDDD",
+        "888888",
+        "888888",
+        "A3805E",
+        "5E0A16",
+        "E30010",
+        "243F73",
+        "888888",
+        "006400",
+        "F60002",
+        "888888",
+        "888888",
+        "336667",
+        "888888",
+        "888888",
+        "888888",
+        "07316F",
+        "CF0F18",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "2077C9",
+        "888888",
+        "888888",
+        "888888",
+        "3FB2B3",
+        "888888",
+        "C4333B",
+        "E2F833",
+        "FFA500",
+        "888888",
+        "888888",
+        "888888",
+        "343434",
+        "888888",
+        "888888",
+        "FC8881",
+        "888888",
+        "1A284B",
+        "888888",
+        "888888",
+        "888888",
+        "DBC75F",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888",
+        "888888"
+      ]
+    }
+  ]
+};
+var options = {
+  legend: {
+    display: false
+  },
+  scales: {
+    xAxes: [{
+      ticks: {
+        beginAtZero: true,
+        maxRotation: 180,
+        display: window.innerWidth > 800
+      }
+    }],
+    yAxes: [{
+      ticks: {
+        beginAtZero: true
+      }
+    }]
+  },
+  onResize: function(chart, size) {
+    chart.options.scales.xAxes[0].ticks.display = size.width > 800;
+  }
+};
+var chart = new Chart("chart", {
+    data: data,
+    type: 'bar',
+    options: options
+});
+</script>
+
+
+
+<h3>Data Table</h3>
+
+<table>
+<tr><th>#</th><th>Constructor</th><th>Participations</th></tr>
+<tr><td>1.</td><td>Ferrari 🇮🇹</td><td>2116</td></tr>
+<tr><td>2.</td><td>McLaren 🇬🇧</td><td>1601</td></tr>
+<tr><td>3.</td><td>Williams 🇬🇧</td><td>1355</td></tr>
+<tr><td>4.</td><td>Tyrrell 🇬🇧</td><td>881</td></tr>
+<tr><td>5.</td><td>Team Lotus 🇬🇧</td><td>871</td></tr>
+<tr><td>6.</td><td>Sauber 🇨🇭</td><td>722</td></tr>
+<tr><td>7.</td><td>Minardi 🇮🇹</td><td>672</td></tr>
+<tr><td>8.</td><td>Brabham 🇬🇧</td><td>662</td></tr>
+<tr><td>9.</td><td>Renault 🇫🇷</td><td>645</td></tr>
+<tr><td>10.</td><td>Ligier 🇫🇷</td><td>611</td></tr>
+<tr><td>11.</td><td>Arrows 🇬🇧</td><td>590</td></tr>
+<tr><td>12.</td><td>BRM 🇬🇧</td><td>562</td></tr>
+<tr><td>13.</td><td>March 🇬🇧</td><td>524</td></tr>
+<tr><td>14.</td><td>Benetton 🇮🇹</td><td>520</td></tr>
+<tr><td>15.</td><td>Jordan 🇮🇪</td><td>500</td></tr>
+<tr><td>16.</td><td>Red Bull 🇦🇹</td><td>466</td></tr>
+<tr><td>17.</td><td>Maserati 🇮🇹</td><td>436</td></tr>
+<tr><td>18.</td><td>Toro Rosso 🇮🇹</td><td>428</td></tr>
+<tr><td>19.</td><td>Force India 🇮🇳</td><td>358</td></tr>
+<tr><td>20.</td><td>Mercedes 🇩🇪</td><td>330</td></tr>
+<tr><td>21.</td><td>Toyota 🇯🇵</td><td>280</td></tr>
+<tr><td>22.</td><td>Cooper-Climax 🇬🇧</td><td>268</td></tr>
+<tr><td>23.</td><td>Surtees 🇬🇧</td><td>260</td></tr>
+<tr><td>24.</td><td>Osella 🇮🇹</td><td>252</td></tr>
+<tr><td>25.</td><td>Alfa Romeo 🇮🇹</td><td>244</td></tr>
+<tr><td>26.</td><td>BAR 🇬🇧</td><td>236</td></tr>
+<tr><td>27.</td><td>Lotus-Climax 🇬🇧</td><td>231</td></tr>
+<tr><td>28.</td><td>Kurtis Kraft 🇺🇸</td><td>226</td></tr>
+<tr><td>29.</td><td>Larrousse 🇫🇷</td><td>216</td></tr>
+<tr><td>30.</td><td>Shadow 🇬🇧</td><td>211</td></tr>
+<tr><td>31.</td><td>Footwork 🇬🇧</td><td>194</td></tr>
+<tr><td>32.</td><td>Jaguar 🇬🇧</td><td>170</td></tr>
+<tr><td>33.</td><td>Lola 🇬🇧</td><td>165</td></tr>
+<tr><td>34.</td><td>Prost 🇫🇷</td><td>165</td></tr>
+<tr><td>35.</td><td>ATS 🇮🇹</td><td>162</td></tr>
+<tr><td>36.</td><td>Fittipaldi 🇧🇷</td><td>155</td></tr>
+<tr><td>37.</td><td>Ensign 🇬🇧</td><td>154</td></tr>
+<tr><td>38.</td><td>Lotus F1 🇬🇧</td><td>154</td></tr>
+<tr><td>39.</td><td>Honda 🇯🇵</td><td>152</td></tr>
+<tr><td>40.</td><td>Dallara 🇮🇹</td><td>144</td></tr>
+<tr><td>41.</td><td>BMW Sauber 🇩🇪</td><td>140</td></tr>
+<tr><td>42.</td><td>Cooper-Maserati 🇬🇧</td><td>134</td></tr>
+<tr><td>43.</td><td>Zakspeed 🇩🇪</td><td>133</td></tr>
+<tr><td>44.</td><td>Toleman 🇬🇧</td><td>131</td></tr>
+<tr><td>45.</td><td>Lotus-Ford 🇬🇧</td><td>128</td></tr>
+<tr><td>46.</td><td>AGS 🇫🇷</td><td>123</td></tr>
+<tr><td>47.</td><td>Lotus-BRM 🇬🇧</td><td>121</td></tr>
+<tr><td>48.</td><td>HRT 🇪🇸</td><td>114</td></tr>
+<tr><td>49.</td><td>Caterham 🇲🇾</td><td>112</td></tr>
+<tr><td>50.</td><td>Marussia 🇷🇺</td><td>109</td></tr>
+<tr><td>51.</td><td>Cooper 🇬🇧</td><td>103</td></tr>
+<tr><td>52.</td><td>Gordini 🇫🇷</td><td>102</td></tr>
+<tr><td>53.</td><td>Stewart 🇬🇧</td><td>98</td></tr>
+<tr><td>54.</td><td>Hesketh 🇬🇧</td><td>97</td></tr>
+<tr><td>55.</td><td>Brabham-Climax 🇬🇧</td><td>93</td></tr>
+<tr><td>56.</td><td>McLaren-Ford 🇬🇧</td><td>87</td></tr>
+<tr><td>57.</td><td>Porsche 🇩🇪</td><td>84</td></tr>
+<tr><td>58.</td><td>Talbot-Lago 🇫🇷</td><td>82</td></tr>
+<tr><td>59.</td><td>Coloni 🇮🇹</td><td>81</td></tr>
+<tr><td>60.</td><td>Wolf 🇨🇦</td><td>79</td></tr>
+<tr><td>61.</td><td>Manor Marussia 🇬🇧</td><td>78</td></tr>
+<tr><td>62.</td><td>Super Aguri 🇯🇵</td><td>78</td></tr>
+<tr><td>63.</td><td>Brabham-Repco 🇬🇧</td><td>77</td></tr>
+<tr><td>64.</td><td>Euro Brun 🇮🇹</td><td>76</td></tr>
+<tr><td>65.</td><td>Lotus 🇲🇾</td><td>76</td></tr>
+<tr><td>66.</td><td>Virgin 🇬🇧</td><td>76</td></tr>
+<tr><td>67.</td><td>Matra 🇫🇷</td><td>71</td></tr>
+<tr><td>68.</td><td>RAM 🇬🇧</td><td>71</td></tr>
+<tr><td>69.</td><td>Vanwall 🇬🇧</td><td>71</td></tr>
+<tr><td>70.</td><td>Pacific 🇬🇧</td><td>66</td></tr>
+<tr><td>71.</td><td>Leyton House 🇬🇧</td><td>64</td></tr>
+<tr><td>72.</td><td>Brabham-Alfa Romeo 🇬🇧</td><td>59</td></tr>
+<tr><td>73.</td><td>Brabham-Ford 🇬🇧</td><td>58</td></tr>
+<tr><td>74.</td><td>Haas F1 Team 🇺🇸</td><td>58</td></tr>
+<tr><td>75.</td><td>Iso Marlboro 🇬🇧</td><td>55</td></tr>
+<tr><td>76.</td><td>Connaught 🇬🇧</td><td>54</td></tr>
+<tr><td>77.</td><td>Forti 🇮🇹</td><td>54</td></tr>
+<tr><td>78.</td><td>Onyx 🇬🇧</td><td>52</td></tr>
+<tr><td>79.</td><td>Rial 🇩🇪</td><td>48</td></tr>
+<tr><td>80.</td><td>HWM 🇬🇧</td><td>47</td></tr>
+<tr><td>81.</td><td>Penske 🇺🇸</td><td>46</td></tr>
+<tr><td>82.</td><td>March-Ford 🇬🇧</td><td>43</td></tr>
+<tr><td>83.</td><td>Fondmetal 🇮🇹</td><td>42</td></tr>
+<tr><td>84.</td><td>Brabham-BRM 🇬🇧</td><td>41</td></tr>
+<tr><td>85.</td><td>Matra-Ford 🇫🇷</td><td>40</td></tr>
+<tr><td>86.</td><td>Simtek 🇬🇧</td><td>40</td></tr>
+<tr><td>87.</td><td>Kuzma 🇺🇸</td><td>39</td></tr>
+<tr><td>88.</td><td>Brawn 🇬🇧</td><td>34</td></tr>
+<tr><td>89.</td><td>Spyker 🇳🇱</td><td>34</td></tr>
+<tr><td>90.</td><td>Lambo 🇮🇹</td><td>32</td></tr>
+<tr><td>91.</td><td>Merzario 🇮🇹</td><td>32</td></tr>
+<tr><td>92.</td><td>Simca 🇫🇷</td><td>29</td></tr>
+<tr><td>93.</td><td>MF1 🇷🇺</td><td>28</td></tr>
+<tr><td>94.</td><td>Shadow-Ford 🇬🇧</td><td>26</td></tr>
+<tr><td>95.</td><td>Spirit 🇬🇧</td><td>25</td></tr>
+<tr><td>96.</td><td>Watson 🇺🇸</td><td>22</td></tr>
+<tr><td>97.</td><td>Cooper-BRM 🇬🇧</td><td>21</td></tr>
+<tr><td>98.</td><td>Eagle-Weslake 🇺🇸</td><td>21</td></tr>
+<tr><td>99.</td><td>BRP 🇬🇧</td><td>19</td></tr>
+<tr><td>100.</td><td>Embassy Hill 🇬🇧</td><td>19</td></tr>
+<tr><td>101.</td><td>Veritas 🇩🇪</td><td>18</td></tr>
+<tr><td>102.</td><td>Epperly 🇺🇸</td><td>17</td></tr>
+<tr><td>103.</td><td>Scirocco 🇬🇧</td><td>17</td></tr>
+<tr><td>104.</td><td>Parnelli 🇺🇸</td><td>16</td></tr>
+<tr><td>105.</td><td>Andrea Moda 🇮🇹</td><td>15</td></tr>
+<tr><td>106.</td><td>Lesovsky 🇺🇸</td><td>15</td></tr>
+<tr><td>107.</td><td>De Tomaso 🇮🇹</td><td>14</td></tr>
+<tr><td>108.</td><td>Life 🇮🇹</td><td>14</td></tr>
+<tr><td>109.</td><td>McLaren-BRM 🇬🇧</td><td>14</td></tr>
+<tr><td>110.</td><td>Eagle-Climax 🇺🇸</td><td>13</td></tr>
+<tr><td>111.</td><td>ERA 🇬🇧</td><td>13</td></tr>
+<tr><td>112.</td><td>Aston Martin 🇬🇧</td><td>11</td></tr>
+<tr><td>113.</td><td>Emeryson 🇬🇧</td><td>11</td></tr>
+<tr><td>114.</td><td>Lancia 🇮🇹</td><td>11</td></tr>
+<tr><td>115.</td><td>McLaren-Alfa Romeo 🇬🇧</td><td>11</td></tr>
+<tr><td>116.</td><td>Tecno 🇮🇹</td><td>11</td></tr>
+<tr><td>117.</td><td>Stevens 🇺🇸</td><td>10</td></tr>
+<tr><td>118.</td><td>March-Alfa Romeo 🇬🇧</td><td>9</td></tr>
+<tr><td>119.</td><td>Scarab 🇺🇸</td><td>9</td></tr>
+<tr><td>120.</td><td>Boro 🇳🇱</td><td>8</td></tr></table>
+
+<h4>Statistic Summary</h4>
+
+<table><tr><td><b>Column</b></td><td><b>Participations</b></td></tr><tr><td><b>Row Count</b></td><td>120</td></tr><tr><td><b>Total Sum</b></td><td>23219.000</td></tr><tr><td><b>Mean μ (Average)</b></td><td>193.492</td></tr><tr><td><b>Maximum</b></td><td>2116.000</td></tr><tr><td><b>75th Percentile</b></td><td>211.000</td></tr><tr><td><b>Median</b></td><td>79.000</td></tr><tr><td><b>25th Percentile</b></td><td>32.000</td></tr><tr><td><b>Minimum</b></td><td>8.000</td></tr><tr><td><b>Variance</b></td><td>96745.333</td></tr><tr><td><b>Standard Deviation σ</b></td><td>311.039</td></tr></table>
+
+Download data:
+<a href="{{ page.url | replace:'.html','.json' }}">json</a>,
+<a href="{{ page.url | replace:'.html','.csv' }}">csv</a>
+
