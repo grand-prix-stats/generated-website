@@ -53,11 +53,9 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
-                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
-                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -112,7 +110,6 @@ var data = {
                 0.0,
                 0.0,
                 0.0,
-                0.0,
                 0.0
             ],
             "label": "Number Of Wins"
@@ -144,8 +141,7 @@ var data = {
         "23",
         "24",
         "25",
-        "26",
-        "61"
+        "26"
     ]
 };
 var options = {
@@ -209,20 +205,19 @@ var chart = new Chart("chart", {
 | 24. | 24 | 0 |
 | 25. | 25 | 0 |
 | 26. | 26 | 0 |
-| 27. | 61 | 0 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Wins** |
-| **Row Count** | 27 |
+| **Row Count** | 26 |
 | **Total Sum** | 7.000 |
-| **Mean μ (Average)** | 0.259 |
+| **Mean μ (Average)** | 0.269 |
 | **Maximum** | 3.000 |
 | **75th Percentile** |  |
 | **Median** |  |
 | **25th Percentile** |  |
 | **Minimum** |  |
-| **Variance** | 0.636 |
-| **Standard Deviation σ** | 0.798 |
+| **Variance** | 0.658 |
+| **Standard Deviation σ** | 0.811 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -54,7 +54,7 @@ collectionId: petrov
 | 2011 | 12 | 2011 Belgian Grand Prix 🇧🇪 | 2011-08-28 | 10 | 9 | 2.0 | 44 | +1:11.917 | Renault 🇫🇷 | [Bruno Senna 🇧🇷](/f1/drivers/bruno_senna) | 7 | 13 |
 | 2011 | 11 | 2011 Hungarian Grand Prix 🇭🇺 | 2011-07-31 | 12 | 12 | 0.0 | 69 |   | Renault 🇫🇷 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 14 | R |
 | 2011 | 10 | 2011 German Grand Prix 🇩🇪 | 2011-07-24 | 9 | 10 | 1.0 | 59 |   | Renault 🇫🇷 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 11 | R |
-| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | 2011-07-10 | 14 | 12 | 0.0 | 52 | +1:20.600 | Renault 🇫🇷 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 16 | 8 |
+| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | 2011-07-10 | 14 | 12 | 0.0 | 52 | +1:20.681 | Renault 🇫🇷 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 16 | 8 |
 | 2011 | 8 | 2011 European Grand Prix 🇪🇸 | 2011-06-26 | 11 | 15 | 0.0 | 56 |   | Renault 🇫🇷 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 9 | 10 |
 | 2011 | 7 | 2011 Canadian Grand Prix 🇨🇦 | 2011-06-12 | 10 | 5 | 10.0 | 70 | +20.395 | Renault 🇫🇷 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 9 | R |
 | 2011 | 6 | 2011 Monaco Grand Prix 🇲🇨 | 2011-05-29 | 10 | R | 0.0 | 67 |   | Renault 🇫🇷 | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 15 | 8 |

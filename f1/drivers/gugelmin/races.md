@@ -81,7 +81,7 @@ collectionId: gugelmin
 | 1989 | 10 | 1989 Hungarian Grand Prix 🇭🇺 | 1989-08-13 | 13 | R | 0.0 | 27 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 14 | R |
 | 1989 | 9 | 1989 German Grand Prix 🇩🇪 | 1989-07-30 | 14 | R | 0.0 | 28 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 22 | R |
 | 1989 | 8 | 1989 British Grand Prix 🇬🇧 | 1989-07-16 | 6 | R | 0.0 | 54 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 8 | R |
-| 1989 | 7 | 1989 French Grand Prix 🇫🇷 | 1989-07-09 | 10 | R | 0.0 | 71 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 12 | R |
+| 1989 | 7 | 1989 French Grand Prix 🇫🇷 | 1989-07-09 | 10 | N | 0.0 | 71 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 12 | R |
 | 1989 | 6 | 1989 Canadian Grand Prix 🇨🇦 | 1989-06-18 | 17 | R | 0.0 | 11 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 21 | R |
 | 1989 | 5 | 1989 United States Grand Prix 🇺🇸 | 1989-06-04 | 18 | R | 0.0 | 20 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 11 | R |
 | 1989 | 4 | 1989 Mexican Grand Prix 🇲🇽 | 1989-05-28 | 0 | F | 0.0 | 0 |   | March 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 4 | R |

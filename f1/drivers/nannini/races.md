@@ -76,7 +76,7 @@ collectionId: nannini
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 21 | R | 0.0 | 45 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 24 | 14 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 14 | 11 | 0.0 | 66 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 20 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 18 | 16 | 0.0 | 45 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 20 | R |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 15 | R | 0.0 | 1 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 19 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 15 | R | 0.0 | 1 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 19 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 20 | 11 | 0.0 | 73 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 24 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 16 | R | 0.0 | 25 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 18 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 15 | R | 0.0 | 10 |   | Minardi 🇮🇹 | [Adrián Campos 🇪🇸](/f1/drivers/campos) | 19 | R |

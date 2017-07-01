@@ -94,7 +94,7 @@ collectionId: piquet
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 1 | 4 | 3.0 | 72 | +31.450 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 | 1 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 4 | 3 | 4.0 | 70 | +1:03.295 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 1 | 1 | 9.0 | 50 | 1:14:47.707 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 | 3 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 1 | 2 | 6.0 | 52 | +55.704 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 | 1 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 1 | 2 | 6.0 | 52 | +55.704 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 | 1 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 3 | 1 | 9.0 | 76 | 1:59:26.793 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 | 14 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 4 | 1 | 9.0 | 44 | 1:21:25.091 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 1 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 1 | 2 | 6.0 | 65 | +1.918 | Williams 🇬🇧 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 | 1 |

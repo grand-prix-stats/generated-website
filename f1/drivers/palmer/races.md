@@ -62,7 +62,7 @@ collectionId: palmer
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 16 | R | 0.0 | 55 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 15 | 7 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 24 | 10 | 0.0 | 67 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 21 | 12 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 22 | 14 | 0.0 | 47 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 24 | 12 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 24 | 14 | 0.0 | 47 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 25 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 24 | 14 | 0.0 | 47 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 25 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 16 | 7 | 0.0 | 74 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 14 | 9 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 23 | 5 | 2.0 | 43 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 22 | 4 |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 23 | 8 | 0.0 | 60 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 22 | R |

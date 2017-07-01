@@ -28,7 +28,7 @@ collectionId: americas
 | 2016 | 18 | 2016 United States Grand Prix 🇺🇸 | 2016-10-23 | 56 | 1:38:12.618 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2015 | 16 | 2015 United States Grand Prix 🇺🇸 | 2015-10-25 | 56 | 1:50:52.703 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 17 | 2014 United States Grand Prix 🇺🇸 | 2014-11-02 | 56 | 1:40:04.785 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
-| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | 2013-11-17 | 56 | 1:39:17.168 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
+| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | 2013-11-17 | 56 | 1:39:17.148 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2012 | 19 | 2012 United States Grand Prix 🇺🇸 | 2012-11-18 | 56 | 1:35:55.269 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 
 #### Statistic Summary

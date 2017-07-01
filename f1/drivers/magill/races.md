@@ -24,21 +24,21 @@ collectionId: magill
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Johnny Boyd 🇺🇸](/f1/drivers/boyd) | 8 | 3 |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Eddie Johnson 🇺🇸](/f1/drivers/johnson) | 26 | 9 |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Bill Cheesbourg 🇺🇸](/f1/drivers/cheesbourg) | 33 | 10 |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Al Keller 🇺🇸](/f1/drivers/keller) | 21 | 11 |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Johnnie Parsons 🇺🇸](/f1/drivers/parsons) | 6 | 12 |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Bob Christie 🇺🇸](/f1/drivers/christie) | 17 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Paul Russo 🇺🇸](/f1/drivers/paul_russo) | 14 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Shorty Templeman 🇺🇸](/f1/drivers/templeman) | 23 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Billy Garrett 🇺🇸](/f1/drivers/garrett) | 15 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Johnny Thomson 🇺🇸](/f1/drivers/thomson) | 22 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Bob Veith 🇺🇸](/f1/drivers/veith) | 4 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Pat O'Connor 🇺🇸](/f1/drivers/connor) | 5 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Paul Goldsmith 🇺🇸](/f1/drivers/goldsmith) | 16 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Jerry Unser 🇺🇸](/f1/drivers/jerry_unser) | 24 | R |
-| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | R | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Len Sutton 🇺🇸](/f1/drivers/sutton) | 27 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Johnny Boyd 🇺🇸](/f1/drivers/boyd) | 8 | 3 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Eddie Johnson 🇺🇸](/f1/drivers/johnson) | 26 | 9 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Bill Cheesbourg 🇺🇸](/f1/drivers/cheesbourg) | 33 | 10 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Al Keller 🇺🇸](/f1/drivers/keller) | 21 | 11 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Johnnie Parsons 🇺🇸](/f1/drivers/parsons) | 6 | 12 |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Bob Christie 🇺🇸](/f1/drivers/christie) | 17 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Paul Russo 🇺🇸](/f1/drivers/paul_russo) | 14 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Shorty Templeman 🇺🇸](/f1/drivers/templeman) | 23 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Billy Garrett 🇺🇸](/f1/drivers/garrett) | 15 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Johnny Thomson 🇺🇸](/f1/drivers/thomson) | 22 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Bob Veith 🇺🇸](/f1/drivers/veith) | 4 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Pat O'Connor 🇺🇸](/f1/drivers/connor) | 5 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Paul Goldsmith 🇺🇸](/f1/drivers/goldsmith) | 16 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Jerry Unser 🇺🇸](/f1/drivers/jerry_unser) | 24 | R |
+| 1958 | 4 | 1958 Indianapolis 500 🇺🇸 | 1958-05-30 | 31 | D | 0.0 | 136 |   | Kurtis Kraft 🇺🇸 | [Len Sutton 🇺🇸](/f1/drivers/sutton) | 27 | R |
 | 1957 | 3 | 1957 Indianapolis 500 🇺🇸 | 1957-05-30 | 18 | R | 0.0 | 101 |   | Kurtis Kraft 🇺🇸 | [Paul Russo 🇺🇸](/f1/drivers/paul_russo) | 10 | 4 |
 | 1957 | 3 | 1957 Indianapolis 500 🇺🇸 | 1957-05-30 | 18 | R | 0.0 | 101 |   | Kurtis Kraft 🇺🇸 | [Andy Linden 🇺🇸](/f1/drivers/linden) | 12 | 5 |
 | 1957 | 3 | 1957 Indianapolis 500 🇺🇸 | 1957-05-30 | 18 | R | 0.0 | 101 |   | Kurtis Kraft 🇺🇸 | [Johnny Boyd 🇺🇸](/f1/drivers/boyd) | 5 | 6 |

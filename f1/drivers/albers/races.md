@@ -35,7 +35,7 @@ collectionId: albers
 | 2007 | 1 | 2007 Australian Grand Prix 🇦🇺 | 2007-03-18 | 21 | R | 0.0 | 10 |   | Spyker 🇳🇱 | [Adrian Sutil 🇩🇪](/f1/drivers/sutil) | 20 | 17 |
 | 2006 | 18 | 2006 Brazilian Grand Prix 🇧🇷 | 2006-10-22 | 17 | 14 | 0.0 | 70 |   | Spyker MF1 🇳🇱 | [Tiago Monteiro 🇵🇹](/f1/drivers/monteiro) | 21 | 15 |
 | 2006 | 17 | 2006 Japanese Grand Prix 🇯🇵 | 2006-10-08 | 16 | R | 0.0 | 20 |   | Spyker MF1 🇳🇱 | [Tiago Monteiro 🇵🇹](/f1/drivers/monteiro) | 21 | 16 |
-| 2006 | 16 | 2006 Chinese Grand Prix 🇨🇳 | 2006-10-01 | 22 | 15â€  | 0.0 | 53 |   | Spyker MF1 🇳🇱 | [Tiago Monteiro 🇵🇹](/f1/drivers/monteiro) | 18 | R |
+| 2006 | 16 | 2006 Chinese Grand Prix 🇨🇳 | 2006-10-01 | 22 | 15 | 0.0 | 53 |   | Spyker MF1 🇳🇱 | [Tiago Monteiro 🇵🇹](/f1/drivers/monteiro) | 18 | R |
 | 2006 | 15 | 2006 Italian Grand Prix 🇮🇹 | 2006-09-10 | 18 | 17 | 0.0 | 51 |   | Spyker MF1 🇳🇱 | [Tiago Monteiro 🇵🇹](/f1/drivers/monteiro) | 20 | R |
 | 2006 | 14 | 2006 Turkish Grand Prix 🇹🇷 | 2006-08-27 | 22 | R | 0.0 | 46 |   | MF1 🇷🇺 | [Tiago Monteiro 🇵🇹](/f1/drivers/monteiro) | 19 | R |
 | 2006 | 13 | 2006 Hungarian Grand Prix 🇭🇺 | 2006-08-06 | 22 | 10 | 0.0 | 67 |   | MF1 🇷🇺 | [Tiago Monteiro 🇵🇹](/f1/drivers/monteiro) | 16 | 9 |
@@ -74,15 +74,15 @@ collectionId: albers
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 46 |  |  | 46 | 27 | 46 | 46 |  |  |  | 46 | 27 |
-| **Total Sum** | 406.000 |  |  | 841.000 | 377.000 | 4.000 | 2193.000 |  |  |  | 846.000 | 397.000 |
-| **Mean μ (Average)** | 8.826 |  |  | 18.283 | 13.963 | 0.087 | 47.674 |  |  |  | 18.391 | 14.704 |
+| **Row Count** | 46 |  |  | 46 | 28 | 46 | 46 |  |  |  | 46 | 27 |
+| **Total Sum** | 406.000 |  |  | 841.000 | 392.000 | 4.000 | 2193.000 |  |  |  | 846.000 | 397.000 |
+| **Mean μ (Average)** | 8.826 |  |  | 18.283 | 14.000 | 0.087 | 47.674 |  |  |  | 18.391 | 14.704 |
 | **Maximum** | 19.000 |  |  | 22.000 | 19.000 | 4.000 | 77.000 |  |  |  | 21.000 | 19.000 |
 | **75th Percentile** | 13.000 |  |  | 20.000 | 16.000 |  | 65.000 |  |  |  | 20.000 | 17.000 |
 | **Median** | 8.000 |  |  | 18.000 | 14.000 |  | 53.000 |  |  |  | 19.000 | 15.000 |
-| **25th Percentile** | 4.000 |  |  | 16.000 | 12.000 |  | 37.000 |  |  |  | 17.000 | 13.000 |
+| **25th Percentile** | 4.000 |  |  | 16.000 | 13.000 |  | 37.000 |  |  |  | 17.000 | 13.000 |
 | **Minimum** | 1.000 |  |  | 13.000 | 5.000 |  |  |  |  |  | 13.000 | 6.000 |
-| **Variance** | 27.839 |  |  | 6.681 | 8.406 | 0.340 | 453.046 |  |  |  | 3.499 | 7.986 |
-| **Standard Deviation σ** | 5.276 |  |  | 2.585 | 2.899 | 0.583 | 21.285 |  |  |  | 1.871 | 2.826 |
+| **Variance** | 27.839 |  |  | 6.681 | 8.143 | 0.340 | 453.046 |  |  |  | 3.499 | 7.986 |
+| **Standard Deviation σ** | 5.276 |  |  | 2.585 | 2.854 | 0.583 | 21.285 |  |  |  | 1.871 | 2.826 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

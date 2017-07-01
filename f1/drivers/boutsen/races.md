@@ -120,7 +120,7 @@ collectionId: boutsen
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 8 | 16 | 0.0 | 66 |   | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 6 | R |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 9 | 14 | 0.0 | 64 |   | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 10 | 4 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 6 | 5 | 2.0 | 50 | +1:21.319 | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 7 | 7 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 4 | 4 | 3.0 | 51 |   | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 5 | 3 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 4 | 4 | 3.0 | 51 |   | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 5 | 3 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 7 | 4 | 3.0 | 75 |   | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 12 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 6 | R | 0.0 | 26 |   | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 9 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 5 | 7 | 0.0 | 62 |   | Benetton 🇮🇹 | [Teo Fabi 🇮🇹](/f1/drivers/fabi) | 6 | 6 |

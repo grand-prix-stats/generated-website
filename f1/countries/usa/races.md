@@ -28,7 +28,7 @@ collectionId: usa
 | 2016 | 18 | 2016 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2016-10-23 | 56 | 1:38:12.618 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2015 | 16 | 2015 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2015-10-25 | 56 | 1:50:52.703 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 17 | 2014 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2014-11-02 | 56 | 1:40:04.785 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
-| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2013-11-17 | 56 | 1:39:17.168 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
+| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2013-11-17 | 56 | 1:39:17.148 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2012 | 19 | 2012 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2012-11-18 | 56 | 1:35:55.269 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2007 | 7 | 2007 United States Grand Prix 🇺🇸 | [Indianapolis Motor Speedway](/f1/circuits/indianapolis) | 2007-06-17 | 73 | 1:31:09.965 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2006 | 10 | 2006 United States Grand Prix 🇺🇸 | [Indianapolis Motor Speedway](/f1/circuits/indianapolis) | 2006-07-02 | 73 | 1:34:35.199 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Ferrari 🇮🇹 |

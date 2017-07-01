@@ -552,7 +552,7 @@ var chart = new Chart("chart", {
 | 26. | Hesketh 🇬🇧 | 24 | 24.74% |
 | 27. | Pacific 🇬🇧 | 24 | 36.36% |
 | 28. | Footwork 🇬🇧 | 22 | 11.34% |
-| 29. | McLaren 🇬🇧 | 22 | 1.38% |
+| 29. | McLaren 🇬🇧 | 22 | 1.37% |
 | 30. | Merzario 🇮🇹 | 22 | 68.75% |
 | 31. | Lola 🇬🇧 | 20 | 12.12% |
 | 32. | Ferrari 🇮🇹 | 19 | 0.90% |
@@ -562,7 +562,7 @@ var chart = new Chart("chart", {
 | 36. | Larrousse 🇫🇷 | 15 | 6.94% |
 | 37. | Andrea Moda 🇮🇹 | 14 | 93.33% |
 | 38. | Life 🇮🇹 | 14 | 100.00% |
-| 39. | Williams 🇬🇧 | 14 | 1.04% |
+| 39. | Williams 🇬🇧 | 14 | 1.03% |
 | 40. | Porsche 🇩🇪 | 13 | 15.48% |
 | 41. | Dallara 🇮🇹 | 11 | 7.64% |
 | 42. | Scirocco 🇬🇧 | 10 | 58.82% |
@@ -574,7 +574,7 @@ var chart = new Chart("chart", {
 | 48. | Jordan 🇮🇪 | 7 | 1.40% |
 | 49. | Leyton House 🇬🇧 | 6 | 9.38% |
 | 50. | McLaren-Alfa Romeo 🇬🇧 | 6 | 54.55% |
-| 51. | Sauber 🇨🇭 | 6 | 0.84% |
+| 51. | Sauber 🇨🇭 | 6 | 0.83% |
 | 52. | De Tomaso 🇮🇹 | 5 | 35.71% |
 | 53. | Iso Marlboro 🇬🇧 | 5 | 9.09% |
 | 54. | Bellasi 🇨🇭 | 4 | 66.67% |
@@ -633,7 +633,7 @@ var chart = new Chart("chart", {
 | 107. | McLaren-BRM 🇬🇧 | 1 | 7.14% |
 | 108. | McLaren-Ford 🇬🇧 | 1 | 1.15% |
 | 109. | McLaren-Serenissima 🇬🇧 | 1 | 50.00% |
-| 110. | Mercedes 🇩🇪 | 1 | 0.31% |
+| 110. | Mercedes 🇩🇪 | 1 | 0.30% |
 | 111. | RE 🇿🇼 | 1 | 100.00% |
 | 112. | Simca 🇫🇷 | 1 | 3.45% |
 | 113. | Stebro 🇨🇦 | 1 | 50.00% |
@@ -645,14 +645,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Did Not Start** | **% Of Total Participations** |
 | **Row Count** | 116 | 116 |
-| **Total Sum** | 1537.000 | 3616.200 |
+| **Total Sum** | 1537.000 | 3616.160 |
 | **Mean μ (Average)** | 13.250 | 31.174 |
 | **Maximum** | 83.000 | 100.000 |
 | **75th Percentile** | 22.000 | 50.000 |
 | **Median** | 4.000 | 15.700 |
 | **25th Percentile** | 1.000 | 5.240 |
 | **Minimum** | 1.000 | 0.190 |
-| **Variance** | 319.636 | 1073.006 |
+| **Variance** | 319.636 | 1073.027 |
 | **Standard Deviation σ** | 17.878 | 32.757 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

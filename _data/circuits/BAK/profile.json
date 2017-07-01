@@ -9,11 +9,11 @@
     "lng": 49.8532981872559,
     "location": "Baku",
     "name": "Baku City Circuit",
-    "podium_constructors": 3,
-    "podium_drivers": 3,
+    "podium_constructors": 5,
+    "podium_drivers": 6,
     "races": 2,
     "total_constructors": 11,
-    "total_drivers": 22,
-    "winning_constructors": 1,
-    "winning_drivers": 1
+    "total_drivers": 25,
+    "winning_constructors": 2,
+    "winning_drivers": 2
 }

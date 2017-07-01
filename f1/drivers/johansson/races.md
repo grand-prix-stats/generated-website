@@ -70,7 +70,7 @@ collectionId: johansson
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 11 | 3 | 4.0 | 72 | +30.818 | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 7 | 2 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 8 | 5 | 2.0 | 69 |   | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 | 1 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 11 | 6 | 1.0 | 50 | +1:28.787 | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 5 | 15 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 14 | 7 | 0.0 | 50 |   | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 9 | 6 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 14 | 7 | 0.0 | 50 |   | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 9 | 6 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 8 | R | 0.0 | 14 |   | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 | 3 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 8 | 2 | 6.0 | 44 | +1:39.591 | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 3 | 7 |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 10 | R | 0.0 | 18 |   | McLaren 🇬🇧 | [Alain Prost 🇫🇷](/f1/drivers/prost) | 4 | R |

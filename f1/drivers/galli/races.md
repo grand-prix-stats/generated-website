@@ -39,7 +39,7 @@ collectionId: galli
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 20 | 16 | 0.0 | 57 |   | March-Ford 🇬🇧 | [Skip Barber 🇺🇸](/f1/drivers/barber) | 24 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 19 | R | 0.0 | 11 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 6 | 2 |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 19 | R | 0.0 | 11 |   | March-Ford 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 24 | N |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 19 | R | 0.0 | 11 |   | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | N |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 19 | R | 0.0 | 11 |   | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 19 | R | 0.0 | 11 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 10 | R |
 | 1971 | 7 | 1971 German Grand Prix 🇩🇪 | 1971-08-01 | 21 | 12 | 0.0 | 10 |   | March-Alfa Romeo 🇬🇧 | [Andrea de Adamich 🇮🇹](/f1/drivers/adamich) | 20 | R |
 | 1971 | 6 | 1971 British Grand Prix 🇬🇧 | 1971-07-17 | 21 | 11 | 0.0 | 65 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 5 | 2 |

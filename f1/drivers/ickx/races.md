@@ -95,7 +95,7 @@ collectionId: ickx
 | 1972 | 2 | 1972 South African Grand Prix 🇿🇦 | 1972-03-04 | 7 | 8 | 0.0 | 78 |   | Ferrari 🇮🇹 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 2 | 12 |
 | 1972 | 1 | 1972 Argentine Grand Prix 🇦🇷 | 1972-01-23 | 8 | 3 | 4.0 | 95 | +59.39 | Ferrari 🇮🇹 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 6 | 4 |
 | 1972 | 1 | 1972 Argentine Grand Prix 🇦🇷 | 1972-01-23 | 8 | 3 | 4.0 | 95 | +59.39 | Ferrari 🇮🇹 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 9 | R |
-| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 7 | N | 0.0 | 49 |   | Ferrari 🇮🇹 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 4 | 6 |
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 7 | R | 0.0 | 49 |   | Ferrari 🇮🇹 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 4 | 6 |
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 12 | 8 | 0.0 | 62 |   | Ferrari 🇮🇹 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 13 | 13 |
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 12 | 8 | 0.0 | 62 |   | Ferrari 🇮🇹 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 18 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 2 | R | 0.0 | 15 |   | Ferrari 🇮🇹 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 8 | R |

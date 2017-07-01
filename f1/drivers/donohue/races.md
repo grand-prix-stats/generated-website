@@ -24,9 +24,9 @@ collectionId: donohue
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 20 | N | 0.0 | 0 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 8 | 1 |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 20 | N | 0.0 | 0 |   | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 21 | 17 |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 20 | N | 0.0 | 0 |   | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 4 | R |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 20 | W | 0.0 | 0 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 8 | 1 |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 20 | W | 0.0 | 0 |   | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 21 | 17 |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 20 | W | 0.0 | 0 |   | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 4 | R |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 19 | R | 0.0 | 1 |   | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 25 | 7 |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 19 | R | 0.0 | 1 |   | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 7 | R |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 19 | R | 0.0 | 1 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 11 | R |

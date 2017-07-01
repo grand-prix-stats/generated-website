@@ -24,7 +24,7 @@ collectionId: nurburgring
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | 2013-07-07 | 60 | 1:41.14.711 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
+| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | 2013-07-07 | 60 | 1:41:14.711 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2011 | 10 | 2011 German Grand Prix 🇩🇪 | 2011-07-24 | 60 | 1:37:30.344 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2009 | 9 | 2009 German Grand Prix 🇩🇪 | 2009-07-12 | 60 | 1:36:43.310 | [Mark Webber 🇦🇺](/f1/drivers/webber) | Red Bull 🇦🇹 |
 | 2007 | 10 | 2007 European Grand Prix 🇩🇪 | 2007-07-22 | 60 | 2:06:26.358 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | McLaren 🇬🇧 |

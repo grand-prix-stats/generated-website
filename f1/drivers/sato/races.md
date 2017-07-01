@@ -78,7 +78,7 @@ collectionId: sato
 | 2005 | 7 | 2005 European Grand Prix 🇩🇪 | 2005-05-29 | 16 | 12 | 0.0 | 58 |   | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 13 | 10 |
 | 2005 | 4 | 2005 San Marino Grand Prix 🇮🇹 | 2005-04-24 | 6 | D | 0.0 | 62 | +34.7 | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 | D |
 | 2005 | 3 | 2005 Bahrain Grand Prix 🇧🇭 | 2005-04-03 | 13 | R | 0.0 | 27 |   | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 11 | R |
-| 2005 | 1 | 2005 Australian Grand Prix 🇦🇺 | 2005-03-06 | 20 | R | 0.0 | 55 |   | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 8 | R |
+| 2005 | 1 | 2005 Australian Grand Prix 🇦🇺 | 2005-03-06 | 20 | 14 | 0.0 | 55 |   | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 8 | 11 |
 | 2004 | 18 | 2004 Brazilian Grand Prix 🇧🇷 | 2004-10-24 | 6 | 6 | 3.0 | 71 | +50.248 | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 5 | R |
 | 2004 | 17 | 2004 Japanese Grand Prix 🇯🇵 | 2004-10-10 | 4 | 4 | 5.0 | 53 | +31.781 | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 5 | 3 |
 | 2004 | 16 | 2004 Chinese Grand Prix 🇨🇳 | 2004-09-26 | 18 | 6 | 3.0 | 56 | +54.791 | BAR 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 | 2 |
@@ -104,7 +104,7 @@ collectionId: sato
 | 2002 | 14 | 2002 Belgian Grand Prix 🇧🇪 | 2002-09-01 | 16 | 11 | 0.0 | 43 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 14 | R |
 | 2002 | 13 | 2002 Hungarian Grand Prix 🇭🇺 | 2002-08-18 | 14 | 10 | 0.0 | 76 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 5 | 6 |
 | 2002 | 12 | 2002 German Grand Prix 🇩🇪 | 2002-07-28 | 12 | 8 | 0.0 | 66 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 6 | R |
-| 2002 | 11 | 2002 French Grand Prix 🇫🇷 | 2002-07-21 | 14 | R | 0.0 | 23 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 0 | W |
+| 2002 | 11 | 2002 French Grand Prix 🇫🇷 | 2002-07-21 | 14 | R | 0.0 | 23 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 0 | F |
 | 2002 | 10 | 2002 British Grand Prix 🇬🇧 | 2002-07-07 | 14 | R | 0.0 | 50 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 17 | 7 |
 | 2002 | 9 | 2002 European Grand Prix 🇩🇪 | 2002-06-23 | 14 | 16 | 0.0 | 58 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 18 | R |
 | 2002 | 8 | 2002 Canadian Grand Prix 🇨🇦 | 2002-06-09 | 15 | 10 | 0.0 | 69 |   | Jordan 🇮🇪 | [Giancarlo Fisichella 🇮🇹](/f1/drivers/fisichella) | 6 | 5 |
@@ -119,15 +119,15 @@ collectionId: sato
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 91 |  |  | 91 | 59 | 91 | 91 | 12 |  |  | 91 | 56 |
-| **Total Sum** | 851.000 |  |  | 1324.000 | 683.000 | 44.000 | 4484.000 | 452.681 |  |  | 1107.000 | 489.000 |
-| **Mean μ (Average)** | 9.352 |  |  | 14.549 | 11.576 | 0.484 | 49.275 | 37.723 |  |  | 12.165 | 8.732 |
+| **Row Count** | 91 |  |  | 91 | 60 | 91 | 91 | 12 |  |  | 91 | 57 |
+| **Total Sum** | 851.000 |  |  | 1324.000 | 697.000 | 44.000 | 4484.000 | 452.681 |  |  | 1107.000 | 500.000 |
+| **Mean μ (Average)** | 9.352 |  |  | 14.549 | 11.617 | 0.484 | 49.275 | 37.723 |  |  | 12.165 | 8.772 |
 | **Maximum** | 19.000 |  |  | 22.000 | 18.000 | 6.000 | 76.000 | 54.791 |  |  | 22.000 | 18.000 |
 | **75th Percentile** | 14.000 |  |  | 20.000 | 15.000 |  | 65.000 | 51.692 |  |  | 19.000 | 14.000 |
 | **Median** | 9.000 |  |  | 17.000 | 12.000 |  | 55.000 | 42.327 |  |  | 13.000 | 7.000 |
-| **25th Percentile** | 4.000 |  |  | 8.000 | 8.000 |  | 43.000 | 31.781 |  |  | 5.000 | 4.000 |
+| **25th Percentile** | 4.000 |  |  | 8.000 | 9.000 |  | 43.000 | 31.781 |  |  | 5.000 | 4.000 |
 | **Minimum** | 1.000 |  |  | 2.000 | 3.000 |  |  | 15.370 |  |  |  | 2.000 |
-| **Variance** | 27.701 |  |  | 35.171 | 17.193 | 1.634 | 394.309 | 184.416 |  |  | 48.072 | 27.946 |
-| **Standard Deviation σ** | 5.263 |  |  | 5.930 | 4.146 | 1.278 | 19.857 | 13.580 |  |  | 6.933 | 5.286 |
+| **Variance** | 27.701 |  |  | 35.171 | 17.003 | 1.634 | 394.309 | 184.416 |  |  | 48.072 | 27.544 |
+| **Standard Deviation σ** | 5.263 |  |  | 5.930 | 4.123 | 1.278 | 19.857 | 13.580 |  |  | 6.933 | 5.248 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

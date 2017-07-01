@@ -41,7 +41,7 @@ collectionId: alan_brown
 | 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 12 | 9 | 0.0 | 87 |   | Cooper 🇬🇧 | [Adolfo Cruz 🇦🇷](/f1/drivers/cruz) | 13 | R |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | 15 | 0.0 | 68 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 15 | 9 |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | 15 | 0.0 | 68 |   | Cooper 🇬🇧 | [Eric Brandon 🇬🇧](/f1/drivers/brandon) | 20 | 13 |
-| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | 15 | 0.0 | 68 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 12 | R |
+| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | 15 | 0.0 | 68 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 12 | N |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 13 | 22 | 0.0 | 69 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 7 | 3 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 13 | 22 | 0.0 | 69 |   | Cooper 🇬🇧 | [Reg Parnell 🇬🇧](/f1/drivers/reg_parnell) | 6 | 7 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 13 | 22 | 0.0 | 69 |   | Cooper 🇬🇧 | [Eric Brandon 🇬🇧](/f1/drivers/brandon) | 18 | 20 |

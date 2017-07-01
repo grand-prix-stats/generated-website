@@ -110,7 +110,7 @@ collectionId: peterson
 | 1976 | 1 | 1976 Brazilian Grand Prix 🇧🇷 | 1976-01-25 | 18 | R | 0.0 | 10 |   | Team Lotus 🇬🇧 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 16 | R |
 | 1975 | 14 | 1975 United States Grand Prix 🇺🇸 | 1975-10-05 | 14 | 5 | 2.0 | 59 | +49.986 | Team Lotus 🇬🇧 | [Brian Henton 🇬🇧](/f1/drivers/henton) | 19 | N |
 | 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 11 | R | 0.0 | 1 |   | Team Lotus 🇬🇧 | [Jim Crawford 🇬🇧](/f1/drivers/crawford) | 25 | 13 |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 13 | 5 | 1.0 | 29 | +1:23.33 | Team Lotus 🇬🇧 | [Brian Henton 🇬🇧](/f1/drivers/henton) | 22 | N |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 13 | 5 | 1.0 | 29 | +1:23.33 | Team Lotus 🇬🇧 | [Brian Henton 🇬🇧](/f1/drivers/henton) | 22 | W |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 18 | R | 0.0 | 1 |   | Team Lotus 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | R |
 | 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 16 | R | 0.0 | 7 |   | Team Lotus 🇬🇧 | [Jim Crawford 🇬🇧](/f1/drivers/crawford) | 25 | R |
 | 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 16 | R | 0.0 | 7 |   | Team Lotus 🇬🇧 | [Brian Henton 🇬🇧](/f1/drivers/henton) | 21 | 16 |
@@ -218,7 +218,7 @@ collectionId: peterson
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 6 | 2 | 6.0 | 64 | +38.3 | March-Ford 🇬🇧 | [Skip Barber 🇺🇸](/f1/drivers/barber) | 24 | R |
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 6 | 2 | 6.0 | 64 | +38.3 | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 20 | 16 |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 6 | 2 | 6.0 | 55 | +0.01 | March-Ford 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 24 | N |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 6 | 2 | 6.0 | 55 | +0.01 | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | N |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 6 | 2 | 6.0 | 55 | +0.01 | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 6 | 2 | 6.0 | 55 | +0.01 | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 10 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 6 | 2 | 6.0 | 55 | +0.01 | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 19 | R |
 | 1971 | 8 | 1971 Austrian Grand Prix 🇦🇹 | 1971-08-15 | 11 | 8 | 0.0 | 53 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 13 | 6 |

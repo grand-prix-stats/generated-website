@@ -68,8 +68,8 @@ collectionId: beltoise
 | 1973 | 7 | 1973 Swedish Grand Prix 🇸🇪 | 1973-06-17 | 9 | R | 0.0 | 57 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 15 | 13 |
 | 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 11 | R | 0.0 | 39 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 6 | R |
 | 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 11 | R | 0.0 | 39 |   | BRM 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 8 | R |
-| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 5 | R | 0.0 | 56 |   | BRM 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 12 | 10 |
-| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 5 | R | 0.0 | 56 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 14 | 5 |
+| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 5 | N | 0.0 | 56 |   | BRM 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 12 | 10 |
+| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 5 | N | 0.0 | 56 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 14 | 5 |
 | 1973 | 4 | 1973 Spanish Grand Prix 🇪🇸 | 1973-04-29 | 10 | 5 | 2.0 | 74 |   | BRM 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 8 | 9 |
 | 1973 | 4 | 1973 Spanish Grand Prix 🇪🇸 | 1973-04-29 | 10 | 5 | 2.0 | 74 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 11 | R |
 | 1973 | 3 | 1973 South African Grand Prix 🇿🇦 | 1973-03-03 | 7 | R | 0.0 | 4 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 10 | R |

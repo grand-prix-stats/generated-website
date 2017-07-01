@@ -80,8 +80,8 @@ collectionId: bonetto
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 13 | 5 | 2.0 | 79 |   | Maserati 🇮🇹 | [Franco Rol 🇮🇹](/f1/drivers/rol) | 16 | R |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 13 | 5 | 2.0 | 79 |   | Maserati 🇮🇹 | [Alberto Crespo 🇦🇷](/f1/drivers/crespo) | 0 | F |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 13 | 5 | 2.0 | 79 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 0 | F |
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 10 | R | 0.0 | 1 |   | Maserati 🇮🇹 | [Eitel Cantoni 🇺🇾](/f1/drivers/cantoni) | 26 | R |
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 10 | R | 0.0 | 1 |   | Maserati 🇮🇹 | [Gino Bianco 🇧🇷](/f1/drivers/bianco) | 16 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 10 | D | 0.0 | 1 |   | Maserati 🇮🇹 | [Eitel Cantoni 🇺🇾](/f1/drivers/cantoni) | 26 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 10 | D | 0.0 | 1 |   | Maserati 🇮🇹 | [Gino Bianco 🇧🇷](/f1/drivers/bianco) | 16 | R |
 | 1951 | 8 | 1951 Spanish Grand Prix 🇪🇸 | 1951-10-28 | 8 | 5 | 2.0 | 68 |   | Alfa Romeo 🇮🇹 | [Juan Fangio 🇦🇷](/f1/drivers/fangio) | 2 | 1 |
 | 1951 | 8 | 1951 Spanish Grand Prix 🇪🇸 | 1951-10-28 | 8 | 5 | 2.0 | 68 |   | Alfa Romeo 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 4 | 3 |
 | 1951 | 8 | 1951 Spanish Grand Prix 🇪🇸 | 1951-10-28 | 8 | 5 | 2.0 | 68 |   | Alfa Romeo 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 6 | 6 |

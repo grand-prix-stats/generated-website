@@ -43,7 +43,7 @@ collectionId: danner
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 22 | R | 0.0 | 50 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 20 | 11 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 16 | R | 0.0 | 0 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 17 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 16 | 9 | 0.0 | 48 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 17 | R |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 20 | 9 | 0.0 | 49 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 17 | D |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 20 | 9 | 0.0 | 49 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 17 | D |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 23 | R | 0.0 | 3 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 22 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 20 | R | 0.0 | 21 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 19 | N |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 18 | R | 0.0 | 32 |   | Zakspeed 🇩🇪 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 17 | N |

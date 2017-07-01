@@ -279,12 +279,12 @@ collectionId: michael_schumacher
 | 1995 | 4 | 1995 Spanish Grand Prix 🇪🇸 | 1995-05-14 | 1 | 1 | 10.0 | 65 | 1:34:20.507 | Benetton 🇮🇹 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 7 | 2 |
 | 1995 | 3 | 1995 San Marino Grand Prix 🇮🇹 | 1995-04-30 | 1 | R | 0.0 | 10 |   | Benetton 🇮🇹 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 8 | 7 |
 | 1995 | 2 | 1995 Argentine Grand Prix 🇦🇷 | 1995-04-09 | 3 | 3 | 4.0 | 72 | +33.376 | Benetton 🇮🇹 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 11 | 4 |
-| 1995 | 1 | 1995 Brazilian Grand Prix 🇧🇷 | 1995-03-26 | 2 | 1 | 10.0 | 71 | +1:38:34.154 | Benetton 🇮🇹 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 4 | R |
+| 1995 | 1 | 1995 Brazilian Grand Prix 🇧🇷 | 1995-03-26 | 2 | 1 | 10.0 | 71 | 1:38:34.154 | Benetton 🇮🇹 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 4 | R |
 | 1994 | 16 | 1994 Australian Grand Prix 🇦🇺 | 1994-11-13 | 2 | R | 0.0 | 35 |   | Benetton 🇮🇹 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 7 | R |
 | 1994 | 15 | 1994 Japanese Grand Prix 🇯🇵 | 1994-11-06 | 1 | 2 | 6.0 | 50 | +3.365 | Benetton 🇮🇹 | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 5 | R |
 | 1994 | 14 | 1994 European Grand Prix 🇪🇸 | 1994-10-16 | 1 | 1 | 10.0 | 69 | 1:40:27.3 | Benetton 🇮🇹 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 12 | R |
 | 1994 | 11 | 1994 Belgian Grand Prix 🇧🇪 | 1994-08-28 | 2 | D | 0.0 | 44 |   | Benetton 🇮🇹 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 6 | 3 |
-| 1994 | 10 | 1994 Hungarian Grand Prix 🇭🇺 | 1994-08-14 | 1 | 1 | 10.0 | 77 | 1.48:00.185 | Benetton 🇮🇹 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 12 | 3 |
+| 1994 | 10 | 1994 Hungarian Grand Prix 🇭🇺 | 1994-08-14 | 1 | 1 | 10.0 | 77 | 1:48:00.185 | Benetton 🇮🇹 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 12 | 3 |
 | 1994 | 9 | 1994 German Grand Prix 🇩🇪 | 1994-07-31 | 4 | R | 0.0 | 20 |   | Benetton 🇮🇹 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 19 | R |
 | 1994 | 8 | 1994 British Grand Prix 🇬🇧 | 1994-07-10 | 2 | D | 0.0 | 60 |   | Benetton 🇮🇹 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 10 | 8 |
 | 1994 | 7 | 1994 French Grand Prix 🇫🇷 | 1994-07-03 | 3 | 1 | 10.0 | 72 | 1:38:36.2 | Benetton 🇮🇹 | [Jos Verstappen 🇳🇱](/f1/drivers/verstappen) | 8 | R |

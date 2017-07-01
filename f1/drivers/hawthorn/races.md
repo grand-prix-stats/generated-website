@@ -63,10 +63,10 @@ collectionId: hawthorn
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
-| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 6 | 5 |
-| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
+| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
+| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Wolfgang von Trips 🇩🇪](/f1/drivers/trips) | 9 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 9 | R | 0.0 | 95 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
 | 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 5 | R | 0.0 | 4 |   | Ferrari 🇮🇹 | [Peter Collins 🇬🇧](/f1/drivers/collins) | 2 | R |
@@ -126,8 +126,8 @@ collectionId: hawthorn
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 7 | 3 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 13 | 6 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 7 | 3 |
-| 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 11 | 8 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 5 | 2 |
+| 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 11 | 8 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 3 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 13 | 6 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 5 | 2 |
 | 1954 | 6 | 1954 German Grand Prix 🇩🇪 | 1954-08-01 | 5 | 2 | 3.0 | 22 | +1:36.5 | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 11 | 8 |
@@ -200,9 +200,9 @@ collectionId: hawthorn
 | 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 6 | 4 | 3.0 | 96 |   | Ferrari 🇮🇹 | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 3 | 2 |
 | 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 6 | 4 | 3.0 | 96 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 4 | R |
 | 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 6 | 4 | 3.0 | 96 |   | Ferrari 🇮🇹 | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 | 1 |
-| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | R | 0.0 | 38 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 15 | 9 |
-| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | R | 0.0 | 38 |   | Cooper 🇬🇧 | [Eric Brandon 🇬🇧](/f1/drivers/brandon) | 20 | 13 |
-| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | R | 0.0 | 38 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 12 | 15 |
+| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | N | 0.0 | 38 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 15 | 9 |
+| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | N | 0.0 | 38 |   | Cooper 🇬🇧 | [Eric Brandon 🇬🇧](/f1/drivers/brandon) | 20 | 13 |
+| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 12 | N | 0.0 | 38 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 12 | 15 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 7 | 3 | 4.0 | 83 |   | Cooper 🇬🇧 | [Reg Parnell 🇬🇧](/f1/drivers/reg_parnell) | 6 | 7 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 7 | 3 | 4.0 | 83 |   | Cooper 🇬🇧 | [Eric Brandon 🇬🇧](/f1/drivers/brandon) | 18 | 20 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 7 | 3 | 4.0 | 83 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 13 | 22 |

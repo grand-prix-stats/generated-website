@@ -24,6 +24,8 @@ collectionId: max_verstappen
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 5 | R | 0.0 | 12 |   | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 10 | 1 |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 5 | R | 0.0 | 10 |   | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 6 | 3 |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 4 | 5 | 10.0 | 78 | +6.199 | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 5 | 3 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 5 | R | 0.0 | 1 |   | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 6 | 3 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 7 | 5 | 10.0 | 52 | +1:00.416 | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 5 | R |
@@ -74,15 +76,15 @@ collectionId: max_verstappen
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 46 |  |  | 46 | 37 | 46 | 46 | 19 |  |  | 46 | 36 |
-| **Total Sum** | 442.000 |  |  | 365.000 | 253.000 | 298.000 | 2456.000 | 524.790 |  |  | 339.000 | 236.000 |
-| **Mean μ (Average)** | 9.609 |  |  | 7.935 | 6.838 | 6.478 | 53.391 | 27.621 |  |  | 7.370 | 6.556 |
+| **Row Count** | 48 |  |  | 48 | 37 | 48 | 48 | 19 |  |  | 48 | 38 |
+| **Total Sum** | 457.000 |  |  | 375.000 | 253.000 | 298.000 | 2478.000 | 524.790 |  |  | 355.000 | 240.000 |
+| **Mean μ (Average)** | 9.521 |  |  | 7.812 | 6.838 | 6.208 | 51.625 | 27.621 |  |  | 7.396 | 6.316 |
 | **Maximum** | 21.000 |  |  | 20.000 | 17.000 | 25.000 | 78.000 | 56.076 |  |  | 20.000 | 13.000 |
 | **75th Percentile** | 15.000 |  |  | 9.000 | 9.000 | 12.000 | 67.000 | 48.659 |  |  | 11.000 | 9.000 |
-| **Median** | 9.000 |  |  | 7.000 | 6.000 | 4.000 | 56.000 | 22.359 |  |  | 6.000 | 7.000 |
-| **25th Percentile** | 4.000 |  |  | 4.000 | 4.000 |  | 52.000 | 6.199 |  |  | 4.000 | 3.000 |
+| **Median** | 9.000 |  |  | 7.000 | 6.000 | 4.000 | 56.000 | 22.359 |  |  | 6.000 | 6.000 |
+| **25th Percentile** | 5.000 |  |  | 4.000 | 4.000 |  | 51.000 | 6.199 |  |  | 4.000 | 3.000 |
 | **Minimum** | 1.000 |  |  |  | 1.000 |  | 1.000 | 1.685 |  |  |  | 1.000 |
-| **Variance** | 35.325 |  |  | 21.844 | 15.757 | 45.206 | 298.760 | 382.014 |  |  | 23.798 | 12.414 |
-| **Standard Deviation σ** | 5.943 |  |  | 4.674 | 3.970 | 6.724 | 17.285 | 19.545 |  |  | 4.878 | 3.523 |
+| **Variance** | 34.041 |  |  | 21.277 | 15.757 | 44.998 | 358.109 | 382.014 |  |  | 22.989 | 12.848 |
+| **Standard Deviation σ** | 5.834 |  |  | 4.613 | 3.970 | 6.708 | 18.924 | 19.545 |  |  | 4.795 | 3.584 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

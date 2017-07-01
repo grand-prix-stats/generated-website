@@ -45,7 +45,7 @@ collectionId: badoer
 | 1996 | 9 | 1996 French Grand Prix 🇫🇷 | 1996-06-30 | 20 | R | 0.0 | 29 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 21 | R |
 | 1996 | 8 | 1996 Canadian Grand Prix 🇨🇦 | 1996-06-16 | 20 | R | 0.0 | 44 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 22 | R |
 | 1996 | 7 | 1996 Spanish Grand Prix 🇪🇸 | 1996-06-02 | 21 | F | 0.0 | 0 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 22 | F |
-| 1996 | 6 | 1996 Monaco Grand Prix 🇲🇨 | 1996-05-19 | 21 | R | 0.0 | 60 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 22 | W |
+| 1996 | 6 | 1996 Monaco Grand Prix 🇲🇨 | 1996-05-19 | 21 | R | 0.0 | 60 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 22 | F |
 | 1996 | 5 | 1996 San Marino Grand Prix 🇮🇹 | 1996-05-05 | 21 | 10 | 0.0 | 59 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 22 | F |
 | 1996 | 4 | 1996 European Grand Prix 🇩🇪 | 1996-04-28 | 22 | F | 0.0 | 0 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 21 | F |
 | 1996 | 3 | 1996 Argentine Grand Prix 🇦🇷 | 1996-04-07 | 21 | R | 0.0 | 24 |   | Forti 🇮🇹 | [Andrea Montermini 🇮🇹](/f1/drivers/montermini) | 22 | 10 |

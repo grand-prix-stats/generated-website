@@ -130,7 +130,7 @@ var data = {
             "borderWidth": 1,
             "data": [
                 12.0,
-                6.0,
+                7.0,
                 5.0,
                 5.0,
                 5.0,
@@ -143,6 +143,7 @@ var data = {
                 3.0,
                 3.0,
                 3.0,
+                3.0,
                 2.0,
                 2.0,
                 2.0,
@@ -156,7 +157,6 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
                 1.0,
                 1.0,
                 1.0,
@@ -196,9 +196,11 @@ var data = {
         "Gilles Villeneuve",
         "Jenson Button",
         "Riccardo Patrese",
+        "Valtteri Bottas",
         "Alan Jones",
         "Ayrton Senna",
         "Carlos Reutemann",
+        "Daniel Ricciardo",
         "David Coulthard",
         "John Watson",
         "Kimi Räikkönen",
@@ -208,11 +210,9 @@ var data = {
         "Nigel Mansell",
         "Ralf Schumacher",
         "Thierry Boutsen",
-        "Valtteri Bottas",
         "Alexander Wurz",
         "Andrea de Cesaris",
         "Clay Regazzoni",
-        "Daniel Ricciardo",
         "Didier Pironi",
         "Eddie Cheever",
         "Gerhard Berger",
@@ -268,7 +268,7 @@ var chart = new Chart("chart", {
 | # | Driver | Number Of Podiums |
 |--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 12 |
-| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 7 |
 | 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 5 |
 | 4. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 5 |
 | 5. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 5 |
@@ -281,23 +281,23 @@ var chart = new Chart("chart", {
 | 12. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 3 |
 | 13. | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
 | 14. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 3 |
-| 15. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
-| 16. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
-| 17. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
-| 18. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
-| 19. | [John Watson 🇬🇧](/f1/drivers/watson) | 2 |
-| 20. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
-| 21. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
-| 22. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 2 |
-| 23. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
-| 24. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
-| 25. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 2 |
-| 26. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 2 |
-| 27. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 2 |
-| 28. | [Alexander Wurz 🇦🇹](/f1/drivers/wurz) | 1 |
-| 29. | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 1 |
-| 30. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
-| 31. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 15. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 3 |
+| 16. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 17. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 18. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 19. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2 |
+| 20. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 21. | [John Watson 🇬🇧](/f1/drivers/watson) | 2 |
+| 22. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 23. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 24. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 2 |
+| 25. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 26. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 27. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 2 |
+| 28. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 2 |
+| 29. | [Alexander Wurz 🇦🇹](/f1/drivers/wurz) | 1 |
+| 30. | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 1 |
+| 31. | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 1 |
 | 32. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
 | 33. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
 | 34. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
@@ -320,14 +320,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Podiums** |
 | **Row Count** | 48 |
-| **Total Sum** | 111.000 |
-| **Mean μ (Average)** | 2.312 |
+| **Total Sum** | 114.000 |
+| **Mean μ (Average)** | 2.375 |
 | **Maximum** | 12.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 3.798 |
-| **Standard Deviation σ** | 1.949 |
+| **Variance** | 3.943 |
+| **Standard Deviation σ** | 1.986 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

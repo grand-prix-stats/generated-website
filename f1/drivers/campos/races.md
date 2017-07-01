@@ -35,7 +35,7 @@ collectionId: campos
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 24 | 14 | 0.0 | 68 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 21 | R |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 20 | R | 0.0 | 24 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 14 | 11 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 20 | R | 0.0 | 34 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 18 | 16 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 19 | R | 0.0 | 3 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 15 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 19 | R | 0.0 | 3 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 15 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 24 | R | 0.0 | 14 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 20 | 11 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 18 | R | 0.0 | 28 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 16 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 19 | R | 0.0 | 34 |   | Minardi 🇮🇹 | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 15 | R |

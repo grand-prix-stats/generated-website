@@ -27,7 +27,7 @@ collectionId: hockenheimring
 | 2016 | 12 | 2016 German Grand Prix 🇩🇪 | 2016-07-31 | 67 | 1:30:44.200 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 10 | 2014 German Grand Prix 🇩🇪 | 2014-07-20 | 67 | 1:33:42.914 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2012 | 10 | 2012 German Grand Prix 🇩🇪 | 2012-07-22 | 67 | 1:31:05.862 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
-| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | 2010-07-25 | 67 | 1:27.38.684 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
+| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | 2010-07-25 | 67 | 1:27:38.864 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2008 | 10 | 2008 German Grand Prix 🇩🇪 | 2008-07-20 | 67 | 1:31:20.874 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2006 | 12 | 2006 German Grand Prix 🇩🇪 | 2006-07-30 | 67 | 1:27:51.693 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Ferrari 🇮🇹 |
 | 2005 | 12 | 2005 German Grand Prix 🇩🇪 | 2005-07-24 | 67 | 1:26:28.599 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Renault 🇫🇷 |

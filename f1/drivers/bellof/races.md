@@ -37,14 +37,14 @@ collectionId: bellof
 | 1984 | 13 | 1984 Dutch Grand Prix 🇳🇱 | 1984-08-26 | 26 | D | 0.0 | 69 |   | Tyrrell 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 25 | D |
 | 1984 | 12 | 1984 Austrian Grand Prix 🇦🇹 | 1984-08-19 | 0 | D | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 0 | F |
 | 1984 | 10 | 1984 British Grand Prix 🇬🇧 | 1984-07-22 | 26 | D | 0.0 | 68 |   | Tyrrell 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 25 | D |
-| 1984 | 9 | 1984 Dallas Grand Prix 🇺🇸 | 1984-07-08 | 17 | R | 0.0 | 9 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 0 | F |
+| 1984 | 9 | 1984 Dallas Grand Prix 🇺🇸 | 1984-07-08 | 17 | D | 0.0 | 9 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 0 | F |
 | 1984 | 8 | 1984 Detroit Grand Prix 🇺🇸 | 1984-06-24 | 16 | D | 0.0 | 33 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 11 | D |
 | 1984 | 7 | 1984 Canadian Grand Prix 🇨🇦 | 1984-06-17 | 22 | D | 0.0 | 52 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 21 | D |
 | 1984 | 6 | 1984 Monaco Grand Prix 🇲🇨 | 1984-06-03 | 20 | D | 0.0 | 31 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 0 | F |
 | 1984 | 5 | 1984 French Grand Prix 🇫🇷 | 1984-05-20 | 20 | D | 0.0 | 11 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 23 | D |
 | 1984 | 4 | 1984 San Marino Grand Prix 🇮🇹 | 1984-05-06 | 21 | D | 0.0 | 59 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 22 | D |
 | 1984 | 3 | 1984 Belgian Grand Prix 🇧🇪 | 1984-04-29 | 21 | D | 0.0 | 69 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 22 | D |
-| 1984 | 2 | 1984 South African Grand Prix 🇿🇦 | 1984-04-07 | 24 | R | 0.0 | 60 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 25 | R |
+| 1984 | 2 | 1984 South African Grand Prix 🇿🇦 | 1984-04-07 | 24 | D | 0.0 | 60 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 25 | D |
 | 1984 | 1 | 1984 Brazilian Grand Prix 🇧🇷 | 1984-03-25 | 22 | D | 0.0 | 11 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 18 | D |
 
 #### Statistic Summary

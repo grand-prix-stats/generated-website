@@ -26,7 +26,7 @@ collectionId: cheever
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
 | 1989 | 16 | 1989 Australian Grand Prix 🇦🇺 | 1989-11-05 | 22 | R | 0.0 | 42 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 20 | R |
 | 1989 | 15 | 1989 Japanese Grand Prix 🇯🇵 | 1989-10-22 | 24 | 8 | 0.0 | 52 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 25 | 6 |
-| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 61 | R | 0.0 | 61 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 16 | 9 |
+| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 22 | R | 0.0 | 61 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 16 | 9 |
 | 1989 | 13 | 1989 Portuguese Grand Prix 🇵🇹 | 1989-09-24 | 26 | R | 0.0 | 24 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 22 | R |
 | 1989 | 12 | 1989 Italian Grand Prix 🇮🇹 | 1989-09-10 | 0 | F | 0.0 | 0 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 16 | R |
 | 1989 | 11 | 1989 Belgian Grand Prix 🇧🇪 | 1989-08-27 | 24 | R | 0.0 | 38 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 10 | 6 |
@@ -62,7 +62,7 @@ collectionId: cheever
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 13 | 8 | 0.0 | 70 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 12 | 10 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 11 | 6 | 1.0 | 68 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 12 | 13 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 13 | R | 0.0 | 27 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 12 | R |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 12 | R | 0.0 | 31 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 11 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 12 | R | 0.0 | 31 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 11 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 11 | 8 | 0.0 | 74 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 9 | 6 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 15 | R | 0.0 | 9 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 13 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 14 | R | 0.0 | 45 |   | Arrows 🇬🇧 | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 13 | 5 |
@@ -155,14 +155,14 @@ collectionId: cheever
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
 | **Row Count** | 126 |  |  | 126 | 54 | 126 | 126 | 11 |  |  | 126 | 58 |
-| **Total Sum** | 1059.000 |  |  | 1757.000 | 403.000 | 70.000 | 5234.000 | 417.671 |  |  | 1606.000 | 425.000 |
-| **Mean μ (Average)** | 8.405 |  |  | 13.944 | 7.463 | 0.556 | 41.540 | 37.970 |  |  | 12.746 | 7.328 |
-| **Maximum** | 16.000 |  |  | 61.000 | 17.000 | 6.000 | 80.000 | 56.450 |  |  | 25.000 | 16.000 |
+| **Total Sum** | 1059.000 |  |  | 1718.000 | 403.000 | 70.000 | 5234.000 | 417.671 |  |  | 1606.000 | 425.000 |
+| **Mean μ (Average)** | 8.405 |  |  | 13.635 | 7.463 | 0.556 | 41.540 | 37.970 |  |  | 12.746 | 7.328 |
+| **Maximum** | 16.000 |  |  | 26.000 | 17.000 | 6.000 | 80.000 | 56.450 |  |  | 25.000 | 16.000 |
 | **75th Percentile** | 12.000 |  |  | 18.000 | 10.000 |  | 61.000 | 45.106 |  |  | 17.000 | 10.000 |
 | **Median** | 8.000 |  |  | 14.000 | 7.000 |  | 46.000 | 40.232 |  |  | 12.000 | 7.000 |
 | **25th Percentile** | 5.000 |  |  | 9.000 | 4.000 |  | 21.000 | 28.395 |  |  | 9.000 | 4.000 |
 | **Minimum** | 1.000 |  |  |  | 2.000 |  |  | 15.726 |  |  |  | 1.000 |
-| **Variance** | 20.543 |  |  | 55.052 | 14.100 | 1.691 | 599.010 | 147.605 |  |  | 34.936 | 13.944 |
-| **Standard Deviation σ** | 4.532 |  |  | 7.420 | 3.755 | 1.301 | 24.475 | 12.149 |  |  | 5.911 | 3.734 |
+| **Variance** | 20.543 |  |  | 37.898 | 14.100 | 1.691 | 599.010 | 147.605 |  |  | 34.936 | 13.944 |
+| **Standard Deviation σ** | 4.532 |  |  | 6.156 | 3.755 | 1.301 | 24.475 | 12.149 |  |  | 5.911 | 3.734 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

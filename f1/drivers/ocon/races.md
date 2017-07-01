@@ -24,6 +24,8 @@ collectionId: ocon
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 7 | 6 | 8.0 | 51 | +30.298 | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 6 | R |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 9 | 6 | 8.0 | 70 | +40.716 | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 8 | 5 |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 15 | 12 | 0.0 | 78 | +23.725 | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 7 | 13 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 10 | 5 | 10.0 | 65 |   | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 8 | 4 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 10 | 7 | 6.0 | 52 | +1:35.004 | Force India 🇮🇳 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 9 | 6 |
@@ -43,15 +45,15 @@ collectionId: ocon
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 15 |  |  | 15 | 15 | 15 | 15 | 2 |  |  | 15 | 12 |
-| **Total Sum** | 174.000 |  |  | 263.000 | 207.000 | 19.000 | 871.000 | 69.534 |  |  | 220.000 | 145.000 |
-| **Mean μ (Average)** | 11.600 |  |  | 17.533 | 13.800 | 1.267 | 58.067 | 34.767 |  |  | 14.667 | 12.083 |
+| **Row Count** | 17 |  |  | 17 | 17 | 17 | 17 | 4 |  |  | 17 | 13 |
+| **Total Sum** | 189.000 |  |  | 279.000 | 219.000 | 35.000 | 992.000 | 140.548 |  |  | 234.000 | 150.000 |
+| **Mean μ (Average)** | 11.118 |  |  | 16.412 | 12.882 | 2.059 | 58.353 | 35.137 |  |  | 13.765 | 11.538 |
 | **Maximum** | 21.000 |  |  | 22.000 | 21.000 | 10.000 | 78.000 | 45.809 |  |  | 21.000 | 22.000 |
-| **75th Percentile** | 18.000 |  |  | 21.000 | 18.000 | 1.000 | 65.000 | 45.809 |  |  | 19.000 | 16.000 |
-| **Median** | 14.000 |  |  | 20.000 | 13.000 |  | 55.000 | 45.809 |  |  | 16.000 | 14.000 |
-| **25th Percentile** | 4.000 |  |  | 14.000 | 10.000 |  | 52.000 | 23.725 |  |  | 9.000 | 7.000 |
-| **Minimum** | 1.000 |  |  | 10.000 | 5.000 |  | 43.000 | 23.725 |  |  | 7.000 | 4.000 |
-| **Variance** | 48.907 |  |  | 16.649 | 22.693 | 7.662 | 76.062 | 121.926 |  |  | 24.356 | 26.910 |
-| **Standard Deviation σ** | 6.993 |  |  | 4.080 | 4.764 | 2.768 | 8.721 | 11.042 |  |  | 4.935 | 5.187 |
+| **75th Percentile** | 17.000 |  |  | 20.000 | 18.000 | 1.000 | 65.000 | 45.809 |  |  | 19.000 | 15.000 |
+| **Median** | 13.000 |  |  | 17.000 | 12.000 |  | 55.000 | 40.716 |  |  | 15.000 | 13.000 |
+| **25th Percentile** | 5.000 |  |  | 13.000 | 10.000 |  | 52.000 | 30.298 |  |  | 8.000 | 7.000 |
+| **Minimum** | 1.000 |  |  | 7.000 | 5.000 |  | 43.000 | 23.725 |  |  | 6.000 | 4.000 |
+| **Variance** | 44.927 |  |  | 24.242 | 26.339 | 11.467 | 78.346 | 74.667 |  |  | 27.709 | 28.402 |
+| **Standard Deviation σ** | 6.703 |  |  | 4.924 | 5.132 | 3.386 | 8.851 | 8.641 |  |  | 5.264 | 5.329 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

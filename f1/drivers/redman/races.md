@@ -26,7 +26,7 @@ collectionId: redman
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
 | 1974 | 6 | 1974 Monaco Grand Prix 🇲🇨 | 1974-05-26 | 16 | R | 0.0 | 0 |   | Shadow 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 6 | 3 |
 | 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 18 | 18 | 0.0 | 80 |   | Shadow 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 17 | 13 |
-| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28 | 21 | 7 | 0.0 | 81 |   | Shadow 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 12 | R |
+| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28 | 21 | 7 | 0.0 | 81 |   | Shadow 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 12 | N |
 | 1973 | 15 | 1973 United States Grand Prix 🇺🇸 | 1973-10-07 | 13 | D | 0.0 | 5 |   | Shadow 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 18 | 13 |
 | 1973 | 15 | 1973 United States Grand Prix 🇺🇸 | 1973-10-07 | 13 | D | 0.0 | 5 |   | Shadow 🇬🇧 | [George Follmer 🇺🇸](/f1/drivers/follmer) | 20 | 14 |
 | 1973 | 15 | 1973 United States Grand Prix 🇺🇸 | 1973-10-07 | 13 | D | 0.0 | 5 |   | Shadow 🇬🇧 | [Jackie Oliver 🇬🇧](/f1/drivers/oliver) | 22 | 15 |

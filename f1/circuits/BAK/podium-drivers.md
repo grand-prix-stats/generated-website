@@ -30,9 +30,15 @@ var data = {
             "backgroundColor": [
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
+                "#1D181E",
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E"
@@ -41,15 +47,21 @@ var data = {
             "data": [
                 1.0,
                 1.0,
+                1.0,
+                1.0,
+                1.0,
                 1.0
             ],
             "label": "Number Of Podiums"
         }
     ],
     "labels": [
+        "Daniel Ricciardo",
+        "Lance Stroll",
         "Nico Rosberg",
         "Sebastian Vettel",
-        "Sergio Pérez"
+        "Sergio Pérez",
+        "Valtteri Bottas"
     ]
 };
 var options = {
@@ -87,15 +99,18 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Podiums |
 |--|--|--|
-| 1. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
-| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
-| 3. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
+| 1. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 2. | [Lance Stroll 🇨🇦](/f1/drivers/stroll) | 1 |
+| 3. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 4. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 5. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 1 |
+| 6. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Podiums** |
-| **Row Count** | 3 |
-| **Total Sum** | 3.000 |
+| **Row Count** | 6 |
+| **Total Sum** | 6.000 |
 | **Mean μ (Average)** | 1.000 |
 | **Maximum** | 1.000 |
 | **75th Percentile** | 1.000 |

@@ -100,7 +100,7 @@ collectionId: katayama
 | 1993 | 8 | 1993 French Grand Prix 🇫🇷 | 1993-07-04 | 24 | R | 0.0 | 16 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 25 | 15 |
 | 1993 | 7 | 1993 Canadian Grand Prix 🇨🇦 | 1993-06-13 | 22 | 17 | 0.0 | 64 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 19 | R |
 | 1993 | 6 | 1993 Monaco Grand Prix 🇲🇨 | 1993-05-23 | 22 | R | 0.0 | 31 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 19 | 10 |
-| 1993 | 5 | 1993 Spanish Grand Prix 🇪🇸 | 1993-05-09 | 23 | R | 0.0 | 11 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 24 | R |
+| 1993 | 5 | 1993 Spanish Grand Prix 🇪🇸 | 1993-05-09 | 23 | R | 0.0 | 11 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 24 | D |
 | 1993 | 4 | 1993 San Marino Grand Prix 🇮🇹 | 1993-04-25 | 22 | R | 0.0 | 22 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 18 | R |
 | 1993 | 3 | 1993 European Grand Prix 🇬🇧 | 1993-04-11 | 18 | R | 0.0 | 11 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 25 | R |
 | 1993 | 2 | 1993 Brazilian Grand Prix 🇧🇷 | 1993-03-28 | 22 | R | 0.0 | 26 |   | Tyrrell 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 23 | R |

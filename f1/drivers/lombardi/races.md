@@ -33,7 +33,7 @@ collectionId: lombardi
 | 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 24 | R | 0.0 | 21 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 9 | R |
 | 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 21 | 17 | 0.0 | 26 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 8 | 1 |
 | 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 21 | 17 | 0.0 | 26 |   | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 4 | R |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 21 | 17 | 0.0 | 26 |   | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 20 | N |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 21 | 17 | 0.0 | 26 |   | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 20 | W |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 25 | 7 | 0.0 | 14 | +7:30.4 | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 7 | R |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 25 | 7 | 0.0 | 14 | +7:30.4 | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 11 | R |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 25 | 7 | 0.0 | 14 | +7:30.4 | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 19 | R |

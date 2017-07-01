@@ -70,7 +70,7 @@ collectionId: henton
 | 1977 | 4 | 1977 United States Grand Prix West 🇺🇸 | 1977-04-03 | 18 | 10 | 0.0 | 77 |   | March 🇬🇧 | [Alex Ribeiro 🇧🇷](/f1/drivers/ribeiro) | 22 | R |
 | 1977 | 4 | 1977 United States Grand Prix West 🇺🇸 | 1977-04-03 | 18 | 10 | 0.0 | 77 |   | March 🇬🇧 | [Brett Lunger 🇺🇸](/f1/drivers/lunger) | 21 | R |
 | 1975 | 14 | 1975 United States Grand Prix 🇺🇸 | 1975-10-05 | 19 | N | 0.0 | 49 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 14 | 5 |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 22 | N | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 13 | 5 |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 22 | W | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 13 | 5 |
 | 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 21 | 16 | 0.0 | 53 |   | Team Lotus 🇬🇧 | [Jim Crawford 🇬🇧](/f1/drivers/crawford) | 25 | R |
 | 1975 | 10 | 1975 British Grand Prix 🇬🇧 | 1975-07-19 | 21 | 16 | 0.0 | 53 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 16 | R |
 

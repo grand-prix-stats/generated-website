@@ -47,7 +47,7 @@ collectionId: hungary
 | 1997 | 11 | 1997 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1997-08-10 | 77 | 1:45:47.149 | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | Williams 🇬🇧 |
 | 1996 | 12 | 1996 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1996-08-11 | 77 | 1:46:21.134 | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | Williams 🇬🇧 |
 | 1995 | 10 | 1995 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1995-08-13 | 77 | 1:46:25.721 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
-| 1994 | 10 | 1994 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1994-08-14 | 77 | 1.48:00.185 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
+| 1994 | 10 | 1994 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1994-08-14 | 77 | 1:48:00.185 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
 | 1993 | 11 | 1993 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1993-08-15 | 77 | 1:47:39.098 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
 | 1992 | 11 | 1992 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1992-08-16 | 77 | 1:46:19.216 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | McLaren 🇬🇧 |
 | 1991 | 10 | 1991 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1991-08-11 | 77 | 1:49:12.796 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | McLaren 🇬🇧 |

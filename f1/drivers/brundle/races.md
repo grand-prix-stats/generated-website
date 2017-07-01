@@ -138,7 +138,7 @@ collectionId: brundle
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 20 | 11 | 0.0 | 70 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 22 | R |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 17 | R | 0.0 | 35 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 16 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 17 | R | 0.0 | 43 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 16 | 9 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 17 | D | 0.0 | 48 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 20 | 9 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 17 | D | 0.0 | 48 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 20 | 9 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 22 | R | 0.0 | 45 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 23 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 19 | N | 0.0 | 34 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 20 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 17 | N | 0.0 | 54 |   | Zakspeed 🇩🇪 | [Christian Danner 🇩🇪](/f1/drivers/danner) | 18 | R |
@@ -164,7 +164,7 @@ collectionId: brundle
 | 1986 | 3 | 1986 San Marino Grand Prix 🇮🇹 | 1986-04-27 | 13 | 8 | 0.0 | 58 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 22 | R |
 | 1986 | 2 | 1986 Spanish Grand Prix 🇪🇸 | 1986-04-13 | 12 | R | 0.0 | 41 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 20 | R |
 | 1986 | 1 | 1986 Brazilian Grand Prix 🇧🇷 | 1986-03-23 | 17 | 5 | 2.0 | 60 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 18 | 7 |
-| 1985 | 16 | 1985 Australian Grand Prix 🇦🇺 | 1985-11-03 | 17 | R | 0.0 | 49 |   | Tyrrell 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 22 | 4 |
+| 1985 | 16 | 1985 Australian Grand Prix 🇦🇺 | 1985-11-03 | 17 | N | 0.0 | 49 |   | Tyrrell 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 22 | 4 |
 | 1985 | 15 | 1985 South African Grand Prix 🇿🇦 | 1985-10-19 | 17 | 7 | 0.0 | 73 |   | Tyrrell 🇬🇧 | [Philippe Streiff 🇫🇷](/f1/drivers/streiff) | 19 | R |
 | 1985 | 14 | 1985 European Grand Prix 🇬🇧 | 1985-10-06 | 16 | R | 0.0 | 40 |   | Tyrrell 🇬🇧 | [Ivan Capelli 🇮🇹](/f1/drivers/capelli) | 24 | R |
 | 1985 | 11 | 1985 Dutch Grand Prix 🇳🇱 | 1985-08-25 | 21 | 7 | 0.0 | 69 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 22 | R |
@@ -178,14 +178,14 @@ collectionId: brundle
 | 1985 | 3 | 1985 San Marino Grand Prix 🇮🇹 | 1985-05-05 | 25 | 9 | 0.0 | 56 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 24 | R |
 | 1985 | 2 | 1985 Portuguese Grand Prix 🇵🇹 | 1985-04-21 | 22 | R | 0.0 | 20 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 21 | 6 |
 | 1985 | 1 | 1985 Brazilian Grand Prix 🇧🇷 | 1985-04-07 | 21 | 8 | 0.0 | 58 |   | Tyrrell 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 23 | 7 |
-| 1984 | 9 | 1984 Dallas Grand Prix 🇺🇸 | 1984-07-08 | 0 | F | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 17 | R |
+| 1984 | 9 | 1984 Dallas Grand Prix 🇺🇸 | 1984-07-08 | 0 | F | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 17 | D |
 | 1984 | 8 | 1984 Detroit Grand Prix 🇺🇸 | 1984-06-24 | 11 | D | 0.0 | 63 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 16 | D |
 | 1984 | 7 | 1984 Canadian Grand Prix 🇨🇦 | 1984-06-17 | 21 | D | 0.0 | 68 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 22 | D |
 | 1984 | 6 | 1984 Monaco Grand Prix 🇲🇨 | 1984-06-03 | 0 | F | 0.0 | 0 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 20 | D |
 | 1984 | 5 | 1984 French Grand Prix 🇫🇷 | 1984-05-20 | 23 | D | 0.0 | 76 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 20 | D |
 | 1984 | 4 | 1984 San Marino Grand Prix 🇮🇹 | 1984-05-06 | 22 | D | 0.0 | 55 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 21 | D |
 | 1984 | 3 | 1984 Belgian Grand Prix 🇧🇪 | 1984-04-29 | 22 | D | 0.0 | 51 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 21 | D |
-| 1984 | 2 | 1984 South African Grand Prix 🇿🇦 | 1984-04-07 | 25 | R | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 24 | R |
+| 1984 | 2 | 1984 South African Grand Prix 🇿🇦 | 1984-04-07 | 25 | D | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 24 | D |
 | 1984 | 1 | 1984 Brazilian Grand Prix 🇧🇷 | 1984-03-25 | 18 | D | 0.0 | 60 |   | Tyrrell 🇬🇧 | [Stefan Bellof 🇩🇪](/f1/drivers/bellof) | 22 | D |
 
 #### Statistic Summary

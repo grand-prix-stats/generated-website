@@ -24,6 +24,8 @@ collectionId: vettel
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 4 | 4 | 12.0 | 51 | +5.976 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 3 | 14 |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 2 | 4 | 12.0 | 70 | +35.907 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 | 7 |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 2 | 1 | 25.0 | 78 | 1:44:44.340 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1 | 2 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 2 | 2 | 18.0 | 66 | +3.490 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 4 | R |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 1 | 2 | 18.0 | 52 | +0.617 | Ferrari 🇮🇹 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 | 3 |
@@ -90,7 +92,7 @@ collectionId: vettel
 | 2014 | 2 | 2014 Malaysian Grand Prix 🇲🇾 | 2014-03-30 | 2 | 3 | 15.0 | 56 | +24.534 | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 5 | R |
 | 2014 | 1 | 2014 Australian Grand Prix 🇦🇺 | 2014-03-16 | 12 | R | 0.0 | 3 |   | Red Bull 🇦🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2 | D |
 | 2013 | 19 | 2013 Brazilian Grand Prix 🇧🇷 | 2013-11-24 | 1 | 1 | 25.0 | 71 | 1:32:36.300 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 4 | 2 |
-| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | 2013-11-17 | 1 | 1 | 25.0 | 56 | 1:39:17.168 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 | 3 |
+| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | 2013-11-17 | 1 | 1 | 25.0 | 56 | 1:39:17.148 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 | 3 |
 | 2013 | 17 | 2013 Abu Dhabi Grand Prix 🇦🇪 | 2013-11-03 | 2 | 1 | 25.0 | 55 | 1:38:06.106 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 | 2 |
 | 2013 | 16 | 2013 Indian Grand Prix 🇮🇳 | 2013-10-27 | 1 | 1 | 25.0 | 60 | 1:31:12.187 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 4 | R |
 | 2013 | 15 | 2013 Japanese Grand Prix 🇯🇵 | 2013-10-13 | 2 | 1 | 25.0 | 53 | 1:26:49.301 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 | 2 |
@@ -99,7 +101,7 @@ collectionId: vettel
 | 2013 | 12 | 2013 Italian Grand Prix 🇮🇹 | 2013-09-08 | 1 | 1 | 25.0 | 53 | 1:18:33.352 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 2 | 3 |
 | 2013 | 11 | 2013 Belgian Grand Prix 🇧🇪 | 2013-08-25 | 2 | 1 | 25.0 | 44 | 1:23:42.196 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 3 | 5 |
 | 2013 | 10 | 2013 Hungarian Grand Prix 🇭🇺 | 2013-07-28 | 2 | 3 | 15.0 | 70 | +12.459 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 10 | 4 |
-| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | 2013-07-07 | 2 | 1 | 25.0 | 60 | 1:41.14.711 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 3 | 7 |
+| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | 2013-07-07 | 2 | 1 | 25.0 | 60 | 1:41:14.711 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 3 | 7 |
 | 2013 | 8 | 2013 British Grand Prix 🇬🇧 | 2013-06-30 | 3 | R | 0.0 | 41 |   | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 4 | 2 |
 | 2013 | 7 | 2013 Canadian Grand Prix 🇨🇦 | 2013-06-09 | 1 | 1 | 25.0 | 70 | 1:32:09.143 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 5 | 4 |
 | 2013 | 6 | 2013 Monaco Grand Prix 🇲🇨 | 2013-05-26 | 3 | 2 | 18.0 | 78 | +3.888 | Red Bull 🇦🇹 | [Mark Webber 🇦🇺](/f1/drivers/webber) | 4 | 3 |
@@ -213,15 +215,15 @@ collectionId: vettel
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 185 |  |  | 185 | 159 | 185 | 185 | 95 |  |  | 185 | 156 |
-| **Total Sum** | 1841.000 |  |  | 977.000 | 631.000 | 2237.000 | 9999.000 | 2221.489 |  |  | 1205.000 | 870.000 |
-| **Mean μ (Average)** | 9.951 |  |  | 5.281 | 3.969 | 12.092 | 54.049 | 23.384 |  |  | 6.514 | 5.577 |
+| **Row Count** | 187 |  |  | 187 | 161 | 187 | 187 | 97 |  |  | 187 | 158 |
+| **Total Sum** | 1856.000 |  |  | 983.000 | 639.000 | 2261.000 | 10120.000 | 2263.372 |  |  | 1212.000 | 891.000 |
+| **Mean μ (Average)** | 9.925 |  |  | 5.257 | 3.969 | 12.091 | 54.118 | 23.334 |  |  | 6.481 | 5.639 |
 | **Maximum** | 21.000 |  |  | 24.000 | 22.000 | 25.000 | 78.000 | 67.700 |  |  | 22.000 | 20.000 |
-| **75th Percentile** | 15.000 |  |  | 7.000 | 5.000 | 18.000 | 66.000 | 38.011 |  |  | 9.000 | 7.000 |
+| **75th Percentile** | 15.000 |  |  | 7.000 | 5.000 | 18.000 | 66.000 | 37.817 |  |  | 9.000 | 7.000 |
 | **Median** | 10.000 |  |  | 3.000 | 3.000 | 12.000 | 56.000 | 20.269 |  |  | 5.000 | 4.000 |
-| **25th Percentile** | 5.000 |  |  | 1.000 | 1.000 | 4.000 | 52.000 | 5.953 |  |  | 3.000 | 3.000 |
+| **25th Percentile** | 5.000 |  |  | 1.000 | 1.000 | 4.000 | 52.000 | 5.976 |  |  | 3.000 | 3.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.293 |  |  | 1.000 | 1.000 |
-| **Variance** | 30.511 |  |  | 27.402 | 14.458 | 80.127 | 299.895 | 317.579 |  |  | 26.639 | 16.770 |
-| **Standard Deviation σ** | 5.524 |  |  | 5.235 | 3.802 | 8.951 | 17.317 | 17.821 |  |  | 5.161 | 4.095 |
+| **Variance** | 30.251 |  |  | 27.175 | 14.279 | 79.270 | 298.093 | 315.769 |  |  | 26.453 | 17.015 |
+| **Standard Deviation σ** | 5.500 |  |  | 5.213 | 3.779 | 8.903 | 17.265 | 17.770 |  |  | 5.143 | 4.125 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

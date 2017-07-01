@@ -247,7 +247,7 @@ collectionId: button
 | 2005 | 4 | 2005 San Marino Grand Prix 🇮🇹 | 2005-04-24 | 3 | D | 0.0 | 62 | +10.4 | BAR 🇬🇧 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 6 | D |
 | 2005 | 3 | 2005 Bahrain Grand Prix 🇧🇭 | 2005-04-03 | 11 | R | 0.0 | 46 |   | BAR 🇬🇧 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 13 | R |
 | 2005 | 2 | 2005 Malaysian Grand Prix 🇲🇾 | 2005-03-20 | 9 | R | 0.0 | 2 |   | BAR 🇬🇧 | [Anthony Davidson 🇬🇧](/f1/drivers/davidson) | 15 | R |
-| 2005 | 1 | 2005 Australian Grand Prix 🇦🇺 | 2005-03-06 | 8 | R | 0.0 | 56 |   | BAR 🇬🇧 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 20 | R |
+| 2005 | 1 | 2005 Australian Grand Prix 🇦🇺 | 2005-03-06 | 8 | 11 | 0.0 | 56 |   | BAR 🇬🇧 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 20 | 14 |
 | 2004 | 18 | 2004 Brazilian Grand Prix 🇧🇷 | 2004-10-24 | 5 | R | 0.0 | 3 |   | BAR 🇬🇧 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 6 | 6 |
 | 2004 | 17 | 2004 Japanese Grand Prix 🇯🇵 | 2004-10-10 | 5 | 3 | 6.0 | 53 | +19.662 | BAR 🇬🇧 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 4 | 4 |
 | 2004 | 16 | 2004 Chinese Grand Prix 🇨🇳 | 2004-09-26 | 3 | 2 | 8.0 | 56 | +1.035 | BAR 🇬🇧 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 18 | 6 |
@@ -337,15 +337,15 @@ collectionId: button
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 309 |  |  | 309 | 242 | 309 | 309 | 105 |  |  | 309 | 230 |
-| **Total Sum** | 2990.000 |  |  | 3092.000 | 1793.000 | 1235.000 | 16274.000 | 2994.789 |  |  | 3005.000 | 1882.000 |
-| **Mean μ (Average)** | 9.676 |  |  | 10.006 | 7.409 | 3.997 | 52.667 | 28.522 |  |  | 9.725 | 8.183 |
+| **Row Count** | 309 |  |  | 309 | 243 | 309 | 309 | 105 |  |  | 309 | 231 |
+| **Total Sum** | 2990.000 |  |  | 3092.000 | 1804.000 | 1235.000 | 16274.000 | 2994.789 |  |  | 3005.000 | 1896.000 |
+| **Mean μ (Average)** | 9.676 |  |  | 10.006 | 7.424 | 3.997 | 52.667 | 28.522 |  |  | 9.725 | 8.208 |
 | **Maximum** | 21.000 |  |  | 22.000 | 18.000 | 25.000 | 78.000 | 72.056 |  |  | 24.000 | 20.000 |
 | **75th Percentile** | 14.000 |  |  | 14.000 | 11.000 | 6.000 | 66.000 | 40.794 |  |  | 14.000 | 11.000 |
 | **Median** | 10.000 |  |  | 10.000 | 7.000 | 1.000 | 56.000 | 27.996 |  |  | 9.000 | 8.000 |
 | **25th Percentile** | 5.000 |  |  | 5.000 | 4.000 |  | 52.000 | 12.658 |  |  | 5.000 | 5.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.497 |  |  | 1.000 | 1.000 |
-| **Variance** | 28.452 |  |  | 29.275 | 18.895 | 35.285 | 363.465 | 289.393 |  |  | 30.607 | 19.436 |
-| **Standard Deviation σ** | 5.334 |  |  | 5.411 | 4.347 | 5.940 | 19.065 | 17.012 |  |  | 5.532 | 4.409 |
+| **Variance** | 28.452 |  |  | 29.275 | 18.870 | 35.285 | 363.465 | 289.393 |  |  | 30.607 | 19.498 |
+| **Standard Deviation σ** | 5.334 |  |  | 5.411 | 4.344 | 5.940 | 19.065 | 17.012 |  |  | 5.532 | 4.416 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -109,7 +109,7 @@ collectionId: prost
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 7 | 2 | 6.0 | 72 | +22.225 | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 11 | 3 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 3 | 1 | 9.0 | 70 | 1:37:03.906 | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 8 | 5 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 5 | 15 | 0.0 | 46 |   | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 11 | 6 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 9 | 6 | 1.0 | 50 |   | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 14 | 7 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 9 | 6 | 1.0 | 50 |   | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 14 | 7 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 4 | 3 | 4.0 | 76 | +1:27.456 | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 8 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 3 | 7 | 0.0 | 39 |   | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 8 | 2 |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 4 | R | 0.0 | 53 |   | McLaren 🇬🇧 | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 10 | R |

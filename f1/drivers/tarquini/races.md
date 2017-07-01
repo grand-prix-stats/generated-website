@@ -55,7 +55,7 @@ collectionId: tarquini
 | 1990 | 15 | 1990 Japanese Grand Prix 🇯🇵 | 1990-10-21 | 0 | F | 0.0 | 0 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
 | 1990 | 14 | 1990 Spanish Grand Prix 🇪🇸 | 1990-09-30 | 22 | R | 0.0 | 5 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 23 | 9 |
 | 1990 | 13 | 1990 Portuguese Grand Prix 🇵🇹 | 1990-09-23 | 0 | F | 0.0 | 0 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 24 | R |
-| 1990 | 12 | 1990 Italian Grand Prix 🇮🇹 | 1990-09-09 | 0 | F | 0.0 | 0 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 24 | R |
+| 1990 | 12 | 1990 Italian Grand Prix 🇮🇹 | 1990-09-09 | 0 | F | 0.0 | 0 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 24 | N |
 | 1990 | 11 | 1990 Belgian Grand Prix 🇧🇪 | 1990-08-26 | 0 | F | 0.0 | 0 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
 | 1990 | 10 | 1990 Hungarian Grand Prix 🇭🇺 | 1990-08-12 | 24 | 13 | 0.0 | 74 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
 | 1990 | 9 | 1990 German Grand Prix 🇩🇪 | 1990-07-29 | 0 | F | 0.0 | 0 |   | AGS 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |

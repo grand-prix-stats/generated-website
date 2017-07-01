@@ -135,7 +135,7 @@ collectionId:
 | [Carlos Menditeguy](/f1/drivers/menditeguy) | [Argentina](/f1/countries/argentina) | 🇦🇷 | 7 | 0 | 0 | 12 | 0 | 0 | 1 | 4 | 3 | 4 | 8 | 0 | 9.0 |
 | [Carlos Pace](/f1/drivers/pace) | [Brazil](/f1/countries/brazil) | 🇧🇷 | 6 | 0 | 0 | 73 | 1 | 1 | 6 | 29 | 16 | 37 | 35 | 1 | 58.0 |
 | [Carlos Reutemann](/f1/drivers/reutemann) | [Argentina](/f1/countries/argentina) | 🇦🇷 | 11 | 0 | 1 | 146 | 6 | 12 | 45 | 86 | 66 | 97 | 49 | 0 | 310.0 |
-| [Carlos Sainz](/f1/drivers/sainz) | [Spain](/f1/countries/spain) | 🇪🇸 | 3 | 0 | 0 | 46 | 0 | 0 | 0 | 22 | 22 | 34 | 12 | 0 | 89.0 |
+| [Carlos Sainz](/f1/drivers/sainz) | [Spain](/f1/countries/spain) | 🇪🇸 | 3 | 0 | 0 | 48 | 0 | 0 | 0 | 23 | 23 | 35 | 13 | 0 | 93.0 |
 | [Carroll Shelby](/f1/drivers/shelby) | [USA](/f1/countries/usa) | 🇺🇸 | 2 | 0 | 0 | 9 | 0 | 0 | 0 | 4 | 0 | 4 | 5 | 0 | 0.0 |
 | [Cecil Green](/f1/drivers/green) | [USA](/f1/countries/usa) | 🇺🇸 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 3.0 |
 | [Cesare Perdisa](/f1/drivers/perdisa) | [Italy](/f1/countries/italy) | 🇮🇹 | 3 | 0 | 0 | 9 | 0 | 0 | 2 | 7 | 3 | 7 | 1 | 1 | 5.0 |
@@ -176,8 +176,8 @@ collectionId:
 | [Damien Magee](/f1/drivers/magee) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0.0 |
 | [Damon Hill](/f1/drivers/damon_hill) | [UK](/f1/countries/uk) | 🇬🇧 | 8 | 1 | 2 | 122 | 20 | 22 | 42 | 70 | 56 | 77 | 39 | 6 | 360.0 |
 | [Dan Gurney](/f1/drivers/gurney) | [USA](/f1/countries/usa) | 🇺🇸 | 11 | 0 | 0 | 87 | 3 | 4 | 19 | 41 | 31 | 44 | 42 | 1 | 133.0 |
-| [Daniel Ricciardo](/f1/drivers/ricciardo) | [Australia](/f1/countries/australia) | 🇦🇺 | 7 | 0 | 0 | 115 | 1 | 4 | 20 | 66 | 66 | 101 | 13 | 1 | 668.0 |
-| [Daniil Kvyat](/f1/drivers/kvyat) | [Russia](/f1/countries/russia) | 🇷🇺 | 4 | 0 | 0 | 65 | 0 | 0 | 2 | 26 | 26 | 50 | 15 | 0 | 132.0 |
+| [Daniel Ricciardo](/f1/drivers/ricciardo) | [Australia](/f1/countries/australia) | 🇦🇺 | 7 | 0 | 0 | 117 | 1 | 5 | 22 | 68 | 68 | 103 | 13 | 1 | 708.0 |
+| [Daniil Kvyat](/f1/drivers/kvyat) | [Russia](/f1/countries/russia) | 🇷🇺 | 4 | 0 | 0 | 67 | 0 | 0 | 2 | 26 | 26 | 50 | 17 | 0 | 132.0 |
 | [Danny Kladis](/f1/drivers/kladis) | [USA](/f1/countries/usa) | 🇺🇸 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Danny Ongais](/f1/drivers/ongais) | [USA](/f1/countries/usa) | 🇺🇸 | 2 | 0 | 0 | 6 | 0 | 0 | 0 | 1 | 0 | 1 | 3 | 2 | 0.0 |
 | [Danny Sullivan](/f1/drivers/sullivan) | [USA](/f1/countries/usa) | 🇺🇸 | 1 | 0 | 0 | 15 | 0 | 0 | 0 | 3 | 1 | 7 | 8 | 0 | 2.0 |
@@ -255,7 +255,7 @@ collectionId:
 | [Ernst Loof](/f1/drivers/loof) | [Germany](/f1/countries/germany) | 🇩🇪 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Erwin Bauer](/f1/drivers/bauer) | [Germany](/f1/countries/germany) | 🇩🇪 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Esteban Gutiérrez](/f1/drivers/gutierrez) | [Mexico](/f1/countries/mexico) | 🇲🇽 | 3 | 0 | 0 | 59 | 0 | 0 | 0 | 1 | 1 | 46 | 13 | 0 | 6.0 |
-| [Esteban Ocon](/f1/drivers/ocon) | [France](/f1/countries/france) | 🇫🇷 | 2 | 0 | 0 | 15 | 0 | 0 | 0 | 5 | 5 | 15 | 0 | 0 | 19.0 |
+| [Esteban Ocon](/f1/drivers/ocon) | [France](/f1/countries/france) | 🇫🇷 | 2 | 0 | 0 | 17 | 0 | 0 | 0 | 7 | 7 | 17 | 0 | 0 | 35.0 |
 | [Esteban Tuero](/f1/drivers/tuero) | [Argentina](/f1/countries/argentina) | 🇦🇷 | 1 | 0 | 0 | 16 | 0 | 0 | 0 | 1 | 0 | 4 | 12 | 0 | 0.0 |
 | [Ettore Chimeri](/f1/drivers/chimeri) | [Venezuela](/f1/countries/venezuela) | 🇻🇪 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Eugène Chaboud](/f1/drivers/chaboud) | [France](/f1/countries/france) | 🇫🇷 | 2 | 0 | 0 | 3 | 0 | 0 | 0 | 2 | 1 | 2 | 1 | 0 | 1.0 |
@@ -263,9 +263,9 @@ collectionId:
 | [Eugenio Castellotti](/f1/drivers/castellotti) | [Italy](/f1/countries/italy) | 🇮🇹 | 3 | 0 | 0 | 17 | 3 | 0 | 3 | 8 | 5 | 8 | 9 | 0 | 19.5 |
 | [Fabrizio Barbazza](/f1/drivers/barbazza) | [Italy](/f1/countries/italy) | 🇮🇹 | 2 | 0 | 0 | 20 | 0 | 0 | 0 | 2 | 2 | 3 | 5 | 12 | 2.0 |
 | [Felice Bonetto](/f1/drivers/bonetto) | [Italy](/f1/countries/italy) | 🇮🇹 | 4 | 0 | 0 | 17 | 1 | 0 | 2 | 9 | 8 | 9 | 8 | 0 | 17.5 |
-| [Felipe Massa](/f1/drivers/massa) | [Brazil](/f1/countries/brazil) | 🇧🇷 | 15 | 0 | 1 | 258 | 16 | 11 | 41 | 178 | 156 | 218 | 39 | 1 | 1144.0 |
+| [Felipe Massa](/f1/drivers/massa) | [Brazil](/f1/countries/brazil) | 🇧🇷 | 15 | 0 | 1 | 260 | 16 | 11 | 41 | 178 | 156 | 218 | 41 | 1 | 1144.0 |
 | [Felipe Nasr](/f1/drivers/nasr) | [Brazil](/f1/countries/brazil) | 🇧🇷 | 2 | 0 | 0 | 40 | 0 | 0 | 0 | 7 | 7 | 33 | 6 | 1 | 29.0 |
-| [Fernando Alonso](/f1/drivers/alonso) | [Spain](/f1/countries/spain) | 🇪🇸 | 16 | 2 | 3 | 279 | 22 | 32 | 97 | 195 | 188 | 230 | 49 | 0 | 1832.0 |
+| [Fernando Alonso](/f1/drivers/alonso) | [Spain](/f1/countries/spain) | 🇪🇸 | 16 | 2 | 3 | 281 | 22 | 32 | 97 | 196 | 189 | 232 | 49 | 0 | 1834.0 |
 | [Franck Lagorce](/f1/drivers/lagorce) | [France](/f1/countries/france) | 🇫🇷 | 1 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0.0 |
 | [Franck Montagny](/f1/drivers/montagny) | [France](/f1/countries/france) | 🇫🇷 | 1 | 0 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 3 | 4 | 0 | 0.0 |
 | [Franco Comotti](/f1/drivers/comotti) | [Italy](/f1/countries/italy) | 🇮🇹 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0.0 |
@@ -471,7 +471,7 @@ collectionId:
 | [Johnny Servoz-Gavin](/f1/drivers/gavin) | [France](/f1/countries/france) | 🇫🇷 | 4 | 0 | 0 | 12 | 0 | 0 | 1 | 4 | 3 | 4 | 7 | 1 | 9.0 |
 | [Johnny Thomson](/f1/drivers/thomson) | [USA](/f1/countries/usa) | 🇺🇸 | 8 | 0 | 0 | 9 | 1 | 0 | 1 | 3 | 3 | 4 | 5 | 0 | 10.0 |
 | [Joie Chitwood](/f1/drivers/chitwood) | [USA](/f1/countries/usa) | 🇺🇸 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1.0 |
-| [Jolyon Palmer](/f1/drivers/jolyon_palmer) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 27 | 0 | 0 | 0 | 1 | 1 | 19 | 8 | 0 | 1.0 |
+| [Jolyon Palmer](/f1/drivers/jolyon_palmer) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 29 | 0 | 0 | 0 | 1 | 1 | 20 | 9 | 0 | 1.0 |
 | [Jonathan Palmer](/f1/drivers/palmer) | [UK](/f1/countries/uk) | 🇬🇧 | 7 | 0 | 0 | 88 | 0 | 0 | 0 | 30 | 8 | 45 | 39 | 4 | 14.0 |
 | [Jonathan Williams](/f1/drivers/williams) | [UK](/f1/countries/uk) | 🇬🇧 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0.0 |
 | [Jorge Daponte](/f1/drivers/daponte) | [Argentina](/f1/countries/argentina) | 🇦🇷 | 1 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0.0 |
@@ -505,8 +505,8 @@ collectionId:
 | [Kenneth McAlpine](/f1/drivers/mcalpine) | [UK](/f1/countries/uk) | 🇬🇧 | 3 | 0 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 2 | 5 | 0 | 0.0 |
 | [Kenny Acheson](/f1/drivers/acheson) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 6 | 0.0 |
 | [Kevin Cogan](/f1/drivers/cogan) | [USA](/f1/countries/usa) | 🇺🇸 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0.0 |
-| [Kevin Magnussen](/f1/drivers/kevin_magnussen) | [Denmark](/f1/countries/denmark) | 🇩🇰 | 4 | 0 | 0 | 47 | 0 | 0 | 1 | 16 | 16 | 39 | 8 | 0 | 67.0 |
-| [Kimi Räikkönen](/f1/drivers/raikkonen) | [Finland](/f1/countries/finland) | 🇫🇮 | 15 | 1 | 2 | 259 | 17 | 20 | 86 | 188 | 176 | 203 | 56 | 0 | 1427.0 |
+| [Kevin Magnussen](/f1/drivers/kevin_magnussen) | [Denmark](/f1/countries/denmark) | 🇩🇰 | 4 | 0 | 0 | 49 | 0 | 0 | 1 | 17 | 17 | 41 | 8 | 0 | 73.0 |
+| [Kimi Räikkönen](/f1/drivers/raikkonen) | [Finland](/f1/countries/finland) | 🇫🇮 | 15 | 1 | 2 | 261 | 17 | 20 | 86 | 189 | 177 | 205 | 56 | 0 | 1433.0 |
 | [Kunimitsu Takahashi](/f1/drivers/takahashi) | [Japan](/f1/countries/japan) | 🇯🇵 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0.0 |
 | [Kurt Adolff](/f1/drivers/adolff) | [Germany](/f1/countries/germany) | 🇩🇪 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Kurt Ahrens](/f1/drivers/ahrens) | [Germany](/f1/countries/germany) | 🇩🇪 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0.0 |
@@ -514,7 +514,7 @@ collectionId:
 | [Lamberto Leoni](/f1/drivers/leoni) | [Italy](/f1/countries/italy) | 🇮🇹 | 2 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 3 | 0.0 |
 | [Lance Macklin](/f1/drivers/macklin) | [UK](/f1/countries/uk) | 🇬🇧 | 4 | 0 | 0 | 15 | 0 | 0 | 0 | 3 | 0 | 5 | 8 | 2 | 0.0 |
 | [Lance Reventlow](/f1/drivers/reventlow) | [USA](/f1/countries/usa) | 🇺🇸 | 1 | 0 | 0 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 0.0 |
-| [Lance Stroll](/f1/drivers/stroll) | [Canada](/f1/countries/canada) | 🇨🇦 | 1 | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 0.0 |
+| [Lance Stroll](/f1/drivers/stroll) | [Canada](/f1/countries/canada) | 🇨🇦 | 1 | 0 | 0 | 8 | 0 | 0 | 1 | 2 | 2 | 5 | 3 | 0 | 17.0 |
 | [Larry Crockett](/f1/drivers/crockett) | [USA](/f1/countries/usa) | 🇺🇸 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0.0 |
 | [Larry Perkins](/f1/drivers/perkins) | [Australia](/f1/countries/australia) | 🇦🇺 | 3 | 0 | 0 | 15 | 0 | 0 | 0 | 1 | 0 | 5 | 6 | 4 | 0.0 |
 | [Lee Wallard](/f1/drivers/wallard) | [USA](/f1/countries/usa) | 🇺🇸 | 2 | 0 | 0 | 2 | 0 | 1 | 1 | 2 | 1 | 2 | 0 | 0 | 9.0 |
@@ -526,7 +526,7 @@ collectionId:
 | [Leslie Johnson](/f1/drivers/leslie_johnson) | [UK](/f1/countries/uk) | 🇬🇧 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Leslie Marr](/f1/drivers/marr) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0.0 |
 | [Leslie Thorne](/f1/drivers/thorne) | [UK](/f1/countries/uk) | 🇬🇧 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0.0 |
-| [Lewis Hamilton](/f1/drivers/hamilton) | [UK](/f1/countries/uk) | 🇬🇧 | 11 | 3 | 2 | 194 | 64 | 55 | 108 | 161 | 158 | 171 | 23 | 0 | 2351.0 |
+| [Lewis Hamilton](/f1/drivers/hamilton) | [UK](/f1/countries/uk) | 🇬🇧 | 11 | 3 | 2 | 196 | 66 | 56 | 109 | 163 | 160 | 173 | 23 | 0 | 2386.0 |
 | [Lloyd Ruby](/f1/drivers/ruby) | [USA](/f1/countries/usa) | 🇺🇸 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0.0 |
 | [Lorenzo Bandini](/f1/drivers/bandini) | [Italy](/f1/countries/italy) | 🇮🇹 | 7 | 0 | 0 | 44 | 1 | 1 | 8 | 26 | 17 | 28 | 14 | 2 | 58.0 |
 | [Loris Kessel](/f1/drivers/kessel) | [Switzerland](/f1/countries/switzerland) | 🇨🇭 | 2 | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 | 0.0 |
@@ -552,7 +552,7 @@ collectionId:
 | [Marc Surer](/f1/drivers/surer) | [Switzerland](/f1/countries/switzerland) | 🇨🇭 | 8 | 0 | 0 | 88 | 0 | 0 | 0 | 37 | 11 | 51 | 31 | 6 | 17.0 |
 | [Marcel Balsa](/f1/drivers/balsa) | [France](/f1/countries/france) | 🇫🇷 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Marco Apicella](/f1/drivers/apicella) | [Italy](/f1/countries/italy) | 🇮🇹 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
-| [Marcus Ericsson](/f1/drivers/ericsson) | [Sweden](/f1/countries/sweden) | 🇸🇪 | 4 | 0 | 0 | 62 | 0 | 0 | 0 | 5 | 5 | 46 | 16 | 0 | 9.0 |
+| [Marcus Ericsson](/f1/drivers/ericsson) | [Sweden](/f1/countries/sweden) | 🇸🇪 | 4 | 0 | 0 | 64 | 0 | 0 | 0 | 5 | 5 | 48 | 16 | 0 | 9.0 |
 | [Maria de Filippis](/f1/drivers/filippis) | [Italy](/f1/countries/italy) | 🇮🇹 | 2 | 0 | 0 | 5 | 0 | 0 | 0 | 1 | 0 | 1 | 2 | 2 | 0.0 |
 | [Mario Andretti](/f1/drivers/mario_andretti) | [USA](/f1/countries/usa) | 🇺🇸 | 14 | 1 | 0 | 129 | 18 | 12 | 19 | 55 | 38 | 62 | 66 | 1 | 180.0 |
 | [Mário de Araújo Cabral](/f1/drivers/cabral) | [Portugal](/f1/countries/portugal) | 🇵🇹 | 4 | 0 | 0 | 5 | 0 | 0 | 0 | 1 | 0 | 1 | 3 | 1 | 0.0 |
@@ -574,7 +574,7 @@ collectionId:
 | [Max Chilton](/f1/drivers/chilton) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 35 | 0 | 0 | 0 | 0 | 0 | 32 | 3 | 0 | 0.0 |
 | [Max de Terra](/f1/drivers/terra) | [Switzerland](/f1/countries/switzerland) | 🇨🇭 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0.0 |
 | [Max Jean](/f1/drivers/jean) | [France](/f1/countries/france) | 🇫🇷 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
-| [Max Verstappen](/f1/drivers/max_verstappen) | [Netherlands](/f1/countries/netherlands) | 🇳🇱 | 3 | 0 | 0 | 46 | 0 | 1 | 8 | 31 | 31 | 37 | 8 | 1 | 298.0 |
+| [Max Verstappen](/f1/drivers/max_verstappen) | [Netherlands](/f1/countries/netherlands) | 🇳🇱 | 3 | 0 | 0 | 48 | 0 | 1 | 8 | 31 | 31 | 37 | 10 | 1 | 298.0 |
 | [Menato Boffa](/f1/drivers/boffa) | [Italy](/f1/countries/italy) | 🇮🇹 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 |
 | [Michael Andretti](/f1/drivers/andretti) | [USA](/f1/countries/usa) | 🇺🇸 | 1 | 0 | 0 | 13 | 0 | 0 | 1 | 5 | 3 | 6 | 7 | 0 | 7.0 |
 | [Michael Bartels](/f1/drivers/bartels) | [Germany](/f1/countries/germany) | 🇩🇪 | 1 | 0 | 0 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0.0 |
@@ -612,7 +612,7 @@ collectionId:
 | [Nelson Piquet Jr.](/f1/drivers/piquet_jr) | [Brazil](/f1/countries/brazil) | 🇧🇷 | 2 | 0 | 0 | 28 | 0 | 0 | 1 | 7 | 5 | 17 | 11 | 0 | 19.0 |
 | [Neville Lederle](/f1/drivers/lederle) | [South Africa](/f1/countries/south_africa) | 🇿🇦 | 3 | 0 | 0 | 3 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 2 | 1.0 |
 | [Nick Heidfeld](/f1/drivers/heidfeld) | [Germany](/f1/countries/germany) | 🇩🇪 | 12 | 0 | 0 | 184 | 1 | 0 | 13 | 101 | 70 | 138 | 46 | 0 | 259.0 |
-| [Nico Hülkenberg](/f1/drivers/hulkenberg) | [Germany](/f1/countries/germany) | 🇩🇪 | 7 | 0 | 0 | 123 | 1 | 0 | 0 | 69 | 69 | 102 | 21 | 0 | 376.0 |
+| [Nico Hülkenberg](/f1/drivers/hulkenberg) | [Germany](/f1/countries/germany) | 🇩🇪 | 7 | 0 | 0 | 125 | 1 | 0 | 0 | 70 | 70 | 103 | 22 | 0 | 380.0 |
 | [Nico Rosberg](/f1/drivers/rosberg) | [Germany](/f1/countries/germany) | 🇩🇪 | 11 | 1 | 2 | 206 | 30 | 23 | 57 | 144 | 133 | 177 | 29 | 0 | 1594.5 |
 | [Nicola Larini](/f1/drivers/larini) | [Italy](/f1/countries/italy) | 🇮🇹 | 8 | 0 | 0 | 75 | 0 | 0 | 1 | 12 | 2 | 26 | 23 | 26 | 7.0 |
 | [Nicolas Kiesa](/f1/drivers/kiesa) | [Denmark](/f1/countries/denmark) | 🇩🇰 | 1 | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0.0 |
@@ -638,7 +638,7 @@ collectionId:
 | [Paddy Driver](/f1/drivers/driver) | [South Africa](/f1/countries/south_africa) | 🇿🇦 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0.0 |
 | [Paolo Barilla](/f1/drivers/barilla) | [Italy](/f1/countries/italy) | 🇮🇹 | 2 | 0 | 0 | 15 | 0 | 0 | 0 | 0 | 0 | 4 | 5 | 6 | 0.0 |
 | [Pascal Fabre](/f1/drivers/fabre) | [France](/f1/countries/france) | 🇫🇷 | 1 | 0 | 0 | 12 | 0 | 0 | 0 | 3 | 0 | 8 | 3 | 1 | 0.0 |
-| [Pascal Wehrlein](/f1/drivers/wehrlein) | [Germany](/f1/countries/germany) | 🇩🇪 | 2 | 0 | 0 | 25 | 0 | 0 | 0 | 2 | 2 | 19 | 6 | 0 | 5.0 |
+| [Pascal Wehrlein](/f1/drivers/wehrlein) | [Germany](/f1/countries/germany) | 🇩🇪 | 2 | 0 | 0 | 27 | 0 | 0 | 0 | 3 | 3 | 21 | 6 | 0 | 6.0 |
 | [Pastor Maldonado](/f1/drivers/maldonado) | [Venezuela](/f1/countries/venezuela) | 🇻🇪 | 5 | 0 | 0 | 96 | 1 | 1 | 1 | 14 | 14 | 67 | 29 | 0 | 76.0 |
 | [Pat Flaherty](/f1/drivers/flaherty) | [USA](/f1/countries/usa) | 🇺🇸 | 6 | 0 | 0 | 6 | 1 | 1 | 1 | 3 | 1 | 3 | 3 | 0 | 8.0 |
 | [Pat O'Connor](/f1/drivers/connor) | [USA](/f1/countries/usa) | 🇺🇸 | 5 | 0 | 0 | 5 | 1 | 0 | 0 | 2 | 0 | 3 | 2 | 0 | 0.0 |
@@ -743,7 +743,7 @@ collectionId:
 | [Roger Williamson](/f1/drivers/williamson) | [UK](/f1/countries/uk) | 🇬🇧 | 1 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0.0 |
 | [Roland Ratzenberger](/f1/drivers/ratzenberger) | [Austria](/f1/countries/austria) | 🇦🇹 | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0.0 |
 | [Rolf Stommelen](/f1/drivers/stommelen) | [Germany](/f1/countries/germany) | 🇩🇪 | 8 | 0 | 0 | 61 | 0 | 0 | 1 | 15 | 7 | 34 | 20 | 7 | 14.0 |
-| [Romain Grosjean](/f1/drivers/grosjean) | [France](/f1/countries/france) | 🇫🇷 | 7 | 0 | 0 | 110 | 0 | 0 | 10 | 43 | 43 | 79 | 31 | 0 | 325.0 |
+| [Romain Grosjean](/f1/drivers/grosjean) | [France](/f1/countries/france) | 🇫🇷 | 7 | 0 | 0 | 112 | 0 | 0 | 10 | 44 | 44 | 81 | 31 | 0 | 326.0 |
 | [Ron Flockhart](/f1/drivers/flockhart) | [UK](/f1/countries/uk) | 🇬🇧 | 6 | 0 | 0 | 15 | 0 | 0 | 1 | 4 | 2 | 5 | 8 | 2 | 5.0 |
 | [Ronnie Bucknum](/f1/drivers/bucknum) | [USA](/f1/countries/usa) | 🇺🇸 | 3 | 0 | 0 | 11 | 0 | 0 | 0 | 2 | 1 | 4 | 7 | 0 | 2.0 |
 | [Ronnie Peterson](/f1/drivers/peterson) | [Sweden](/f1/countries/sweden) | 🇸🇪 | 9 | 0 | 2 | 123 | 14 | 10 | 26 | 60 | 42 | 71 | 52 | 0 | 206.0 |
@@ -759,11 +759,11 @@ collectionId:
 | [Sam Tingle](/f1/drivers/tingle) | [Rhodesia](/f1/countries/rhodesia) | 🇿🇼 | 6 | 0 | 0 | 6 | 0 | 0 | 0 | 1 | 0 | 2 | 3 | 1 | 0.0 |
 | [Satoru Nakajima](/f1/drivers/satoru_nakajima) | [Japan](/f1/countries/japan) | 🇯🇵 | 5 | 0 | 0 | 80 | 0 | 0 | 0 | 27 | 10 | 35 | 39 | 6 | 16.0 |
 | [Scott Speed](/f1/drivers/speed) | [USA](/f1/countries/usa) | 🇺🇸 | 2 | 0 | 0 | 28 | 0 | 0 | 0 | 4 | 0 | 17 | 11 | 0 | 0.0 |
-| [Sebastian Vettel](/f1/drivers/vettel) | [Germany](/f1/countries/germany) | 🇩🇪 | 11 | 4 | 1 | 185 | 47 | 45 | 92 | 148 | 147 | 159 | 26 | 0 | 2237.0 |
+| [Sebastian Vettel](/f1/drivers/vettel) | [Germany](/f1/countries/germany) | 🇩🇪 | 11 | 4 | 1 | 187 | 47 | 45 | 92 | 150 | 149 | 161 | 26 | 0 | 2261.0 |
 | [Sébastien Bourdais](/f1/drivers/bourdais) | [France](/f1/countries/france) | 🇫🇷 | 2 | 0 | 0 | 27 | 0 | 0 | 0 | 7 | 4 | 20 | 7 | 0 | 6.0 |
 | [Sébastien Buemi](/f1/drivers/buemi) | [Switzerland](/f1/countries/switzerland) | 🇨🇭 | 3 | 0 | 0 | 55 | 0 | 0 | 0 | 15 | 15 | 40 | 15 | 0 | 29.0 |
 | [Sergio Mantovani](/f1/drivers/mantovani) | [Italy](/f1/countries/italy) | 🇮🇹 | 3 | 0 | 0 | 9 | 0 | 0 | 0 | 6 | 2 | 6 | 2 | 1 | 4.0 |
-| [Sergio Pérez](/f1/drivers/perez) | [Mexico](/f1/countries/mexico) | 🇲🇽 | 7 | 0 | 0 | 121 | 0 | 0 | 7 | 68 | 68 | 106 | 15 | 0 | 401.0 |
+| [Sergio Pérez](/f1/drivers/perez) | [Mexico](/f1/countries/mexico) | 🇲🇽 | 7 | 0 | 0 | 123 | 0 | 0 | 7 | 69 | 69 | 107 | 16 | 0 | 411.0 |
 | [Shinji Nakano](/f1/drivers/nakano) | [Japan](/f1/countries/japan) | 🇯🇵 | 2 | 0 | 0 | 33 | 0 | 0 | 0 | 9 | 2 | 18 | 15 | 0 | 2.0 |
 | [Shorty Templeman](/f1/drivers/templeman) | [USA](/f1/countries/usa) | 🇺🇸 | 3 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0.0 |
 | [Siegfried Stohr](/f1/drivers/stohr) | [Italy](/f1/countries/italy) | 🇮🇹 | 1 | 0 | 0 | 13 | 0 | 0 | 0 | 2 | 0 | 3 | 6 | 4 | 0.0 |
@@ -776,7 +776,7 @@ collectionId:
 | [Stéphane Sarrazin](/f1/drivers/sarrazin) | [France](/f1/countries/france) | 🇫🇷 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 |
 | [Stephen South](/f1/drivers/south) | [UK](/f1/countries/uk) | 🇬🇧 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 |
 | [Stirling Moss](/f1/drivers/moss) | [UK](/f1/countries/uk) | 🇬🇧 | 11 | 0 | 4 | 73 | 17 | 16 | 24 | 36 | 34 | 37 | 36 | 0 | 186.5 |
-| [Stoffel Vandoorne](/f1/drivers/vandoorne) | [Belgium](/f1/countries/belgium) | 🇧🇪 | 2 | 0 | 0 | 7 | 0 | 0 | 0 | 1 | 1 | 3 | 4 | 0 | 1.0 |
+| [Stoffel Vandoorne](/f1/drivers/vandoorne) | [Belgium](/f1/countries/belgium) | 🇧🇪 | 2 | 0 | 0 | 9 | 0 | 0 | 0 | 1 | 1 | 5 | 4 | 0 | 1.0 |
 | [Stuart Lewis-Evans](/f1/drivers/lewis-evans) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 14 | 2 | 0 | 2 | 6 | 5 | 6 | 8 | 0 | 16.0 |
 | [Syd van der Vyver](/f1/drivers/vyver) | [South Africa](/f1/countries/south_africa) | 🇿🇦 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0.0 |
 | [Taki Inoue](/f1/drivers/inoue) | [Japan](/f1/countries/japan) | 🇯🇵 | 2 | 0 | 0 | 18 | 0 | 0 | 0 | 2 | 0 | 5 | 13 | 0 | 0.0 |
@@ -824,7 +824,7 @@ collectionId:
 | [Troy Ruttman](/f1/drivers/ruttman) | [USA](/f1/countries/usa) | 🇺🇸 | 8 | 0 | 0 | 9 | 0 | 1 | 1 | 3 | 2 | 5 | 3 | 1 | 9.5 |
 | [Ukyo Katayama](/f1/drivers/katayama) | [Japan](/f1/countries/japan) | 🇯🇵 | 6 | 0 | 0 | 97 | 0 | 0 | 0 | 16 | 3 | 33 | 62 | 2 | 5.0 |
 | [Umberto Maglioli](/f1/drivers/maglioli) | [Italy](/f1/countries/italy) | 🇮🇹 | 5 | 0 | 0 | 10 | 0 | 0 | 2 | 6 | 2 | 6 | 4 | 0 | 3.33 |
-| [Valtteri Bottas](/f1/drivers/bottas) | [Finland](/f1/countries/finland) | 🇫🇮 | 5 | 0 | 0 | 84 | 1 | 1 | 12 | 51 | 51 | 76 | 7 | 1 | 486.0 |
+| [Valtteri Bottas](/f1/drivers/bottas) | [Finland](/f1/countries/finland) | 🇫🇮 | 5 | 0 | 0 | 86 | 1 | 1 | 14 | 53 | 53 | 78 | 7 | 1 | 522.0 |
 | [Vern Schuppan](/f1/drivers/schuppan) | [Australia](/f1/countries/australia) | 🇦🇺 | 3 | 0 | 0 | 12 | 0 | 0 | 0 | 1 | 0 | 4 | 5 | 3 | 0.0 |
 | [Vic Elford](/f1/drivers/elford) | [UK](/f1/countries/uk) | 🇬🇧 | 3 | 0 | 0 | 13 | 0 | 0 | 0 | 7 | 4 | 8 | 5 | 0 | 8.0 |
 | [Vic Wilson](/f1/drivers/vic_wilson) | [UK](/f1/countries/uk) | 🇬🇧 | 2 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0.0 |
@@ -854,14 +854,14 @@ collectionId:
 
 | **Column** | **Country** | **Flag** | **Seasons** | **Championships** | **Subchampionships** | **Participations** | **Poles** | **Wins** | **Podiums** | **Top Ten** | **Finished In Points** | **Races Finished** | **Did Not Finish** | **Did Not Start** | **Points** |
 | **Row Count** |  |  | 840 | 840 | 840 | 840 | 840 | 840 | 840 | 840 | 840 | 840 | 840 | 840 | 840 |
-| **Total Sum** |  |  | 3056.000 | 67.000 | 67.000 | 23494.000 | 972.000 | 965.000 | 2907.000 | 9352.000 | 6540.000 | 13002.000 | 8931.000 | 1561.000 | 36662.550 |
-| **Mean μ (Average)** |  |  | 3.638 | 0.080 | 0.080 | 27.969 | 1.157 | 1.149 | 3.461 | 11.133 | 7.786 | 15.479 | 10.632 | 1.858 | 43.646 |
-| **Maximum** |  |  | 19.000 | 7.000 | 4.000 | 326.000 | 68.000 | 91.000 | 155.000 | 226.000 | 221.000 | 242.000 | 137.000 | 40.000 | 2351.000 |
+| **Total Sum** |  |  | 3056.000 | 67.000 | 67.000 | 23534.000 | 974.000 | 967.000 | 2913.000 | 9372.000 | 6560.000 | 13032.000 | 8941.000 | 1561.000 | 36864.550 |
+| **Mean μ (Average)** |  |  | 3.638 | 0.080 | 0.080 | 28.017 | 1.160 | 1.151 | 3.468 | 11.157 | 7.810 | 15.514 | 10.644 | 1.858 | 43.886 |
+| **Maximum** |  |  | 19.000 | 7.000 | 4.000 | 326.000 | 68.000 | 91.000 | 155.000 | 226.000 | 221.000 | 242.000 | 137.000 | 40.000 | 2386.000 |
 | **75th Percentile** |  |  | 5.000 |  |  | 29.000 |  |  |  | 7.000 | 3.000 | 12.000 | 10.000 | 2.000 | 8.000 |
 | **Median** |  |  | 2.000 |  |  | 6.000 |  |  |  | 1.000 |  | 2.000 | 2.000 |  |  |
 | **25th Percentile** |  |  | 1.000 |  |  | 2.000 |  |  |  |  |  | 1.000 | 1.000 |  |  |
 | **Minimum** |  |  | 1.000 |  |  | 1.000 |  |  |  |  |  |  |  |  |  |
-| **Variance** |  |  | 11.569 | 0.233 | 0.152 | 2459.404 | 31.478 | 32.008 | 161.110 | 732.844 | 533.490 | 1076.630 | 346.373 | 19.155 | 35357.693 |
-| **Standard Deviation σ** |  |  | 3.401 | 0.483 | 0.390 | 49.592 | 5.610 | 5.658 | 12.693 | 27.071 | 23.097 | 32.812 | 18.611 | 4.377 | 188.036 |
+| **Variance** |  |  | 11.569 | 0.233 | 0.152 | 2466.709 | 31.782 | 32.145 | 161.482 | 735.840 | 536.580 | 1081.659 | 346.567 | 19.155 | 35817.707 |
+| **Standard Deviation σ** |  |  | 3.401 | 0.483 | 0.390 | 49.666 | 5.638 | 5.670 | 12.708 | 27.126 | 23.164 | 32.889 | 18.616 | 4.377 | 189.256 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

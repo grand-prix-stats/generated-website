@@ -35,7 +35,7 @@ collectionId: bianco
 | 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 12 | R | 0.0 | 4 |   | Maserati 🇮🇹 | [Jan Flinterman 🇳🇱](/f1/drivers/flinterman) | 15 | R |
 | 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 12 | R | 0.0 | 4 |   | Maserati 🇮🇹 | [Jan Flinterman 🇳🇱](/f1/drivers/flinterman) | 16 | 9 |
 | 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 16 | R | 0.0 | 0 |   | Maserati 🇮🇹 | [Eitel Cantoni 🇺🇾](/f1/drivers/cantoni) | 26 | R |
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 16 | R | 0.0 | 0 |   | Maserati 🇮🇹 | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 10 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 16 | R | 0.0 | 0 |   | Maserati 🇮🇹 | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 10 | D |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 28 | 18 | 0.0 | 77 |   | Maserati 🇮🇹 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 32 | 17 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 28 | 18 | 0.0 | 77 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 31 | 19 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 28 | 18 | 0.0 | 77 |   | Maserati 🇮🇹 | [Eitel Cantoni 🇺🇾](/f1/drivers/cantoni) | 27 | R |

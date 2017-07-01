@@ -26,10 +26,10 @@ collectionId: germany
 |--|--|--|--|--|--|--|--|--|
 | 2016 | 12 | 2016 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2016-07-31 | 67 | 1:30:44.200 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 10 | 2014 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2014-07-20 | 67 | 1:33:42.914 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
-| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2013-07-07 | 60 | 1:41.14.711 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
+| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2013-07-07 | 60 | 1:41:14.711 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2012 | 10 | 2012 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2012-07-22 | 67 | 1:31:05.862 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2011 | 10 | 2011 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2011-07-24 | 60 | 1:37:30.344 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
-| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2010-07-25 | 67 | 1:27.38.684 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
+| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2010-07-25 | 67 | 1:27:38.864 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2009 | 9 | 2009 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2009-07-12 | 60 | 1:36:43.310 | [Mark Webber 🇦🇺](/f1/drivers/webber) | Red Bull 🇦🇹 |
 | 2008 | 10 | 2008 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2008-07-20 | 67 | 1:31:20.874 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2007 | 10 | 2007 European Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2007-07-22 | 60 | 2:06:26.358 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | McLaren 🇬🇧 |

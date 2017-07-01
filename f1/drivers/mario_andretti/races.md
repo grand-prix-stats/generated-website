@@ -129,7 +129,7 @@ collectionId: mario_andretti
 | 1977 | 8 | 1977 Swedish Grand Prix 🇸🇪 | 1977-06-19 | 1 | 6 | 1.0 | 72 | +25.277 | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 7 | 19 |
 | 1977 | 7 | 1977 Belgian Grand Prix 🇧🇪 | 1977-06-05 | 1 | R | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 3 | 1 |
 | 1977 | 6 | 1977 Monaco Grand Prix 🇲🇨 | 1977-05-22 | 10 | 5 | 2.0 | 76 | +35.55 | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 13 | R |
-| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | 1977-05-08 | 1 | 1 | 9.0 | 75 | 1:42:.52.22 | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 12 | 5 |
+| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | 1977-05-08 | 1 | 1 | 9.0 | 75 | 1:42:52.220 | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 12 | 5 |
 | 1977 | 4 | 1977 United States Grand Prix West 🇺🇸 | 1977-04-03 | 2 | 1 | 9.0 | 80 | 1:51:35.470 | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 16 | 8 |
 | 1977 | 3 | 1977 South African Grand Prix 🇿🇦 | 1977-03-05 | 6 | R | 0.0 | 43 |   | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 10 | 12 |
 | 1977 | 2 | 1977 Brazilian Grand Prix 🇧🇷 | 1977-01-23 | 3 | R | 0.0 | 19 |   | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 10 | 5 |

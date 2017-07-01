@@ -24,6 +24,8 @@ collectionId: hamilton
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 1 | 5 | 10.0 | 51 | +6.188 | Mercedes 🇩🇪 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 2 | 2 |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 1 | 1 | 25.0 | 70 | 1:33:05.154 | Mercedes 🇩🇪 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 3 | 2 |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 13 | 7 | 6.0 | 78 | +15.801 | Mercedes 🇩🇪 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 3 | 4 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 1 | 1 | 25.0 | 66 | 1:35:56.497 | Mercedes 🇩🇪 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 3 | R |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 4 | 4 | 12.0 | 52 | +36.320 | Mercedes 🇩🇪 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 3 | 1 |
@@ -85,7 +87,7 @@ collectionId: hamilton
 | 2014 | 7 | 2014 Canadian Grand Prix 🇨🇦 | 2014-06-08 | 2 | R | 0.0 | 46 |   | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 | 2 |
 | 2014 | 6 | 2014 Monaco Grand Prix 🇲🇨 | 2014-05-25 | 2 | 2 | 18.0 | 78 | +9.210 | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 | 1 |
 | 2014 | 5 | 2014 Spanish Grand Prix 🇪🇸 | 2014-05-11 | 1 | 1 | 25.0 | 66 | 1:41:05.155 | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 | 2 |
-| 2014 | 4 | 2014 Chinese Grand Prix 🇨🇳 | 2014-04-20 | 1 | 1 | 25.0 | 54 | 1:33:28.388 | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 4 | 2 |
+| 2014 | 4 | 2014 Chinese Grand Prix 🇨🇳 | 2014-04-20 | 1 | 1 | 25.0 | 54 | 1:33:28.338 | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 4 | 2 |
 | 2014 | 3 | 2014 Bahrain Grand Prix 🇧🇭 | 2014-04-06 | 2 | 1 | 25.0 | 57 | 1:39:42.743 | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 | 2 |
 | 2014 | 2 | 2014 Malaysian Grand Prix 🇲🇾 | 2014-03-30 | 1 | 1 | 25.0 | 56 | 1:40:25.974 | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 3 | 2 |
 | 2014 | 1 | 2014 Australian Grand Prix 🇦🇺 | 2014-03-16 | 1 | R | 0.0 | 2 |   | Mercedes 🇩🇪 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 3 | 1 |
@@ -153,7 +155,7 @@ collectionId: hamilton
 | 2010 | 16 | 2010 Japanese Grand Prix 🇯🇵 | 2010-10-10 | 8 | 5 | 10.0 | 53 | +39.595 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 5 | 4 |
 | 2010 | 15 | 2010 Singapore Grand Prix 🇸🇬 | 2010-09-26 | 3 | R | 0.0 | 35 |   | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 4 | 4 |
 | 2010 | 14 | 2010 Italian Grand Prix 🇮🇹 | 2010-09-12 | 5 | R | 0.0 | 0 |   | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 2 | 2 |
-| 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | 2010-08-29 | 2 | 1 | 25.0 | 44 | 1:29.04.268 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 5 | R |
+| 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | 2010-08-29 | 2 | 1 | 25.0 | 44 | 1:29:04.268 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 5 | R |
 | 2010 | 12 | 2010 Hungarian Grand Prix 🇭🇺 | 2010-08-01 | 5 | R | 0.0 | 23 |   | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 11 | 8 |
 | 2010 | 11 | 2010 German Grand Prix 🇩🇪 | 2010-07-25 | 6 | 4 | 12.0 | 67 | +26.896 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 5 | 5 |
 | 2010 | 10 | 2010 British Grand Prix 🇬🇧 | 2010-07-11 | 4 | 2 | 18.0 | 52 | +1.360 | McLaren 🇬🇧 | [Jenson Button 🇬🇧](/f1/drivers/button) | 14 | 4 |
@@ -222,15 +224,15 @@ collectionId: hamilton
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 194 |  |  | 194 | 171 | 194 | 194 | 94 |  |  | 194 | 172 |
-| **Total Sum** | 1889.000 |  |  | 807.000 | 634.000 | 2351.000 | 10870.000 | 2001.702 |  |  | 870.000 | 749.000 |
-| **Mean μ (Average)** | 9.737 |  |  | 4.160 | 3.708 | 12.119 | 56.031 | 21.295 |  |  | 4.485 | 4.355 |
+| **Row Count** | 196 |  |  | 196 | 173 | 196 | 196 | 95 |  |  | 196 | 174 |
+| **Total Sum** | 1904.000 |  |  | 809.000 | 640.000 | 2386.000 | 10991.000 | 2007.890 |  |  | 875.000 | 753.000 |
+| **Mean μ (Average)** | 9.714 |  |  | 4.128 | 3.699 | 12.173 | 56.077 | 21.136 |  |  | 4.464 | 4.328 |
 | **Maximum** | 21.000 |  |  | 24.000 | 19.000 | 50.000 | 78.000 | 79.692 |  |  | 18.000 | 19.000 |
-| **75th Percentile** | 14.000 |  |  | 5.000 | 5.000 | 18.000 | 66.000 | 29.912 |  |  | 6.000 | 6.000 |
-| **Median** | 10.000 |  |  | 2.000 | 3.000 | 10.000 | 57.000 | 17.551 |  |  | 3.000 | 3.000 |
-| **25th Percentile** | 5.000 |  |  | 1.000 | 1.000 | 4.000 | 53.000 | 6.790 |  |  | 2.000 | 2.000 |
+| **75th Percentile** | 14.000 |  |  | 5.000 | 5.000 | 18.000 | 67.000 | 29.912 |  |  | 6.000 | 6.000 |
+| **Median** | 10.000 |  |  | 2.000 | 3.000 | 10.000 | 57.000 | 17.417 |  |  | 3.000 | 3.000 |
+| **25th Percentile** | 5.000 |  |  | 1.000 | 1.000 | 4.000 | 53.000 | 6.660 |  |  | 2.000 | 2.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.630 |  |  | 1.000 | 1.000 |
-| **Variance** | 30.452 |  |  | 23.454 | 11.961 | 87.032 | 240.360 | 279.239 |  |  | 14.879 | 14.101 |
-| **Standard Deviation σ** | 5.518 |  |  | 4.843 | 3.459 | 9.329 | 15.504 | 16.710 |  |  | 3.857 | 3.755 |
+| **Variance** | 30.194 |  |  | 23.315 | 11.875 | 87.011 | 239.030 | 278.677 |  |  | 14.769 | 14.002 |
+| **Standard Deviation σ** | 5.495 |  |  | 4.829 | 3.446 | 9.328 | 15.461 | 16.694 |  |  | 3.843 | 3.742 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

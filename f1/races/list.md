@@ -15,8 +15,8 @@ collectionId:
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | [Sochi Autodrom](/f1/circuits/sochi) | 2017-04-30 | 52 | 1:28:08.743 | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | Mercedes 🇩🇪 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | 2017-05-14 | 66 | 1:35:56.497 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2017-05-28 | 78 | 1:44:44.340 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Ferrari 🇮🇹 |
-| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2017-06-11 |   |   |   |   |
-| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2017-06-25 |   |   |   |   |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2017-06-11 | 70 | 1:33:05.154 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2017-06-25 | 51 | 2:03:55.573 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | Red Bull 🇦🇹 |
 | 2017 | 9 | 2017 Austrian Grand Prix 🇦🇹 | [Red Bull Ring](/f1/circuits/red_bull_ring) | 2017-07-09 |   |   |   |   |
 | 2017 | 10 | 2017 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 2017-07-16 |   |   |   |   |
 | 2017 | 11 | 2017 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 2017-07-30 |   |   |   |   |
@@ -72,7 +72,7 @@ collectionId:
 | 2014 | 1 | 2014 Australian Grand Prix 🇦🇺 | [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | 2014-03-16 | 57 | 1:32:58.710 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2014 | 2 | 2014 Malaysian Grand Prix 🇲🇾 | [Sepang International Circuit](/f1/circuits/sepang) | 2014-03-30 | 56 | 1:40:25.974 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 3 | 2014 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2014-04-06 | 57 | 1:39:42.743 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
-| 2014 | 4 | 2014 Chinese Grand Prix 🇨🇳 | [Shanghai International Circuit](/f1/circuits/shanghai) | 2014-04-20 | 54 | 1:33:28.388 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
+| 2014 | 4 | 2014 Chinese Grand Prix 🇨🇳 | [Shanghai International Circuit](/f1/circuits/shanghai) | 2014-04-20 | 54 | 1:33:28.338 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 5 | 2014 Spanish Grand Prix 🇪🇸 | [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | 2014-05-11 | 66 | 1:41:05.155 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 6 | 2014 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2014-05-25 | 78 | 1:49:27.661 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2014 | 7 | 2014 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2014-06-08 | 70 | 1:39:12.830 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | Red Bull 🇦🇹 |
@@ -93,10 +93,10 @@ collectionId:
 | 2013 | 3 | 2013 Chinese Grand Prix 🇨🇳 | [Shanghai International Circuit](/f1/circuits/shanghai) | 2013-04-14 | 56 | 1:36:26.945 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2013 | 4 | 2013 Bahrain Grand Prix 🇧🇭 | [Bahrain International Circuit](/f1/circuits/bahrain) | 2013-04-21 | 57 | 1:36:00.498 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2013 | 5 | 2013 Spanish Grand Prix 🇪🇸 | [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | 2013-05-12 | 66 | 1:39:16.596 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
-| 2013 | 6 | 2013 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2013-05-26 | 78 | 2:15:52.056 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
+| 2013 | 6 | 2013 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2013-05-26 | 78 | 2:17:52.056 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2013 | 7 | 2013 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2013-06-09 | 70 | 1:32:09.143 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2013 | 8 | 2013 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 2013-06-30 | 52 | 1:32:59.456 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
-| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2013-07-07 | 60 | 1:41.14.711 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
+| 2013 | 9 | 2013 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2013-07-07 | 60 | 1:41:14.711 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2013 | 10 | 2013 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 2013-07-28 | 70 | 1:42:29.445 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2013 | 11 | 2013 Belgian Grand Prix 🇧🇪 | [Circuit de Spa-Francorchamps](/f1/circuits/spa) | 2013-08-25 | 44 | 1:23:42.196 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2013 | 12 | 2013 Italian Grand Prix 🇮🇹 | [Autodromo Nazionale di Monza](/f1/circuits/monza) | 2013-09-08 | 53 | 1:18:33.352 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
@@ -105,7 +105,7 @@ collectionId:
 | 2013 | 15 | 2013 Japanese Grand Prix 🇯🇵 | [Suzuka Circuit](/f1/circuits/suzuka) | 2013-10-13 | 53 | 1:26:49.301 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2013 | 16 | 2013 Indian Grand Prix 🇮🇳 | [Buddh International Circuit](/f1/circuits/buddh) | 2013-10-27 | 60 | 1:31:12.187 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2013 | 17 | 2013 Abu Dhabi Grand Prix 🇦🇪 | [Yas Marina Circuit](/f1/circuits/yas_marina) | 2013-11-03 | 55 | 1:38:06.106 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
-| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2013-11-17 | 56 | 1:39:17.168 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
+| 2013 | 18 | 2013 United States Grand Prix 🇺🇸 | [Circuit of the Americas](/f1/circuits/americas) | 2013-11-17 | 56 | 1:39:17.148 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2013 | 19 | 2013 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 2013-11-24 | 71 | 1:32:36.300 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2012 | 1 | 2012 Australian Grand Prix 🇦🇺 | [Albert Park Grand Prix Circuit](/f1/circuits/albert_park) | 2012-03-18 | 58 | 1:34:09.565 | [Jenson Button 🇬🇧](/f1/drivers/button) | McLaren 🇬🇧 |
 | 2012 | 2 | 2012 Malaysian Grand Prix 🇲🇾 | [Sepang International Circuit](/f1/circuits/sepang) | 2012-03-25 | 56 | 2:44:51.812 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
@@ -135,7 +135,7 @@ collectionId:
 | 2011 | 6 | 2011 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 2011-05-29 | 78 | 2:09:38.373 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2011 | 7 | 2011 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2011-06-12 | 70 | 4:04:39.537 | [Jenson Button 🇬🇧](/f1/drivers/button) | McLaren 🇬🇧 |
 | 2011 | 8 | 2011 European Grand Prix 🇪🇸 | [Valencia Street Circuit](/f1/circuits/valencia) | 2011-06-26 | 57 | 1:39:36.169 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
-| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 2011-07-10 | 52 | 1:28:41.194 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
+| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 2011-07-10 | 52 | 1:28:41.196 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2011 | 10 | 2011 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 2011-07-24 | 60 | 1:37:30.344 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2011 | 11 | 2011 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 2011-07-31 | 70 | 1:46:42.337 | [Jenson Button 🇬🇧](/f1/drivers/button) | McLaren 🇬🇧 |
 | 2011 | 12 | 2011 Belgian Grand Prix 🇧🇪 | [Circuit de Spa-Francorchamps](/f1/circuits/spa) | 2011-08-28 | 44 | 1:26:44.893 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
@@ -155,10 +155,10 @@ collectionId:
 | 2010 | 7 | 2010 Turkish Grand Prix 🇹🇷 | [Istanbul Park](/f1/circuits/istanbul) | 2010-05-30 | 58 | 1:28:47.620 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2010 | 8 | 2010 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2010-06-13 | 70 | 1:33:53.456 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2010 | 9 | 2010 European Grand Prix 🇪🇸 | [Valencia Street Circuit](/f1/circuits/valencia) | 2010-06-27 | 57 | 1:40:29.571 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
-| 2010 | 10 | 2010 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 2010-07-11 | 52 | 1:24.38.200 | [Mark Webber 🇦🇺](/f1/drivers/webber) | Red Bull 🇦🇹 |
-| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2010-07-25 | 67 | 1:27.38.684 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
+| 2010 | 10 | 2010 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 2010-07-11 | 52 | 1:24:38.200 | [Mark Webber 🇦🇺](/f1/drivers/webber) | Red Bull 🇦🇹 |
+| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 2010-07-25 | 67 | 1:27:38.864 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2010 | 12 | 2010 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 2010-08-01 | 70 | 1:41:05.571 | [Mark Webber 🇦🇺](/f1/drivers/webber) | Red Bull 🇦🇹 |
-| 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | [Circuit de Spa-Francorchamps](/f1/circuits/spa) | 2010-08-29 | 44 | 1:29.04.268 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
+| 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | [Circuit de Spa-Francorchamps](/f1/circuits/spa) | 2010-08-29 | 44 | 1:29:04.268 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2010 | 14 | 2010 Italian Grand Prix 🇮🇹 | [Autodromo Nazionale di Monza](/f1/circuits/monza) | 2010-09-12 | 53 | 1:16:24.572 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2010 | 15 | 2010 Singapore Grand Prix 🇸🇬 | [Marina Bay Street Circuit](/f1/circuits/marina_bay) | 2010-09-26 | 61 | 1:57:53.579 | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | Ferrari 🇮🇹 |
 | 2010 | 16 | 2010 Japanese Grand Prix 🇯🇵 | [Suzuka Circuit](/f1/circuits/suzuka) | 2010-10-10 | 53 | 1:30:27.323 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
@@ -404,7 +404,7 @@ collectionId:
 | 1996 | 14 | 1996 Italian Grand Prix 🇮🇹 | [Autodromo Nazionale di Monza](/f1/circuits/monza) | 1996-09-08 | 53 | 1:17:43.632 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Ferrari 🇮🇹 |
 | 1996 | 15 | 1996 Portuguese Grand Prix 🇵🇹 | [Autódromo do Estoril](/f1/circuits/estoril) | 1996-09-22 | 70 | 1:40:22.915 | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | Williams 🇬🇧 |
 | 1996 | 16 | 1996 Japanese Grand Prix 🇯🇵 | [Suzuka Circuit](/f1/circuits/suzuka) | 1996-10-13 | 52 | 1:32:33.791 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
-| 1995 | 1 | 1995 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1995-03-26 | 71 | +1:38:34.154 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
+| 1995 | 1 | 1995 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1995-03-26 | 71 | 1:38:34.154 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
 | 1995 | 2 | 1995 Argentine Grand Prix 🇦🇷 | [Autódromo Juan y Oscar Gálvez](/f1/circuits/galvez) | 1995-04-09 | 72 | 1:53:14.532 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
 | 1995 | 3 | 1995 San Marino Grand Prix 🇮🇹 | [Autodromo Enzo e Dino Ferrari](/f1/circuits/imola) | 1995-04-30 | 63 | 1:41:42.522 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
 | 1995 | 4 | 1995 Spanish Grand Prix 🇪🇸 | [Circuit de Barcelona-Catalunya](/f1/circuits/catalunya) | 1995-05-14 | 65 | 1:34:20.507 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
@@ -430,7 +430,7 @@ collectionId:
 | 1994 | 7 | 1994 French Grand Prix 🇫🇷 | [Circuit de Nevers Magny-Cours](/f1/circuits/magny_cours) | 1994-07-03 | 72 | 1:38:36.2 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
 | 1994 | 8 | 1994 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 1994-07-10 | 60 | 1:30:03.640 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
 | 1994 | 9 | 1994 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 1994-07-31 | 45 | 1:22:37.2 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | Ferrari 🇮🇹 |
-| 1994 | 10 | 1994 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1994-08-14 | 77 | 1.48:00.185 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
+| 1994 | 10 | 1994 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1994-08-14 | 77 | 1:48:00.185 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
 | 1994 | 11 | 1994 Belgian Grand Prix 🇧🇪 | [Circuit de Spa-Francorchamps](/f1/circuits/spa) | 1994-08-28 | 44 | 1:28:47.1 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
 | 1994 | 12 | 1994 Italian Grand Prix 🇮🇹 | [Autodromo Nazionale di Monza](/f1/circuits/monza) | 1994-09-11 | 53 | 1:18:03.2 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
 | 1994 | 13 | 1994 Portuguese Grand Prix 🇵🇹 | [Autódromo do Estoril](/f1/circuits/estoril) | 1994-09-25 | 71 | 1:45:10.1 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
@@ -542,7 +542,7 @@ collectionId:
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | [Silverstone Circuit](/f1/circuits/silverstone) | 1987-07-12 | 65 | 1:19:11.780 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | [Hockenheimring](/f1/circuits/hockenheimring) | 1987-07-26 | 44 | 1:21:25.091 | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | Williams 🇬🇧 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | [Hungaroring](/f1/circuits/hungaroring) | 1987-08-09 | 76 | 1:59:26.793 | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | Williams 🇬🇧 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1987-06-18 | 52 | 1:18:44.898 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1987-08-16 | 52 | 1:18:44.898 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | [Autodromo Nazionale di Monza](/f1/circuits/monza) | 1987-09-06 | 50 | 1:14:47.707 | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | Williams 🇬🇧 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | [Autódromo do Estoril](/f1/circuits/estoril) | 1987-09-20 | 70 | 1:37:03.906 | [Alain Prost 🇫🇷](/f1/drivers/prost) | McLaren 🇬🇧 |
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | [Circuito de Jerez](/f1/circuits/jerez) | 1987-09-27 | 72 | 1:49:12.692 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
@@ -692,7 +692,7 @@ collectionId:
 | 1977 | 2 | 1977 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1977-01-23 | 40 | 1:45:07.72 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | Ferrari 🇮🇹 |
 | 1977 | 3 | 1977 South African Grand Prix 🇿🇦 | [Kyalami](/f1/circuits/kyalami) | 1977-03-05 | 78 | 1:42:21.6 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | Ferrari 🇮🇹 |
 | 1977 | 4 | 1977 United States Grand Prix West 🇺🇸 | [Long Beach](/f1/circuits/long_beach) | 1977-04-03 | 80 | 1:51:35.470 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | Team Lotus 🇬🇧 |
-| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1977-05-08 | 75 | 1:42:.52.22 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | Team Lotus 🇬🇧 |
+| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1977-05-08 | 75 | 1:42:52.220 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | Team Lotus 🇬🇧 |
 | 1977 | 6 | 1977 Monaco Grand Prix 🇲🇨 | [Circuit de Monaco](/f1/circuits/monaco) | 1977-05-22 | 76 | 1:57:52.77 | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | Wolf 🇨🇦 |
 | 1977 | 7 | 1977 Belgian Grand Prix 🇧🇪 | [Zolder](/f1/circuits/zolder) | 1977-06-05 | 70 | 1:55:05.71 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | Team Lotus 🇬🇧 |
 | 1977 | 8 | 1977 Swedish Grand Prix 🇸🇪 | [Scandinavian Raceway](/f1/circuits/anderstorp) | 1977-06-19 | 72 | 1:46:56.4 | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | Ligier 🇫🇷 |
@@ -773,7 +773,7 @@ collectionId:
 | 1972 | 6 | 1972 French Grand Prix 🇫🇷 | [Charade Circuit](/f1/circuits/charade) | 1972-07-02 | 38 | 1:52:22.5 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | Tyrrell 🇬🇧 |
 | 1972 | 7 | 1972 British Grand Prix 🇬🇧 | [Brands Hatch](/f1/circuits/brands_hatch) | 1972-07-15 | 76 | 1:47:50.2 | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | Team Lotus 🇬🇧 |
 | 1972 | 8 | 1972 German Grand Prix 🇩🇪 | [Nürburgring](/f1/circuits/nurburgring) | 1972-07-30 | 14 | 1:42:12.3 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | Ferrari 🇮🇹 |
-| 1972 | 9 | 1972 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1972-08-13 | 54 | 29:17.3 | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | Team Lotus 🇬🇧 |
+| 1972 | 9 | 1972 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1972-08-13 | 54 | 1:29:16.660 | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | Team Lotus 🇬🇧 |
 | 1972 | 10 | 1972 Italian Grand Prix 🇮🇹 | [Autodromo Nazionale di Monza](/f1/circuits/monza) | 1972-09-10 | 55 | 1:29:58.4 | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | Team Lotus 🇬🇧 |
 | 1972 | 11 | 1972 Canadian Grand Prix 🇨🇦 | [Mosport International Raceway](/f1/circuits/mosport) | 1972-09-24 | 80 | 1:43:17.1 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | Tyrrell 🇬🇧 |
 | 1972 | 12 | 1972 United States Grand Prix 🇺🇸 | [Watkins Glen](/f1/circuits/watkins_glen) | 1972-10-08 | 59 | 1:41:45.354 | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | Tyrrell 🇬🇧 |
@@ -989,15 +989,15 @@ collectionId:
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 976 |  |  |  | 962 |  |  |  |
-| **Total Sum** | 7978.000 |  |  |  | 62932.000 |  |  |  |
-| **Mean μ (Average)** | 8.174 |  |  |  | 65.418 |  |  |  |
+| **Row Count** | 976 |  |  |  | 964 |  |  |  |
+| **Total Sum** | 7978.000 |  |  |  | 63053.000 |  |  |  |
+| **Mean μ (Average)** | 8.174 |  |  |  | 65.408 |  |  |  |
 | **Maximum** | 21.000 |  |  |  | 200.000 |  |  |  |
 | **75th Percentile** | 12.000 |  |  |  | 75.000 |  |  |  |
 | **Median** | 8.000 |  |  |  | 65.000 |  |  |  |
 | **25th Percentile** | 4.000 |  |  |  | 54.000 |  |  |  |
 | **Minimum** | 1.000 |  |  |  | 12.000 |  |  |  |
-| **Variance** | 23.392 |  |  |  | 451.636 |  |  |  |
-| **Standard Deviation σ** | 4.837 |  |  |  | 21.252 |  |  |  |
+| **Variance** | 23.392 |  |  |  | 450.936 |  |  |  |
+| **Standard Deviation σ** | 4.837 |  |  |  | 21.235 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -96,7 +96,7 @@ collectionId: rosberg
 | 2013 | 9 | 2013 German Grand Prix 🇩🇪 | 2013-07-07 | 11 | 9 | 2.0 | 60 | +46.821 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 | 5 |
 | 2013 | 8 | 2013 British Grand Prix 🇬🇧 | 2013-06-30 | 2 | 1 | 25.0 | 52 | 1:32:59.456 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 | 4 |
 | 2013 | 7 | 2013 Canadian Grand Prix 🇨🇦 | 2013-06-09 | 4 | 5 | 10.0 | 70 | +1:09.725 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 | 3 |
-| 2013 | 6 | 2013 Monaco Grand Prix 🇲🇨 | 2013-05-26 | 1 | 1 | 25.0 | 78 | 2:15:52.056 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 | 4 |
+| 2013 | 6 | 2013 Monaco Grand Prix 🇲🇨 | 2013-05-26 | 1 | 1 | 25.0 | 78 | 2:17:52.056 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 | 4 |
 | 2013 | 5 | 2013 Spanish Grand Prix 🇪🇸 | 2013-05-12 | 1 | 6 | 8.0 | 66 | +1:08.020 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2 | 12 |
 | 2013 | 4 | 2013 Bahrain Grand Prix 🇧🇭 | 2013-04-21 | 1 | 9 | 2.0 | 57 | +41.126 | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 9 | 5 |
 | 2013 | 3 | 2013 Chinese Grand Prix 🇨🇳 | 2013-04-14 | 4 | R | 0.0 | 21 |   | Mercedes 🇩🇪 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 | 3 |
@@ -132,7 +132,7 @@ collectionId: rosberg
 | 2011 | 12 | 2011 Belgian Grand Prix 🇧🇪 | 2011-08-28 | 5 | 6 | 8.0 | 44 | +48.674 | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 24 | 5 |
 | 2011 | 11 | 2011 Hungarian Grand Prix 🇭🇺 | 2011-07-31 | 7 | 9 | 2.0 | 69 |   | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 9 | R |
 | 2011 | 10 | 2011 German Grand Prix 🇩🇪 | 2011-07-24 | 6 | 7 | 6.0 | 59 |   | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 10 | 8 |
-| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | 2011-07-10 | 9 | 6 | 8.0 | 52 | +1:00.655 | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 13 | 9 |
+| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | 2011-07-10 | 9 | 6 | 8.0 | 52 | +1:00.665 | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 13 | 9 |
 | 2011 | 8 | 2011 European Grand Prix 🇪🇸 | 2011-06-26 | 7 | 7 | 6.0 | 57 | +1:38.090 | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 8 | 17 |
 | 2011 | 7 | 2011 Canadian Grand Prix 🇨🇦 | 2011-06-12 | 6 | 11 | 0.0 | 70 | +50.454 | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 8 | 4 |
 | 2011 | 6 | 2011 Monaco Grand Prix 🇲🇨 | 2011-05-29 | 7 | 11 | 0.0 | 76 |   | Mercedes 🇩🇪 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 5 | R |

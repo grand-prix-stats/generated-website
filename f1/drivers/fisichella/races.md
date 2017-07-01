@@ -153,7 +153,7 @@ collectionId: fisichella
 | 2002 | 14 | 2002 Belgian Grand Prix 🇧🇪 | 2002-09-01 | 14 | R | 0.0 | 38 |   | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 16 | 11 |
 | 2002 | 13 | 2002 Hungarian Grand Prix 🇭🇺 | 2002-08-18 | 5 | 6 | 1.0 | 77 | +1:08.804 | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 14 | 10 |
 | 2002 | 12 | 2002 German Grand Prix 🇩🇪 | 2002-07-28 | 6 | R | 0.0 | 59 |   | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 12 | 8 |
-| 2002 | 11 | 2002 French Grand Prix 🇫🇷 | 2002-07-21 | 0 | W | 0.0 | 0 |   | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 14 | R |
+| 2002 | 11 | 2002 French Grand Prix 🇫🇷 | 2002-07-21 | 0 | F | 0.0 | 0 |   | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 14 | R |
 | 2002 | 10 | 2002 British Grand Prix 🇬🇧 | 2002-07-07 | 17 | 7 | 0.0 | 59 |   | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 14 | R |
 | 2002 | 9 | 2002 European Grand Prix 🇩🇪 | 2002-06-23 | 18 | R | 0.0 | 26 |   | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 14 | 16 |
 | 2002 | 8 | 2002 Canadian Grand Prix 🇨🇦 | 2002-06-09 | 6 | 5 | 2.0 | 70 | +42.812 | Jordan 🇮🇪 | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 15 | 10 |

@@ -24,6 +24,8 @@ collectionId: stroll
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 8 | 3 | 15.0 | 51 | +4.009 | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 9 | R |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 17 | 9 | 2.0 | 69 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 7 | R |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 17 | 15 | 0.0 | 71 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 14 | 9 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 18 | 16 | 0.0 | 64 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 9 | 13 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 11 | 11 | 0.0 | 51 |   | Williams 🇬🇧 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 | 9 |
@@ -34,15 +36,15 @@ collectionId: stroll
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 6 |  |  | 6 | 3 | 6 | 6 |  |  |  | 6 | 6 |
-| **Total Sum** | 21.000 |  |  | 88.000 | 42.000 |  | 238.000 |  |  |  | 50.000 | 57.000 |
-| **Mean μ (Average)** | 3.500 |  |  | 14.667 | 14.000 |  | 39.667 |  |  |  | 8.333 | 9.500 |
-| **Maximum** | 6.000 |  |  | 20.000 | 16.000 |  | 71.000 |  |  |  | 14.000 | 14.000 |
-| **75th Percentile** | 5.000 |  |  | 18.000 | 16.000 |  | 64.000 |  |  |  | 9.000 | 13.000 |
-| **Median** | 4.000 |  |  | 17.000 | 15.000 |  | 51.000 |  |  |  | 8.000 | 9.000 |
-| **25th Percentile** | 2.000 |  |  | 11.000 | 11.000 |  | 12.000 |  |  |  | 6.000 | 6.000 |
-| **Minimum** | 1.000 |  |  | 10.000 | 11.000 |  |  |  |  |  | 6.000 | 6.000 |
-| **Variance** | 2.917 |  |  | 14.556 | 4.667 |  | 673.556 |  |  |  | 7.556 | 9.583 |
-| **Standard Deviation σ** | 1.708 |  |  | 3.815 | 2.160 |  | 25.953 |  |  |  | 2.749 | 3.096 |
+| **Row Count** | 8 |  |  | 8 | 5 | 8 | 8 | 1 |  |  | 8 | 6 |
+| **Total Sum** | 36.000 |  |  | 113.000 | 54.000 | 17.000 | 358.000 | 4.009 |  |  | 66.000 | 57.000 |
+| **Mean μ (Average)** | 4.500 |  |  | 14.125 | 10.800 | 2.125 | 44.750 | 4.009 |  |  | 8.250 | 9.500 |
+| **Maximum** | 8.000 |  |  | 20.000 | 16.000 | 15.000 | 71.000 | 4.009 |  |  | 14.000 | 14.000 |
+| **75th Percentile** | 7.000 |  |  | 18.000 | 15.000 | 2.000 | 69.000 | 4.009 |  |  | 9.000 | 13.000 |
+| **Median** | 5.000 |  |  | 17.000 | 11.000 |  | 51.000 | 4.009 |  |  | 8.000 | 9.000 |
+| **25th Percentile** | 3.000 |  |  | 11.000 | 9.000 |  | 40.000 | 4.009 |  |  | 7.000 | 6.000 |
+| **Minimum** | 1.000 |  |  | 8.000 | 3.000 |  |  | 4.009 |  |  | 6.000 | 6.000 |
+| **Variance** | 5.250 |  |  | 16.859 | 21.760 | 24.109 | 602.938 |  |  |  | 5.938 | 9.583 |
+| **Standard Deviation σ** | 2.291 |  |  | 4.106 | 4.665 | 4.910 | 24.555 |  |  |  | 2.437 | 3.096 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

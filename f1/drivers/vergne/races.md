@@ -64,7 +64,7 @@ collectionId: vergne
 | 2013 | 1 | 2013 Australian Grand Prix 🇦🇺 | 2013-03-17 | 13 | 12 | 0.0 | 58 | +1:23.857 | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 14 | R |
 | 2012 | 20 | 2012 Brazilian Grand Prix 🇧🇷 | 2012-11-25 | 17 | 8 | 4.0 | 71 | +28.653 | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 15 | 13 |
 | 2012 | 19 | 2012 United States Grand Prix 🇺🇸 | 2012-11-18 | 14 | R | 0.0 | 14 |   | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 18 | 12 |
-| 2012 | 18 | 2012 Abu Dhabi Grand Prix 🇦🇪 | 2012-11-04 | 17 | 12 | 0.0 | 55 | +34.9 | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 16 | 10 |
+| 2012 | 18 | 2012 Abu Dhabi Grand Prix 🇦🇪 | 2012-11-04 | 17 | 12 | 0.0 | 55 | +34.906 | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 16 | 10 |
 | 2012 | 17 | 2012 Indian Grand Prix 🇮🇳 | 2012-10-28 | 18 | 15 | 0.0 | 59 |   | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 15 | 13 |
 | 2012 | 16 | 2012 Korean Grand Prix 🇰🇷 | 2012-10-14 | 16 | 8 | 4.0 | 55 | +69.589 | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 21 | 9 |
 | 2012 | 15 | 2012 Japanese Grand Prix 🇯🇵 | 2012-10-07 | 19 | 13 | 0.0 | 53 | +88.645 | Toro Rosso 🇮🇹 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 14 | 10 |
@@ -87,14 +87,14 @@ collectionId: vergne
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
 | **Row Count** | 58 |  |  | 58 | 45 | 58 | 58 | 14 |  |  | 58 | 49 |
-| **Total Sum** | 590.000 |  |  | 816.000 | 536.000 | 51.000 | 2993.000 | 720.096 |  |  | 706.000 | 586.000 |
-| **Mean μ (Average)** | 10.172 |  |  | 14.069 | 11.911 | 0.879 | 51.603 | 51.435 |  |  | 12.172 | 11.959 |
+| **Total Sum** | 590.000 |  |  | 816.000 | 536.000 | 51.000 | 2993.000 | 720.102 |  |  | 706.000 | 586.000 |
+| **Mean μ (Average)** | 10.172 |  |  | 14.069 | 11.911 | 0.879 | 51.603 | 51.436 |  |  | 12.172 | 11.959 |
 | **Maximum** | 20.000 |  |  | 24.000 | 20.000 | 8.000 | 78.000 | 88.645 |  |  | 21.000 | 19.000 |
 | **75th Percentile** | 15.000 |  |  | 17.000 | 14.000 |  | 61.000 | 58.865 |  |  | 15.000 | 14.000 |
 | **Median** | 10.000 |  |  | 14.000 | 12.000 |  | 56.000 | 53.313 |  |  | 12.000 | 12.000 |
-| **25th Percentile** | 5.000 |  |  | 12.000 | 10.000 |  | 44.000 | 34.900 |  |  | 9.000 | 10.000 |
+| **25th Percentile** | 5.000 |  |  | 12.000 | 10.000 |  | 44.000 | 34.906 |  |  | 9.000 | 10.000 |
 | **Minimum** | 1.000 |  |  | 6.000 | 6.000 |  | 8.000 | 27.223 |  |  | 5.000 | 7.000 |
-| **Variance** | 31.177 |  |  | 15.616 | 9.370 | 3.554 | 288.722 | 327.468 |  |  | 16.143 | 7.590 |
+| **Variance** | 31.177 |  |  | 15.616 | 9.370 | 3.554 | 288.722 | 327.453 |  |  | 16.143 | 7.590 |
 | **Standard Deviation σ** | 5.584 |  |  | 3.952 | 3.061 | 1.885 | 16.992 | 18.096 |  |  | 4.018 | 2.755 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

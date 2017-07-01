@@ -26,7 +26,7 @@ collectionId: monteiro
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
 | 2006 | 18 | 2006 Brazilian Grand Prix 🇧🇷 | 2006-10-22 | 21 | 15 | 0.0 | 69 |   | Spyker MF1 🇳🇱 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 17 | 14 |
 | 2006 | 17 | 2006 Japanese Grand Prix 🇯🇵 | 2006-10-08 | 21 | 16 | 0.0 | 51 |   | Spyker MF1 🇳🇱 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 16 | R |
-| 2006 | 16 | 2006 Chinese Grand Prix 🇨🇳 | 2006-10-01 | 18 | R | 0.0 | 37 |   | Spyker MF1 🇳🇱 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 22 | 15â€  |
+| 2006 | 16 | 2006 Chinese Grand Prix 🇨🇳 | 2006-10-01 | 18 | R | 0.0 | 37 |   | Spyker MF1 🇳🇱 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 22 | 15 |
 | 2006 | 15 | 2006 Italian Grand Prix 🇮🇹 | 2006-09-10 | 20 | R | 0.0 | 44 |   | Spyker MF1 🇳🇱 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 18 | 17 |
 | 2006 | 14 | 2006 Turkish Grand Prix 🇹🇷 | 2006-08-27 | 19 | R | 0.0 | 0 |   | MF1 🇷🇺 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 22 | R |
 | 2006 | 13 | 2006 Hungarian Grand Prix 🇭🇺 | 2006-08-06 | 16 | 9 | 0.0 | 67 |   | MF1 🇷🇺 | [Christijan Albers 🇳🇱](/f1/drivers/albers) | 22 | 10 |
@@ -65,15 +65,15 @@ collectionId: monteiro
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 37 |  |  | 37 | 29 | 37 | 37 |  |  |  | 37 | 23 |
-| **Total Sum** | 361.000 |  |  | 654.000 | 387.000 | 7.000 | 2009.000 |  |  |  | 640.000 | 308.000 |
-| **Mean μ (Average)** | 9.757 |  |  | 17.676 | 13.345 | 0.189 | 54.297 |  |  |  | 17.297 | 13.391 |
+| **Row Count** | 37 |  |  | 37 | 29 | 37 | 37 |  |  |  | 37 | 24 |
+| **Total Sum** | 361.000 |  |  | 654.000 | 387.000 | 7.000 | 2009.000 |  |  |  | 640.000 | 323.000 |
+| **Mean μ (Average)** | 9.757 |  |  | 17.676 | 13.345 | 0.189 | 54.297 |  |  |  | 17.297 | 13.458 |
 | **Maximum** | 19.000 |  |  | 21.000 | 17.000 | 6.000 | 76.000 |  |  |  | 22.000 | 20.000 |
 | **75th Percentile** | 14.000 |  |  | 19.000 | 16.000 |  | 66.000 |  |  |  | 19.000 | 15.000 |
 | **Median** | 10.000 |  |  | 18.000 | 13.000 |  | 58.000 |  |  |  | 17.000 | 14.000 |
 | **25th Percentile** | 5.000 |  |  | 17.000 | 12.000 |  | 52.000 |  |  |  | 16.000 | 12.000 |
 | **Minimum** | 1.000 |  |  | 11.000 | 3.000 |  |  |  |  |  | 11.000 | 4.000 |
-| **Variance** | 28.562 |  |  | 4.381 | 9.950 | 0.964 | 280.371 |  |  |  | 6.425 | 9.195 |
-| **Standard Deviation σ** | 5.344 |  |  | 2.093 | 3.154 | 0.982 | 16.744 |  |  |  | 2.535 | 3.032 |
+| **Variance** | 28.562 |  |  | 4.381 | 9.950 | 0.964 | 280.371 |  |  |  | 6.425 | 8.915 |
+| **Standard Deviation σ** | 5.344 |  |  | 2.093 | 3.154 | 0.982 | 16.744 |  |  |  | 2.535 | 2.986 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

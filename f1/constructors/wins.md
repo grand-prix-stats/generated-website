@@ -109,8 +109,8 @@ var data = {
                 228.0,
                 178.0,
                 114.0,
-                67.0,
-                52.0,
+                68.0,
+                53.0,
                 45.0,
                 35.0,
                 27.0,
@@ -236,13 +236,13 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Wins | % Of Total Participations |
 |--|--|--|--|
-| 1. | Ferrari 🇮🇹 | 228 | 10.80% |
-| 2. | McLaren 🇬🇧 | 178 | 11.15% |
-| 3. | Williams 🇬🇧 | 114 | 8.44% |
-| 4. | Mercedes 🇩🇪 | 67 | 20.55% |
-| 5. | Red Bull 🇦🇹 | 52 | 11.26% |
+| 1. | Ferrari 🇮🇹 | 228 | 10.78% |
+| 2. | McLaren 🇬🇧 | 178 | 11.12% |
+| 3. | Williams 🇬🇧 | 114 | 8.41% |
+| 4. | Mercedes 🇩🇪 | 68 | 20.61% |
+| 5. | Red Bull 🇦🇹 | 53 | 11.37% |
 | 6. | Team Lotus 🇬🇧 | 45 | 5.17% |
-| 7. | Renault 🇫🇷 | 35 | 5.46% |
+| 7. | Renault 🇫🇷 | 35 | 5.43% |
 | 8. | Benetton 🇮🇹 | 27 | 5.19% |
 | 9. | Brabham 🇬🇧 | 23 | 3.47% |
 | 10. | Tyrrell 🇬🇧 | 23 | 2.61% |
@@ -279,20 +279,20 @@ var chart = new Chart("chart", {
 | 41. | Porsche 🇩🇪 | 1 | 1.19% |
 | 42. | Shadow 🇬🇧 | 1 | 0.47% |
 | 43. | Stewart 🇬🇧 | 1 | 1.02% |
-| 44. | Toro Rosso 🇮🇹 | 1 | 0.24% |
+| 44. | Toro Rosso 🇮🇹 | 1 | 0.23% |
 
 #### Statistic Summary
 
 | **Column** | **Wins** | **% Of Total Participations** |
 | **Row Count** | 44 | 44 |
-| **Total Sum** | 965.000 | 252.910 |
-| **Mean μ (Average)** | 21.932 | 5.748 |
+| **Total Sum** | 967.000 | 252.960 |
+| **Mean μ (Average)** | 21.977 | 5.749 |
 | **Maximum** | 228.000 | 23.530 |
 | **75th Percentile** | 22.000 | 9.520 |
 | **Median** | 5.000 | 3.470 |
 | **25th Percentile** | 2.000 | 1.490 |
-| **Minimum** | 1.000 | 0.240 |
-| **Variance** | 2033.791 | 34.753 |
-| **Standard Deviation σ** | 45.098 | 5.895 |
+| **Minimum** | 1.000 | 0.230 |
+| **Variance** | 2037.249 | 34.809 |
+| **Standard Deviation σ** | 45.136 | 5.900 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

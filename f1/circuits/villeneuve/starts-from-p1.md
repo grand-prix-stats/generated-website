@@ -74,7 +74,7 @@ var data = {
             "borderWidth": 1,
             "data": [
                 6.0,
-                5.0,
+                6.0,
                 3.0,
                 3.0,
                 3.0,
@@ -98,8 +98,8 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher",
         "Lewis Hamilton",
+        "Michael Schumacher",
         "Ayrton Senna",
         "Nelson Piquet",
         "Sebastian Vettel",
@@ -155,8 +155,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Starts From P1 |
 |--|--|--|
-| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
-| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 5 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 2. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 6 |
 | 3. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 |
 | 4. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 3 |
 | 5. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 |
@@ -180,14 +180,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Starts From P1** |
 | **Row Count** | 20 |
-| **Total Sum** | 37.000 |
-| **Mean μ (Average)** | 1.850 |
+| **Total Sum** | 38.000 |
+| **Mean μ (Average)** | 1.900 |
 | **Maximum** | 6.000 |
 | **75th Percentile** | 3.000 |
 | **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 2.027 |
-| **Standard Deviation σ** | 1.424 |
+| **Variance** | 2.390 |
+| **Standard Deviation σ** | 1.546 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

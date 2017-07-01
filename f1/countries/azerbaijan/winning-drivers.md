@@ -28,19 +28,23 @@ var data = {
     "datasets": [
         {
             "backgroundColor": [
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E"
             ],
             "borderWidth": 1,
             "data": [
+                1.0,
                 1.0
             ],
             "label": "Times"
         }
     ],
     "labels": [
+        "Daniel Ricciardo",
         "Nico Rosberg"
     ]
 };
@@ -79,13 +83,14 @@ var chart = new Chart("chart", {
 
 | # | Driver | Times |
 |--|--|--|
-| 1. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 1. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 2. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Times** |
-| **Row Count** | 1 |
-| **Total Sum** | 1.000 |
+| **Row Count** | 2 |
+| **Total Sum** | 2.000 |
 | **Mean μ (Average)** | 1.000 |
 | **Maximum** | 1.000 |
 | **75th Percentile** | 1.000 |

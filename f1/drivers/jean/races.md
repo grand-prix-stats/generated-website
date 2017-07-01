@@ -25,7 +25,7 @@ collectionId: jean
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
 | 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 22 | N | 0.0 | 46 |   | March-Ford 🇬🇧 | [François Mazet 🇫🇷](/f1/drivers/mazet) | 23 | 13 |
-| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 22 | N | 0.0 | 46 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 18 | N |
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 22 | N | 0.0 | 46 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 18 | R |
 | 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 22 | N | 0.0 | 46 |   | March-Ford 🇬🇧 | [Alex Soler-Roig 🇪🇸](/f1/drivers/roig) | 21 | R |
 
 #### Statistic Summary

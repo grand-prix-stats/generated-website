@@ -25,7 +25,7 @@ collectionId: nakano
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
 | 1998 | 16 | 1998 Japanese Grand Prix 🇯🇵 | 1998-11-01 | 20 | R | 0.0 | 40 |   | Minardi 🇮🇹 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 21 | R |
-| 1998 | 15 | 1998 Luxembourg Grand Prix 🇩🇪 | 1998-09-27 | 20 | 15 | 0.0 | 65 |   | Minardi 🇮🇹 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 21 | N |
+| 1998 | 15 | 1998 Luxembourg Grand Prix 🇩🇪 | 1998-09-27 | 20 | 15 | 0.0 | 65 |   | Minardi 🇮🇹 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 21 | R |
 | 1998 | 14 | 1998 Italian Grand Prix 🇮🇹 | 1998-09-13 | 21 | R | 0.0 | 13 |   | Minardi 🇮🇹 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 22 | 11 |
 | 1998 | 13 | 1998 Belgian Grand Prix 🇧🇪 | 1998-08-30 | 21 | 8 | 0.0 | 39 |   | Minardi 🇮🇹 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 22 | R |
 | 1998 | 12 | 1998 Hungarian Grand Prix 🇭🇺 | 1998-08-16 | 19 | 15 | 0.0 | 74 |   | Minardi 🇮🇹 | [Esteban Tuero 🇦🇷](/f1/drivers/tuero) | 21 | R |

@@ -31,7 +31,7 @@ collectionId: spa
 | 2013 | 11 | 2013 Belgian Grand Prix 🇧🇪 | 2013-08-25 | 44 | 1:23:42.196 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2012 | 12 | 2012 Belgian Grand Prix 🇧🇪 | 2012-09-02 | 44 | 1:29:08.530 | [Jenson Button 🇬🇧](/f1/drivers/button) | McLaren 🇬🇧 |
 | 2011 | 12 | 2011 Belgian Grand Prix 🇧🇪 | 2011-08-28 | 44 | 1:26:44.893 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
-| 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | 2010-08-29 | 44 | 1:29.04.268 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
+| 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | 2010-08-29 | 44 | 1:29:04.268 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | McLaren 🇬🇧 |
 | 2009 | 12 | 2009 Belgian Grand Prix 🇧🇪 | 2009-08-30 | 44 | 1:23:50.995 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | Ferrari 🇮🇹 |
 | 2008 | 13 | 2008 Belgian Grand Prix 🇧🇪 | 2008-09-07 | 44 | 1:22:59.394 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | Ferrari 🇮🇹 |
 | 2007 | 14 | 2007 Belgian Grand Prix 🇧🇪 | 2007-09-16 | 44 | 1:20:39.066 | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | Ferrari 🇮🇹 |

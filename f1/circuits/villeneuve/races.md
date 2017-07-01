@@ -24,7 +24,7 @@ collectionId: villeneuve
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 |   |   |   |   |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 70 | 1:33:05.154 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2016 | 7 | 2016 Canadian Grand Prix 🇨🇦 | 2016-06-12 | 70 | 1:31:05.296 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2015 | 7 | 2015 Canadian Grand Prix 🇨🇦 | 2015-06-07 | 70 | 1:31:53.145 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 7 | 2014 Canadian Grand Prix 🇨🇦 | 2014-06-08 | 70 | 1:39:12.830 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | Red Bull 🇦🇹 |
@@ -66,15 +66,15 @@ collectionId: villeneuve
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 38 |  |  | 37 |  |  |  |
-| **Total Sum** | 293.000 |  |  | 2555.000 |  |  |  |
-| **Mean μ (Average)** | 7.711 |  |  | 69.054 |  |  |  |
+| **Row Count** | 38 |  |  | 38 |  |  |  |
+| **Total Sum** | 293.000 |  |  | 2625.000 |  |  |  |
+| **Mean μ (Average)** | 7.711 |  |  | 69.079 |  |  |  |
 | **Maximum** | 16.000 |  |  | 72.000 |  |  |  |
 | **75th Percentile** | 8.000 |  |  | 70.000 |  |  |  |
 | **Median** | 7.000 |  |  | 70.000 |  |  |  |
 | **25th Percentile** | 6.000 |  |  | 69.000 |  |  |  |
 | **Minimum** | 5.000 |  |  | 54.000 |  |  |  |
-| **Variance** | 6.100 |  |  | 7.889 |  |  |  |
-| **Standard Deviation σ** | 2.470 |  |  | 2.809 |  |  |  |
+| **Variance** | 6.100 |  |  | 7.704 |  |  |  |
+| **Standard Deviation σ** | 2.470 |  |  | 2.776 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

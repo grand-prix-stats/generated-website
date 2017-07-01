@@ -42,7 +42,7 @@ collectionId: kobayashi
 | 2014 | 1 | 2014 Australian Grand Prix 🇦🇺 | 2014-03-16 | 14 | R | 0.0 | 0 |   | Caterham 🇲🇾 | [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 19 | R |
 | 2012 | 20 | 2012 Brazilian Grand Prix 🇧🇷 | 2012-11-25 | 14 | 9 | 2.0 | 71 | +31.250 | Sauber 🇨🇭 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 12 | R |
 | 2012 | 19 | 2012 United States Grand Prix 🇺🇸 | 2012-11-18 | 16 | 14 | 0.0 | 55 |   | Sauber 🇨🇭 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 15 | 11 |
-| 2012 | 18 | 2012 Abu Dhabi Grand Prix 🇦🇪 | 2012-11-04 | 15 | 6 | 8.0 | 55 | +22.076 | Sauber 🇨🇭 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 11 | 15 |
+| 2012 | 18 | 2012 Abu Dhabi Grand Prix 🇦🇪 | 2012-11-04 | 15 | 6 | 8.0 | 55 | +20.076 | Sauber 🇨🇭 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 11 | 15 |
 | 2012 | 17 | 2012 Indian Grand Prix 🇮🇳 | 2012-10-28 | 17 | 14 | 0.0 | 60 | +1:26.495 | Sauber 🇨🇭 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 8 | R |
 | 2012 | 16 | 2012 Korean Grand Prix 🇰🇷 | 2012-10-14 | 13 | R | 0.0 | 16 |   | Sauber 🇨🇭 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 12 | 11 |
 | 2012 | 15 | 2012 Japanese Grand Prix 🇯🇵 | 2012-10-07 | 3 | 3 | 15.0 | 53 | +24.538 | Sauber 🇨🇭 | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 5 | R |
@@ -104,14 +104,14 @@ collectionId: kobayashi
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
 | **Row Count** | 75 |  |  | 75 | 52 | 75 | 75 | 17 |  |  | 75 | 51 |
-| **Total Sum** | 760.000 |  |  | 1071.000 | 570.000 | 115.000 | 3479.000 | 703.220 |  |  | 1096.000 | 610.000 |
-| **Mean μ (Average)** | 10.133 |  |  | 14.280 | 10.962 | 1.533 | 46.387 | 41.366 |  |  | 14.613 | 11.961 |
+| **Total Sum** | 760.000 |  |  | 1071.000 | 570.000 | 115.000 | 3479.000 | 701.220 |  |  | 1096.000 | 610.000 |
+| **Mean μ (Average)** | 10.133 |  |  | 14.280 | 10.962 | 1.533 | 46.387 | 41.248 |  |  | 14.613 | 11.961 |
 | **Maximum** | 20.000 |  |  | 24.000 | 19.000 | 15.000 | 75.000 | 116.119 |  |  | 24.000 | 20.000 |
 | **75th Percentile** | 15.000 |  |  | 17.000 | 14.000 | 2.000 | 59.000 | 43.898 |  |  | 17.000 | 15.000 |
 | **Median** | 10.000 |  |  | 14.000 | 10.000 |  | 55.000 | 32.171 |  |  | 15.000 | 11.000 |
 | **25th Percentile** | 5.000 |  |  | 12.000 | 9.000 |  | 33.000 | 24.538 |  |  | 12.000 | 9.000 |
 | **Minimum** | 1.000 |  |  | 2.000 | 3.000 |  |  | 16.678 |  |  | 4.000 | 2.000 |
-| **Variance** | 31.076 |  |  | 19.962 | 14.345 | 9.342 | 472.610 | 678.830 |  |  | 22.290 | 18.979 |
-| **Standard Deviation σ** | 5.575 |  |  | 4.468 | 3.787 | 3.057 | 21.740 | 26.054 |  |  | 4.721 | 4.356 |
+| **Variance** | 31.076 |  |  | 19.962 | 14.345 | 9.342 | 472.610 | 683.591 |  |  | 22.290 | 18.979 |
+| **Standard Deviation σ** | 5.575 |  |  | 4.468 | 3.787 | 3.057 | 21.740 | 26.146 |  |  | 4.721 | 4.356 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

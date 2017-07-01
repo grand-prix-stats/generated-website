@@ -164,9 +164,9 @@ var data = {
             "data": [
                 726.0,
                 469.0,
-                311.0,
+                312.0,
+                140.0,
                 138.0,
-                135.0,
                 114.0,
                 102.0,
                 100.0,
@@ -348,14 +348,14 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Podiums | % Of Total Participations |
 |--|--|--|--|
-| 1. | Ferrari 🇮🇹 | 726 | 34.38% |
-| 2. | McLaren 🇬🇧 | 469 | 29.37% |
-| 3. | Williams 🇬🇧 | 311 | 23.02% |
-| 4. | Red Bull 🇦🇹 | 138 | 29.87% |
-| 5. | Mercedes 🇩🇪 | 135 | 41.41% |
+| 1. | Ferrari 🇮🇹 | 726 | 34.31% |
+| 2. | McLaren 🇬🇧 | 469 | 29.29% |
+| 3. | Williams 🇬🇧 | 312 | 23.03% |
+| 4. | Red Bull 🇦🇹 | 140 | 30.04% |
+| 5. | Mercedes 🇩🇪 | 138 | 41.82% |
 | 6. | Team Lotus 🇬🇧 | 114 | 13.09% |
 | 7. | Benetton 🇮🇹 | 102 | 19.62% |
-| 8. | Renault 🇫🇷 | 100 | 15.60% |
+| 8. | Renault 🇫🇷 | 100 | 15.50% |
 | 9. | Brabham 🇬🇧 | 78 | 11.78% |
 | 10. | Tyrrell 🇬🇧 | 77 | 8.74% |
 | 11. | BRM 🇬🇧 | 61 | 10.85% |
@@ -389,7 +389,7 @@ var chart = new Chart("chart", {
 | 39. | Matra 🇫🇷 | 6 | 8.45% |
 | 40. | Shadow 🇬🇧 | 6 | 2.84% |
 | 41. | Epperly 🇺🇸 | 5 | 29.41% |
-| 42. | Force India 🇮🇳 | 5 | 1.41% |
+| 42. | Force India 🇮🇳 | 5 | 1.40% |
 | 43. | March-Ford 🇬🇧 | 5 | 11.63% |
 | 44. | Porsche 🇩🇪 | 5 | 5.95% |
 | 45. | Stewart 🇬🇧 | 5 | 5.10% |
@@ -419,20 +419,20 @@ var chart = new Chart("chart", {
 | 69. | Onyx 🇬🇧 | 1 | 1.92% |
 | 70. | Phillips 🇺🇸 | 1 | 14.29% |
 | 71. | Shadow-Ford 🇬🇧 | 1 | 3.85% |
-| 72. | Toro Rosso 🇮🇹 | 1 | 0.24% |
+| 72. | Toro Rosso 🇮🇹 | 1 | 0.23% |
 
 #### Statistic Summary
 
 | **Column** | **Podiums** | **% Of Total Participations** |
 | **Row Count** | 72 | 72 |
-| **Total Sum** | 2907.000 | 799.230 |
-| **Mean μ (Average)** | 40.375 | 11.100 |
+| **Total Sum** | 2913.000 | 799.550 |
+| **Mean μ (Average)** | 40.458 | 11.105 |
 | **Maximum** | 726.000 | 44.120 |
 | **75th Percentile** | 25.000 | 16.230 |
 | **Median** | 7.000 | 8.410 |
 | **25th Percentile** | 2.000 | 2.440 |
-| **Minimum** | 1.000 | 0.240 |
-| **Variance** | 11474.095 | 111.544 |
-| **Standard Deviation σ** | 107.117 | 10.561 |
+| **Minimum** | 1.000 | 0.230 |
+| **Variance** | 11495.109 | 111.892 |
+| **Standard Deviation σ** | 107.215 | 10.578 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

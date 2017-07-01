@@ -24,6 +24,8 @@ collectionId: alonso
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 19 | 9 | 2.0 | 51 | +59.551 | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 18 | 12 |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 12 | 16 | 0.0 | 66 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 16 | 14 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 7 | 12 | 0.0 | 64 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 20 | R |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 15 | W | 0.0 | 0 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 20 | 14 |
 | 2017 | 3 | 2017 Bahrain Grand Prix 🇧🇭 | 2017-04-16 | 15 | 14 | 0.0 | 54 |   | McLaren 🇬🇧 | [Stoffel Vandoorne 🇧🇪](/f1/drivers/vandoorne) | 17 | R |
@@ -135,7 +137,7 @@ collectionId: alonso
 | 2011 | 12 | 2011 Belgian Grand Prix 🇧🇪 | 2011-08-28 | 8 | 4 | 12.0 | 44 | +13.022 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 4 | 8 |
 | 2011 | 11 | 2011 Hungarian Grand Prix 🇭🇺 | 2011-07-31 | 5 | 3 | 15.0 | 70 | +19.819 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 4 | 6 |
 | 2011 | 10 | 2011 German Grand Prix 🇩🇪 | 2011-07-24 | 4 | 2 | 18.0 | 60 | +3.980 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 5 | 5 |
-| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | 2011-07-10 | 3 | 1 | 25.0 | 52 | 1:28:41.194 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 4 | 5 |
+| 2011 | 9 | 2011 British Grand Prix 🇬🇧 | 2011-07-10 | 3 | 1 | 25.0 | 52 | 1:28:41.196 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 4 | 5 |
 | 2011 | 8 | 2011 European Grand Prix 🇪🇸 | 2011-06-26 | 4 | 2 | 18.0 | 57 | +10.891 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 5 | 5 |
 | 2011 | 7 | 2011 Canadian Grand Prix 🇨🇦 | 2011-06-12 | 2 | R | 0.0 | 36 |   | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 | 6 |
 | 2011 | 6 | 2011 Monaco Grand Prix 🇲🇨 | 2011-05-29 | 4 | 2 | 18.0 | 78 | +1.138 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 | R |
@@ -152,7 +154,7 @@ collectionId: alonso
 | 2010 | 14 | 2010 Italian Grand Prix 🇮🇹 | 2010-09-12 | 1 | 1 | 25.0 | 53 | 1:16:24.572 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 | 3 |
 | 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | 2010-08-29 | 10 | R | 0.0 | 37 |   | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 | 4 |
 | 2010 | 12 | 2010 Hungarian Grand Prix 🇭🇺 | 2010-08-01 | 3 | 2 | 18.0 | 70 | +17.821 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 4 | 4 |
-| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | 2010-07-25 | 2 | 1 | 25.0 | 67 | 1:27.38.684 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 | 2 |
+| 2010 | 11 | 2010 German Grand Prix 🇩🇪 | 2010-07-25 | 2 | 1 | 25.0 | 67 | 1:27:38.864 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 3 | 2 |
 | 2010 | 10 | 2010 British Grand Prix 🇬🇧 | 2010-07-11 | 3 | 14 | 0.0 | 52 | +1:02.385 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 7 | 15 |
 | 2010 | 9 | 2010 European Grand Prix 🇪🇸 | 2010-06-27 | 4 | 8 | 4.0 | 57 | +32.809 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 5 | 11 |
 | 2010 | 8 | 2010 Canadian Grand Prix 🇨🇦 | 2010-06-13 | 3 | 3 | 15.0 | 70 | +9.214 | Ferrari 🇮🇹 | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 6 | 15 |
@@ -307,15 +309,15 @@ collectionId: alonso
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 279 |  |  | 279 | 230 | 279 | 279 | 137 |  |  | 279 | 217 |
-| **Total Sum** | 2701.000 |  |  | 2218.000 | 1243.000 | 1832.000 | 15164.000 | 3269.080 |  |  | 2767.000 | 1713.000 |
-| **Mean μ (Average)** | 9.681 |  |  | 7.950 | 5.404 | 6.566 | 54.351 | 23.862 |  |  | 9.918 | 7.894 |
+| **Row Count** | 281 |  |  | 281 | 232 | 281 | 281 | 138 |  |  | 281 | 219 |
+| **Total Sum** | 2716.000 |  |  | 2249.000 | 1268.000 | 1834.000 | 15281.000 | 3328.631 |  |  | 2801.000 | 1739.000 |
+| **Mean μ (Average)** | 9.665 |  |  | 8.004 | 5.466 | 6.527 | 54.381 | 24.121 |  |  | 9.968 | 7.941 |
 | **Maximum** | 21.000 |  |  | 24.000 | 18.000 | 25.000 | 78.000 | 59.946 |  |  | 24.000 | 18.000 |
-| **75th Percentile** | 14.000 |  |  | 11.000 | 7.000 | 10.000 | 66.000 | 35.992 |  |  | 14.000 | 11.000 |
-| **Median** | 10.000 |  |  | 6.000 | 4.000 | 6.000 | 57.000 | 20.594 |  |  | 9.000 | 7.000 |
+| **75th Percentile** | 14.000 |  |  | 11.000 | 7.000 | 10.000 | 66.000 | 36.251 |  |  | 14.000 | 11.000 |
+| **Median** | 10.000 |  |  | 6.000 | 4.000 | 6.000 | 57.000 | 21.565 |  |  | 9.000 | 7.000 |
 | **25th Percentile** | 5.000 |  |  | 4.000 | 2.000 |  | 52.000 | 9.806 |  |  | 5.000 | 4.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.852 |  |  |  | 1.000 |
-| **Variance** | 28.963 |  |  | 31.610 | 16.867 | 44.697 | 280.185 | 276.659 |  |  | 36.276 | 17.883 |
-| **Standard Deviation σ** | 5.382 |  |  | 5.622 | 4.107 | 6.686 | 16.739 | 16.633 |  |  | 6.023 | 4.229 |
+| **Variance** | 28.792 |  |  | 31.875 | 17.257 | 44.605 | 278.713 | 283.817 |  |  | 36.380 | 17.965 |
+| **Standard Deviation σ** | 5.366 |  |  | 5.646 | 4.154 | 6.679 | 16.695 | 16.847 |  |  | 6.032 | 4.238 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

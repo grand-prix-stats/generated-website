@@ -86,10 +86,10 @@ var data = {
                 "888888",
                 "888888",
                 "07316F",
-                "888888",
-                "888888",
-                "888888",
                 "CF0F18",
+                "888888",
+                "888888",
+                "888888",
                 "888888",
                 "888888",
                 "888888",
@@ -208,10 +208,10 @@ var data = {
                 "444444",
                 "444444",
                 "444444",
-                "444444",
-                "444444",
-                "444444",
                 "4D4E52",
+                "444444",
+                "444444",
+                "444444",
                 "444444",
                 "444444",
                 "444444",
@@ -258,26 +258,26 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                2112.0,
-                1597.0,
-                1351.0,
+                2116.0,
+                1601.0,
+                1355.0,
                 881.0,
                 871.0,
-                718.0,
+                722.0,
                 672.0,
                 662.0,
-                641.0,
+                645.0,
                 611.0,
                 590.0,
                 562.0,
                 524.0,
                 520.0,
                 500.0,
-                462.0,
+                466.0,
                 436.0,
-                424.0,
-                354.0,
-                326.0,
+                428.0,
+                358.0,
+                330.0,
                 280.0,
                 268.0,
                 260.0,
@@ -331,8 +331,8 @@ var data = {
                 64.0,
                 59.0,
                 58.0,
+                58.0,
                 55.0,
-                54.0,
                 54.0,
                 54.0,
                 52.0,
@@ -456,10 +456,10 @@ var data = {
         "Leyton House",
         "Brabham-Alfa Romeo",
         "Brabham-Ford",
+        "Haas F1 Team",
         "Iso Marlboro",
         "Connaught",
         "Forti",
-        "Haas F1 Team",
         "Onyx",
         "Rial",
         "HWM",
@@ -540,26 +540,26 @@ var chart = new Chart("chart", {
 
 | # | Constructor | Participations |
 |--|--|--|
-| 1. | Ferrari 🇮🇹 | 2112 |
-| 2. | McLaren 🇬🇧 | 1597 |
-| 3. | Williams 🇬🇧 | 1351 |
+| 1. | Ferrari 🇮🇹 | 2116 |
+| 2. | McLaren 🇬🇧 | 1601 |
+| 3. | Williams 🇬🇧 | 1355 |
 | 4. | Tyrrell 🇬🇧 | 881 |
 | 5. | Team Lotus 🇬🇧 | 871 |
-| 6. | Sauber 🇨🇭 | 718 |
+| 6. | Sauber 🇨🇭 | 722 |
 | 7. | Minardi 🇮🇹 | 672 |
 | 8. | Brabham 🇬🇧 | 662 |
-| 9. | Renault 🇫🇷 | 641 |
+| 9. | Renault 🇫🇷 | 645 |
 | 10. | Ligier 🇫🇷 | 611 |
 | 11. | Arrows 🇬🇧 | 590 |
 | 12. | BRM 🇬🇧 | 562 |
 | 13. | March 🇬🇧 | 524 |
 | 14. | Benetton 🇮🇹 | 520 |
 | 15. | Jordan 🇮🇪 | 500 |
-| 16. | Red Bull 🇦🇹 | 462 |
+| 16. | Red Bull 🇦🇹 | 466 |
 | 17. | Maserati 🇮🇹 | 436 |
-| 18. | Toro Rosso 🇮🇹 | 424 |
-| 19. | Force India 🇮🇳 | 354 |
-| 20. | Mercedes 🇩🇪 | 326 |
+| 18. | Toro Rosso 🇮🇹 | 428 |
+| 19. | Force India 🇮🇳 | 358 |
+| 20. | Mercedes 🇩🇪 | 330 |
 | 21. | Toyota 🇯🇵 | 280 |
 | 22. | Cooper-Climax 🇬🇧 | 268 |
 | 23. | Surtees 🇬🇧 | 260 |
@@ -613,10 +613,10 @@ var chart = new Chart("chart", {
 | 71. | Leyton House 🇬🇧 | 64 |
 | 72. | Brabham-Alfa Romeo 🇬🇧 | 59 |
 | 73. | Brabham-Ford 🇬🇧 | 58 |
-| 74. | Iso Marlboro 🇬🇧 | 55 |
-| 75. | Connaught 🇬🇧 | 54 |
-| 76. | Forti 🇮🇹 | 54 |
-| 77. | Haas F1 Team 🇺🇸 | 54 |
+| 74. | Haas F1 Team 🇺🇸 | 58 |
+| 75. | Iso Marlboro 🇬🇧 | 55 |
+| 76. | Connaught 🇬🇧 | 54 |
+| 77. | Forti 🇮🇹 | 54 |
 | 78. | Onyx 🇬🇧 | 52 |
 | 79. | Rial 🇩🇪 | 48 |
 | 80. | HWM 🇬🇧 | 47 |
@@ -665,14 +665,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Participations** |
 | **Row Count** | 120 |
-| **Total Sum** | 23179.000 |
-| **Mean μ (Average)** | 193.158 |
-| **Maximum** | 2112.000 |
+| **Total Sum** | 23219.000 |
+| **Mean μ (Average)** | 193.492 |
+| **Maximum** | 2116.000 |
 | **75th Percentile** | 211.000 |
 | **Median** | 79.000 |
 | **25th Percentile** | 32.000 |
 | **Minimum** | 8.000 |
-| **Variance** | 96336.950 |
-| **Standard Deviation σ** | 310.382 |
+| **Variance** | 96745.333 |
+| **Standard Deviation σ** | 311.039 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

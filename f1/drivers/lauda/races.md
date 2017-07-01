@@ -193,7 +193,7 @@ collectionId: lauda
 | 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 6 | R | 0.0 | 24 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 11 | R |
 | 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 6 | R | 0.0 | 24 |   | BRM 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 8 | R |
 | 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 14 | 5 | 2.0 | 69 |   | BRM 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 12 | 10 |
-| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 14 | 5 | 2.0 | 69 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 5 | R |
+| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 14 | 5 | 2.0 | 69 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 5 | N |
 | 1973 | 4 | 1973 Spanish Grand Prix 🇪🇸 | 1973-04-29 | 11 | R | 0.0 | 28 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 10 | 5 |
 | 1973 | 4 | 1973 Spanish Grand Prix 🇪🇸 | 1973-04-29 | 11 | R | 0.0 | 28 |   | BRM 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 8 | 9 |
 | 1973 | 3 | 1973 South African Grand Prix 🇿🇦 | 1973-03-03 | 10 | R | 0.0 | 26 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 7 | R |

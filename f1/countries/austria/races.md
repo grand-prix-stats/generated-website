@@ -35,7 +35,7 @@ collectionId: austria
 | 1999 | 9 | 1999 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1999-07-25 | 71 | 1:28:12.438 | [Eddie Irvine 🇬🇧](/f1/drivers/irvine) | Ferrari 🇮🇹 |
 | 1998 | 10 | 1998 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1998-07-26 | 71 | 1:30:44.0 | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | McLaren 🇬🇧 |
 | 1997 | 14 | 1997 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1997-09-21 | 71 | 1:27:35.999 | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | Williams 🇬🇧 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1987-06-18 | 52 | 1:18:44.898 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1987-08-16 | 52 | 1:18:44.898 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
 | 1986 | 12 | 1986 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1986-08-17 | 52 | 1:21:22.531 | [Alain Prost 🇫🇷](/f1/drivers/prost) | McLaren 🇬🇧 |
 | 1985 | 10 | 1985 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1985-08-18 | 52 | 1:20:12.583 | [Alain Prost 🇫🇷](/f1/drivers/prost) | McLaren 🇬🇧 |
 | 1984 | 12 | 1984 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1984-08-19 | 51 | 1:21:12.851 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | McLaren 🇬🇧 |
@@ -50,7 +50,7 @@ collectionId: austria
 | 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1975-08-17 | 29 | 0:57:56.69 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | March 🇬🇧 |
 | 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1974-08-18 | 54 | 1:28:44.72 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | Brabham 🇬🇧 |
 | 1973 | 12 | 1973 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1973-08-19 | 54 | 1:28:48.78 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | Team Lotus 🇬🇧 |
-| 1972 | 9 | 1972 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1972-08-13 | 54 | 29:17.3 | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | Team Lotus 🇬🇧 |
+| 1972 | 9 | 1972 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1972-08-13 | 54 | 1:29:16.660 | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | Team Lotus 🇬🇧 |
 | 1971 | 8 | 1971 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1971-08-15 | 54 | 1:30:23.91 | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | BRM 🇬🇧 |
 | 1970 | 9 | 1970 Austrian Grand Prix 🇦🇹 | [A1-Ring](/f1/circuits/osterreichring) | 1970-08-16 | 60 | 1:42:17.3 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | Ferrari 🇮🇹 |
 | 1964 | 7 | 1964 Austrian Grand Prix 🇦🇹 | [Zeltweg](/f1/circuits/zeltweg) | 1964-08-23 | 105 | 2:06:18.23 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | Ferrari 🇮🇹 |

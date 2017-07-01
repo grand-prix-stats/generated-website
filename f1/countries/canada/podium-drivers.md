@@ -166,7 +166,7 @@ var data = {
             "borderWidth": 1,
             "data": [
                 12.0,
-                6.0,
+                7.0,
                 5.0,
                 5.0,
                 5.0,
@@ -181,6 +181,7 @@ var data = {
                 3.0,
                 3.0,
                 3.0,
+                3.0,
                 2.0,
                 2.0,
                 2.0,
@@ -202,7 +203,6 @@ var data = {
                 2.0,
                 2.0,
                 2.0,
-                1.0,
                 1.0,
                 1.0,
                 1.0,
@@ -252,9 +252,11 @@ var data = {
         "Gilles Villeneuve",
         "Jenson Button",
         "Riccardo Patrese",
+        "Valtteri Bottas",
         "Alan Jones",
         "Ayrton Senna",
         "Carlos Reutemann",
+        "Daniel Ricciardo",
         "David Coulthard",
         "Emerson Fittipaldi",
         "Jack Brabham",
@@ -272,13 +274,11 @@ var data = {
         "Ralf Schumacher",
         "Ronnie Peterson",
         "Thierry Boutsen",
-        "Valtteri Bottas",
         "Alexander Wurz",
         "Andrea de Cesaris",
         "Bruce McLaren",
         "Chris Amon",
         "Dan Gurney",
-        "Daniel Ricciardo",
         "Didier Pironi",
         "Eddie Cheever",
         "Gerhard Berger",
@@ -340,7 +340,7 @@ var chart = new Chart("chart", {
 | # | Driver | Times |
 |--|--|--|
 | 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 12 |
-| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 6 |
+| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 7 |
 | 3. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 5 |
 | 4. | [Jean Alesi 🇫🇷](/f1/drivers/alesi) | 5 |
 | 5. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 5 |
@@ -355,33 +355,33 @@ var chart = new Chart("chart", {
 | 14. | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | 3 |
 | 15. | [Jenson Button 🇬🇧](/f1/drivers/button) | 3 |
 | 16. | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 3 |
-| 17. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
-| 18. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
-| 19. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
-| 20. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
-| 21. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
-| 22. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
-| 23. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
-| 24. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 |
-| 25. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 2 |
-| 26. | [John Watson 🇬🇧](/f1/drivers/watson) | 2 |
-| 27. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
-| 28. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
-| 29. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 2 |
-| 30. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
-| 31. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
-| 32. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 2 |
-| 33. | [Peter Revson 🇺🇸](/f1/drivers/revson) | 2 |
-| 34. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 2 |
-| 35. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
-| 36. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 2 |
-| 37. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 2 |
-| 38. | [Alexander Wurz 🇦🇹](/f1/drivers/wurz) | 1 |
-| 39. | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 1 |
-| 40. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
-| 41. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
-| 42. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
-| 43. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 1 |
+| 17. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 3 |
+| 18. | [Alan Jones 🇦🇺](/f1/drivers/jones) | 2 |
+| 19. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 |
+| 20. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 |
+| 21. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 2 |
+| 22. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 2 |
+| 23. | [Emerson Fittipaldi 🇧🇷](/f1/drivers/emerson_fittipaldi) | 2 |
+| 24. | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 2 |
+| 25. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 2 |
+| 26. | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 |
+| 27. | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 2 |
+| 28. | [John Watson 🇬🇧](/f1/drivers/watson) | 2 |
+| 29. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 2 |
+| 30. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 2 |
+| 31. | [Nick Heidfeld 🇩🇪](/f1/drivers/heidfeld) | 2 |
+| 32. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 2 |
+| 33. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 2 |
+| 34. | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 2 |
+| 35. | [Peter Revson 🇺🇸](/f1/drivers/revson) | 2 |
+| 36. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 2 |
+| 37. | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 2 |
+| 38. | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 2 |
+| 39. | [Alexander Wurz 🇦🇹](/f1/drivers/wurz) | 1 |
+| 40. | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 1 |
+| 41. | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 1 |
+| 42. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 1 |
+| 43. | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 |
 | 44. | [Didier Pironi 🇫🇷](/f1/drivers/pironi) | 1 |
 | 45. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 1 |
 | 46. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 |
@@ -410,14 +410,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Times** |
 | **Row Count** | 66 |
-| **Total Sum** | 141.000 |
-| **Mean μ (Average)** | 2.136 |
+| **Total Sum** | 144.000 |
+| **Mean μ (Average)** | 2.182 |
 | **Maximum** | 12.000 |
-| **75th Percentile** | 2.000 |
+| **75th Percentile** | 3.000 |
 | **Median** | 2.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 2.966 |
-| **Standard Deviation σ** | 1.722 |
+| **Variance** | 3.088 |
+| **Standard Deviation σ** | 1.757 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

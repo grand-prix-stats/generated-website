@@ -24,8 +24,8 @@ collectionId: lof
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | R | 0.0 | 70 |   | HWM 🇬🇧 | [Duncan Hamilton 🇬🇧](/f1/drivers/duncan_hamilton) | 10 | 7 |
-| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | R | 0.0 | 70 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 9 | 8 |
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | N | 0.0 | 70 |   | HWM 🇬🇧 | [Duncan Hamilton 🇬🇧](/f1/drivers/duncan_hamilton) | 10 | 7 |
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | N | 0.0 | 70 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 9 | 8 |
 
 #### Statistic Summary
 

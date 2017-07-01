@@ -111,7 +111,7 @@ collectionId: pescarolo
 | 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 20 | R | 0.0 | 23 |   | March-Ford 🇬🇧 | [Skip Barber 🇺🇸](/f1/drivers/barber) | 25 | N |
 | 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 20 | R | 0.0 | 23 |   | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 23 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 10 | R | 0.0 | 40 |   | March-Ford 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 24 | N |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 10 | R | 0.0 | 40 |   | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | N |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 10 | R | 0.0 | 40 |   | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 10 | R | 0.0 | 40 |   | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 19 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 10 | R | 0.0 | 40 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 6 | 2 |
 | 1971 | 8 | 1971 Austrian Grand Prix 🇦🇹 | 1971-08-15 | 13 | 6 | 1.0 | 54 | +1:24.51 | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 11 | 8 |
@@ -122,9 +122,9 @@ collectionId: pescarolo
 | 1971 | 6 | 1971 British Grand Prix 🇬🇧 | 1971-07-17 | 17 | 4 | 3.0 | 67 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 5 | 2 |
 | 1971 | 6 | 1971 British Grand Prix 🇬🇧 | 1971-07-17 | 17 | 4 | 3.0 | 67 |   | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 21 | 11 |
 | 1971 | 6 | 1971 British Grand Prix 🇬🇧 | 1971-07-17 | 17 | 4 | 3.0 | 67 |   | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 20 | R |
-| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 18 | N | 0.0 | 45 |   | March-Ford 🇬🇧 | [Alex Soler-Roig 🇪🇸](/f1/drivers/roig) | 21 | R |
-| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 18 | N | 0.0 | 45 |   | March-Ford 🇬🇧 | [François Mazet 🇫🇷](/f1/drivers/mazet) | 23 | 13 |
-| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 18 | N | 0.0 | 45 |   | March-Ford 🇬🇧 | [Max Jean 🇫🇷](/f1/drivers/jean) | 22 | N |
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 18 | R | 0.0 | 45 |   | March-Ford 🇬🇧 | [Alex Soler-Roig 🇪🇸](/f1/drivers/roig) | 21 | R |
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 18 | R | 0.0 | 45 |   | March-Ford 🇬🇧 | [François Mazet 🇫🇷](/f1/drivers/mazet) | 23 | 13 |
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 18 | R | 0.0 | 45 |   | March-Ford 🇬🇧 | [Max Jean 🇫🇷](/f1/drivers/jean) | 22 | N |
 | 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 15 | N | 0.0 | 62 |   | March-Ford 🇬🇧 | [Skip Barber 🇺🇸](/f1/drivers/barber) | 24 | N |
 | 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 15 | N | 0.0 | 62 |   | March-Ford 🇬🇧 | [Alex Soler-Roig 🇪🇸](/f1/drivers/roig) | 17 | R |
 | 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 15 | N | 0.0 | 62 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 13 | 4 |

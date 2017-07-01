@@ -36,9 +36,11 @@ var data = {
                 "#9C8E8D",
                 "#9C8E8D",
                 "#9C8E8D",
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E",
                 "#1D181E",
                 "#1D181E",
@@ -59,6 +61,7 @@ var data = {
                 1.0,
                 1.0,
                 1.0,
+                1.0,
                 1.0
             ],
             "label": "Number Of Fastest Laps"
@@ -69,6 +72,7 @@ var data = {
         "Felipe Massa",
         "Fernando Alonso",
         "Jenson Button",
+        "Lewis Hamilton",
         "Mark Webber",
         "Nico Rosberg",
         "Robert Kubica",
@@ -115,24 +119,25 @@ var chart = new Chart("chart", {
 | 2. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1 |
 | 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1 |
 | 4. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1 |
-| 5. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
-| 6. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
-| 7. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
-| 8. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
-| 9. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
+| 5. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 1 |
+| 6. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1 |
+| 7. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 8. | [Robert Kubica 🇵🇱](/f1/drivers/kubica) | 1 |
+| 9. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 1 |
+| 10. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Fastest Laps** |
-| **Row Count** | 9 |
-| **Total Sum** | 12.000 |
-| **Mean μ (Average)** | 1.333 |
+| **Row Count** | 10 |
+| **Total Sum** | 13.000 |
+| **Mean μ (Average)** | 1.300 |
 | **Maximum** | 4.000 |
 | **75th Percentile** | 1.000 |
 | **Median** | 1.000 |
 | **25th Percentile** | 1.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 0.889 |
-| **Standard Deviation σ** | 0.943 |
+| **Variance** | 0.810 |
+| **Standard Deviation σ** | 0.900 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

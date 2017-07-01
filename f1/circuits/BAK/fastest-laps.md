@@ -28,20 +28,24 @@ var data = {
     "datasets": [
         {
             "backgroundColor": [
+                "#9C8E8D",
                 "#9C8E8D"
             ],
             "borderColor": [
+                "#1D181E",
                 "#1D181E"
             ],
             "borderWidth": 1,
             "data": [
+                1.0,
                 1.0
             ],
             "label": "Number Of Fastest Laps"
         }
     ],
     "labels": [
-        "Nico Rosberg"
+        "Nico Rosberg",
+        "Sebastian Vettel"
     ]
 };
 var options = {
@@ -80,12 +84,13 @@ var chart = new Chart("chart", {
 | # | Driver | Number Of Fastest Laps |
 |--|--|--|
 | 1. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 |
 
 #### Statistic Summary
 
 | **Column** | **Number Of Fastest Laps** |
-| **Row Count** | 1 |
-| **Total Sum** | 1.000 |
+| **Row Count** | 2 |
+| **Total Sum** | 2.000 |
 | **Mean μ (Average)** | 1.000 |
 | **Maximum** | 1.000 |
 | **75th Percentile** | 1.000 |

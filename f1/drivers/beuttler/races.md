@@ -98,10 +98,10 @@ collectionId: beuttler
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 22 | N | 0.0 | 56 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 6 | 2 |
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 22 | N | 0.0 | 56 |   | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 20 | 16 |
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 22 | N | 0.0 | 56 |   | March-Ford 🇬🇧 | [Skip Barber 🇺🇸](/f1/drivers/barber) | 24 | R |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | N | 0.0 | 41 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 6 | 2 |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | N | 0.0 | 41 |   | March-Ford 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 24 | N |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | N | 0.0 | 41 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 10 | R |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | N | 0.0 | 41 |   | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 19 | R |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | R | 0.0 | 41 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 6 | 2 |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | R | 0.0 | 41 |   | March-Ford 🇬🇧 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 24 | N |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | R | 0.0 | 41 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 10 | R |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 16 | R | 0.0 | 41 |   | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 19 | R |
 | 1971 | 8 | 1971 Austrian Grand Prix 🇦🇹 | 1971-08-15 | 19 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 13 | 6 |
 | 1971 | 8 | 1971 Austrian Grand Prix 🇦🇹 | 1971-08-15 | 19 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 11 | 8 |
 | 1971 | 8 | 1971 Austrian Grand Prix 🇦🇹 | 1971-08-15 | 19 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 21 | R |

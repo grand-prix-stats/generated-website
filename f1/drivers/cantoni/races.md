@@ -31,7 +31,7 @@ collectionId: cantoni
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 23 | 11 | 0.0 | 75 |   | Maserati 🇮🇹 | [Franco Rol 🇮🇹](/f1/drivers/rol) | 16 | R |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 23 | 11 | 0.0 | 75 |   | Maserati 🇮🇹 | [Alberto Crespo 🇦🇷](/f1/drivers/crespo) | 0 | F |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 23 | 11 | 0.0 | 75 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 0 | F |
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 26 | R | 0.0 | 4 |   | Maserati 🇮🇹 | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 10 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 26 | R | 0.0 | 4 |   | Maserati 🇮🇹 | [Felice Bonetto 🇮🇹](/f1/drivers/bonetto) | 10 | D |
 | 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 26 | R | 0.0 | 4 |   | Maserati 🇮🇹 | [Gino Bianco 🇧🇷](/f1/drivers/bianco) | 16 | R |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 27 | R | 0.0 | 0 |   | Maserati 🇮🇹 | [Harry Schell 🇺🇸](/f1/drivers/schell) | 32 | 17 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 27 | R | 0.0 | 0 |   | Maserati 🇮🇹 | [Gino Bianco 🇧🇷](/f1/drivers/bianco) | 28 | 18 |

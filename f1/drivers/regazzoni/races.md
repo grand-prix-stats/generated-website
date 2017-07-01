@@ -127,7 +127,7 @@ collectionId: regazzoni
 | 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 8 | R | 0.0 | 15 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 6 | R |
 | 1973 | 6 | 1973 Monaco Grand Prix 🇲🇨 | 1973-06-03 | 8 | R | 0.0 | 15 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 11 | R |
 | 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 12 | 10 | 0.0 | 63 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 14 | 5 |
-| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 12 | 10 | 0.0 | 63 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 5 | R |
+| 1973 | 5 | 1973 Belgian Grand Prix 🇧🇪 | 1973-05-20 | 12 | 10 | 0.0 | 63 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 5 | N |
 | 1973 | 4 | 1973 Spanish Grand Prix 🇪🇸 | 1973-04-29 | 8 | 9 | 0.0 | 69 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 11 | R |
 | 1973 | 4 | 1973 Spanish Grand Prix 🇪🇸 | 1973-04-29 | 8 | 9 | 0.0 | 69 |   | BRM 🇬🇧 | [Jean-Pierre Beltoise 🇫🇷](/f1/drivers/beltoise) | 10 | 5 |
 | 1973 | 3 | 1973 South African Grand Prix 🇿🇦 | 1973-03-03 | 5 | R | 0.0 | 2 |   | BRM 🇬🇧 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 10 | R |
@@ -152,7 +152,7 @@ collectionId: regazzoni
 | 1972 | 2 | 1972 South African Grand Prix 🇿🇦 | 1972-03-04 | 2 | 12 | 0.0 | 77 |   | Ferrari 🇮🇹 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 7 | 8 |
 | 1972 | 1 | 1972 Argentine Grand Prix 🇦🇷 | 1972-01-23 | 6 | 4 | 3.0 | 95 | +1:06.72 | Ferrari 🇮🇹 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 8 | 3 |
 | 1972 | 1 | 1972 Argentine Grand Prix 🇦🇷 | 1972-01-23 | 6 | 4 | 3.0 | 95 | +1:06.72 | Ferrari 🇮🇹 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 9 | R |
-| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 4 | 6 | 1.0 | 59 | +1:16.426 | Ferrari 🇮🇹 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 7 | N |
+| 1971 | 11 | 1971 United States Grand Prix 🇺🇸 | 1971-10-03 | 4 | 6 | 1.0 | 59 | +1:16.426 | Ferrari 🇮🇹 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 7 | R |
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 18 | R | 0.0 | 7 |   | Ferrari 🇮🇹 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 12 | 8 |
 | 1971 | 10 | 1971 Canadian Grand Prix 🇨🇦 | 1971-09-19 | 18 | R | 0.0 | 7 |   | Ferrari 🇮🇹 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | 13 | 13 |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 8 | R | 0.0 | 17 |   | Ferrari 🇮🇹 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 2 | R |

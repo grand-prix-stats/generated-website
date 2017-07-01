@@ -68,7 +68,7 @@ collectionId: alliot
 | 1989 | 7 | 1989 French Grand Prix 🇫🇷 | 1989-07-09 | 7 | R | 0.0 | 30 |   | Larrousse 🇫🇷 | [Éric Bernard 🇫🇷](/f1/drivers/bernard) | 15 | 11 |
 | 1989 | 6 | 1989 Canadian Grand Prix 🇨🇦 | 1989-06-18 | 10 | R | 0.0 | 26 |   | Larrousse 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
 | 1989 | 5 | 1989 United States Grand Prix 🇺🇸 | 1989-06-04 | 12 | R | 0.0 | 3 |   | Larrousse 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
-| 1989 | 4 | 1989 Mexican Grand Prix 🇲🇽 | 1989-05-28 | 16 | R | 0.0 | 28 |   | Larrousse 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
+| 1989 | 4 | 1989 Mexican Grand Prix 🇲🇽 | 1989-05-28 | 16 | N | 0.0 | 28 |   | Larrousse 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
 | 1989 | 3 | 1989 Monaco Grand Prix 🇲🇨 | 1989-05-07 | 17 | R | 0.0 | 38 |   | Larrousse 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |
 | 1989 | 2 | 1989 San Marino Grand Prix 🇮🇹 | 1989-04-23 | 20 | R | 0.0 | 0 |   | Larrousse 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 26 | R |
 | 1989 | 1 | 1989 Brazilian Grand Prix 🇧🇷 | 1989-03-26 | 26 | 12 | 0.0 | 58 |   | Larrousse 🇫🇷 | [Yannick Dalmas 🇫🇷](/f1/drivers/dalmas) | 0 | F |

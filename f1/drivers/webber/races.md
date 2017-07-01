@@ -61,7 +61,7 @@ collectionId: webber
 | 2012 | 5 | 2012 Spanish Grand Prix 🇪🇸 | 2012-05-13 | 11 | 11 | 0.0 | 65 |   | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 7 | 6 |
 | 2012 | 4 | 2012 Bahrain Grand Prix 🇧🇭 | 2012-04-22 | 3 | 4 | 12.0 | 57 | +38.788 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 1 |
 | 2012 | 3 | 2012 Chinese Grand Prix 🇨🇳 | 2012-04-15 | 6 | 4 | 12.0 | 56 | +27.924 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 11 | 5 |
-| 2012 | 2 | 2012 Malaysian Grand Prix 🇲🇾 | 2012-03-25 | 4 | 4 | 12.0 | 56 | +17.658 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 5 | 11 |
+| 2012 | 2 | 2012 Malaysian Grand Prix 🇲🇾 | 2012-03-25 | 4 | 4 | 12.0 | 56 | +17.688 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 5 | 11 |
 | 2012 | 1 | 2012 Australian Grand Prix 🇦🇺 | 2012-03-18 | 5 | 4 | 12.0 | 58 | +4.547 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 6 | 2 |
 | 2011 | 19 | 2011 Brazilian Grand Prix 🇧🇷 | 2011-11-27 | 2 | 1 | 25.0 | 71 | 1:32:17.464 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 2 |
 | 2011 | 18 | 2011 Abu Dhabi Grand Prix 🇦🇪 | 2011-11-13 | 4 | 4 | 12.0 | 55 | +35.784 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | R |
@@ -91,7 +91,7 @@ collectionId: webber
 | 2010 | 13 | 2010 Belgian Grand Prix 🇧🇪 | 2010-08-29 | 1 | 2 | 18.0 | 44 | +1.571 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 4 | 15 |
 | 2010 | 12 | 2010 Hungarian Grand Prix 🇭🇺 | 2010-08-01 | 2 | 1 | 25.0 | 70 | 1:41:05.571 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 3 |
 | 2010 | 11 | 2010 German Grand Prix 🇩🇪 | 2010-07-25 | 4 | 6 | 8.0 | 67 | +43.606 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 3 |
-| 2010 | 10 | 2010 British Grand Prix 🇬🇧 | 2010-07-11 | 2 | 1 | 25.0 | 52 | 1:24.38.200 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 7 |
+| 2010 | 10 | 2010 British Grand Prix 🇬🇧 | 2010-07-11 | 2 | 1 | 25.0 | 52 | 1:24:38.200 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 7 |
 | 2010 | 9 | 2010 European Grand Prix 🇪🇸 | 2010-06-27 | 2 | R | 0.0 | 8 |   | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 1 | 1 |
 | 2010 | 8 | 2010 Canadian Grand Prix 🇨🇦 | 2010-06-13 | 7 | 5 | 10.0 | 70 | +39.291 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2 | 4 |
 | 2010 | 7 | 2010 Turkish Grand Prix 🇹🇷 | 2010-05-30 | 1 | 3 | 15.0 | 58 | +24.285 | Red Bull 🇦🇹 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 3 | R |
@@ -244,14 +244,14 @@ collectionId: webber
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
 | **Row Count** | 215 |  |  | 215 | 160 | 215 | 215 | 91 |  |  | 215 | 155 |
-| **Total Sum** | 2056.000 |  |  | 1752.000 | 1056.000 | 1047.500 | 10946.000 | 2653.797 |  |  | 1935.000 | 980.000 |
+| **Total Sum** | 2056.000 |  |  | 1752.000 | 1056.000 | 1047.500 | 10946.000 | 2653.827 |  |  | 1935.000 | 980.000 |
 | **Mean μ (Average)** | 9.563 |  |  | 8.149 | 6.600 | 4.872 | 50.912 | 29.163 |  |  | 9.000 | 6.323 |
 | **Maximum** | 20.000 |  |  | 22.000 | 20.000 | 25.000 | 78.000 | 103.588 |  |  | 24.000 | 22.000 |
 | **75th Percentile** | 14.000 |  |  | 11.000 | 9.000 | 8.000 | 66.000 | 42.776 |  |  | 14.000 | 11.000 |
 | **Median** | 9.000 |  |  | 7.000 | 6.000 | 1.000 | 56.000 | 27.255 |  |  | 10.000 | 4.000 |
 | **25th Percentile** | 5.000 |  |  | 3.000 | 3.000 |  | 44.000 | 13.217 |  |  | 2.000 | 2.000 |
 | **Minimum** | 1.000 |  |  | 1.000 | 1.000 |  |  | 0.765 |  |  |  | 1.000 |
-| **Variance** | 28.013 |  |  | 31.373 | 14.815 | 46.217 | 411.532 | 396.652 |  |  | 45.758 | 25.083 |
+| **Variance** | 28.013 |  |  | 31.373 | 14.815 | 46.217 | 411.532 | 396.644 |  |  | 45.758 | 25.083 |
 | **Standard Deviation σ** | 5.293 |  |  | 5.601 | 3.849 | 6.798 | 20.286 | 19.916 |  |  | 6.764 | 5.008 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

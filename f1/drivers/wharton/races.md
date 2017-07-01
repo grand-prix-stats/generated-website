@@ -76,7 +76,7 @@ collectionId: wharton
 | 1953 | 5 | 1953 French Grand Prix 🇫🇷 | 1953-07-05 | 14 | R | 0.0 | 17 |   | Cooper 🇬🇧 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | 13 | R |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 15 | 9 | 0.0 | 76 |   | Cooper 🇬🇧 | [Eric Brandon 🇬🇧](/f1/drivers/brandon) | 20 | 13 |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 15 | 9 | 0.0 | 76 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 12 | 15 |
-| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 15 | 9 | 0.0 | 76 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 12 | R |
+| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 15 | 9 | 0.0 | 76 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 12 | N |
 
 #### Statistic Summary
 

@@ -126,7 +126,7 @@ collectionId: patrese
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 9 | 13 | 0.0 | 68 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 10 | R |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 7 | R | 0.0 | 13 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 13 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 9 | R | 0.0 | 5 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 10 | R |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 8 | R | 0.0 | 43 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 10 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 8 | R | 0.0 | 43 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 10 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 10 | 5 | 2.0 | 75 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 13 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 11 | R | 0.0 | 5 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 7 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 11 | R | 0.0 | 28 |   | Brabham 🇬🇧 | [Andrea de Cesaris 🇮🇹](/f1/drivers/cesaris) | 9 | R |

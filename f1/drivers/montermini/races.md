@@ -28,7 +28,7 @@ collectionId: montermini
 | 1996 | 9 | 1996 French Grand Prix 🇫🇷 | 1996-06-30 | 21 | R | 0.0 | 2 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 20 | R |
 | 1996 | 8 | 1996 Canadian Grand Prix 🇨🇦 | 1996-06-16 | 22 | R | 0.0 | 22 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 20 | R |
 | 1996 | 7 | 1996 Spanish Grand Prix 🇪🇸 | 1996-06-02 | 22 | F | 0.0 | 0 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 21 | F |
-| 1996 | 6 | 1996 Monaco Grand Prix 🇲🇨 | 1996-05-19 | 22 | W | 0.0 | 0 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 21 | R |
+| 1996 | 6 | 1996 Monaco Grand Prix 🇲🇨 | 1996-05-19 | 22 | F | 0.0 | 0 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 21 | R |
 | 1996 | 5 | 1996 San Marino Grand Prix 🇮🇹 | 1996-05-05 | 22 | F | 0.0 | 0 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 21 | 10 |
 | 1996 | 4 | 1996 European Grand Prix 🇩🇪 | 1996-04-28 | 21 | F | 0.0 | 0 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 22 | F |
 | 1996 | 3 | 1996 Argentine Grand Prix 🇦🇷 | 1996-04-07 | 22 | 10 | 0.0 | 69 |   | Forti 🇮🇹 | [Luca Badoer 🇮🇹](/f1/drivers/badoer) | 21 | R |

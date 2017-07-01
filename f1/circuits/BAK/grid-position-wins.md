@@ -78,7 +78,7 @@ var data = {
             "borderWidth": 1,
             "data": [
                 1.0,
-                0.0,
+                1.0,
                 0.0,
                 0.0,
                 0.0,
@@ -105,6 +105,7 @@ var data = {
     ],
     "labels": [
         "1",
+        "10",
         "2",
         "3",
         "4",
@@ -113,7 +114,6 @@ var data = {
         "7",
         "8",
         "9",
-        "10",
         "11",
         "12",
         "13",
@@ -164,15 +164,15 @@ var chart = new Chart("chart", {
 | # | Grid Position | Number Of Wins |
 |--|--|--|
 | 1. | 1 | 1 |
-| 2. | 2 | 0 |
-| 3. | 3 | 0 |
-| 4. | 4 | 0 |
-| 5. | 5 | 0 |
-| 6. | 6 | 0 |
-| 7. | 7 | 0 |
-| 8. | 8 | 0 |
-| 9. | 9 | 0 |
-| 10. | 10 | 0 |
+| 2. | 10 | 1 |
+| 3. | 2 | 0 |
+| 4. | 3 | 0 |
+| 5. | 4 | 0 |
+| 6. | 5 | 0 |
+| 7. | 6 | 0 |
+| 8. | 7 | 0 |
+| 9. | 8 | 0 |
+| 10. | 9 | 0 |
 | 11. | 11 | 0 |
 | 12. | 12 | 0 |
 | 13. | 13 | 0 |
@@ -190,14 +190,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Wins** |
 | **Row Count** | 22 |
-| **Total Sum** | 1.000 |
-| **Mean μ (Average)** | 0.045 |
+| **Total Sum** | 2.000 |
+| **Mean μ (Average)** | 0.091 |
 | **Maximum** | 1.000 |
 | **75th Percentile** |  |
 | **Median** |  |
 | **25th Percentile** |  |
 | **Minimum** |  |
-| **Variance** | 0.043 |
-| **Standard Deviation σ** | 0.208 |
+| **Variance** | 0.083 |
+| **Standard Deviation σ** | 0.287 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

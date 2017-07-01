@@ -62,7 +62,7 @@ collectionId: arnoux
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 14 | R | 0.0 | 55 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 23 | R |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 18 | R | 0.0 | 29 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 23 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 15 | 10 | 0.0 | 48 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 19 | 8 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 16 | 10 | 0.0 | 49 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 18 | 8 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 16 | 10 | 0.0 | 49 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 18 | 8 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 19 | R | 0.0 | 57 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 25 | 12 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 12 | R | 0.0 | 6 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 17 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 16 | R | 0.0 | 3 |   | Ligier 🇫🇷 | [Piercarlo Ghinzani 🇮🇹](/f1/drivers/ghinzani) | 19 | E |

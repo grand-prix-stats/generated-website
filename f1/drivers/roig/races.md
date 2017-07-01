@@ -34,7 +34,7 @@ collectionId: roig
 | 1972 | 1 | 1972 Argentine Grand Prix 🇦🇷 | 1972-01-23 | 21 | R | 0.0 | 1 |   | BRM 🇬🇧 | [Peter Gethin 🇬🇧](/f1/drivers/gethin) | 18 | R |
 | 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 21 | R | 0.0 | 4 |   | March-Ford 🇬🇧 | [François Mazet 🇫🇷](/f1/drivers/mazet) | 23 | 13 |
 | 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 21 | R | 0.0 | 4 |   | March-Ford 🇬🇧 | [Max Jean 🇫🇷](/f1/drivers/jean) | 22 | N |
-| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 21 | R | 0.0 | 4 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 18 | N |
+| 1971 | 5 | 1971 French Grand Prix 🇫🇷 | 1971-07-04 | 21 | R | 0.0 | 4 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 18 | R |
 | 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 17 | R | 0.0 | 57 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 13 | 4 |
 | 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 17 | R | 0.0 | 57 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 15 | N |
 | 1971 | 4 | 1971 Dutch Grand Prix 🇳🇱 | 1971-06-20 | 17 | R | 0.0 | 57 |   | March-Ford 🇬🇧 | [Skip Barber 🇺🇸](/f1/drivers/barber) | 24 | N |

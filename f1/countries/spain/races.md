@@ -66,7 +66,7 @@ collectionId: spain
 | 1981 | 7 | 1981 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1981-06-21 | 80 | 1:46:35.01 | [Gilles Villeneuve 🇨🇦](/f1/drivers/gilles_villeneuve) | Ferrari 🇮🇹 |
 | 1979 | 5 | 1979 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1979-04-29 | 75 | 1:39:11.84 | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | Ligier 🇫🇷 |
 | 1978 | 7 | 1978 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1978-06-04 | 75 | 1:41:47.06 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | Team Lotus 🇬🇧 |
-| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1977-05-08 | 75 | 1:42:.52.22 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | Team Lotus 🇬🇧 |
+| 1977 | 5 | 1977 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1977-05-08 | 75 | 1:42:52.220 | [Mario Andretti 🇺🇸](/f1/drivers/mario_andretti) | Team Lotus 🇬🇧 |
 | 1976 | 4 | 1976 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1976-05-02 | 75 | 1:42:20.43 | [James Hunt 🇬🇧](/f1/drivers/hunt) | McLaren 🇬🇧 |
 | 1975 | 4 | 1975 Spanish Grand Prix 🇪🇸 | [Montjuïc](/f1/circuits/montjuic) | 1975-04-27 | 29 | 42:53.7 | [Jochen Mass 🇩🇪](/f1/drivers/mass) | McLaren 🇬🇧 |
 | 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | [Jarama](/f1/circuits/jarama) | 1974-04-28 | 84 | 2:00:29.56 | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | Ferrari 🇮🇹 |

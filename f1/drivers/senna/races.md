@@ -129,7 +129,7 @@ collectionId: senna
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 5 | 5 | 2.0 | 72 | +1:13.507 | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 18 | 9 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 5 | 7 | 0.0 | 68 |   | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 15 | 8 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 4 | 2 | 6.0 | 50 | +1.806 | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 14 | 11 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 7 | 5 | 2.0 | 50 |   | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 13 | 13 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 7 | 5 | 2.0 | 50 |   | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 13 | 13 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 6 | 2 | 6.0 | 76 | +37.727 | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 17 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 2 | 3 | 4.0 | 43 |   | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 14 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 3 | 3 | 4.0 | 64 |   | Team Lotus 🇬🇧 | [Satoru Nakajima 🇯🇵](/f1/drivers/satoru_nakajima) | 12 | 4 |

@@ -258,32 +258,32 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
-                2351.0,
-                2237.0,
-                1832.0,
+                2386.0,
+                2261.0,
+                1834.0,
                 1594.5,
                 1566.0,
-                1427.0,
+                1433.0,
                 1235.0,
                 1144.0,
                 1047.5,
                 798.5,
-                668.0,
+                708.0,
                 658.0,
                 614.0,
                 535.0,
-                486.0,
+                522.0,
                 485.5,
                 482.0,
                 420.5,
                 420.0,
-                401.0,
+                411.0,
                 385.0,
-                376.0,
+                380.0,
                 360.0,
                 360.0,
                 329.0,
-                325.0,
+                326.0,
                 310.0,
                 307.0,
                 298.0,
@@ -337,7 +337,7 @@ var data = {
                 98.0,
                 98.0,
                 98.0,
-                89.0,
+                93.0,
                 89.0,
                 88.0,
                 83.0,
@@ -346,13 +346,13 @@ var data = {
                 76.0,
                 76.0,
                 75.0,
+                73.0,
                 72.33,
                 71.0,
                 71.0,
                 71.0,
                 70.0,
                 68.0,
-                67.0,
                 65.0,
                 64.0,
                 61.0,
@@ -372,12 +372,12 @@ var data = {
                 41.0,
                 39.0,
                 35.0,
+                35.0,
                 33.0,
                 33.0,
                 32.0,
                 32.0,
-                32.0,
-                31.5
+                32.0
             ],
             "label": "Points"
         }
@@ -471,13 +471,13 @@ var data = {
         "Olivier Panis",
         "Pastor Maldonado",
         "Tony Brooks",
+        "Kevin Magnussen",
         "Maurice Trintignant",
         "Derek Warwick",
         "Jochen Mass",
         "Pedro Rodríguez",
         "Eddie Cheever",
         "Jo Siffert",
-        "Kevin Magnussen",
         "Alessandro Nannini",
         "Vitaly Petrov",
         "Peter Revson",
@@ -496,13 +496,13 @@ var data = {
         "Takuma Sato",
         "Piero Taruffi",
         "Jo Bonnier",
+        "Esteban Ocon",
         "Pedro de la Rosa",
         "Bruno Senna",
         "Mika Salo",
         "Harry Schell",
         "Luigi Fagioli",
-        "Mark Blundell",
-        "Jean-Pierre Jarier"
+        "Mark Blundell"
     ]
 };
 var options = {
@@ -540,32 +540,32 @@ var chart = new Chart("chart", {
 
 | # | Driver | Points |
 |--|--|--|
-| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2351.0 |
-| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2237.0 |
-| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1832.0 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 2386.0 |
+| 2. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 2261.0 |
+| 3. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 1834.0 |
 | 4. | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | 1594.5 |
 | 5. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 1566.0 |
-| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1427.0 |
+| 6. | [Kimi Räikkönen 🇫🇮](/f1/drivers/raikkonen) | 1433.0 |
 | 7. | [Jenson Button 🇬🇧](/f1/drivers/button) | 1235.0 |
 | 8. | [Felipe Massa 🇧🇷](/f1/drivers/massa) | 1144.0 |
 | 9. | [Mark Webber 🇦🇺](/f1/drivers/webber) | 1047.5 |
 | 10. | [Alain Prost 🇫🇷](/f1/drivers/prost) | 798.5 |
-| 11. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 668.0 |
+| 11. | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | 708.0 |
 | 12. | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 658.0 |
 | 13. | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 614.0 |
 | 14. | [David Coulthard 🇬🇧](/f1/drivers/coulthard) | 535.0 |
-| 15. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 486.0 |
+| 15. | [Valtteri Bottas 🇫🇮](/f1/drivers/bottas) | 522.0 |
 | 16. | [Nelson Piquet 🇧🇷](/f1/drivers/piquet) | 485.5 |
 | 17. | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | 482.0 |
 | 18. | [Niki Lauda 🇦🇹](/f1/drivers/lauda) | 420.5 |
 | 19. | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | 420.0 |
-| 20. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 401.0 |
+| 20. | [Sergio Pérez 🇲🇽](/f1/drivers/perez) | 411.0 |
 | 21. | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 385.0 |
-| 22. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 376.0 |
+| 22. | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 380.0 |
 | 23. | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | 360.0 |
 | 24. | [Jackie Stewart 🇬🇧](/f1/drivers/stewart) | 360.0 |
 | 25. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 329.0 |
-| 26. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 325.0 |
+| 26. | [Romain Grosjean 🇫🇷](/f1/drivers/grosjean) | 326.0 |
 | 27. | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 310.0 |
 | 28. | [Juan Pablo Montoya 🇨🇴](/f1/drivers/montoya) | 307.0 |
 | 29. | [Max Verstappen 🇳🇱](/f1/drivers/max_verstappen) | 298.0 |
@@ -619,7 +619,7 @@ var chart = new Chart("chart", {
 | 77. | [Johnny Herbert 🇬🇧](/f1/drivers/herbert) | 98.0 |
 | 78. | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 98.0 |
 | 79. | [Phil Hill 🇺🇸](/f1/drivers/phil_hill) | 98.0 |
-| 80. | [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 89.0 |
+| 80. | [Carlos Sainz 🇪🇸](/f1/drivers/sainz) | 93.0 |
 | 81. | [François Cevert 🇫🇷](/f1/drivers/cevert) | 89.0 |
 | 82. | [Stefan Johansson 🇸🇪](/f1/drivers/johansson) | 88.0 |
 | 83. | [Chris Amon 🇳🇿](/f1/drivers/amon) | 83.0 |
@@ -628,13 +628,13 @@ var chart = new Chart("chart", {
 | 86. | [Olivier Panis 🇫🇷](/f1/drivers/panis) | 76.0 |
 | 87. | [Pastor Maldonado 🇻🇪](/f1/drivers/maldonado) | 76.0 |
 | 88. | [Tony Brooks 🇬🇧](/f1/drivers/brooks) | 75.0 |
-| 89. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 72.33 |
-| 90. | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 71.0 |
-| 91. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 71.0 |
-| 92. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 71.0 |
-| 93. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 70.0 |
-| 94. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 68.0 |
-| 95. | [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 67.0 |
+| 89. | [Kevin Magnussen 🇩🇰](/f1/drivers/kevin_magnussen) | 73.0 |
+| 90. | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 72.33 |
+| 91. | [Derek Warwick 🇬🇧](/f1/drivers/warwick) | 71.0 |
+| 92. | [Jochen Mass 🇩🇪](/f1/drivers/mass) | 71.0 |
+| 93. | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 71.0 |
+| 94. | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 70.0 |
+| 95. | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 68.0 |
 | 96. | [Alessandro Nannini 🇮🇹](/f1/drivers/nannini) | 65.0 |
 | 97. | [Vitaly Petrov 🇷🇺](/f1/drivers/petrov) | 64.0 |
 | 98. | [Peter Revson 🇺🇸](/f1/drivers/revson) | 61.0 |
@@ -653,26 +653,26 @@ var chart = new Chart("chart", {
 | 111. | [Takuma Sato 🇯🇵](/f1/drivers/sato) | 44.0 |
 | 112. | [Piero Taruffi 🇮🇹](/f1/drivers/taruffi) | 41.0 |
 | 113. | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 39.0 |
-| 114. | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 35.0 |
-| 115. | [Bruno Senna 🇧🇷](/f1/drivers/bruno_senna) | 33.0 |
-| 116. | [Mika Salo 🇫🇮](/f1/drivers/salo) | 33.0 |
-| 117. | [Harry Schell 🇺🇸](/f1/drivers/schell) | 32.0 |
-| 118. | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 32.0 |
-| 119. | [Mark Blundell 🇬🇧](/f1/drivers/blundell) | 32.0 |
-| 120. | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 31.5 |
+| 114. | [Esteban Ocon 🇫🇷](/f1/drivers/ocon) | 35.0 |
+| 115. | [Pedro de la Rosa 🇪🇸](/f1/drivers/rosa) | 35.0 |
+| 116. | [Bruno Senna 🇧🇷](/f1/drivers/bruno_senna) | 33.0 |
+| 117. | [Mika Salo 🇫🇮](/f1/drivers/salo) | 33.0 |
+| 118. | [Harry Schell 🇺🇸](/f1/drivers/schell) | 32.0 |
+| 119. | [Luigi Fagioli 🇮🇹](/f1/drivers/fagioli) | 32.0 |
+| 120. | [Mark Blundell 🇬🇧](/f1/drivers/blundell) | 32.0 |
 
 #### Statistic Summary
 
 | **Column** | **Points** |
 | **Row Count** | 120 |
-| **Total Sum** | 34897.580 |
-| **Mean μ (Average)** | 290.813 |
-| **Maximum** | 2351.000 |
+| **Total Sum** | 35069.080 |
+| **Mean μ (Average)** | 292.242 |
+| **Maximum** | 2386.000 |
 | **75th Percentile** | 289.000 |
 | **Median** | 141.000 |
-| **25th Percentile** | 71.000 |
-| **Minimum** | 31.500 |
-| **Variance** | 176049.489 |
-| **Standard Deviation σ** | 419.583 |
+| **25th Percentile** | 72.330 |
+| **Minimum** | 32.000 |
+| **Variance** | 178575.895 |
+| **Standard Deviation σ** | 422.582 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

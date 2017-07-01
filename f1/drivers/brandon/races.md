@@ -31,7 +31,7 @@ collectionId: brandon
 | 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 25 | R | 0.0 | 2 |   | Cooper 🇬🇧 | [Rodney Nuckey 🇬🇧](/f1/drivers/nuckey) | 29 | W |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 20 | 13 | 0.0 | 73 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 15 | 9 |
 | 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 20 | 13 | 0.0 | 73 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 12 | 15 |
-| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 20 | 13 | 0.0 | 73 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 12 | R |
+| 1952 | 8 | 1952 Italian Grand Prix 🇮🇹 | 1952-09-07 | 20 | 13 | 0.0 | 73 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 12 | N |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 18 | 20 | 0.0 | 76 |   | Cooper 🇬🇧 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 7 | 3 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 18 | 20 | 0.0 | 76 |   | Cooper 🇬🇧 | [Reg Parnell 🇬🇧](/f1/drivers/reg_parnell) | 6 | 7 |
 | 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 18 | 20 | 0.0 | 76 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 13 | 22 |

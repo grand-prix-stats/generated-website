@@ -46,7 +46,7 @@ collectionId: brazil
 | 1998 | 2 | 1998 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1998-03-29 | 72 | 1:37:12.2 | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | McLaren 🇬🇧 |
 | 1997 | 2 | 1997 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1997-03-30 | 72 | 1:36:06.990 | [Jacques Villeneuve 🇨🇦](/f1/drivers/villeneuve) | Williams 🇬🇧 |
 | 1996 | 2 | 1996 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1996-03-31 | 71 | 1:49:52.976 | [Damon Hill 🇬🇧](/f1/drivers/damon_hill) | Williams 🇬🇧 |
-| 1995 | 1 | 1995 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1995-03-26 | 71 | +1:38:34.154 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
+| 1995 | 1 | 1995 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1995-03-26 | 71 | 1:38:34.154 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
 | 1994 | 1 | 1994 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1994-03-27 | 71 | 1:35:39.2 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
 | 1993 | 2 | 1993 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1993-03-28 | 71 | 1:51:15.485 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | McLaren 🇬🇧 |
 | 1992 | 3 | 1992 Brazilian Grand Prix 🇧🇷 | [Autódromo José Carlos Pace](/f1/circuits/interlagos) | 1992-04-05 | 71 | 1:36:51.856 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |

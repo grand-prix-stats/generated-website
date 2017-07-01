@@ -58,7 +58,7 @@ collectionId: warwick
 | 1990 | 1 | 1990 United States Grand Prix 🇺🇸 | 1990-03-11 | 24 | R | 0.0 | 6 |   | Team Lotus 🇬🇧 | [Martin Donnelly 🇬🇧](/f1/drivers/donnelly) | 19 | R |
 | 1989 | 16 | 1989 Australian Grand Prix 🇦🇺 | 1989-11-05 | 20 | R | 0.0 | 7 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 22 | R |
 | 1989 | 15 | 1989 Japanese Grand Prix 🇯🇵 | 1989-10-22 | 25 | 6 | 1.0 | 52 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 24 | 8 |
-| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 16 | 9 | 0.0 | 71 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 61 | R |
+| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 16 | 9 | 0.0 | 71 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 22 | R |
 | 1989 | 13 | 1989 Portuguese Grand Prix 🇵🇹 | 1989-09-24 | 22 | R | 0.0 | 37 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 26 | R |
 | 1989 | 12 | 1989 Italian Grand Prix 🇮🇹 | 1989-09-10 | 16 | R | 0.0 | 18 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 0 | F |
 | 1989 | 11 | 1989 Belgian Grand Prix 🇧🇪 | 1989-08-27 | 10 | 6 | 1.0 | 44 | +1:18.316 | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 24 | R |
@@ -93,7 +93,7 @@ collectionId: warwick
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 12 | 10 | 0.0 | 70 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 13 | 8 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 12 | 13 | 0.0 | 66 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 11 | 6 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 12 | R | 0.0 | 9 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 13 | R |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 11 | R | 0.0 | 35 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 12 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 11 | R | 0.0 | 35 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 12 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 9 | 6 | 1.0 | 74 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 11 | 8 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 13 | R | 0.0 | 23 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 15 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 13 | 5 | 2.0 | 63 |   | Arrows 🇬🇧 | [Eddie Cheever 🇺🇸](/f1/drivers/cheever) | 14 | R |
@@ -192,14 +192,14 @@ collectionId: warwick
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
 | **Row Count** | 163 |  |  | 163 | 67 | 163 | 163 | 6 |  |  | 163 | 57 |
-| **Total Sum** | 1424.000 |  |  | 1763.000 | 516.000 | 71.000 | 6395.000 | 219.827 |  |  | 1936.000 | 437.000 |
-| **Mean μ (Average)** | 8.736 |  |  | 10.816 | 7.701 | 0.436 | 39.233 | 36.638 |  |  | 11.877 | 7.667 |
-| **Maximum** | 16.000 |  |  | 25.000 | 17.000 | 6.000 | 79.000 | 44.915 |  |  | 61.000 | 13.000 |
+| **Total Sum** | 1424.000 |  |  | 1763.000 | 516.000 | 71.000 | 6395.000 | 219.827 |  |  | 1897.000 | 437.000 |
+| **Mean μ (Average)** | 8.736 |  |  | 10.816 | 7.701 | 0.436 | 39.233 | 36.638 |  |  | 11.638 | 7.667 |
+| **Maximum** | 16.000 |  |  | 25.000 | 17.000 | 6.000 | 79.000 | 44.915 |  |  | 26.000 | 13.000 |
 | **75th Percentile** | 13.000 |  |  | 14.000 | 10.000 |  | 62.000 | 42.386 |  |  | 16.000 | 9.000 |
 | **Median** | 9.000 |  |  | 11.000 | 7.000 |  | 43.000 | 42.123 |  |  | 12.000 | 7.000 |
 | **25th Percentile** | 5.000 |  |  | 7.000 | 5.000 |  | 17.000 | 36.114 |  |  | 7.000 | 6.000 |
 | **Minimum** | 1.000 |  |  |  | 2.000 |  |  | 17.866 |  |  |  | 2.000 |
-| **Variance** | 20.464 |  |  | 31.377 | 11.941 | 1.166 | 614.326 | 80.724 |  |  | 61.003 | 7.906 |
-| **Standard Deviation σ** | 4.524 |  |  | 5.602 | 3.456 | 1.080 | 24.786 | 8.985 |  |  | 7.810 | 2.812 |
+| **Variance** | 20.464 |  |  | 31.377 | 11.941 | 1.166 | 614.326 | 80.724 |  |  | 46.771 | 7.906 |
+| **Standard Deviation σ** | 4.524 |  |  | 5.602 | 3.456 | 1.080 | 24.786 | 8.985 |  |  | 6.839 | 2.812 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,14 +24,14 @@ collectionId: azerbaijan
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|
-| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2017-06-25 |   |   |   |   |
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2017-06-25 | 51 | 2:03:55.573 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | Red Bull 🇦🇹 |
 | 2016 | 8 | 2016 European Grand Prix 🇦🇿 | [Baku City Circuit](/f1/circuits/BAK) | 2016-06-19 | 51 | 1:32:52.366 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 2 |  |  |  | 1 |  |  |  |
-| **Total Sum** | 16.000 |  |  |  | 51.000 |  |  |  |
+| **Row Count** | 2 |  |  |  | 2 |  |  |  |
+| **Total Sum** | 16.000 |  |  |  | 102.000 |  |  |  |
 | **Mean μ (Average)** | 8.000 |  |  |  | 51.000 |  |  |  |
 | **Maximum** | 8.000 |  |  |  | 51.000 |  |  |  |
 | **75th Percentile** | 8.000 |  |  |  | 51.000 |  |  |  |

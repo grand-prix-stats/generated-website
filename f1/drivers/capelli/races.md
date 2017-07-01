@@ -79,7 +79,7 @@ collectionId: capelli
 | 1989 | 10 | 1989 Hungarian Grand Prix 🇭🇺 | 1989-08-13 | 14 | R | 0.0 | 26 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 13 | R |
 | 1989 | 9 | 1989 German Grand Prix 🇩🇪 | 1989-07-30 | 22 | R | 0.0 | 32 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 14 | R |
 | 1989 | 8 | 1989 British Grand Prix 🇬🇧 | 1989-07-16 | 8 | R | 0.0 | 15 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 6 | R |
-| 1989 | 7 | 1989 French Grand Prix 🇫🇷 | 1989-07-09 | 12 | R | 0.0 | 43 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 10 | R |
+| 1989 | 7 | 1989 French Grand Prix 🇫🇷 | 1989-07-09 | 12 | R | 0.0 | 43 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 10 | N |
 | 1989 | 6 | 1989 Canadian Grand Prix 🇨🇦 | 1989-06-18 | 21 | R | 0.0 | 28 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 17 | R |
 | 1989 | 5 | 1989 United States Grand Prix 🇺🇸 | 1989-06-04 | 11 | R | 0.0 | 22 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 18 | R |
 | 1989 | 4 | 1989 Mexican Grand Prix 🇲🇽 | 1989-05-28 | 4 | R | 0.0 | 1 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 0 | F |
@@ -102,7 +102,7 @@ collectionId: capelli
 | 1988 | 3 | 1988 Monaco Grand Prix 🇲🇨 | 1988-05-15 | 22 | 10 | 0.0 | 72 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 14 | R |
 | 1988 | 2 | 1988 San Marino Grand Prix 🇮🇹 | 1988-05-01 | 9 | R | 0.0 | 2 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 20 | 15 |
 | 1988 | 1 | 1988 Brazilian Grand Prix 🇧🇷 | 1988-04-03 | 9 | R | 0.0 | 6 |   | March 🇬🇧 | [Maurício Gugelmin 🇧🇷](/f1/drivers/gugelmin) | 13 | R |
-| 1985 | 16 | 1985 Australian Grand Prix 🇦🇺 | 1985-11-03 | 22 | 4 | 3.0 | 81 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 17 | R |
+| 1985 | 16 | 1985 Australian Grand Prix 🇦🇺 | 1985-11-03 | 22 | 4 | 3.0 | 81 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 17 | N |
 | 1985 | 14 | 1985 European Grand Prix 🇬🇧 | 1985-10-06 | 24 | R | 0.0 | 44 |   | Tyrrell 🇬🇧 | [Martin Brundle 🇬🇧](/f1/drivers/brundle) | 16 | R |
 
 #### Statistic Summary

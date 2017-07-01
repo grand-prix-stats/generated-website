@@ -103,7 +103,7 @@ collectionId: stuck
 | 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 16 | R | 0.0 | 15 |   | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 24 | R |
 | 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 16 | R | 0.0 | 15 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 9 | R |
 | 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 4 | R | 0.0 | 10 |   | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 21 | 17 |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 4 | R | 0.0 | 10 |   | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 20 | N |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 4 | R | 0.0 | 10 |   | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 20 | W |
 | 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 4 | R | 0.0 | 10 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 8 | 1 |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 7 | R | 0.0 | 3 |   | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 25 | 7 |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 7 | R | 0.0 | 3 |   | March 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 11 | R |

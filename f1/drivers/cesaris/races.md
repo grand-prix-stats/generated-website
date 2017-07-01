@@ -46,7 +46,7 @@ collectionId: cesaris
 | 1993 | 8 | 1993 French Grand Prix 🇫🇷 | 1993-07-04 | 25 | 15 | 0.0 | 68 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 24 | R |
 | 1993 | 7 | 1993 Canadian Grand Prix 🇨🇦 | 1993-06-13 | 19 | R | 0.0 | 45 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 22 | 17 |
 | 1993 | 6 | 1993 Monaco Grand Prix 🇲🇨 | 1993-05-23 | 19 | 10 | 0.0 | 76 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 22 | R |
-| 1993 | 5 | 1993 Spanish Grand Prix 🇪🇸 | 1993-05-09 | 24 | R | 0.0 | 42 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 23 | R |
+| 1993 | 5 | 1993 Spanish Grand Prix 🇪🇸 | 1993-05-09 | 24 | D | 0.0 | 42 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 23 | R |
 | 1993 | 4 | 1993 San Marino Grand Prix 🇮🇹 | 1993-04-25 | 18 | R | 0.0 | 18 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 22 | R |
 | 1993 | 3 | 1993 European Grand Prix 🇬🇧 | 1993-04-11 | 25 | R | 0.0 | 55 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 18 | R |
 | 1993 | 2 | 1993 Brazilian Grand Prix 🇧🇷 | 1993-03-28 | 23 | R | 0.0 | 48 |   | Tyrrell 🇬🇧 | [Ukyo Katayama 🇯🇵](/f1/drivers/katayama) | 22 | R |
@@ -121,7 +121,7 @@ collectionId: cesaris
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 10 | R | 0.0 | 26 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 9 | 13 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 13 | R | 0.0 | 54 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 7 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 10 | R | 0.0 | 7 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 9 | R |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 10 | R | 0.0 | 35 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 8 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 10 | R | 0.0 | 35 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 8 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 13 | R | 0.0 | 43 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 10 | 5 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 7 | R | 0.0 | 12 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 11 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 9 | R | 0.0 | 8 |   | Brabham 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 11 | R |

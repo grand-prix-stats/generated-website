@@ -81,8 +81,8 @@ var data = {
             ],
             "borderWidth": 1,
             "data": [
+                352.0,
                 307.0,
-                282.0,
                 180.0,
                 103.0,
                 72.0,
@@ -110,8 +110,8 @@ var data = {
         }
     ],
     "labels": [
-        "Michael Schumacher",
         "Lewis Hamilton",
+        "Michael Schumacher",
         "Sebastian Vettel",
         "Fernando Alonso",
         "Ralf Schumacher",
@@ -171,8 +171,8 @@ var chart = new Chart("chart", {
 
 | # | Driver | Number Of Laps Led |
 |--|--|--|
-| 1. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 307 |
-| 2. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 282 |
+| 1. | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | 352 |
+| 2. | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | 307 |
 | 3. | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | 180 |
 | 4. | [Fernando Alonso 🇪🇸](/f1/drivers/alonso) | 103 |
 | 5. | [Ralf Schumacher 🇩🇪](/f1/drivers/ralf_schumacher) | 72 |
@@ -200,14 +200,14 @@ var chart = new Chart("chart", {
 
 | **Column** | **Number Of Laps Led** |
 | **Row Count** | 24 |
-| **Total Sum** | 1379.000 |
-| **Mean μ (Average)** | 57.458 |
-| **Maximum** | 307.000 |
+| **Total Sum** | 1449.000 |
+| **Mean μ (Average)** | 60.375 |
+| **Maximum** | 352.000 |
 | **75th Percentile** | 63.000 |
 | **Median** | 29.000 |
 | **25th Percentile** | 6.000 |
 | **Minimum** | 1.000 |
-| **Variance** | 6711.915 |
-| **Standard Deviation σ** | 81.926 |
+| **Variance** | 8217.401 |
+| **Standard Deviation σ** | 90.650 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

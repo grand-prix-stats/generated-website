@@ -24,6 +24,8 @@ collectionId: sainz
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 15 | 8 | 4.0 | 51 | +49.400 | Toro Rosso 🇮🇹 | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 11 | R |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 13 | R | 0.0 | 0 |   | Toro Rosso 🇮🇹 | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 11 | R |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 6 | 6 | 8.0 | 78 | +12.038 | Toro Rosso 🇮🇹 | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 9 | 14 |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 12 | 7 | 6.0 | 65 |   | Toro Rosso 🇮🇹 | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 19 | 9 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 14 | 10 | 1.0 | 51 |   | Toro Rosso 🇮🇹 | [Daniil Kvyat 🇷🇺](/f1/drivers/kvyat) | 12 | 12 |
@@ -74,15 +76,15 @@ collectionId: sainz
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 46 |  |  | 46 | 34 | 46 | 46 | 7 |  |  | 46 | 35 |
-| **Total Sum** | 442.000 |  |  | 535.000 | 336.000 | 89.000 | 2430.000 | 245.905 |  |  | 559.000 | 382.000 |
-| **Mean μ (Average)** | 9.609 |  |  | 11.630 | 9.882 | 1.935 | 52.826 | 35.129 |  |  | 12.152 | 10.914 |
+| **Row Count** | 48 |  |  | 48 | 35 | 48 | 48 | 8 |  |  | 48 | 35 |
+| **Total Sum** | 457.000 |  |  | 563.000 | 344.000 | 93.000 | 2481.000 | 295.305 |  |  | 581.000 | 382.000 |
+| **Mean μ (Average)** | 9.521 |  |  | 11.729 | 9.829 | 1.938 | 51.688 | 36.913 |  |  | 12.104 | 10.914 |
 | **Maximum** | 21.000 |  |  | 21.000 | 17.000 | 8.000 | 78.000 | 52.860 |  |  | 22.000 | 18.000 |
-| **75th Percentile** | 15.000 |  |  | 15.000 | 12.000 | 4.000 | 66.000 | 48.772 |  |  | 15.000 | 14.000 |
-| **Median** | 9.000 |  |  | 11.000 | 9.000 |  | 56.000 | 30.619 |  |  | 12.000 | 10.000 |
-| **25th Percentile** | 4.000 |  |  | 8.000 | 8.000 |  | 51.000 | 25.056 |  |  | 9.000 | 9.000 |
+| **75th Percentile** | 15.000 |  |  | 15.000 | 12.000 | 4.000 | 66.000 | 49.400 |  |  | 15.000 | 14.000 |
+| **Median** | 9.000 |  |  | 11.000 | 9.000 |  | 56.000 | 47.400 |  |  | 11.000 | 10.000 |
+| **25th Percentile** | 5.000 |  |  | 8.000 | 8.000 |  | 51.000 | 29.160 |  |  | 9.000 | 9.000 |
 | **Minimum** | 1.000 |  |  |  | 6.000 |  |  | 12.038 |  |  | 5.000 | 4.000 |
-| **Variance** | 35.325 |  |  | 20.407 | 8.574 | 6.844 | 326.883 | 191.675 |  |  | 19.303 | 11.678 |
-| **Standard Deviation σ** | 5.943 |  |  | 4.517 | 2.928 | 2.616 | 18.080 | 13.845 |  |  | 4.394 | 3.417 |
+| **Variance** | 34.041 |  |  | 19.822 | 8.428 | 6.725 | 370.173 | 189.990 |  |  | 18.552 | 11.678 |
+| **Standard Deviation σ** | 5.834 |  |  | 4.452 | 2.903 | 2.593 | 19.240 | 13.784 |  |  | 4.307 | 3.417 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

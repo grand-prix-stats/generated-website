@@ -143,7 +143,7 @@ collectionId: jarier
 | 1974 | 7 | 1974 Swedish Grand Prix 🇸🇪 | 1974-06-09 | 8 | 5 | 2.0 | 80 | +1:16.403 | Shadow 🇬🇧 | [Bertil Roos 🇸🇪](/f1/drivers/roos) | 23 | R |
 | 1974 | 6 | 1974 Monaco Grand Prix 🇲🇨 | 1974-05-26 | 6 | 3 | 4.0 | 78 | +48.9 | Shadow 🇬🇧 | [Brian Redman 🇬🇧](/f1/drivers/redman) | 16 | R |
 | 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 17 | 13 | 0.0 | 82 |   | Shadow 🇬🇧 | [Brian Redman 🇬🇧](/f1/drivers/redman) | 18 | 18 |
-| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28 | 12 | R | 0.0 | 73 |   | Shadow 🇬🇧 | [Brian Redman 🇬🇧](/f1/drivers/redman) | 21 | 7 |
+| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28 | 12 | N | 0.0 | 73 |   | Shadow 🇬🇧 | [Brian Redman 🇬🇧](/f1/drivers/redman) | 21 | 7 |
 | 1974 | 2 | 1974 Brazilian Grand Prix 🇧🇷 | 1974-01-27 | 19 | R | 0.0 | 21 |   | Shadow 🇬🇧 | [Peter Revson 🇺🇸](/f1/drivers/revson) | 6 | R |
 | 1974 | 1 | 1974 Argentine Grand Prix 🇦🇷 | 1974-01-13 | 16 | R | 0.0 | 0 |   | Shadow 🇬🇧 | [Peter Revson 🇺🇸](/f1/drivers/revson) | 4 | R |
 | 1973 | 15 | 1973 United States Grand Prix 🇺🇸 | 1973-10-07 | 17 | 11 | 0.0 | 57 |   | March 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 4 | 2 |
@@ -163,7 +163,7 @@ collectionId: jarier
 | 1973 | 3 | 1973 South African Grand Prix 🇿🇦 | 1973-03-03 | 18 | N | 0.0 | 66 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 23 | N |
 | 1973 | 2 | 1973 Brazilian Grand Prix 🇧🇷 | 1973-02-11 | 15 | R | 0.0 | 6 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 19 | R |
 | 1973 | 1 | 1973 Argentine Grand Prix 🇦🇷 | 1973-01-28 | 17 | R | 0.0 | 84 |   | March 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 18 | 10 |
-| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 24 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | N |
+| 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 24 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Mike Beuttler 🇬🇧](/f1/drivers/beuttler) | 16 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 24 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 10 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 24 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Nanni Galli 🇮🇹](/f1/drivers/galli) | 19 | R |
 | 1971 | 9 | 1971 Italian Grand Prix 🇮🇹 | 1971-09-05 | 24 | N | 0.0 | 47 |   | March-Ford 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 6 | 2 |

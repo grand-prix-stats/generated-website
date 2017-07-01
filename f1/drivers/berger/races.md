@@ -187,7 +187,7 @@ collectionId: berger
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 3 | R | 0.0 | 62 |   | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 4 | 15 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 1 | 2 | 6.0 | 70 | +20.493 | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 6 | R |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 3 | 4 | 3.0 | 50 | +57.979 | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 8 | R |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 3 | R | 0.0 | 5 |   | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 6 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 3 | R | 0.0 | 5 |   | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 6 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 2 | R | 0.0 | 13 |   | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 5 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 10 | R | 0.0 | 19 |   | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 5 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 8 | R | 0.0 | 7 |   | Ferrari 🇮🇹 | [Michele Alboreto 🇮🇹](/f1/drivers/alboreto) | 7 | R |

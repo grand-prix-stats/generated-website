@@ -30,7 +30,7 @@ collectionId: fabi
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 6 | R | 0.0 | 40 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 8 | 16 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 10 | 4 | 3.0 | 69 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 9 | 14 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 7 | 7 | 0.0 | 49 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 6 | 5 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 5 | 3 | 4.0 | 51 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 4 | 4 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 5 | 3 | 4.0 | 51 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 4 | 4 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 12 | R | 0.0 | 14 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 7 | 4 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 9 | R | 0.0 | 18 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 6 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 6 | 6 | 1.0 | 63 |   | Benetton 🇮🇹 | [Thierry Boutsen 🇧🇪](/f1/drivers/boutsen) | 5 | 7 |

@@ -94,7 +94,7 @@ collectionId: satoru_nakajima
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 18 | 9 | 0.0 | 70 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 5 | 5 |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 15 | 8 | 0.0 | 68 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 5 | 7 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 14 | 11 | 0.0 | 47 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 4 | 2 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 13 | 13 | 0.0 | 49 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 7 | 5 |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 13 | 13 | 0.0 | 49 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 7 | 5 |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 17 | R | 0.0 | 1 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 6 | 2 |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 14 | R | 0.0 | 9 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 2 | 3 |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 12 | 4 | 3.0 | 63 |   | Team Lotus 🇬🇧 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | 3 | 3 |

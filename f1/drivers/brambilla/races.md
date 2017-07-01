@@ -105,7 +105,7 @@ collectionId: brambilla
 | 1975 | 13 | 1975 Italian Grand Prix 🇮🇹 | 1975-09-07 | 9 | R | 0.0 | 1 |   | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 16 | R |
 | 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 8 | 1 | 4.5 | 29 | 0:57:56.69 | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 21 | 17 |
 | 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 8 | 1 | 4.5 | 29 | 0:57:56.69 | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 4 | R |
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 8 | 1 | 4.5 | 29 | 0:57:56.69 | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 20 | N |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 8 | 1 | 4.5 | 29 | 0:57:56.69 | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 20 | W |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 11 | R | 0.0 | 3 |   | March 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 25 | 7 |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 11 | R | 0.0 | 3 |   | March 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 7 | R |
 | 1975 | 11 | 1975 German Grand Prix 🇩🇪 | 1975-08-03 | 11 | R | 0.0 | 3 |   | March 🇬🇧 | [Mark Donohue 🇺🇸](/f1/drivers/donohue) | 19 | R |

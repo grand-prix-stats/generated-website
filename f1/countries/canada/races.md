@@ -24,7 +24,7 @@ collectionId: canada
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|
-| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2017-06-11 |   |   |   |   |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2017-06-11 | 70 | 1:33:05.154 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2016 | 7 | 2016 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2016-06-12 | 70 | 1:31:05.296 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2015 | 7 | 2015 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2015-06-07 | 70 | 1:31:53.145 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2014 | 7 | 2014 Canadian Grand Prix 🇨🇦 | [Circuit Gilles Villeneuve](/f1/circuits/villeneuve) | 2014-06-08 | 70 | 1:39:12.830 | [Daniel Ricciardo 🇦🇺](/f1/drivers/ricciardo) | Red Bull 🇦🇹 |
@@ -76,15 +76,15 @@ collectionId: canada
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 48 |  |  |  | 47 |  |  |  |
-| **Total Sum** | 410.000 |  |  |  | 3379.000 |  |  |  |
-| **Mean μ (Average)** | 8.542 |  |  |  | 71.894 |  |  |  |
+| **Row Count** | 48 |  |  |  | 48 |  |  |  |
+| **Total Sum** | 410.000 |  |  |  | 3449.000 |  |  |  |
+| **Mean μ (Average)** | 8.542 |  |  |  | 71.854 |  |  |  |
 | **Maximum** | 16.000 |  |  |  | 90.000 |  |  |  |
 | **75th Percentile** | 10.000 |  |  |  | 70.000 |  |  |  |
 | **Median** | 8.000 |  |  |  | 70.000 |  |  |  |
 | **25th Percentile** | 7.000 |  |  |  | 69.000 |  |  |  |
 | **Minimum** | 5.000 |  |  |  | 54.000 |  |  |  |
-| **Variance** | 8.748 |  |  |  | 48.776 |  |  |  |
-| **Standard Deviation σ** | 2.958 |  |  |  | 6.984 |  |  |  |
+| **Variance** | 8.748 |  |  |  | 47.833 |  |  |  |
+| **Standard Deviation σ** | 2.958 |  |  |  | 6.916 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

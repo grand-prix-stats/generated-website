@@ -24,6 +24,8 @@ collectionId: jolyon_palmer
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 20 | R | 0.0 | 7 |   | Renault 🇫🇷 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 13 | R |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 15 | 11 | 0.0 | 69 |   | Renault 🇫🇷 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 10 | 8 |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 16 | 11 | 0.0 | 78 | +22.737 | Renault 🇫🇷 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 10 | R |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 17 | 15 | 0.0 | 64 |   | Renault 🇫🇷 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 13 | 6 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 16 | R | 0.0 | 0 |   | Renault 🇫🇷 | [Nico Hülkenberg 🇩🇪](/f1/drivers/hulkenberg) | 8 | 8 |
@@ -55,15 +57,15 @@ collectionId: jolyon_palmer
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 27 |  |  | 27 | 19 | 27 | 27 | 1 |  |  | 27 | 22 |
-| **Total Sum** | 252.000 |  |  | 460.000 | 265.000 | 1.000 | 1229.000 | 22.737 |  |  | 416.000 | 283.000 |
-| **Mean μ (Average)** | 9.333 |  |  | 17.037 | 13.947 | 0.037 | 45.519 | 22.737 |  |  | 15.407 | 12.864 |
+| **Row Count** | 29 |  |  | 29 | 20 | 29 | 29 | 1 |  |  | 29 | 23 |
+| **Total Sum** | 267.000 |  |  | 495.000 | 276.000 | 1.000 | 1305.000 | 22.737 |  |  | 439.000 | 291.000 |
+| **Mean μ (Average)** | 9.207 |  |  | 17.069 | 13.800 | 0.034 | 45.000 | 22.737 |  |  | 15.138 | 12.652 |
 | **Maximum** | 21.000 |  |  | 21.000 | 22.000 | 1.000 | 78.000 | 22.737 |  |  | 22.000 | 17.000 |
-| **75th Percentile** | 15.000 |  |  | 19.000 | 15.000 |  | 64.000 | 22.737 |  |  | 18.000 | 16.000 |
+| **75th Percentile** | 14.000 |  |  | 19.000 | 15.000 |  | 64.000 | 22.737 |  |  | 18.000 | 16.000 |
 | **Median** | 8.000 |  |  | 17.000 | 13.000 |  | 55.000 | 22.737 |  |  | 16.000 | 14.000 |
-| **25th Percentile** | 4.000 |  |  | 16.000 | 12.000 |  | 20.000 | 22.737 |  |  | 13.000 | 11.000 |
+| **25th Percentile** | 4.000 |  |  | 16.000 | 12.000 |  | 20.000 | 22.737 |  |  | 13.000 | 10.000 |
 | **Minimum** | 1.000 |  |  | 10.000 | 10.000 |  |  | 22.737 |  |  | 7.000 | 6.000 |
-| **Variance** | 38.889 |  |  | 6.554 | 8.050 | 0.036 | 538.990 |  |  |  | 17.575 | 10.754 |
-| **Standard Deviation σ** | 6.236 |  |  | 2.560 | 2.837 | 0.189 | 23.216 |  |  |  | 4.192 | 3.279 |
+| **Variance** | 36.440 |  |  | 6.547 | 8.060 | 0.033 | 571.724 |  |  |  | 17.498 | 11.270 |
+| **Standard Deviation σ** | 6.037 |  |  | 2.559 | 2.839 | 0.182 | 23.911 |  |  |  | 4.183 | 3.357 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

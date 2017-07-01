@@ -111,7 +111,7 @@ collectionId: emerson_fittipaldi
 | 1972 | 12 | 1972 United States Grand Prix 🇺🇸 | 1972-10-08 | 9 | R | 0.0 | 17 |   | Team Lotus 🇬🇧 | [Reine Wisell 🇸🇪](/f1/drivers/wisell) | 16 | 10 |
 | 1972 | 12 | 1972 United States Grand Prix 🇺🇸 | 1972-10-08 | 9 | R | 0.0 | 17 |   | Team Lotus 🇬🇧 | [David Walker 🇦🇺](/f1/drivers/walker) | 30 | R |
 | 1972 | 11 | 1972 Canadian Grand Prix 🇨🇦 | 1972-09-24 | 4 | 11 | 0.0 | 78 |   | Team Lotus 🇬🇧 | [Reine Wisell 🇸🇪](/f1/drivers/wisell) | 16 | R |
-| 1972 | 9 | 1972 Austrian Grand Prix 🇦🇹 | 1972-08-13 | 1 | 1 | 9.0 | 54 | 29:17.3 | Team Lotus 🇬🇧 | [David Walker 🇦🇺](/f1/drivers/walker) | 19 | R |
+| 1972 | 9 | 1972 Austrian Grand Prix 🇦🇹 | 1972-08-13 | 1 | 1 | 9.0 | 54 | 1:29:16.660 | Team Lotus 🇬🇧 | [David Walker 🇦🇺](/f1/drivers/walker) | 19 | R |
 | 1972 | 8 | 1972 German Grand Prix 🇩🇪 | 1972-07-30 | 3 | R | 0.0 | 10 |   | Team Lotus 🇬🇧 | [David Walker 🇦🇺](/f1/drivers/walker) | 23 | R |
 | 1972 | 8 | 1972 German Grand Prix 🇩🇪 | 1972-07-30 | 3 | R | 0.0 | 10 |   | Team Lotus 🇬🇧 | [Dave Charlton 🇿🇦](/f1/drivers/charlton) | 26 | R |
 | 1972 | 7 | 1972 British Grand Prix 🇬🇧 | 1972-07-15 | 2 | 1 | 9.0 | 76 | 1:47:50.2 | Team Lotus 🇬🇧 | [David Walker 🇦🇺](/f1/drivers/walker) | 15 | R |

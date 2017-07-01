@@ -24,6 +24,8 @@ collectionId: ericsson
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
+| 2017 | 8 | 2017 Azerbaijan Grand Prix 🇦🇿 | 2017-06-25 | 17 | 11 | 0.0 | 51 | +1:31.794 | Sauber 🇨🇭 | [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 14 | 10 |
+| 2017 | 7 | 2017 Canadian Grand Prix 🇨🇦 | 2017-06-11 | 19 | 13 | 0.0 | 69 |   | Sauber 🇨🇭 | [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 20 | 15 |
 | 2017 | 6 | 2017 Monaco Grand Prix 🇲🇨 | 2017-05-28 | 19 | R | 0.0 | 63 |   | Sauber 🇨🇭 | [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 18 | R |
 | 2017 | 5 | 2017 Spanish Grand Prix 🇪🇸 | 2017-05-14 | 16 | 11 | 0.0 | 64 |   | Sauber 🇨🇭 | [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 15 | 8 |
 | 2017 | 4 | 2017 Russian Grand Prix 🇷🇺 | 2017-04-30 | 18 | 15 | 0.0 | 51 |   | Sauber 🇨🇭 | [Pascal Wehrlein 🇩🇪](/f1/drivers/wehrlein) | 17 | 16 |
@@ -90,15 +92,15 @@ collectionId: ericsson
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 62 |  |  | 62 | 46 | 62 | 62 | 2 |  |  | 62 | 46 |
-| **Total Sum** | 578.000 |  |  | 1080.000 | 662.000 | 9.000 | 3079.000 | 71.339 |  |  | 1038.000 | 621.000 |
-| **Mean μ (Average)** | 9.323 |  |  | 17.419 | 14.391 | 0.145 | 49.661 | 35.669 |  |  | 16.742 | 13.500 |
+| **Row Count** | 64 |  |  | 64 | 48 | 64 | 64 | 2 |  |  | 64 | 48 |
+| **Total Sum** | 593.000 |  |  | 1116.000 | 686.000 | 9.000 | 3199.000 | 71.339 |  |  | 1072.000 | 646.000 |
+| **Mean μ (Average)** | 9.266 |  |  | 17.438 | 14.292 | 0.141 | 49.984 | 35.669 |  |  | 16.750 | 13.458 |
 | **Maximum** | 21.000 |  |  | 22.000 | 20.000 | 4.000 | 78.000 | 40.180 |  |  | 22.000 | 20.000 |
 | **75th Percentile** | 14.000 |  |  | 20.000 | 17.000 |  | 65.000 | 40.180 |  |  | 19.000 | 16.000 |
 | **Median** | 9.000 |  |  | 17.000 | 14.000 |  | 54.000 | 40.180 |  |  | 18.000 | 14.000 |
-| **25th Percentile** | 4.000 |  |  | 15.000 | 12.000 |  | 43.000 | 31.159 |  |  | 15.000 | 11.000 |
+| **25th Percentile** | 5.000 |  |  | 15.000 | 12.000 |  | 50.000 | 31.159 |  |  | 15.000 | 11.000 |
 | **Minimum** | 1.000 |  |  | 9.000 | 8.000 |  |  | 31.159 |  |  |  | 5.000 |
-| **Variance** | 31.928 |  |  | 11.598 | 9.499 | 0.350 | 402.805 | 20.345 |  |  | 14.095 | 11.641 |
-| **Standard Deviation σ** | 5.651 |  |  | 3.406 | 3.082 | 0.592 | 20.070 | 4.511 |  |  | 3.754 | 3.412 |
+| **Variance** | 31.039 |  |  | 11.277 | 9.373 | 0.340 | 395.984 | 20.345 |  |  | 13.938 | 11.457 |
+| **Standard Deviation σ** | 5.571 |  |  | 3.358 | 3.062 | 0.583 | 19.899 | 4.511 |  |  | 3.733 | 3.385 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

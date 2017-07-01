@@ -28,7 +28,7 @@ collectionId: monaco
 | 2016 | 6 | 2016 Monaco Grand Prix 🇲🇨 | 2016-05-29 | 78 | 1:59:29.133 | [Lewis Hamilton 🇬🇧](/f1/drivers/hamilton) | Mercedes 🇩🇪 |
 | 2015 | 6 | 2015 Monaco Grand Prix 🇲🇨 | 2015-05-24 | 78 | 1:49:18.420 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2014 | 6 | 2014 Monaco Grand Prix 🇲🇨 | 2014-05-25 | 78 | 1:49:27.661 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
-| 2013 | 6 | 2013 Monaco Grand Prix 🇲🇨 | 2013-05-26 | 78 | 2:15:52.056 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
+| 2013 | 6 | 2013 Monaco Grand Prix 🇲🇨 | 2013-05-26 | 78 | 2:17:52.056 | [Nico Rosberg 🇩🇪](/f1/drivers/rosberg) | Mercedes 🇩🇪 |
 | 2012 | 6 | 2012 Monaco Grand Prix 🇲🇨 | 2012-05-27 | 78 | 1:46:06.557 | [Mark Webber 🇦🇺](/f1/drivers/webber) | Red Bull 🇦🇹 |
 | 2011 | 6 | 2011 Monaco Grand Prix 🇲🇨 | 2011-05-29 | 78 | 2:09:38.373 | [Sebastian Vettel 🇩🇪](/f1/drivers/vettel) | Red Bull 🇦🇹 |
 | 2010 | 6 | 2010 Monaco Grand Prix 🇲🇨 | 2010-05-16 | 78 | 1:50:13.355 | [Mark Webber 🇦🇺](/f1/drivers/webber) | Red Bull 🇦🇹 |

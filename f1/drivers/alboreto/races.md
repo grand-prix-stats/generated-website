@@ -138,7 +138,7 @@ collectionId: alboreto
 | 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 4 | 15 | 0.0 | 67 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 | R |
 | 1987 | 12 | 1987 Portuguese Grand Prix 🇵🇹 | 1987-09-20 | 6 | R | 0.0 | 38 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 1 | 2 |
 | 1987 | 11 | 1987 Italian Grand Prix 🇮🇹 | 1987-09-06 | 8 | R | 0.0 | 13 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 | 4 |
-| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-06-18 | 6 | R | 0.0 | 42 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 | R |
+| 1987 | 10 | 1987 Austrian Grand Prix 🇦🇹 | 1987-08-16 | 6 | R | 0.0 | 42 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 3 | R |
 | 1987 | 9 | 1987 Hungarian Grand Prix 🇭🇺 | 1987-08-09 | 5 | R | 0.0 | 43 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 2 | R |
 | 1987 | 8 | 1987 German Grand Prix 🇩🇪 | 1987-07-26 | 5 | R | 0.0 | 10 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 10 | R |
 | 1987 | 7 | 1987 British Grand Prix 🇬🇧 | 1987-07-12 | 7 | R | 0.0 | 52 |   | Ferrari 🇮🇹 | [Gerhard Berger 🇦🇹](/f1/drivers/berger) | 8 | R |
