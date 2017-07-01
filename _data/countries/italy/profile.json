@@ -1,7 +1,7 @@
 {
-    "code": "it",
-    "collection_name": "Italy 🇮🇹",
-    "countryRef": "italy",
-    "flag": "🇮🇹",
-    "name": "Italy"
+  "countryRef" : "italy",
+  "name" : "Italy",
+  "flag" : "🇮🇹",
+  "collection_name" : "Italy 🇮🇹",
+  "code" : "it"
 }

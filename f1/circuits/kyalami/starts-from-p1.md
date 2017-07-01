@@ -25,72 +25,72 @@ collectionId: kyalami
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Starts From P1"
-        }
-    ],
-    "labels": [
-        "Jackie Stewart",
-        "Jack Brabham",
-        "James Hunt",
-        "Jean-Pierre Jabouille",
-        "Nigel Mansell",
-        "Niki Lauda",
-        "Alain Prost",
-        "Carlos Pace",
-        "Denny Hulme",
-        "Jim Clark",
-        "Nelson Piquet",
-        "Patrick Tambay",
-        "René Arnoux"
-    ]
+  "labels" : [
+    "Jackie Stewart",
+    "Jack Brabham",
+    "James Hunt",
+    "Jean-Pierre Jabouille",
+    "Nigel Mansell",
+    "Niki Lauda",
+    "Alain Prost",
+    "Carlos Pace",
+    "Denny Hulme",
+    "Jim Clark",
+    "Nelson Piquet",
+    "Patrick Tambay",
+    "René Arnoux"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Starts From P1",
+      "data" : [
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

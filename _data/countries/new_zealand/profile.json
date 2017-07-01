@@ -1,7 +1,7 @@
 {
-    "code": "nz",
-    "collection_name": "New Zealand 🇳🇿",
-    "countryRef": "new_zealand",
-    "flag": "🇳🇿",
-    "name": "New Zealand"
+  "countryRef" : "new_zealand",
+  "name" : "New Zealand",
+  "flag" : "🇳🇿",
+  "collection_name" : "New Zealand 🇳🇿",
+  "code" : "nz"
 }

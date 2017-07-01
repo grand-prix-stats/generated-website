@@ -25,64 +25,64 @@ collectionId: portugal
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                3.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Times"
-        }
-    ],
-    "labels": [
-        "Alain Prost",
-        "Nigel Mansell",
-        "Stirling Moss",
-        "Ayrton Senna",
-        "Damon Hill",
-        "David Coulthard",
-        "Gerhard Berger",
-        "Jack Brabham",
-        "Jacques Villeneuve",
-        "Michael Schumacher",
-        "Riccardo Patrese"
-    ]
+  "labels" : [
+    "Alain Prost",
+    "Nigel Mansell",
+    "Stirling Moss",
+    "Ayrton Senna",
+    "Damon Hill",
+    "David Coulthard",
+    "Gerhard Berger",
+    "Jack Brabham",
+    "Jacques Villeneuve",
+    "Michael Schumacher",
+    "Riccardo Patrese"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        3,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

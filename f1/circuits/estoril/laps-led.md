@@ -25,32 +25,32 @@ collectionId: estoril
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                42.0,
-                24.0,
-                4.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Damon Hill",
-        "Jacques Villeneuve",
-        "Jean Alesi"
-    ]
+  "labels" : [
+    "Damon Hill",
+    "Jacques Villeneuve",
+    "Jean Alesi"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        42,
+        24,
+        4
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

@@ -24,22 +24,22 @@ collectionId: francia
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1981 | 7 | 1981 Spanish Grand Prix 🇪🇸 | 1981-06-21 | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 0 | F |
-| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 11 | R |
-| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | R |
+| 1981 | 7 | 1981 Spanish Grand Prix 🇪🇸 | 1981-06-21T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 0 | F |
+| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 11 | R |
+| 1977 | 14 | 1977 Italian Grand Prix 🇮🇹 | 1977-09-11T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 |  |
-| **Total Sum** | 35.000 |  |  |  |  |  |  |  |  |  | 25.000 |  |
-| **Mean μ (Average)** | 11.667 |  |  |  |  |  |  |  |  |  | 8.333 |  |
-| **Maximum** | 14.000 |  |  |  |  |  |  |  |  |  | 14.000 |  |
-| **75th Percentile** | 14.000 |  |  |  |  |  |  |  |  |  | 14.000 |  |
-| **Median** | 14.000 |  |  |  |  |  |  |  |  |  | 11.000 |  |
-| **25th Percentile** | 7.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Minimum** | 7.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Variance** | 10.889 |  |  |  |  |  |  |  |  |  | 36.222 |  |
-| **Standard Deviation σ** | 3.300 |  |  |  |  |  |  |  |  |  | 6.018 |  |
+| **Row Count** | 3 |  | 3 | 3 |  | 3 | 3 |  |  |  | 3 |  |
+| **Total Sum** | 35.000 |  | 847497600.000 |  |  |  |  |  |  |  | 25.000 |  |
+| **Mean μ (Average)** | 11.667 |  | 282499200.000 |  |  |  |  |  |  |  | 8.333 |  |
+| **Maximum** | 14.000 |  | 361929600.000 |  |  |  |  |  |  |  | 14.000 |  |
+| **75th Percentile** | 14.000 |  | 361929600.000 |  |  |  |  |  |  |  | 14.000 |  |
+| **Median** | 14.000 |  | 242784000.000 |  |  |  |  |  |  |  | 11.000 |  |
+| **25th Percentile** | 7.000 |  | 242784000.000 |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 7.000 |  | 242784000.000 |  |  |  |  |  |  |  |  |  |
+| **Variance** | 10.889 |  | 3154594222080000.000 |  |  |  |  |  |  |  | 36.222 |  |
+| **Standard Deviation σ** | 3.300 |  | 56165774.472 |  |  |  |  |  |  |  | 6.018 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

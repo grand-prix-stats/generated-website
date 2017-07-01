@@ -1,7 +1,7 @@
 {
-    "code": "mc",
-    "collection_name": "Monaco 🇲🇨",
-    "countryRef": "monaco",
-    "flag": "🇲🇨",
-    "name": "Monaco"
+  "countryRef" : "monaco",
+  "name" : "Monaco",
+  "flag" : "🇲🇨",
+  "collection_name" : "Monaco 🇲🇨",
+  "code" : "mc"
 }

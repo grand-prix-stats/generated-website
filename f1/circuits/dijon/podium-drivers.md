@@ -25,76 +25,76 @@ collectionId: dijon
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Podiums"
-        }
-    ],
-    "labels": [
-        "Niki Lauda",
-        "Alain Prost",
-        "John Watson",
-        "Clay Regazzoni",
-        "Gilles Villeneuve",
-        "James Hunt",
-        "Jean-Pierre Jabouille",
-        "Keke Rosberg",
-        "Mario Andretti",
-        "Nelson Piquet",
-        "Nigel Mansell",
-        "Patrick Tambay",
-        "René Arnoux",
-        "Ronnie Peterson"
-    ]
+  "labels" : [
+    "Niki Lauda",
+    "Alain Prost",
+    "John Watson",
+    "Clay Regazzoni",
+    "Gilles Villeneuve",
+    "James Hunt",
+    "Jean-Pierre Jabouille",
+    "Keke Rosberg",
+    "Mario Andretti",
+    "Nelson Piquet",
+    "Nigel Mansell",
+    "Patrick Tambay",
+    "René Arnoux",
+    "Ronnie Peterson"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Podiums",
+      "data" : [
+        3,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

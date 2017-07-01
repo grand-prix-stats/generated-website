@@ -24,20 +24,20 @@ collectionId: bueno
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1973 | 2 | 1973 Brazilian Grand Prix 🇧🇷 | 1973-02-11 | 20 | 12 | 0.0 | 36 |   | Surtees 🇬🇧 | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 6 | R |
-| 1973 | 2 | 1973 Brazilian Grand Prix 🇧🇷 | 1973-02-11 | 20 | 12 | 0.0 | 36 |   | Surtees 🇬🇧 | [Mike Hailwood 🇬🇧](/f1/drivers/hailwood) | 14 | R |
+| 1973 | 2 | 1973 Brazilian Grand Prix 🇧🇷 | 1973-02-11T00:00:00.000Z | 20 | 12 | 0.0 | 36 |   | Surtees 🇬🇧 | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 6 | R |
+| 1973 | 2 | 1973 Brazilian Grand Prix 🇧🇷 | 1973-02-11T00:00:00.000Z | 20 | 12 | 0.0 | 36 |   | Surtees 🇬🇧 | [Mike Hailwood 🇬🇧](/f1/drivers/hailwood) | 14 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 4.000 |  |  | 40.000 | 24.000 |  | 72.000 |  |  |  | 20.000 |  |
-| **Mean μ (Average)** | 2.000 |  |  | 20.000 | 12.000 |  | 36.000 |  |  |  | 10.000 |  |
-| **Maximum** | 2.000 |  |  | 20.000 | 12.000 |  | 36.000 |  |  |  | 14.000 |  |
-| **75th Percentile** | 2.000 |  |  | 20.000 | 12.000 |  | 36.000 |  |  |  | 14.000 |  |
-| **Median** | 2.000 |  |  | 20.000 | 12.000 |  | 36.000 |  |  |  | 14.000 |  |
-| **25th Percentile** | 2.000 |  |  | 20.000 | 12.000 |  | 36.000 |  |  |  | 6.000 |  |
-| **Minimum** | 2.000 |  |  | 20.000 | 12.000 |  | 36.000 |  |  |  | 6.000 |  |
+| **Row Count** | 2 |  | 2 | 2 | 2 | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 4.000 |  | 196473600.000 | 40.000 | 24.000 |  | 72.000 |  |  |  | 20.000 |  |
+| **Mean μ (Average)** | 2.000 |  | 98236800.000 | 20.000 | 12.000 |  | 36.000 |  |  |  | 10.000 |  |
+| **Maximum** | 2.000 |  | 98236800.000 | 20.000 | 12.000 |  | 36.000 |  |  |  | 14.000 |  |
+| **75th Percentile** | 2.000 |  | 98236800.000 | 20.000 | 12.000 |  | 36.000 |  |  |  | 14.000 |  |
+| **Median** | 2.000 |  | 98236800.000 | 20.000 | 12.000 |  | 36.000 |  |  |  | 14.000 |  |
+| **25th Percentile** | 2.000 |  | 98236800.000 | 20.000 | 12.000 |  | 36.000 |  |  |  | 6.000 |  |
+| **Minimum** | 2.000 |  | 98236800.000 | 20.000 | 12.000 |  | 36.000 |  |  |  | 6.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 16.000 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 4.000 |  |
 

@@ -25,76 +25,76 @@ collectionId: hungaroring
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                7.0,
-                5.0,
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Starts From P1"
-        }
-    ],
-    "labels": [
-        "Michael Schumacher",
-        "Lewis Hamilton",
-        "Ayrton Senna",
-        "Fernando Alonso",
-        "Mika Häkkinen",
-        "Nico Rosberg",
-        "Riccardo Patrese",
-        "Sebastian Vettel",
-        "Alain Prost",
-        "Damon Hill",
-        "Kimi Räikkönen",
-        "Nigel Mansell",
-        "Rubens Barrichello",
-        "Thierry Boutsen"
-    ]
+  "labels" : [
+    "Michael Schumacher",
+    "Lewis Hamilton",
+    "Ayrton Senna",
+    "Fernando Alonso",
+    "Mika Häkkinen",
+    "Nico Rosberg",
+    "Riccardo Patrese",
+    "Sebastian Vettel",
+    "Alain Prost",
+    "Damon Hill",
+    "Kimi Räikkönen",
+    "Nigel Mansell",
+    "Rubens Barrichello",
+    "Thierry Boutsen"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Starts From P1",
+      "data" : [
+        7,
+        5,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

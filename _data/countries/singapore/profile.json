@@ -1,7 +1,7 @@
 {
-    "code": "sg",
-    "collection_name": "Singapore 🇸🇬",
-    "countryRef": "singapore",
-    "flag": "🇸🇬",
-    "name": "Singapore"
+  "countryRef" : "singapore",
+  "name" : "Singapore",
+  "flag" : "🇸🇬",
+  "collection_name" : "Singapore 🇸🇬",
+  "code" : "sg"
 }

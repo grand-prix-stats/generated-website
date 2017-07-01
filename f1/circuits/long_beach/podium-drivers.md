@@ -25,76 +25,76 @@ collectionId: long_beach
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                4.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Podiums"
-        }
-    ],
-    "labels": [
-        "Niki Lauda",
-        "Alan Jones",
-        "Carlos Reutemann",
-        "Jody Scheckter",
-        "Mario Andretti",
-        "Nelson Piquet",
-        "Patrick Depailler",
-        "Riccardo Patrese",
-        "Clay Regazzoni",
-        "Emerson Fittipaldi",
-        "Gilles Villeneuve",
-        "John Watson",
-        "Keke Rosberg",
-        "René Arnoux"
-    ]
+  "labels" : [
+    "Niki Lauda",
+    "Alan Jones",
+    "Carlos Reutemann",
+    "Jody Scheckter",
+    "Mario Andretti",
+    "Nelson Piquet",
+    "Patrick Depailler",
+    "Riccardo Patrese",
+    "Clay Regazzoni",
+    "Emerson Fittipaldi",
+    "Gilles Villeneuve",
+    "John Watson",
+    "Keke Rosberg",
+    "René Arnoux"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Podiums",
+      "data" : [
+        4,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

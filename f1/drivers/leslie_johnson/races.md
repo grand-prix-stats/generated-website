@@ -24,22 +24,22 @@ collectionId: leslie_johnson
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Bob Gerard 🇬🇧](/f1/drivers/gerard) | 13 | 6 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Cuth Harrison 🇬🇧](/f1/drivers/harrison) | 15 | 7 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Peter Walker 🇬🇧](/f1/drivers/peter_walker) | 10 | R |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Tony Rolt 🇬🇧](/f1/drivers/rolt) | 10 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Bob Gerard 🇬🇧](/f1/drivers/gerard) | 13 | 6 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Cuth Harrison 🇬🇧](/f1/drivers/harrison) | 15 | 7 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Peter Walker 🇬🇧](/f1/drivers/peter_walker) | 10 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 12 | R | 0.0 | 2 |   | ERA 🇬🇧 | [Tony Rolt 🇬🇧](/f1/drivers/rolt) | 10 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
-| **Total Sum** | 4.000 |  |  | 48.000 |  |  | 8.000 |  |  |  | 48.000 | 13.000 |
-| **Mean μ (Average)** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 12.000 | 6.500 |
-| **Maximum** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 15.000 | 7.000 |
-| **75th Percentile** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 15.000 | 7.000 |
-| **Median** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 13.000 | 7.000 |
-| **25th Percentile** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 10.000 | 6.000 |
-| **Minimum** | 1.000 |  |  | 12.000 |  |  | 2.000 |  |  |  | 10.000 | 6.000 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 4.000 |  | -2478988800.000 | 48.000 |  |  | 8.000 |  |  |  | 48.000 | 13.000 |
+| **Mean μ (Average)** | 1.000 |  | -619747200.000 | 12.000 |  |  | 2.000 |  |  |  | 12.000 | 6.500 |
+| **Maximum** | 1.000 |  | -619747200.000 | 12.000 |  |  | 2.000 |  |  |  | 15.000 | 7.000 |
+| **75th Percentile** | 1.000 |  | -619747200.000 | 12.000 |  |  | 2.000 |  |  |  | 15.000 | 7.000 |
+| **Median** | 1.000 |  | -619747200.000 | 12.000 |  |  | 2.000 |  |  |  | 13.000 | 7.000 |
+| **25th Percentile** | 1.000 |  | -619747200.000 | 12.000 |  |  | 2.000 |  |  |  | 10.000 | 6.000 |
+| **Minimum** | 1.000 |  | -619747200.000 | 12.000 |  |  | 2.000 |  |  |  | 10.000 | 6.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 4.500 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.121 | 0.500 |
 

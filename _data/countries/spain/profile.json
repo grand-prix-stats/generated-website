@@ -1,7 +1,7 @@
 {
-    "code": "es",
-    "collection_name": "Spain 🇪🇸",
-    "countryRef": "spain",
-    "flag": "🇪🇸",
-    "name": "Spain"
+  "countryRef" : "spain",
+  "name" : "Spain",
+  "flag" : "🇪🇸",
+  "collection_name" : "Spain 🇪🇸",
+  "code" : "es"
 }

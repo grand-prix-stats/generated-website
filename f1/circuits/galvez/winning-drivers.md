@@ -25,84 +25,84 @@ collectionId: galvez
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                4.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Wins"
-        }
-    ],
-    "labels": [
-        "Juan Fangio",
-        "Damon Hill",
-        "Emerson Fittipaldi",
-        "Alan Jones",
-        "Alberto Ascari",
-        "Bruce McLaren",
-        "Denny Hulme",
-        "Jackie Stewart",
-        "Jacques Laffite",
-        "Jacques Villeneuve",
-        "Jody Scheckter",
-        "Luigi Musso",
-        "Mario Andretti",
-        "Michael Schumacher",
-        "Nelson Piquet",
-        "Stirling Moss"
-    ]
+  "labels" : [
+    "Juan Fangio",
+    "Damon Hill",
+    "Emerson Fittipaldi",
+    "Alan Jones",
+    "Alberto Ascari",
+    "Bruce McLaren",
+    "Denny Hulme",
+    "Jackie Stewart",
+    "Jacques Laffite",
+    "Jacques Villeneuve",
+    "Jody Scheckter",
+    "Luigi Musso",
+    "Mario Andretti",
+    "Michael Schumacher",
+    "Nelson Piquet",
+    "Stirling Moss"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Wins",
+      "data" : [
+        4,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

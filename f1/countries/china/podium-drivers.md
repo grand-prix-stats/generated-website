@@ -25,76 +25,76 @@ collectionId: china
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                8.0,
-                5.0,
-                5.0,
-                5.0,
-                5.0,
-                4.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Times"
-        }
-    ],
-    "labels": [
-        "Lewis Hamilton",
-        "Fernando Alonso",
-        "Kimi Räikkönen",
-        "Nico Rosberg",
-        "Sebastian Vettel",
-        "Jenson Button",
-        "Felipe Massa",
-        "Mark Webber",
-        "Daniil Kvyat",
-        "Giancarlo Fisichella",
-        "Max Verstappen",
-        "Michael Schumacher",
-        "Ralf Schumacher",
-        "Rubens Barrichello"
-    ]
+  "labels" : [
+    "Lewis Hamilton",
+    "Fernando Alonso",
+    "Kimi Räikkönen",
+    "Nico Rosberg",
+    "Sebastian Vettel",
+    "Jenson Button",
+    "Felipe Massa",
+    "Mark Webber",
+    "Daniil Kvyat",
+    "Giancarlo Fisichella",
+    "Max Verstappen",
+    "Michael Schumacher",
+    "Ralf Schumacher",
+    "Rubens Barrichello"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        8,
+        5,
+        5,
+        5,
+        5,
+        4,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

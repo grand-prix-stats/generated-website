@@ -25,40 +25,40 @@ collectionId: americas
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                129.0,
-                98.0,
-                44.0,
-                7.0,
-                2.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Lewis Hamilton",
-        "Sebastian Vettel",
-        "Nico Rosberg",
-        "Daniel Ricciardo",
-        "Romain Grosjean"
-    ]
+  "labels" : [
+    "Lewis Hamilton",
+    "Sebastian Vettel",
+    "Nico Rosberg",
+    "Daniel Ricciardo",
+    "Romain Grosjean"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        129,
+        98,
+        44,
+        7,
+        2
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

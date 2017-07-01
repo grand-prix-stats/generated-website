@@ -24,19 +24,19 @@ collectionId: hart
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1967 | 7 | 1967 German Grand Prix 🇩🇪 | 1967-08-06 | 25 | N | 0.0 | 12 |   | Protos 🇬🇧 | [Kurt Ahrens 🇩🇪](/f1/drivers/ahrens) | 23 | R |
+| 1967 | 7 | 1967 German Grand Prix 🇩🇪 | 1967-08-06T00:00:00.000Z | 25 | N | 0.0 | 12 |   | Protos 🇬🇧 | [Kurt Ahrens 🇩🇪](/f1/drivers/ahrens) | 23 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 7.000 |  |  | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
-| **Mean μ (Average)** | 7.000 |  |  | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
-| **Maximum** | 7.000 |  |  | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
-| **75th Percentile** | 7.000 |  |  | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
-| **Median** | 7.000 |  |  | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
-| **25th Percentile** | 7.000 |  |  | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
-| **Minimum** | 7.000 |  |  | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 7.000 |  | -75945600.000 | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
+| **Mean μ (Average)** | 7.000 |  | -75945600.000 | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
+| **Maximum** | 7.000 |  | -75945600.000 | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
+| **75th Percentile** | 7.000 |  | -75945600.000 | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
+| **Median** | 7.000 |  | -75945600.000 | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
+| **25th Percentile** | 7.000 |  | -75945600.000 | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
+| **Minimum** | 7.000 |  | -75945600.000 | 25.000 |  |  | 12.000 |  |  |  | 23.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

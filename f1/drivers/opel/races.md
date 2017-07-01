@@ -24,35 +24,35 @@ collectionId: opel
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | 16 |
-| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 8 | R |
-| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 0 | F |
-| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Gérard Larrousse 🇫🇷](/f1/drivers/larrousse) | 0 | F |
-| 1974 | 8 | 1974 Dutch Grand Prix 🇳🇱 | 1974-06-23 | 23 | 9 | 0.0 | 73 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 13 | 7 |
-| 1974 | 8 | 1974 Dutch Grand Prix 🇳🇱 | 1974-06-23 | 23 | 9 | 0.0 | 73 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 12 | 12 |
-| 1974 | 7 | 1974 Swedish Grand Prix 🇸🇪 | 1974-06-09 | 20 | 9 | 0.0 | 79 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | 11 |
-| 1974 | 7 | 1974 Swedish Grand Prix 🇸🇪 | 1974-06-09 | 20 | 9 | 0.0 | 79 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 10 | R |
-| 1974 | 6 | 1974 Monaco Grand Prix 🇲🇨 | 1974-05-26 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 23 | 6 |
-| 1974 | 6 | 1974 Monaco Grand Prix 🇲🇨 | 1974-05-26 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 8 | R |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 19 | 11 |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [Teddy Pilette 🇧🇪](/f1/drivers/pilette) | 27 | 17 |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 24 | R |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [Gérard Larrousse 🇫🇷](/f1/drivers/larrousse) | 11 | R |
-| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28 | 24 | R | 0.0 | 14 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 15 | 11 |
-| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28 | 24 | R | 0.0 | 14 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 6 | R |
+| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | 16 |
+| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 8 | R |
+| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 0 | F |
+| 1974 | 9 | 1974 French Grand Prix 🇫🇷 | 1974-07-07T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Gérard Larrousse 🇫🇷](/f1/drivers/larrousse) | 0 | F |
+| 1974 | 8 | 1974 Dutch Grand Prix 🇳🇱 | 1974-06-23T00:00:00.000Z | 23 | 9 | 0.0 | 73 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 13 | 7 |
+| 1974 | 8 | 1974 Dutch Grand Prix 🇳🇱 | 1974-06-23T00:00:00.000Z | 23 | 9 | 0.0 | 73 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 12 | 12 |
+| 1974 | 7 | 1974 Swedish Grand Prix 🇸🇪 | 1974-06-09T00:00:00.000Z | 20 | 9 | 0.0 | 79 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 14 | 11 |
+| 1974 | 7 | 1974 Swedish Grand Prix 🇸🇪 | 1974-06-09T00:00:00.000Z | 20 | 9 | 0.0 | 79 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 10 | R |
+| 1974 | 6 | 1974 Monaco Grand Prix 🇲🇨 | 1974-05-26T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 23 | 6 |
+| 1974 | 6 | 1974 Monaco Grand Prix 🇲🇨 | 1974-05-26T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 8 | R |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 19 | 11 |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [Teddy Pilette 🇧🇪](/f1/drivers/pilette) | 27 | 17 |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 24 | R |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 22 | R | 0.0 | 49 |   | Brabham 🇬🇧 | [Gérard Larrousse 🇫🇷](/f1/drivers/larrousse) | 11 | R |
+| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28T00:00:00.000Z | 24 | R | 0.0 | 14 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 15 | 11 |
+| 1974 | 4 | 1974 Spanish Grand Prix 🇪🇸 | 1974-04-28T00:00:00.000Z | 24 | R | 0.0 | 14 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 6 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 16 |  |  | 16 | 4 | 16 | 16 |  |  |  | 16 | 8 |
-| **Total Sum** | 106.000 |  |  | 222.000 | 36.000 |  | 528.000 |  |  |  | 204.000 | 91.000 |
-| **Mean μ (Average)** | 6.625 |  |  | 13.875 | 9.000 |  | 33.000 |  |  |  | 12.750 | 11.375 |
-| **Maximum** | 9.000 |  |  | 24.000 | 9.000 |  | 79.000 |  |  |  | 27.000 | 17.000 |
-| **75th Percentile** | 9.000 |  |  | 23.000 | 9.000 |  | 73.000 |  |  |  | 19.000 | 16.000 |
-| **Median** | 7.000 |  |  | 22.000 | 9.000 |  | 49.000 |  |  |  | 13.000 | 11.000 |
-| **25th Percentile** | 5.000 |  |  |  | 9.000 |  |  |  |  |  | 8.000 | 11.000 |
-| **Minimum** | 4.000 |  |  |  | 9.000 |  |  |  |  |  |  | 6.000 |
-| **Variance** | 3.234 |  |  | 116.609 |  |  | 982.000 |  |  |  | 56.812 | 12.734 |
-| **Standard Deviation σ** | 1.798 |  |  | 10.799 |  |  | 31.337 |  |  |  | 7.537 | 3.569 |
+| **Row Count** | 16 |  | 16 | 16 | 4 | 16 | 16 |  |  |  | 16 | 8 |
+| **Total Sum** | 106.000 |  | 2232230400.000 | 222.000 | 36.000 |  | 528.000 |  |  |  | 204.000 | 91.000 |
+| **Mean μ (Average)** | 6.625 |  | 139514400.000 | 13.875 | 9.000 |  | 33.000 |  |  |  | 12.750 | 11.375 |
+| **Maximum** | 9.000 |  | 142387200.000 | 24.000 | 9.000 |  | 79.000 |  |  |  | 27.000 | 17.000 |
+| **75th Percentile** | 9.000 |  | 142387200.000 | 23.000 | 9.000 |  | 73.000 |  |  |  | 19.000 | 16.000 |
+| **Median** | 7.000 |  | 139968000.000 | 22.000 | 9.000 |  | 49.000 |  |  |  | 13.000 | 11.000 |
+| **25th Percentile** | 5.000 |  | 137548800.000 |  | 9.000 |  |  |  |  |  | 8.000 | 11.000 |
+| **Minimum** | 4.000 |  | 136339200.000 |  | 9.000 |  |  |  |  |  |  | 6.000 |
+| **Variance** | 3.234 |  | 4732318080000.000 | 116.609 |  |  | 982.000 |  |  |  | 56.812 | 12.734 |
+| **Standard Deviation σ** | 1.798 |  | 2175389.179 | 10.799 |  |  | 31.337 |  |  |  | 7.537 | 3.569 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

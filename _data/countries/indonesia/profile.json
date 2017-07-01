@@ -1,7 +1,7 @@
 {
-    "code": "id",
-    "collection_name": "Indonesia 🇮🇩",
-    "countryRef": "indonesia",
-    "flag": "🇮🇩",
-    "name": "Indonesia"
+  "countryRef" : "indonesia",
+  "name" : "Indonesia",
+  "flag" : "🇮🇩",
+  "collection_name" : "Indonesia 🇮🇩",
+  "code" : "id"
 }

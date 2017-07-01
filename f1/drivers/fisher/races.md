@@ -24,19 +24,19 @@ collectionId: fisher
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1967 | 11 | 1967 Mexican Grand Prix 🇲🇽 | 1967-10-22 | 10 | R | 0.0 | 0 |   | Lotus-BRM 🇬🇧 | [Moisés Solana 🇲🇽](/f1/drivers/solana) | 9 | R |
+| 1967 | 11 | 1967 Mexican Grand Prix 🇲🇽 | 1967-10-22T00:00:00.000Z | 10 | R | 0.0 | 0 |   | Lotus-BRM 🇬🇧 | [Moisés Solana 🇲🇽](/f1/drivers/solana) | 9 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 11.000 |  |  | 10.000 |  |  |  |  |  |  | 9.000 |  |
-| **Mean μ (Average)** | 11.000 |  |  | 10.000 |  |  |  |  |  |  | 9.000 |  |
-| **Maximum** | 11.000 |  |  | 10.000 |  |  |  |  |  |  | 9.000 |  |
-| **75th Percentile** | 11.000 |  |  | 10.000 |  |  |  |  |  |  | 9.000 |  |
-| **Median** | 11.000 |  |  | 10.000 |  |  |  |  |  |  | 9.000 |  |
-| **25th Percentile** | 11.000 |  |  | 10.000 |  |  |  |  |  |  | 9.000 |  |
-| **Minimum** | 11.000 |  |  | 10.000 |  |  |  |  |  |  | 9.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 11.000 |  | -69292800.000 | 10.000 |  |  |  |  |  |  | 9.000 |  |
+| **Mean μ (Average)** | 11.000 |  | -69292800.000 | 10.000 |  |  |  |  |  |  | 9.000 |  |
+| **Maximum** | 11.000 |  | -69292800.000 | 10.000 |  |  |  |  |  |  | 9.000 |  |
+| **75th Percentile** | 11.000 |  | -69292800.000 | 10.000 |  |  |  |  |  |  | 9.000 |  |
+| **Median** | 11.000 |  | -69292800.000 | 10.000 |  |  |  |  |  |  | 9.000 |  |
+| **25th Percentile** | 11.000 |  | -69292800.000 | 10.000 |  |  |  |  |  |  | 9.000 |  |
+| **Minimum** | 11.000 |  | -69292800.000 | 10.000 |  |  |  |  |  |  | 9.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

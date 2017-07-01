@@ -1,7 +1,7 @@
 {
-    "code": "hu",
-    "collection_name": "Hungary 🇭🇺",
-    "countryRef": "hungary",
-    "flag": "🇭🇺",
-    "name": "Hungary"
+  "countryRef" : "hungary",
+  "name" : "Hungary",
+  "flag" : "🇭🇺",
+  "collection_name" : "Hungary 🇭🇺",
+  "code" : "hu"
 }

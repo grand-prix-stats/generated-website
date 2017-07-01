@@ -24,19 +24,19 @@ collectionId: londono
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29 | 0 | W | 0.0 | 0 |   | Ensign 🇬🇧 | [Marc Surer 🇨🇭](/f1/drivers/surer) | 18 | 4 |
+| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Ensign 🇬🇧 | [Marc Surer 🇨🇭](/f1/drivers/surer) | 18 | 4 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
-| **Total Sum** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
-| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
-| **Maximum** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
-| **75th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
-| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
-| **Minimum** | 2.000 |  |  |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Mean μ (Average)** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Maximum** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **75th Percentile** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Median** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **25th Percentile** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  | 18.000 | 4.000 |
+| **Minimum** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  | 18.000 | 4.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

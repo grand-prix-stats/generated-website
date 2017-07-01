@@ -1,7 +1,7 @@
 {
-    "code": "zw",
-    "collection_name": "Rhodesia 🇿🇼",
-    "countryRef": "rhodesia",
-    "flag": "🇿🇼",
-    "name": "Rhodesia"
+  "countryRef" : "rhodesia",
+  "name" : "Rhodesia",
+  "flag" : "🇿🇼",
+  "collection_name" : "Rhodesia 🇿🇼",
+  "code" : "zw"
 }

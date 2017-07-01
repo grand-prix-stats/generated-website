@@ -24,19 +24,19 @@ collectionId: serrurier
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1963 | 10 | 1963 South African Grand Prix 🇿🇦 | 1963-12-28 | 18 | 11 | 0.0 | 78 |   | LDS 🇿🇦 | [Sam Tingle 🇿🇼](/f1/drivers/tingle) | 17 | R |
+| 1963 | 10 | 1963 South African Grand Prix 🇿🇦 | 1963-12-28T00:00:00.000Z | 18 | 11 | 0.0 | 78 |   | LDS 🇿🇦 | [Sam Tingle 🇿🇼](/f1/drivers/tingle) | 17 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 10.000 |  |  | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
-| **Mean μ (Average)** | 10.000 |  |  | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
-| **Maximum** | 10.000 |  |  | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
-| **75th Percentile** | 10.000 |  |  | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
-| **Median** | 10.000 |  |  | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
-| **25th Percentile** | 10.000 |  |  | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
-| **Minimum** | 10.000 |  |  | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
+| **Row Count** | 1 |  | 1 | 1 | 1 | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 10.000 |  | -189734400.000 | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
+| **Mean μ (Average)** | 10.000 |  | -189734400.000 | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
+| **Maximum** | 10.000 |  | -189734400.000 | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
+| **75th Percentile** | 10.000 |  | -189734400.000 | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
+| **Median** | 10.000 |  | -189734400.000 | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
+| **25th Percentile** | 10.000 |  | -189734400.000 | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
+| **Minimum** | 10.000 |  | -189734400.000 | 18.000 | 11.000 |  | 78.000 |  |  |  | 17.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

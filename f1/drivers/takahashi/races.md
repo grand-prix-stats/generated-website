@@ -24,20 +24,20 @@ collectionId: takahashi
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 22 | 9 | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 15 | 3 |
-| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 22 | 9 | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 18 | R |
+| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23T00:00:00.000Z | 22 | 9 | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 15 | 3 |
+| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23T00:00:00.000Z | 22 | 9 | 0.0 | 71 |   | Tyrrell 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 18 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
-| **Total Sum** | 34.000 |  |  | 44.000 | 18.000 |  | 142.000 |  |  |  | 33.000 | 3.000 |
-| **Mean μ (Average)** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 16.500 | 3.000 |
-| **Maximum** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
-| **75th Percentile** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
-| **Median** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
-| **25th Percentile** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 15.000 | 3.000 |
-| **Minimum** | 17.000 |  |  | 22.000 | 9.000 |  | 71.000 |  |  |  | 15.000 | 3.000 |
+| **Row Count** | 2 |  | 2 | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 34.000 |  | 492825600.000 | 44.000 | 18.000 |  | 142.000 |  |  |  | 33.000 | 3.000 |
+| **Mean μ (Average)** | 17.000 |  | 246412800.000 | 22.000 | 9.000 |  | 71.000 |  |  |  | 16.500 | 3.000 |
+| **Maximum** | 17.000 |  | 246412800.000 | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
+| **75th Percentile** | 17.000 |  | 246412800.000 | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
+| **Median** | 17.000 |  | 246412800.000 | 22.000 | 9.000 |  | 71.000 |  |  |  | 18.000 | 3.000 |
+| **25th Percentile** | 17.000 |  | 246412800.000 | 22.000 | 9.000 |  | 71.000 |  |  |  | 15.000 | 3.000 |
+| **Minimum** | 17.000 |  | 246412800.000 | 22.000 | 9.000 |  | 71.000 |  |  |  | 15.000 | 3.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 2.250 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.500 |  |
 

@@ -25,32 +25,32 @@ collectionId: rodriguez
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                68.0,
-                62.0,
-                12.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Nico Rosberg",
-        "Lewis Hamilton",
-        "Sebastian Vettel"
-    ]
+  "labels" : [
+    "Nico Rosberg",
+    "Lewis Hamilton",
+    "Sebastian Vettel"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        68,
+        62,
+        12
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

@@ -24,21 +24,21 @@ collectionId: dennis_taylor
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18 | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Alan Stacey 🇬🇧](/f1/drivers/stacey) | 12 | 8 |
-| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18 | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 9 | 9 |
-| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18 | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [David Piper 🇬🇧](/f1/drivers/piper) | 22 | R |
+| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Alan Stacey 🇬🇧](/f1/drivers/stacey) | 12 | 8 |
+| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 9 | 9 |
+| 1959 | 5 | 1959 British Grand Prix 🇬🇧 | 1959-07-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [David Piper 🇬🇧](/f1/drivers/piper) | 22 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 2 |
-| **Total Sum** | 15.000 |  |  |  |  |  |  |  |  |  | 43.000 | 17.000 |
-| **Mean μ (Average)** | 5.000 |  |  |  |  |  |  |  |  |  | 14.333 | 8.500 |
-| **Maximum** | 5.000 |  |  |  |  |  |  |  |  |  | 22.000 | 9.000 |
-| **75th Percentile** | 5.000 |  |  |  |  |  |  |  |  |  | 22.000 | 9.000 |
-| **Median** | 5.000 |  |  |  |  |  |  |  |  |  | 12.000 | 9.000 |
-| **25th Percentile** | 5.000 |  |  |  |  |  |  |  |  |  | 9.000 | 8.000 |
-| **Minimum** | 5.000 |  |  |  |  |  |  |  |  |  | 9.000 | 8.000 |
+| **Row Count** | 3 |  | 3 | 3 |  | 3 | 3 |  |  |  | 3 | 2 |
+| **Total Sum** | 15.000 |  | -990144000.000 |  |  |  |  |  |  |  | 43.000 | 17.000 |
+| **Mean μ (Average)** | 5.000 |  | -330048000.000 |  |  |  |  |  |  |  | 14.333 | 8.500 |
+| **Maximum** | 5.000 |  | -330048000.000 |  |  |  |  |  |  |  | 22.000 | 9.000 |
+| **75th Percentile** | 5.000 |  | -330048000.000 |  |  |  |  |  |  |  | 22.000 | 9.000 |
+| **Median** | 5.000 |  | -330048000.000 |  |  |  |  |  |  |  | 12.000 | 9.000 |
+| **25th Percentile** | 5.000 |  | -330048000.000 |  |  |  |  |  |  |  | 9.000 | 8.000 |
+| **Minimum** | 5.000 |  | -330048000.000 |  |  |  |  |  |  |  | 9.000 | 8.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 30.889 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.558 | 0.500 |
 

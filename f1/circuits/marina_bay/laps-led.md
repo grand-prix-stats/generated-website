@@ -25,56 +25,56 @@ collectionId: marina_bay
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                221.0,
-                135.0,
-                93.0,
-                70.0,
-                17.0,
-                5.0,
-                3.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Sebastian Vettel",
-        "Lewis Hamilton",
-        "Fernando Alonso",
-        "Nico Rosberg",
-        "Felipe Massa",
-        "Jarno Trulli",
-        "Jenson Button",
-        "Daniel Ricciardo",
-        "Kimi Räikkönen"
-    ]
+  "labels" : [
+    "Sebastian Vettel",
+    "Lewis Hamilton",
+    "Fernando Alonso",
+    "Nico Rosberg",
+    "Felipe Massa",
+    "Jarno Trulli",
+    "Jenson Button",
+    "Daniel Ricciardo",
+    "Kimi Räikkönen"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        221,
+        135,
+        93,
+        70,
+        17,
+        5,
+        3,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

@@ -25,68 +25,68 @@ collectionId: imola
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                261.0,
-                99.0,
-                77.0,
-                61.0,
-                51.0,
-                43.0,
-                36.0,
-                25.0,
-                13.0,
-                12.0,
-                3.0,
-                2.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Michael Schumacher",
-        "David Coulthard",
-        "Ralf Schumacher",
-        "Mika Häkkinen",
-        "Fernando Alonso",
-        "Damon Hill",
-        "Heinz-Harald Frentzen",
-        "Jacques Villeneuve",
-        "Jenson Button",
-        "Kimi Räikkönen",
-        "Rubens Barrichello",
-        "Juan Pablo Montoya"
-    ]
+  "labels" : [
+    "Michael Schumacher",
+    "David Coulthard",
+    "Ralf Schumacher",
+    "Mika Häkkinen",
+    "Fernando Alonso",
+    "Damon Hill",
+    "Heinz-Harald Frentzen",
+    "Jacques Villeneuve",
+    "Jenson Button",
+    "Kimi Räikkönen",
+    "Rubens Barrichello",
+    "Juan Pablo Montoya"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        261,
+        99,
+        77,
+        61,
+        51,
+        43,
+        36,
+        25,
+        13,
+        12,
+        3,
+        2
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

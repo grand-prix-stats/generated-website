@@ -1,7 +1,7 @@
 {
-    "code": "se",
-    "collection_name": "Sweden 🇸🇪",
-    "countryRef": "sweden",
-    "flag": "🇸🇪",
-    "name": "Sweden"
+  "countryRef" : "sweden",
+  "name" : "Sweden",
+  "flag" : "🇸🇪",
+  "collection_name" : "Sweden 🇸🇪",
+  "code" : "se"
 }

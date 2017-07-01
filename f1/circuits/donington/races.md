@@ -24,19 +24,19 @@ collectionId: donington
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1993 | 3 | 1993 European Grand Prix 🇬🇧 | 1993-04-11 | 76 | 1:50:46.570 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | McLaren 🇬🇧 |
+| 1993 | 3 | 1993 European Grand Prix 🇬🇧 | 1993-04-11T00:00:00.000Z | 76 | 1:50:46.570 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | McLaren 🇬🇧 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  | 1 |  |  |  |
-| **Total Sum** | 3.000 |  |  | 76.000 |  |  |  |
-| **Mean μ (Average)** | 3.000 |  |  | 76.000 |  |  |  |
-| **Maximum** | 3.000 |  |  | 76.000 |  |  |  |
-| **75th Percentile** | 3.000 |  |  | 76.000 |  |  |  |
-| **Median** | 3.000 |  |  | 76.000 |  |  |  |
-| **25th Percentile** | 3.000 |  |  | 76.000 |  |  |  |
-| **Minimum** | 3.000 |  |  | 76.000 |  |  |  |
+| **Row Count** | 1 |  | 1 | 1 |  |  |  |
+| **Total Sum** | 3.000 |  | 734486400.000 | 76.000 |  |  |  |
+| **Mean μ (Average)** | 3.000 |  | 734486400.000 | 76.000 |  |  |  |
+| **Maximum** | 3.000 |  | 734486400.000 | 76.000 |  |  |  |
+| **75th Percentile** | 3.000 |  | 734486400.000 | 76.000 |  |  |  |
+| **Median** | 3.000 |  | 734486400.000 | 76.000 |  |  |  |
+| **25th Percentile** | 3.000 |  | 734486400.000 | 76.000 |  |  |  |
+| **Minimum** | 3.000 |  | 734486400.000 | 76.000 |  |  |  |
 | **Variance** |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |
 

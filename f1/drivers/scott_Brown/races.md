@@ -24,20 +24,20 @@ collectionId: scott_Brown
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1956 | 6 | 1956 British Grand Prix 🇬🇧 | 1956-07-14 | 10 | R | 0.0 | 16 |   | Connaught 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 21 | 4 |
-| 1956 | 6 | 1956 British Grand Prix 🇬🇧 | 1956-07-14 | 10 | R | 0.0 | 16 |   | Connaught 🇬🇧 | [Desmond Titterington 🇬🇧](/f1/drivers/titterington) | 11 | R |
+| 1956 | 6 | 1956 British Grand Prix 🇬🇧 | 1956-07-14T00:00:00.000Z | 10 | R | 0.0 | 16 |   | Connaught 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 21 | 4 |
+| 1956 | 6 | 1956 British Grand Prix 🇬🇧 | 1956-07-14T00:00:00.000Z | 10 | R | 0.0 | 16 |   | Connaught 🇬🇧 | [Desmond Titterington 🇬🇧](/f1/drivers/titterington) | 11 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 1 |
-| **Total Sum** | 12.000 |  |  | 20.000 |  |  | 32.000 |  |  |  | 32.000 | 4.000 |
-| **Mean μ (Average)** | 6.000 |  |  | 10.000 |  |  | 16.000 |  |  |  | 16.000 | 4.000 |
-| **Maximum** | 6.000 |  |  | 10.000 |  |  | 16.000 |  |  |  | 21.000 | 4.000 |
-| **75th Percentile** | 6.000 |  |  | 10.000 |  |  | 16.000 |  |  |  | 21.000 | 4.000 |
-| **Median** | 6.000 |  |  | 10.000 |  |  | 16.000 |  |  |  | 21.000 | 4.000 |
-| **25th Percentile** | 6.000 |  |  | 10.000 |  |  | 16.000 |  |  |  | 11.000 | 4.000 |
-| **Minimum** | 6.000 |  |  | 10.000 |  |  | 16.000 |  |  |  | 11.000 | 4.000 |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 12.000 |  | -850003200.000 | 20.000 |  |  | 32.000 |  |  |  | 32.000 | 4.000 |
+| **Mean μ (Average)** | 6.000 |  | -425001600.000 | 10.000 |  |  | 16.000 |  |  |  | 16.000 | 4.000 |
+| **Maximum** | 6.000 |  | -425001600.000 | 10.000 |  |  | 16.000 |  |  |  | 21.000 | 4.000 |
+| **75th Percentile** | 6.000 |  | -425001600.000 | 10.000 |  |  | 16.000 |  |  |  | 21.000 | 4.000 |
+| **Median** | 6.000 |  | -425001600.000 | 10.000 |  |  | 16.000 |  |  |  | 21.000 | 4.000 |
+| **25th Percentile** | 6.000 |  | -425001600.000 | 10.000 |  |  | 16.000 |  |  |  | 11.000 | 4.000 |
+| **Minimum** | 6.000 |  | -425001600.000 | 10.000 |  |  | 16.000 |  |  |  | 11.000 | 4.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 25.000 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.000 |  |
 

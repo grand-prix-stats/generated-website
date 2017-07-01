@@ -25,24 +25,24 @@ collectionId: india
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0
-            ],
-            "label": "Times"
-        }
-    ],
-    "labels": [
-        "Sebastian Vettel"
-    ]
+  "labels" : [
+    "Sebastian Vettel"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        3
+      ],
+      "borderColor" : [
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

@@ -24,22 +24,22 @@ collectionId: creus
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Gino Munaron 🇮🇹](/f1/drivers/munaron) | 19 | 13 |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Nasif Estéfano 🇦🇷](/f1/drivers/estefano) | 20 | 14 |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Ettore Chimeri 🇻🇪](/f1/drivers/chimeri) | 21 | R |
-| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07 | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 18 | R |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07T00:00:00.000Z | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Gino Munaron 🇮🇹](/f1/drivers/munaron) | 19 | 13 |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07T00:00:00.000Z | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Nasif Estéfano 🇦🇷](/f1/drivers/estefano) | 20 | 14 |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07T00:00:00.000Z | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Ettore Chimeri 🇻🇪](/f1/drivers/chimeri) | 21 | R |
+| 1960 | 1 | 1960 Argentine Grand Prix 🇦🇷 | 1960-02-07T00:00:00.000Z | 22 | R | 0.0 | 16 |   | Maserati 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 18 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
-| **Total Sum** | 4.000 |  |  | 88.000 |  |  | 64.000 |  |  |  | 78.000 | 27.000 |
-| **Mean μ (Average)** | 1.000 |  |  | 22.000 |  |  | 16.000 |  |  |  | 19.500 | 13.500 |
-| **Maximum** | 1.000 |  |  | 22.000 |  |  | 16.000 |  |  |  | 21.000 | 14.000 |
-| **75th Percentile** | 1.000 |  |  | 22.000 |  |  | 16.000 |  |  |  | 21.000 | 14.000 |
-| **Median** | 1.000 |  |  | 22.000 |  |  | 16.000 |  |  |  | 20.000 | 14.000 |
-| **25th Percentile** | 1.000 |  |  | 22.000 |  |  | 16.000 |  |  |  | 19.000 | 13.000 |
-| **Minimum** | 1.000 |  |  | 22.000 |  |  | 16.000 |  |  |  | 18.000 | 13.000 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 4.000 |  | -1249689600.000 | 88.000 |  |  | 64.000 |  |  |  | 78.000 | 27.000 |
+| **Mean μ (Average)** | 1.000 |  | -312422400.000 | 22.000 |  |  | 16.000 |  |  |  | 19.500 | 13.500 |
+| **Maximum** | 1.000 |  | -312422400.000 | 22.000 |  |  | 16.000 |  |  |  | 21.000 | 14.000 |
+| **75th Percentile** | 1.000 |  | -312422400.000 | 22.000 |  |  | 16.000 |  |  |  | 21.000 | 14.000 |
+| **Median** | 1.000 |  | -312422400.000 | 22.000 |  |  | 16.000 |  |  |  | 20.000 | 14.000 |
+| **25th Percentile** | 1.000 |  | -312422400.000 | 22.000 |  |  | 16.000 |  |  |  | 19.000 | 13.000 |
+| **Minimum** | 1.000 |  | -312422400.000 | 22.000 |  |  | 16.000 |  |  |  | 18.000 | 13.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 1.250 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.118 | 0.500 |
 

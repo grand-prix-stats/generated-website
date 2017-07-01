@@ -24,19 +24,19 @@ collectionId: vonlanthen
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17 | 28 | R | 0.0 | 14 |   | Williams 🇬🇧 | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 12 | R |
+| 1975 | 12 | 1975 Austrian Grand Prix 🇦🇹 | 1975-08-17T00:00:00.000Z | 28 | R | 0.0 | 14 |   | Williams 🇬🇧 | [Jacques Laffite 🇫🇷](/f1/drivers/laffite) | 12 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
-| **Mean μ (Average)** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
-| **Maximum** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
-| **75th Percentile** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
-| **Median** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
-| **25th Percentile** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
-| **Minimum** | 12.000 |  |  | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 12.000 |  | 177465600.000 | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Mean μ (Average)** | 12.000 |  | 177465600.000 | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Maximum** | 12.000 |  | 177465600.000 | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **75th Percentile** | 12.000 |  | 177465600.000 | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Median** | 12.000 |  | 177465600.000 | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **25th Percentile** | 12.000 |  | 177465600.000 | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
+| **Minimum** | 12.000 |  | 177465600.000 | 28.000 |  |  | 14.000 |  |  |  | 12.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

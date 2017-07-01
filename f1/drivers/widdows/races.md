@@ -24,19 +24,19 @@ collectionId: widdows
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1968 | 7 | 1968 British Grand Prix 🇬🇧 | 1968-07-20 | 18 | R | 0.0 | 34 |   | Cooper-BRM 🇬🇧 | [Vic Elford 🇬🇧](/f1/drivers/elford) | 7 | R |
+| 1968 | 7 | 1968 British Grand Prix 🇬🇧 | 1968-07-20T00:00:00.000Z | 18 | R | 0.0 | 34 |   | Cooper-BRM 🇬🇧 | [Vic Elford 🇬🇧](/f1/drivers/elford) | 7 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
-| **Mean μ (Average)** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
-| **Maximum** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
-| **75th Percentile** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
-| **Median** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
-| **25th Percentile** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
-| **Minimum** | 7.000 |  |  | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 7.000 |  | -45792000.000 | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Mean μ (Average)** | 7.000 |  | -45792000.000 | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Maximum** | 7.000 |  | -45792000.000 | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **75th Percentile** | 7.000 |  | -45792000.000 | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Median** | 7.000 |  | -45792000.000 | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **25th Percentile** | 7.000 |  | -45792000.000 | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
+| **Minimum** | 7.000 |  | -45792000.000 | 18.000 |  |  | 34.000 |  |  |  | 7.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

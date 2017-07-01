@@ -25,44 +25,44 @@ collectionId: russia
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0
-            ],
-            "label": "Times"
-        }
-    ],
-    "labels": [
-        "Lewis Hamilton",
-        "Kimi Räikkönen",
-        "Nico Rosberg",
-        "Sebastian Vettel",
-        "Valtteri Bottas",
-        "Sergio Pérez"
-    ]
+  "labels" : [
+    "Lewis Hamilton",
+    "Kimi Räikkönen",
+    "Nico Rosberg",
+    "Sebastian Vettel",
+    "Valtteri Bottas",
+    "Sergio Pérez"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        3,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

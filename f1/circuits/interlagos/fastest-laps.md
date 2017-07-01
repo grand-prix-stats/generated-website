@@ -25,48 +25,48 @@ collectionId: interlagos
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                4.0,
-                3.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Fastest Laps"
-        }
-    ],
-    "labels": [
-        "Lewis Hamilton",
-        "Mark Webber",
-        "Kimi Räikkönen",
-        "Felipe Massa",
-        "Juan Pablo Montoya",
-        "Max Verstappen",
-        "Michael Schumacher"
-    ]
+  "labels" : [
+    "Lewis Hamilton",
+    "Mark Webber",
+    "Kimi Räikkönen",
+    "Felipe Massa",
+    "Juan Pablo Montoya",
+    "Max Verstappen",
+    "Michael Schumacher"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Fastest Laps",
+      "data" : [
+        4,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

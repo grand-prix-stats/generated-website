@@ -24,21 +24,21 @@ collectionId: tunmer
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 3 | 1975 South African Grand Prix 🇿🇦 | 1975-03-01 | 25 | 11 | 0.0 | 76 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 8 | 10 |
-| 1975 | 3 | 1975 South African Grand Prix 🇿🇦 | 1975-03-01 | 25 | 11 | 0.0 | 76 |   | Team Lotus 🇬🇧 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 21 | 12 |
-| 1975 | 3 | 1975 South African Grand Prix 🇿🇦 | 1975-03-01 | 25 | 11 | 0.0 | 76 |   | Team Lotus 🇬🇧 | [Eddie Keizan 🇿🇦](/f1/drivers/keizan) | 22 | 13 |
+| 1975 | 3 | 1975 South African Grand Prix 🇿🇦 | 1975-03-01T00:00:00.000Z | 25 | 11 | 0.0 | 76 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 8 | 10 |
+| 1975 | 3 | 1975 South African Grand Prix 🇿🇦 | 1975-03-01T00:00:00.000Z | 25 | 11 | 0.0 | 76 |   | Team Lotus 🇬🇧 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 21 | 12 |
+| 1975 | 3 | 1975 South African Grand Prix 🇿🇦 | 1975-03-01T00:00:00.000Z | 25 | 11 | 0.0 | 76 |   | Team Lotus 🇬🇧 | [Eddie Keizan 🇿🇦](/f1/drivers/keizan) | 22 | 13 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 | 3 | 3 | 3 |  |  |  | 3 | 3 |
-| **Total Sum** | 9.000 |  |  | 75.000 | 33.000 |  | 228.000 |  |  |  | 51.000 | 35.000 |
-| **Mean μ (Average)** | 3.000 |  |  | 25.000 | 11.000 |  | 76.000 |  |  |  | 17.000 | 11.667 |
-| **Maximum** | 3.000 |  |  | 25.000 | 11.000 |  | 76.000 |  |  |  | 22.000 | 13.000 |
-| **75th Percentile** | 3.000 |  |  | 25.000 | 11.000 |  | 76.000 |  |  |  | 22.000 | 13.000 |
-| **Median** | 3.000 |  |  | 25.000 | 11.000 |  | 76.000 |  |  |  | 21.000 | 12.000 |
-| **25th Percentile** | 3.000 |  |  | 25.000 | 11.000 |  | 76.000 |  |  |  | 8.000 | 10.000 |
-| **Minimum** | 3.000 |  |  | 25.000 | 11.000 |  | 76.000 |  |  |  | 8.000 | 10.000 |
+| **Row Count** | 3 |  | 3 | 3 | 3 | 3 | 3 |  |  |  | 3 | 3 |
+| **Total Sum** | 9.000 |  | 488592000.000 | 75.000 | 33.000 |  | 228.000 |  |  |  | 51.000 | 35.000 |
+| **Mean μ (Average)** | 3.000 |  | 162864000.000 | 25.000 | 11.000 |  | 76.000 |  |  |  | 17.000 | 11.667 |
+| **Maximum** | 3.000 |  | 162864000.000 | 25.000 | 11.000 |  | 76.000 |  |  |  | 22.000 | 13.000 |
+| **75th Percentile** | 3.000 |  | 162864000.000 | 25.000 | 11.000 |  | 76.000 |  |  |  | 22.000 | 13.000 |
+| **Median** | 3.000 |  | 162864000.000 | 25.000 | 11.000 |  | 76.000 |  |  |  | 21.000 | 12.000 |
+| **25th Percentile** | 3.000 |  | 162864000.000 | 25.000 | 11.000 |  | 76.000 |  |  |  | 8.000 | 10.000 |
+| **Minimum** | 3.000 |  | 162864000.000 | 25.000 | 11.000 |  | 76.000 |  |  |  | 8.000 | 10.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 40.667 | 1.556 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 6.377 | 1.247 |
 

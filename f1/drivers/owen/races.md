@@ -24,21 +24,21 @@ collectionId: owen
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04 | 11 | R | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Piero Drogo 🇮🇹](/f1/drivers/drogo) | 15 | 8 |
-| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04 | 11 | R | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Wolfgang Seidel 🇩🇪](/f1/drivers/seidel) | 13 | 9 |
-| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04 | 11 | R | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Vic Wilson 🇬🇧](/f1/drivers/vic_wilson) | 16 | R |
+| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04T00:00:00.000Z | 11 | R | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Piero Drogo 🇮🇹](/f1/drivers/drogo) | 15 | 8 |
+| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04T00:00:00.000Z | 11 | R | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Wolfgang Seidel 🇩🇪](/f1/drivers/seidel) | 13 | 9 |
+| 1960 | 9 | 1960 Italian Grand Prix 🇮🇹 | 1960-09-04T00:00:00.000Z | 11 | R | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Vic Wilson 🇬🇧](/f1/drivers/vic_wilson) | 16 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 2 |
-| **Total Sum** | 27.000 |  |  | 33.000 |  |  |  |  |  |  | 44.000 | 17.000 |
-| **Mean μ (Average)** | 9.000 |  |  | 11.000 |  |  |  |  |  |  | 14.667 | 8.500 |
-| **Maximum** | 9.000 |  |  | 11.000 |  |  |  |  |  |  | 16.000 | 9.000 |
-| **75th Percentile** | 9.000 |  |  | 11.000 |  |  |  |  |  |  | 16.000 | 9.000 |
-| **Median** | 9.000 |  |  | 11.000 |  |  |  |  |  |  | 15.000 | 9.000 |
-| **25th Percentile** | 9.000 |  |  | 11.000 |  |  |  |  |  |  | 13.000 | 8.000 |
-| **Minimum** | 9.000 |  |  | 11.000 |  |  |  |  |  |  | 13.000 | 8.000 |
+| **Row Count** | 3 |  | 3 | 3 |  | 3 | 3 |  |  |  | 3 | 2 |
+| **Total Sum** | 27.000 |  | -882835200.000 | 33.000 |  |  |  |  |  |  | 44.000 | 17.000 |
+| **Mean μ (Average)** | 9.000 |  | -294278400.000 | 11.000 |  |  |  |  |  |  | 14.667 | 8.500 |
+| **Maximum** | 9.000 |  | -294278400.000 | 11.000 |  |  |  |  |  |  | 16.000 | 9.000 |
+| **75th Percentile** | 9.000 |  | -294278400.000 | 11.000 |  |  |  |  |  |  | 16.000 | 9.000 |
+| **Median** | 9.000 |  | -294278400.000 | 11.000 |  |  |  |  |  |  | 15.000 | 9.000 |
+| **25th Percentile** | 9.000 |  | -294278400.000 | 11.000 |  |  |  |  |  |  | 13.000 | 8.000 |
+| **Minimum** | 9.000 |  | -294278400.000 | 11.000 |  |  |  |  |  |  | 13.000 | 8.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 1.556 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.247 | 0.500 |
 

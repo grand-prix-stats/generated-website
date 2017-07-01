@@ -1,7 +1,7 @@
 {
-    "code": "cn",
-    "collection_name": "China 🇨🇳",
-    "countryRef": "china",
-    "flag": "🇨🇳",
-    "name": "China"
+  "countryRef" : "china",
+  "name" : "China",
+  "flag" : "🇨🇳",
+  "collection_name" : "China 🇨🇳",
+  "code" : "cn"
 }

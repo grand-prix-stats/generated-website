@@ -24,21 +24,21 @@ collectionId: orey
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05 | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 21 | 8 |
-| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05 | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 20 | 9 |
-| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05 | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Azdrubal Fontes 🇺🇾](/f1/drivers/fontes) | 0 | W |
+| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05T00:00:00.000Z | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Giorgio Scarlatti 🇮🇹](/f1/drivers/scarlatti) | 21 | 8 |
+| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05T00:00:00.000Z | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 20 | 9 |
+| 1959 | 4 | 1959 French Grand Prix 🇫🇷 | 1959-07-05T00:00:00.000Z | 18 | 10 | 0.0 | 40 |   | Maserati 🇮🇹 | [Azdrubal Fontes 🇺🇾](/f1/drivers/fontes) | 0 | W |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 | 3 | 3 | 3 |  |  |  | 3 | 2 |
-| **Total Sum** | 12.000 |  |  | 54.000 | 30.000 |  | 120.000 |  |  |  | 41.000 | 17.000 |
-| **Mean μ (Average)** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 13.667 | 8.500 |
-| **Maximum** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 21.000 | 9.000 |
-| **75th Percentile** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 21.000 | 9.000 |
-| **Median** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  | 20.000 | 9.000 |
-| **25th Percentile** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  |  | 8.000 |
-| **Minimum** | 4.000 |  |  | 18.000 | 10.000 |  | 40.000 |  |  |  |  | 8.000 |
+| **Row Count** | 3 |  | 3 | 3 | 3 | 3 | 3 |  |  |  | 3 | 2 |
+| **Total Sum** | 12.000 |  | -993513600.000 | 54.000 | 30.000 |  | 120.000 |  |  |  | 41.000 | 17.000 |
+| **Mean μ (Average)** | 4.000 |  | -331171200.000 | 18.000 | 10.000 |  | 40.000 |  |  |  | 13.667 | 8.500 |
+| **Maximum** | 4.000 |  | -331171200.000 | 18.000 | 10.000 |  | 40.000 |  |  |  | 21.000 | 9.000 |
+| **75th Percentile** | 4.000 |  | -331171200.000 | 18.000 | 10.000 |  | 40.000 |  |  |  | 21.000 | 9.000 |
+| **Median** | 4.000 |  | -331171200.000 | 18.000 | 10.000 |  | 40.000 |  |  |  | 20.000 | 9.000 |
+| **25th Percentile** | 4.000 |  | -331171200.000 | 18.000 | 10.000 |  | 40.000 |  |  |  |  | 8.000 |
+| **Minimum** | 4.000 |  | -331171200.000 | 18.000 | 10.000 |  | 40.000 |  |  |  |  | 8.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 93.556 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 9.672 | 0.500 |
 

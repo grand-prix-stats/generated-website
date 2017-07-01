@@ -24,21 +24,21 @@ collectionId: villeneuve_sr
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1981 | 15 | 1981 Caesars Palace Grand Prix 🇺🇸 | 1981-10-17 | 0 | F | 0.0 | 0 |   | Arrows 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 11 | 11 |
-| 1981 | 14 | 1981 Canadian Grand Prix 🇨🇦 | 1981-09-27 | 0 | F | 0.0 | 0 |   | Arrows 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 18 | R |
+| 1981 | 15 | 1981 Caesars Palace Grand Prix 🇺🇸 | 1981-10-17T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Arrows 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 11 | 11 |
+| 1981 | 14 | 1981 Canadian Grand Prix 🇨🇦 | 1981-09-27T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Arrows 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 18 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 1 |
-| **Total Sum** | 29.000 |  |  |  |  |  |  |  |  |  | 29.000 | 11.000 |
-| **Mean μ (Average)** | 14.500 |  |  |  |  |  |  |  |  |  | 14.500 | 11.000 |
-| **Maximum** | 15.000 |  |  |  |  |  |  |  |  |  | 18.000 | 11.000 |
-| **75th Percentile** | 15.000 |  |  |  |  |  |  |  |  |  | 18.000 | 11.000 |
-| **Median** | 15.000 |  |  |  |  |  |  |  |  |  | 18.000 | 11.000 |
-| **25th Percentile** | 14.000 |  |  |  |  |  |  |  |  |  | 11.000 | 11.000 |
-| **Minimum** | 14.000 |  |  |  |  |  |  |  |  |  | 11.000 | 11.000 |
-| **Variance** | 0.250 |  |  |  |  |  |  |  |  |  | 12.250 |  |
-| **Standard Deviation σ** | 0.500 |  |  |  |  |  |  |  |  |  | 3.500 |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 29.000 |  | 742521600.000 |  |  |  |  |  |  |  | 29.000 | 11.000 |
+| **Mean μ (Average)** | 14.500 |  | 371260800.000 |  |  |  |  |  |  |  | 14.500 | 11.000 |
+| **Maximum** | 15.000 |  | 372124800.000 |  |  |  |  |  |  |  | 18.000 | 11.000 |
+| **75th Percentile** | 15.000 |  | 372124800.000 |  |  |  |  |  |  |  | 18.000 | 11.000 |
+| **Median** | 15.000 |  | 372124800.000 |  |  |  |  |  |  |  | 18.000 | 11.000 |
+| **25th Percentile** | 14.000 |  | 370396800.000 |  |  |  |  |  |  |  | 11.000 | 11.000 |
+| **Minimum** | 14.000 |  | 370396800.000 |  |  |  |  |  |  |  | 11.000 | 11.000 |
+| **Variance** | 0.250 |  | 746496000000.000 |  |  |  |  |  |  |  | 12.250 |  |
+| **Standard Deviation σ** | 0.500 |  | 864000.000 |  |  |  |  |  |  |  | 3.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

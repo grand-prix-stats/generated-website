@@ -24,19 +24,19 @@ collectionId: morocco
 
 | Season | Round | Name | Circuit | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|--|
-| 1958 | 11 | 1958 Moroccan Grand Prix 🇲🇦 | [Ain Diab](/f1/circuits/ain-diab) | 1958-10-19 | 53 | 2:09:15.1 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | Vanwall 🇬🇧 |
+| 1958 | 11 | 1958 Moroccan Grand Prix 🇲🇦 | [Ain Diab](/f1/circuits/ain-diab) | 1958-10-19T00:00:00.000Z | 53 | 2:09:15.1 | [Stirling Moss 🇬🇧](/f1/drivers/moss) | Vanwall 🇬🇧 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Circuit** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 1 |  |  |  | 1 |  |  |  |
-| **Total Sum** | 11.000 |  |  |  | 53.000 |  |  |  |
-| **Mean μ (Average)** | 11.000 |  |  |  | 53.000 |  |  |  |
-| **Maximum** | 11.000 |  |  |  | 53.000 |  |  |  |
-| **75th Percentile** | 11.000 |  |  |  | 53.000 |  |  |  |
-| **Median** | 11.000 |  |  |  | 53.000 |  |  |  |
-| **25th Percentile** | 11.000 |  |  |  | 53.000 |  |  |  |
-| **Minimum** | 11.000 |  |  |  | 53.000 |  |  |  |
+| **Row Count** | 1 |  |  | 1 | 1 |  |  |  |
+| **Total Sum** | 11.000 |  |  | -353548800.000 | 53.000 |  |  |  |
+| **Mean μ (Average)** | 11.000 |  |  | -353548800.000 | 53.000 |  |  |  |
+| **Maximum** | 11.000 |  |  | -353548800.000 | 53.000 |  |  |  |
+| **75th Percentile** | 11.000 |  |  | -353548800.000 | 53.000 |  |  |  |
+| **Median** | 11.000 |  |  | -353548800.000 | 53.000 |  |  |  |
+| **25th Percentile** | 11.000 |  |  | -353548800.000 | 53.000 |  |  |  |
+| **Minimum** | 11.000 |  |  | -353548800.000 | 53.000 |  |  |  |
 | **Variance** |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |
 

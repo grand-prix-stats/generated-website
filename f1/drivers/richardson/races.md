@@ -24,19 +24,19 @@ collectionId: richardson
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 7 | 1951 Italian Grand Prix 🇮🇹 | 1951-09-16 | 10 | W | 0.0 | 0 |   | BRM 🇬🇧 | [Reg Parnell 🇬🇧](/f1/drivers/reg_parnell) | 8 | W |
+| 1951 | 7 | 1951 Italian Grand Prix 🇮🇹 | 1951-09-16T00:00:00.000Z | 10 | W | 0.0 | 0 |   | BRM 🇬🇧 | [Reg Parnell 🇬🇧](/f1/drivers/reg_parnell) | 8 | W |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 7.000 |  |  | 10.000 |  |  |  |  |  |  | 8.000 |  |
-| **Mean μ (Average)** | 7.000 |  |  | 10.000 |  |  |  |  |  |  | 8.000 |  |
-| **Maximum** | 7.000 |  |  | 10.000 |  |  |  |  |  |  | 8.000 |  |
-| **75th Percentile** | 7.000 |  |  | 10.000 |  |  |  |  |  |  | 8.000 |  |
-| **Median** | 7.000 |  |  | 10.000 |  |  |  |  |  |  | 8.000 |  |
-| **25th Percentile** | 7.000 |  |  | 10.000 |  |  |  |  |  |  | 8.000 |  |
-| **Minimum** | 7.000 |  |  | 10.000 |  |  |  |  |  |  | 8.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 7.000 |  | -577324800.000 | 10.000 |  |  |  |  |  |  | 8.000 |  |
+| **Mean μ (Average)** | 7.000 |  | -577324800.000 | 10.000 |  |  |  |  |  |  | 8.000 |  |
+| **Maximum** | 7.000 |  | -577324800.000 | 10.000 |  |  |  |  |  |  | 8.000 |  |
+| **75th Percentile** | 7.000 |  | -577324800.000 | 10.000 |  |  |  |  |  |  | 8.000 |  |
+| **Median** | 7.000 |  | -577324800.000 | 10.000 |  |  |  |  |  |  | 8.000 |  |
+| **25th Percentile** | 7.000 |  | -577324800.000 | 10.000 |  |  |  |  |  |  | 8.000 |  |
+| **Minimum** | 7.000 |  | -577324800.000 | 10.000 |  |  |  |  |  |  | 8.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

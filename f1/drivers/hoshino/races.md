@@ -24,22 +24,22 @@ collectionId: hoshino
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 11 | 11 | 0.0 | 71 |   | Kojima 🇯🇵 | [Noritake Takahara 🇯🇵](/f1/drivers/takahara) | 19 | R |
-| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24 | 21 | R | 0.0 | 27 |   | Tyrrell 🇬🇧 | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 13 | 2 |
-| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24 | 21 | R | 0.0 | 27 |   | Tyrrell 🇬🇧 | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 5 | R |
+| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23T00:00:00.000Z | 11 | 11 | 0.0 | 71 |   | Kojima 🇯🇵 | [Noritake Takahara 🇯🇵](/f1/drivers/takahara) | 19 | R |
+| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24T00:00:00.000Z | 21 | R | 0.0 | 27 |   | Tyrrell 🇬🇧 | [Patrick Depailler 🇫🇷](/f1/drivers/depailler) | 13 | 2 |
+| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24T00:00:00.000Z | 21 | R | 0.0 | 27 |   | Tyrrell 🇬🇧 | [Jody Scheckter 🇿🇦](/f1/drivers/scheckter) | 5 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 | 1 | 3 | 3 |  |  |  | 3 | 1 |
-| **Total Sum** | 49.000 |  |  | 53.000 | 11.000 |  | 125.000 |  |  |  | 37.000 | 2.000 |
-| **Mean μ (Average)** | 16.333 |  |  | 17.667 | 11.000 |  | 41.667 |  |  |  | 12.333 | 2.000 |
-| **Maximum** | 17.000 |  |  | 21.000 | 11.000 |  | 71.000 |  |  |  | 19.000 | 2.000 |
-| **75th Percentile** | 17.000 |  |  | 21.000 | 11.000 |  | 71.000 |  |  |  | 19.000 | 2.000 |
-| **Median** | 16.000 |  |  | 21.000 | 11.000 |  | 27.000 |  |  |  | 13.000 | 2.000 |
-| **25th Percentile** | 16.000 |  |  | 11.000 | 11.000 |  | 27.000 |  |  |  | 5.000 | 2.000 |
-| **Minimum** | 16.000 |  |  | 11.000 | 11.000 |  | 27.000 |  |  |  | 5.000 | 2.000 |
-| **Variance** | 0.222 |  |  | 22.222 |  |  | 430.222 |  |  |  | 32.889 |  |
-| **Standard Deviation σ** | 0.471 |  |  | 4.714 |  |  | 20.742 |  |  |  | 5.735 |  |
+| **Row Count** | 3 |  | 3 | 3 | 1 | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 49.000 |  | 676339200.000 | 53.000 | 11.000 |  | 125.000 |  |  |  | 37.000 | 2.000 |
+| **Mean μ (Average)** | 16.333 |  | 225446400.000 | 17.667 | 11.000 |  | 41.667 |  |  |  | 12.333 | 2.000 |
+| **Maximum** | 17.000 |  | 246412800.000 | 21.000 | 11.000 |  | 71.000 |  |  |  | 19.000 | 2.000 |
+| **75th Percentile** | 17.000 |  | 246412800.000 | 21.000 | 11.000 |  | 71.000 |  |  |  | 19.000 | 2.000 |
+| **Median** | 16.000 |  | 214963200.000 | 21.000 | 11.000 |  | 27.000 |  |  |  | 13.000 | 2.000 |
+| **25th Percentile** | 16.000 |  | 214963200.000 | 11.000 | 11.000 |  | 27.000 |  |  |  | 5.000 | 2.000 |
+| **Minimum** | 16.000 |  | 214963200.000 | 11.000 | 11.000 |  | 27.000 |  |  |  | 5.000 | 2.000 |
+| **Variance** | 0.222 |  | 219794964480000.000 | 22.222 |  |  | 430.222 |  |  |  | 32.889 |  |
+| **Standard Deviation σ** | 0.471 |  | 14825483.617 | 4.714 |  |  | 20.742 |  |  |  | 5.735 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

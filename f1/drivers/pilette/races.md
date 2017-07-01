@@ -24,22 +24,22 @@ collectionId: pilette
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 19 | 11 |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 24 | R |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [Gérard Larrousse 🇫🇷](/f1/drivers/larrousse) | 11 | R |
-| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12 | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [Rikky von Opel 🇱🇮](/f1/drivers/opel) | 22 | R |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 19 | 11 |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 24 | R |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [Gérard Larrousse 🇫🇷](/f1/drivers/larrousse) | 11 | R |
+| 1974 | 5 | 1974 Belgian Grand Prix 🇧🇪 | 1974-05-12T00:00:00.000Z | 27 | 17 | 0.0 | 81 |   | Brabham 🇬🇧 | [Rikky von Opel 🇱🇮](/f1/drivers/opel) | 22 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 | 4 | 4 | 4 |  |  |  | 4 | 1 |
-| **Total Sum** | 20.000 |  |  | 108.000 | 68.000 |  | 324.000 |  |  |  | 76.000 | 11.000 |
-| **Mean μ (Average)** | 5.000 |  |  | 27.000 | 17.000 |  | 81.000 |  |  |  | 19.000 | 11.000 |
-| **Maximum** | 5.000 |  |  | 27.000 | 17.000 |  | 81.000 |  |  |  | 24.000 | 11.000 |
-| **75th Percentile** | 5.000 |  |  | 27.000 | 17.000 |  | 81.000 |  |  |  | 24.000 | 11.000 |
-| **Median** | 5.000 |  |  | 27.000 | 17.000 |  | 81.000 |  |  |  | 22.000 | 11.000 |
-| **25th Percentile** | 5.000 |  |  | 27.000 | 17.000 |  | 81.000 |  |  |  | 19.000 | 11.000 |
-| **Minimum** | 5.000 |  |  | 27.000 | 17.000 |  | 81.000 |  |  |  | 11.000 | 11.000 |
+| **Row Count** | 4 |  | 4 | 4 | 4 | 4 | 4 |  |  |  | 4 | 1 |
+| **Total Sum** | 20.000 |  | 550195200.000 | 108.000 | 68.000 |  | 324.000 |  |  |  | 76.000 | 11.000 |
+| **Mean μ (Average)** | 5.000 |  | 137548800.000 | 27.000 | 17.000 |  | 81.000 |  |  |  | 19.000 | 11.000 |
+| **Maximum** | 5.000 |  | 137548800.000 | 27.000 | 17.000 |  | 81.000 |  |  |  | 24.000 | 11.000 |
+| **75th Percentile** | 5.000 |  | 137548800.000 | 27.000 | 17.000 |  | 81.000 |  |  |  | 24.000 | 11.000 |
+| **Median** | 5.000 |  | 137548800.000 | 27.000 | 17.000 |  | 81.000 |  |  |  | 22.000 | 11.000 |
+| **25th Percentile** | 5.000 |  | 137548800.000 | 27.000 | 17.000 |  | 81.000 |  |  |  | 19.000 | 11.000 |
+| **Minimum** | 5.000 |  | 137548800.000 | 27.000 | 17.000 |  | 81.000 |  |  |  | 11.000 | 11.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 24.500 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 4.950 |  |
 

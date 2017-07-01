@@ -24,24 +24,24 @@ collectionId: guerra
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1981 | 4 | 1981 San Marino Grand Prix 🇮🇹 | 1981-05-03 | 22 | R | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 20 | R |
-| 1981 | 3 | 1981 Argentine Grand Prix 🇦🇷 | 1981-04-12 | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 0 | F |
-| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29 | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 0 | F |
-| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29 | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Eliseo Salazar 🇨🇱](/f1/drivers/salazar) | 0 | F |
-| 1981 | 1 | 1981 United States Grand Prix West 🇺🇸 | 1981-03-15 | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 24 | R |
+| 1981 | 4 | 1981 San Marino Grand Prix 🇮🇹 | 1981-05-03T00:00:00.000Z | 22 | R | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 20 | R |
+| 1981 | 3 | 1981 Argentine Grand Prix 🇦🇷 | 1981-04-12T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 0 | F |
+| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 0 | F |
+| 1981 | 2 | 1981 Brazilian Grand Prix 🇧🇷 | 1981-03-29T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Eliseo Salazar 🇨🇱](/f1/drivers/salazar) | 0 | F |
+| 1981 | 1 | 1981 United States Grand Prix West 🇺🇸 | 1981-03-15T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Osella 🇮🇹 | [Beppe Gabbiani 🇮🇹](/f1/drivers/gabbiani) | 24 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 5 |  |  | 5 |  | 5 | 5 |  |  |  | 5 |  |
-| **Total Sum** | 12.000 |  |  | 22.000 |  |  |  |  |  |  | 44.000 |  |
-| **Mean μ (Average)** | 2.400 |  |  | 4.400 |  |  |  |  |  |  | 8.800 |  |
-| **Maximum** | 4.000 |  |  | 22.000 |  |  |  |  |  |  | 24.000 |  |
-| **75th Percentile** | 3.000 |  |  |  |  |  |  |  |  |  | 20.000 |  |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Variance** | 1.040 |  |  | 77.440 |  |  |  |  |  |  | 117.760 |  |
-| **Standard Deviation σ** | 1.020 |  |  | 8.800 |  |  |  |  |  |  | 10.852 |  |
+| **Row Count** | 5 |  | 5 | 5 |  | 5 | 5 |  |  |  | 5 |  |
+| **Total Sum** | 12.000 |  | 1776384000.000 | 22.000 |  |  |  |  |  |  | 44.000 |  |
+| **Mean μ (Average)** | 2.400 |  | 355276800.000 | 4.400 |  |  |  |  |  |  | 8.800 |  |
+| **Maximum** | 4.000 |  | 357696000.000 | 22.000 |  |  |  |  |  |  | 24.000 |  |
+| **75th Percentile** | 3.000 |  | 355881600.000 |  |  |  |  |  |  |  | 20.000 |  |
+| **Median** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  |  |  |
+| **25th Percentile** | 2.000 |  | 354672000.000 |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 1.000 |  | 353462400.000 |  |  |  |  |  |  |  |  |  |
+| **Variance** | 1.040 |  | 2048385024000.000 | 77.440 |  |  |  |  |  |  | 117.760 |  |
+| **Standard Deviation σ** | 1.020 |  | 1431218.021 | 8.800 |  |  |  |  |  |  | 10.852 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

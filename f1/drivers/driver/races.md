@@ -24,21 +24,21 @@ collectionId: driver
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1974 | 3 | 1974 South African Grand Prix 🇿🇦 | 1974-03-30 | 26 | R | 0.0 | 6 |   | Team Lotus 🇬🇧 | [Ian Scheckter 🇿🇦](/f1/drivers/ian_scheckter) | 22 | 13 |
-| 1974 | 3 | 1974 South African Grand Prix 🇿🇦 | 1974-03-30 | 26 | R | 0.0 | 6 |   | Team Lotus 🇬🇧 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 10 | R |
-| 1974 | 3 | 1974 South African Grand Prix 🇿🇦 | 1974-03-30 | 26 | R | 0.0 | 6 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 16 | R |
+| 1974 | 3 | 1974 South African Grand Prix 🇿🇦 | 1974-03-30T00:00:00.000Z | 26 | R | 0.0 | 6 |   | Team Lotus 🇬🇧 | [Ian Scheckter 🇿🇦](/f1/drivers/ian_scheckter) | 22 | 13 |
+| 1974 | 3 | 1974 South African Grand Prix 🇿🇦 | 1974-03-30T00:00:00.000Z | 26 | R | 0.0 | 6 |   | Team Lotus 🇬🇧 | [Jacky Ickx 🇧🇪](/f1/drivers/ickx) | 10 | R |
+| 1974 | 3 | 1974 South African Grand Prix 🇿🇦 | 1974-03-30T00:00:00.000Z | 26 | R | 0.0 | 6 |   | Team Lotus 🇬🇧 | [Ronnie Peterson 🇸🇪](/f1/drivers/peterson) | 16 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
-| **Total Sum** | 9.000 |  |  | 78.000 |  |  | 18.000 |  |  |  | 48.000 | 13.000 |
-| **Mean μ (Average)** | 3.000 |  |  | 26.000 |  |  | 6.000 |  |  |  | 16.000 | 13.000 |
-| **Maximum** | 3.000 |  |  | 26.000 |  |  | 6.000 |  |  |  | 22.000 | 13.000 |
-| **75th Percentile** | 3.000 |  |  | 26.000 |  |  | 6.000 |  |  |  | 22.000 | 13.000 |
-| **Median** | 3.000 |  |  | 26.000 |  |  | 6.000 |  |  |  | 16.000 | 13.000 |
-| **25th Percentile** | 3.000 |  |  | 26.000 |  |  | 6.000 |  |  |  | 10.000 | 13.000 |
-| **Minimum** | 3.000 |  |  | 26.000 |  |  | 6.000 |  |  |  | 10.000 | 13.000 |
+| **Row Count** | 3 |  | 3 | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 9.000 |  | 401500800.000 | 78.000 |  |  | 18.000 |  |  |  | 48.000 | 13.000 |
+| **Mean μ (Average)** | 3.000 |  | 133833600.000 | 26.000 |  |  | 6.000 |  |  |  | 16.000 | 13.000 |
+| **Maximum** | 3.000 |  | 133833600.000 | 26.000 |  |  | 6.000 |  |  |  | 22.000 | 13.000 |
+| **75th Percentile** | 3.000 |  | 133833600.000 | 26.000 |  |  | 6.000 |  |  |  | 22.000 | 13.000 |
+| **Median** | 3.000 |  | 133833600.000 | 26.000 |  |  | 6.000 |  |  |  | 16.000 | 13.000 |
+| **25th Percentile** | 3.000 |  | 133833600.000 | 26.000 |  |  | 6.000 |  |  |  | 10.000 | 13.000 |
+| **Minimum** | 3.000 |  | 133833600.000 | 26.000 |  |  | 6.000 |  |  |  | 10.000 | 13.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 24.000 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 4.899 |  |
 

@@ -25,56 +25,56 @@ collectionId: estoril
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                3.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Wins"
-        }
-    ],
-    "labels": [
-        "Alain Prost",
-        "Nigel Mansell",
-        "Ayrton Senna",
-        "Damon Hill",
-        "David Coulthard",
-        "Gerhard Berger",
-        "Jacques Villeneuve",
-        "Michael Schumacher",
-        "Riccardo Patrese"
-    ]
+  "labels" : [
+    "Alain Prost",
+    "Nigel Mansell",
+    "Ayrton Senna",
+    "Damon Hill",
+    "David Coulthard",
+    "Gerhard Berger",
+    "Jacques Villeneuve",
+    "Michael Schumacher",
+    "Riccardo Patrese"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Wins",
+      "data" : [
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

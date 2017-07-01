@@ -24,20 +24,20 @@ collectionId: iglesias
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 17 | R | 0.0 | 38 |   | Gordini 🇫🇷 | [Élie Bayol 🇫🇷](/f1/drivers/bayol) | 15 | R |
-| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16 | 17 | R | 0.0 | 38 |   | Gordini 🇫🇷 | [Pablo Birger 🇦🇷](/f1/drivers/birger) | 9 | R |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16T00:00:00.000Z | 17 | R | 0.0 | 38 |   | Gordini 🇫🇷 | [Élie Bayol 🇫🇷](/f1/drivers/bayol) | 15 | R |
+| 1955 | 1 | 1955 Argentine Grand Prix 🇦🇷 | 1955-01-16T00:00:00.000Z | 17 | R | 0.0 | 38 |   | Gordini 🇫🇷 | [Pablo Birger 🇦🇷](/f1/drivers/birger) | 9 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 2.000 |  |  | 34.000 |  |  | 76.000 |  |  |  | 24.000 |  |
-| **Mean μ (Average)** | 1.000 |  |  | 17.000 |  |  | 38.000 |  |  |  | 12.000 |  |
-| **Maximum** | 1.000 |  |  | 17.000 |  |  | 38.000 |  |  |  | 15.000 |  |
-| **75th Percentile** | 1.000 |  |  | 17.000 |  |  | 38.000 |  |  |  | 15.000 |  |
-| **Median** | 1.000 |  |  | 17.000 |  |  | 38.000 |  |  |  | 15.000 |  |
-| **25th Percentile** | 1.000 |  |  | 17.000 |  |  | 38.000 |  |  |  | 9.000 |  |
-| **Minimum** | 1.000 |  |  | 17.000 |  |  | 38.000 |  |  |  | 9.000 |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 2.000 |  | -944179200.000 | 34.000 |  |  | 76.000 |  |  |  | 24.000 |  |
+| **Mean μ (Average)** | 1.000 |  | -472089600.000 | 17.000 |  |  | 38.000 |  |  |  | 12.000 |  |
+| **Maximum** | 1.000 |  | -472089600.000 | 17.000 |  |  | 38.000 |  |  |  | 15.000 |  |
+| **75th Percentile** | 1.000 |  | -472089600.000 | 17.000 |  |  | 38.000 |  |  |  | 15.000 |  |
+| **Median** | 1.000 |  | -472089600.000 | 17.000 |  |  | 38.000 |  |  |  | 15.000 |  |
+| **25th Percentile** | 1.000 |  | -472089600.000 | 17.000 |  |  | 38.000 |  |  |  | 9.000 |  |
+| **Minimum** | 1.000 |  | -472089600.000 | 17.000 |  |  | 38.000 |  |  |  | 9.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 9.000 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.000 |  |
 

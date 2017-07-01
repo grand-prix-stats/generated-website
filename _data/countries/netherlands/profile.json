@@ -1,7 +1,7 @@
 {
-    "code": "nl",
-    "collection_name": "Netherlands 🇳🇱",
-    "countryRef": "netherlands",
-    "flag": "🇳🇱",
-    "name": "Netherlands"
+  "countryRef" : "netherlands",
+  "name" : "Netherlands",
+  "flag" : "🇳🇱",
+  "collection_name" : "Netherlands 🇳🇱",
+  "code" : "nl"
 }

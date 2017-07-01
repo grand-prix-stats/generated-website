@@ -24,22 +24,22 @@ collectionId: riseley_prichard
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Don Beauman 🇬🇧](/f1/drivers/beauman) | 17 | 11 |
-| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Leslie Marr 🇬🇧](/f1/drivers/marr) | 22 | 13 |
-| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Leslie Thorne 🇬🇧](/f1/drivers/thorne) | 23 | 14 |
-| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17 | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Bill Whitehouse 🇬🇧](/f1/drivers/whitehouse) | 19 | R |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17T00:00:00.000Z | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Don Beauman 🇬🇧](/f1/drivers/beauman) | 17 | 11 |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17T00:00:00.000Z | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Leslie Marr 🇬🇧](/f1/drivers/marr) | 22 | 13 |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17T00:00:00.000Z | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Leslie Thorne 🇬🇧](/f1/drivers/thorne) | 23 | 14 |
+| 1954 | 5 | 1954 British Grand Prix 🇬🇧 | 1954-07-17T00:00:00.000Z | 21 | R | 0.0 | 40 |   | Connaught 🇬🇧 | [Bill Whitehouse 🇬🇧](/f1/drivers/whitehouse) | 19 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
-| **Total Sum** | 20.000 |  |  | 84.000 |  |  | 160.000 |  |  |  | 81.000 | 38.000 |
-| **Mean μ (Average)** | 5.000 |  |  | 21.000 |  |  | 40.000 |  |  |  | 20.250 | 12.667 |
-| **Maximum** | 5.000 |  |  | 21.000 |  |  | 40.000 |  |  |  | 23.000 | 14.000 |
-| **75th Percentile** | 5.000 |  |  | 21.000 |  |  | 40.000 |  |  |  | 23.000 | 14.000 |
-| **Median** | 5.000 |  |  | 21.000 |  |  | 40.000 |  |  |  | 22.000 | 13.000 |
-| **25th Percentile** | 5.000 |  |  | 21.000 |  |  | 40.000 |  |  |  | 19.000 | 11.000 |
-| **Minimum** | 5.000 |  |  | 21.000 |  |  | 40.000 |  |  |  | 17.000 | 11.000 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 20.000 |  | -1951603200.000 | 84.000 |  |  | 160.000 |  |  |  | 81.000 | 38.000 |
+| **Mean μ (Average)** | 5.000 |  | -487900800.000 | 21.000 |  |  | 40.000 |  |  |  | 20.250 | 12.667 |
+| **Maximum** | 5.000 |  | -487900800.000 | 21.000 |  |  | 40.000 |  |  |  | 23.000 | 14.000 |
+| **75th Percentile** | 5.000 |  | -487900800.000 | 21.000 |  |  | 40.000 |  |  |  | 23.000 | 14.000 |
+| **Median** | 5.000 |  | -487900800.000 | 21.000 |  |  | 40.000 |  |  |  | 22.000 | 13.000 |
+| **25th Percentile** | 5.000 |  | -487900800.000 | 21.000 |  |  | 40.000 |  |  |  | 19.000 | 11.000 |
+| **Minimum** | 5.000 |  | -487900800.000 | 21.000 |  |  | 40.000 |  |  |  | 17.000 | 11.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 5.688 | 1.556 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.385 | 1.247 |
 

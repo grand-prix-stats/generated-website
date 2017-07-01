@@ -25,36 +25,36 @@ collectionId: marina_bay
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                4.0,
-                2.0,
-                2.0,
-                1.0
-            ],
-            "label": "Number Of Wins"
-        }
-    ],
-    "labels": [
-        "Sebastian Vettel",
-        "Fernando Alonso",
-        "Lewis Hamilton",
-        "Nico Rosberg"
-    ]
+  "labels" : [
+    "Sebastian Vettel",
+    "Fernando Alonso",
+    "Lewis Hamilton",
+    "Nico Rosberg"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Wins",
+      "data" : [
+        4,
+        2,
+        2,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

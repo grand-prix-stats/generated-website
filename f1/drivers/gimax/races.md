@@ -24,19 +24,19 @@ collectionId: gimax
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1978 | 14 | 1978 Italian Grand Prix 🇮🇹 | 1978-09-10 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 23 | R |
+| 1978 | 14 | 1978 Italian Grand Prix 🇮🇹 | 1978-09-10T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Vittorio Brambilla 🇮🇹](/f1/drivers/brambilla) | 23 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
-| **Mean μ (Average)** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
-| **Maximum** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
-| **75th Percentile** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
-| **Median** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
-| **25th Percentile** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
-| **Minimum** | 14.000 |  |  |  |  |  |  |  |  |  | 23.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 14.000 |  | 274233600.000 |  |  |  |  |  |  |  | 23.000 |  |
+| **Mean μ (Average)** | 14.000 |  | 274233600.000 |  |  |  |  |  |  |  | 23.000 |  |
+| **Maximum** | 14.000 |  | 274233600.000 |  |  |  |  |  |  |  | 23.000 |  |
+| **75th Percentile** | 14.000 |  | 274233600.000 |  |  |  |  |  |  |  | 23.000 |  |
+| **Median** | 14.000 |  | 274233600.000 |  |  |  |  |  |  |  | 23.000 |  |
+| **25th Percentile** | 14.000 |  | 274233600.000 |  |  |  |  |  |  |  | 23.000 |  |
+| **Minimum** | 14.000 |  | 274233600.000 |  |  |  |  |  |  |  | 23.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

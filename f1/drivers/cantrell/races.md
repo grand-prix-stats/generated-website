@@ -24,19 +24,19 @@ collectionId: cantrell
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 3 | 1950 Indianapolis 500 🇺🇸 | 1950-05-30 | 17 | R | 0.0 | 108 |   | Adams 🇺🇸 | [Bayliss Levrett 🇺🇸](/f1/drivers/levrett) | 17 | R |
+| 1950 | 3 | 1950 Indianapolis 500 🇺🇸 | 1950-05-30T00:00:00.000Z | 17 | R | 0.0 | 108 |   | Adams 🇺🇸 | [Bayliss Levrett 🇺🇸](/f1/drivers/levrett) | 17 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 3.000 |  |  | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
-| **Mean μ (Average)** | 3.000 |  |  | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
-| **Maximum** | 3.000 |  |  | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
-| **75th Percentile** | 3.000 |  |  | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
-| **Median** | 3.000 |  |  | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
-| **25th Percentile** | 3.000 |  |  | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
-| **Minimum** | 3.000 |  |  | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 3.000 |  | -618278400.000 | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
+| **Mean μ (Average)** | 3.000 |  | -618278400.000 | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
+| **Maximum** | 3.000 |  | -618278400.000 | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
+| **75th Percentile** | 3.000 |  | -618278400.000 | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
+| **Median** | 3.000 |  | -618278400.000 | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
+| **25th Percentile** | 3.000 |  | -618278400.000 | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
+| **Minimum** | 3.000 |  | -618278400.000 | 17.000 |  |  | 108.000 |  |  |  | 17.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

@@ -25,24 +25,24 @@ collectionId: sebring
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                1.0
-            ],
-            "label": "Number Of Wins"
-        }
-    ],
-    "labels": [
-        "Bruce McLaren"
-    ]
+  "labels" : [
+    "Bruce McLaren"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Wins",
+      "data" : [
+        1
+      ],
+      "borderColor" : [
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

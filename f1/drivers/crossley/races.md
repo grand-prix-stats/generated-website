@@ -24,19 +24,19 @@ collectionId: crossley
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 17 | R | 0.0 | 43 |   | Alta 🇬🇧 | [Joe Kelly 🇮🇪](/f1/drivers/kelly) | 19 | N |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 17 | R | 0.0 | 43 |   | Alta 🇬🇧 | [Joe Kelly 🇮🇪](/f1/drivers/kelly) | 19 | N |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
-| **Mean μ (Average)** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
-| **Maximum** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
-| **75th Percentile** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
-| **Median** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
-| **25th Percentile** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
-| **Minimum** | 1.000 |  |  | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 1.000 |  | -619747200.000 | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Mean μ (Average)** | 1.000 |  | -619747200.000 | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Maximum** | 1.000 |  | -619747200.000 | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **75th Percentile** | 1.000 |  | -619747200.000 | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Median** | 1.000 |  | -619747200.000 | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **25th Percentile** | 1.000 |  | -619747200.000 | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
+| **Minimum** | 1.000 |  | -619747200.000 | 17.000 |  |  | 43.000 |  |  |  | 19.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

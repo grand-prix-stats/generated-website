@@ -24,22 +24,22 @@ collectionId: evans
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 22 | R | 0.0 | 24 |   | Brabham-Ford 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 0 | F |
-| 1976 | 3 | 1976 United States Grand Prix West 🇺🇸 | 1976-03-28 | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 8 | R |
-| 1976 | 2 | 1976 South African Grand Prix 🇿🇦 | 1976-03-06 | 23 | 10 | 0.0 | 77 |   | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 25 | R |
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18T00:00:00.000Z | 22 | R | 0.0 | 24 |   | Brabham-Ford 🇬🇧 | [Lella Lombardi 🇮🇹](/f1/drivers/lombardi) | 0 | F |
+| 1976 | 3 | 1976 United States Grand Prix West 🇺🇸 | 1976-03-28T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 8 | R |
+| 1976 | 2 | 1976 South African Grand Prix 🇿🇦 | 1976-03-06T00:00:00.000Z | 23 | 10 | 0.0 | 77 |   | Team Lotus 🇬🇧 | [Gunnar Nilsson 🇸🇪](/f1/drivers/nilsson) | 25 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 | 1 | 3 | 3 |  |  |  | 3 |  |
-| **Total Sum** | 14.000 |  |  | 45.000 | 10.000 |  | 101.000 |  |  |  | 33.000 |  |
-| **Mean μ (Average)** | 4.667 |  |  | 15.000 | 10.000 |  | 33.667 |  |  |  | 11.000 |  |
-| **Maximum** | 9.000 |  |  | 23.000 | 10.000 |  | 77.000 |  |  |  | 25.000 |  |
-| **75th Percentile** | 9.000 |  |  | 23.000 | 10.000 |  | 77.000 |  |  |  | 25.000 |  |
-| **Median** | 3.000 |  |  | 22.000 | 10.000 |  | 24.000 |  |  |  | 8.000 |  |
-| **25th Percentile** | 2.000 |  |  |  | 10.000 |  |  |  |  |  |  |  |
-| **Minimum** | 2.000 |  |  |  | 10.000 |  |  |  |  |  |  |  |
-| **Variance** | 9.556 |  |  | 112.667 |  |  | 1034.889 |  |  |  | 108.667 |  |
-| **Standard Deviation σ** | 3.091 |  |  | 10.614 |  |  | 32.170 |  |  |  | 10.424 |  |
+| **Row Count** | 3 |  | 3 | 3 | 1 | 3 | 3 |  |  |  | 3 |  |
+| **Total Sum** | 14.000 |  | 598233600.000 | 45.000 | 10.000 |  | 101.000 |  |  |  | 33.000 |  |
+| **Mean μ (Average)** | 4.667 |  | 199411200.000 | 15.000 | 10.000 |  | 33.667 |  |  |  | 11.000 |  |
+| **Maximum** | 9.000 |  | 206496000.000 | 23.000 | 10.000 |  | 77.000 |  |  |  | 25.000 |  |
+| **75th Percentile** | 9.000 |  | 206496000.000 | 23.000 | 10.000 |  | 77.000 |  |  |  | 25.000 |  |
+| **Median** | 3.000 |  | 196819200.000 | 22.000 | 10.000 |  | 24.000 |  |  |  | 8.000 |  |
+| **25th Percentile** | 2.000 |  | 194918400.000 |  | 10.000 |  |  |  |  |  |  |  |
+| **Minimum** | 2.000 |  | 194918400.000 |  | 10.000 |  |  |  |  |  |  |  |
+| **Variance** | 9.556 |  | 25699368960000.000 | 112.667 |  |  | 1034.889 |  |  |  | 108.667 |  |
+| **Standard Deviation σ** | 3.091 |  | 5069454.503 | 10.614 |  |  | 32.170 |  |  |  | 10.424 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,20 +24,20 @@ collectionId: hutchison
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1970 | 12 | 1970 United States Grand Prix 🇺🇸 | 1970-10-04 | 22 | R | 0.0 | 21 |   | Brabham 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 16 | 10 |
-| 1970 | 12 | 1970 United States Grand Prix 🇺🇸 | 1970-10-04 | 22 | R | 0.0 | 21 |   | Brabham 🇬🇧 | [Rolf Stommelen 🇩🇪](/f1/drivers/stommelen) | 19 | 12 |
+| 1970 | 12 | 1970 United States Grand Prix 🇺🇸 | 1970-10-04T00:00:00.000Z | 22 | R | 0.0 | 21 |   | Brabham 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 16 | 10 |
+| 1970 | 12 | 1970 United States Grand Prix 🇺🇸 | 1970-10-04T00:00:00.000Z | 22 | R | 0.0 | 21 |   | Brabham 🇬🇧 | [Rolf Stommelen 🇩🇪](/f1/drivers/stommelen) | 19 | 12 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
-| **Total Sum** | 24.000 |  |  | 44.000 |  |  | 42.000 |  |  |  | 35.000 | 22.000 |
-| **Mean μ (Average)** | 12.000 |  |  | 22.000 |  |  | 21.000 |  |  |  | 17.500 | 11.000 |
-| **Maximum** | 12.000 |  |  | 22.000 |  |  | 21.000 |  |  |  | 19.000 | 12.000 |
-| **75th Percentile** | 12.000 |  |  | 22.000 |  |  | 21.000 |  |  |  | 19.000 | 12.000 |
-| **Median** | 12.000 |  |  | 22.000 |  |  | 21.000 |  |  |  | 19.000 | 12.000 |
-| **25th Percentile** | 12.000 |  |  | 22.000 |  |  | 21.000 |  |  |  | 16.000 | 10.000 |
-| **Minimum** | 12.000 |  |  | 22.000 |  |  | 21.000 |  |  |  | 16.000 | 10.000 |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 24.000 |  | 47692800.000 | 44.000 |  |  | 42.000 |  |  |  | 35.000 | 22.000 |
+| **Mean μ (Average)** | 12.000 |  | 23846400.000 | 22.000 |  |  | 21.000 |  |  |  | 17.500 | 11.000 |
+| **Maximum** | 12.000 |  | 23846400.000 | 22.000 |  |  | 21.000 |  |  |  | 19.000 | 12.000 |
+| **75th Percentile** | 12.000 |  | 23846400.000 | 22.000 |  |  | 21.000 |  |  |  | 19.000 | 12.000 |
+| **Median** | 12.000 |  | 23846400.000 | 22.000 |  |  | 21.000 |  |  |  | 19.000 | 12.000 |
+| **25th Percentile** | 12.000 |  | 23846400.000 | 22.000 |  |  | 21.000 |  |  |  | 16.000 | 10.000 |
+| **Minimum** | 12.000 |  | 23846400.000 | 22.000 |  |  | 21.000 |  |  |  | 16.000 | 10.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 2.250 | 1.000 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.500 | 1.000 |
 

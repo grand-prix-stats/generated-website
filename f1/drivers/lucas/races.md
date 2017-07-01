@@ -24,20 +24,20 @@ collectionId: lucas
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1955 | 7 | 1955 Italian Grand Prix 🇮🇹 | 1955-09-11 | 22 | R | 0.0 | 7 |   | Gordini 🇫🇷 | [Jacques Pollet 🇫🇷](/f1/drivers/pollet) | 19 | R |
-| 1955 | 7 | 1955 Italian Grand Prix 🇮🇹 | 1955-09-11 | 22 | R | 0.0 | 7 |   | Gordini 🇫🇷 | [Hernando da Silva Ramos 🇧🇷](/f1/drivers/ramos) | 18 | R |
+| 1955 | 7 | 1955 Italian Grand Prix 🇮🇹 | 1955-09-11T00:00:00.000Z | 22 | R | 0.0 | 7 |   | Gordini 🇫🇷 | [Jacques Pollet 🇫🇷](/f1/drivers/pollet) | 19 | R |
+| 1955 | 7 | 1955 Italian Grand Prix 🇮🇹 | 1955-09-11T00:00:00.000Z | 22 | R | 0.0 | 7 |   | Gordini 🇫🇷 | [Hernando da Silva Ramos 🇧🇷](/f1/drivers/ramos) | 18 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 14.000 |  |  | 44.000 |  |  | 14.000 |  |  |  | 37.000 |  |
-| **Mean μ (Average)** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 18.500 |  |
-| **Maximum** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
-| **75th Percentile** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
-| **Median** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
-| **25th Percentile** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 18.000 |  |
-| **Minimum** | 7.000 |  |  | 22.000 |  |  | 7.000 |  |  |  | 18.000 |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 14.000 |  | -903052800.000 | 44.000 |  |  | 14.000 |  |  |  | 37.000 |  |
+| **Mean μ (Average)** | 7.000 |  | -451526400.000 | 22.000 |  |  | 7.000 |  |  |  | 18.500 |  |
+| **Maximum** | 7.000 |  | -451526400.000 | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
+| **75th Percentile** | 7.000 |  | -451526400.000 | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
+| **Median** | 7.000 |  | -451526400.000 | 22.000 |  |  | 7.000 |  |  |  | 19.000 |  |
+| **25th Percentile** | 7.000 |  | -451526400.000 | 22.000 |  |  | 7.000 |  |  |  | 18.000 |  |
+| **Minimum** | 7.000 |  | -451526400.000 | 22.000 |  |  | 7.000 |  |  |  | 18.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 |  |
 

@@ -24,19 +24,19 @@ collectionId: south
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1980 | 4 | 1980 United States Grand Prix West 🇺🇸 | 1980-03-30 | 0 | F | 0.0 | 0 |   | McLaren 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 21 | 4 |
+| 1980 | 4 | 1980 United States Grand Prix West 🇺🇸 | 1980-03-30T00:00:00.000Z | 0 | F | 0.0 | 0 |   | McLaren 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 21 | 4 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
-| **Total Sum** | 4.000 |  |  |  |  |  |  |  |  |  | 21.000 | 4.000 |
-| **Mean μ (Average)** | 4.000 |  |  |  |  |  |  |  |  |  | 21.000 | 4.000 |
-| **Maximum** | 4.000 |  |  |  |  |  |  |  |  |  | 21.000 | 4.000 |
-| **75th Percentile** | 4.000 |  |  |  |  |  |  |  |  |  | 21.000 | 4.000 |
-| **Median** | 4.000 |  |  |  |  |  |  |  |  |  | 21.000 | 4.000 |
-| **25th Percentile** | 4.000 |  |  |  |  |  |  |  |  |  | 21.000 | 4.000 |
-| **Minimum** | 4.000 |  |  |  |  |  |  |  |  |  | 21.000 | 4.000 |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 4.000 |  | 323222400.000 |  |  |  |  |  |  |  | 21.000 | 4.000 |
+| **Mean μ (Average)** | 4.000 |  | 323222400.000 |  |  |  |  |  |  |  | 21.000 | 4.000 |
+| **Maximum** | 4.000 |  | 323222400.000 |  |  |  |  |  |  |  | 21.000 | 4.000 |
+| **75th Percentile** | 4.000 |  | 323222400.000 |  |  |  |  |  |  |  | 21.000 | 4.000 |
+| **Median** | 4.000 |  | 323222400.000 |  |  |  |  |  |  |  | 21.000 | 4.000 |
+| **25th Percentile** | 4.000 |  | 323222400.000 |  |  |  |  |  |  |  | 21.000 | 4.000 |
+| **Minimum** | 4.000 |  | 323222400.000 |  |  |  |  |  |  |  | 21.000 | 4.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

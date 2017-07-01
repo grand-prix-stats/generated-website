@@ -24,21 +24,21 @@ collectionId: takahara
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23 | 19 | R | 0.0 | 1 |   | Kojima 🇯🇵 | [Kazuyoshi Hoshino 🇯🇵](/f1/drivers/hoshino) | 11 | 11 |
-| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24 | 24 | 9 | 0.0 | 70 |   | Surtees 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 20 | 4 |
+| 1977 | 17 | 1977 Japanese Grand Prix 🇯🇵 | 1977-10-23T00:00:00.000Z | 19 | R | 0.0 | 1 |   | Kojima 🇯🇵 | [Kazuyoshi Hoshino 🇯🇵](/f1/drivers/hoshino) | 11 | 11 |
+| 1976 | 16 | 1976 Japanese Grand Prix 🇯🇵 | 1976-10-24T00:00:00.000Z | 24 | 9 | 0.0 | 70 |   | Surtees 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 20 | 4 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 | 2 |  |  |  | 2 | 2 |
-| **Total Sum** | 33.000 |  |  | 43.000 | 9.000 |  | 71.000 |  |  |  | 31.000 | 15.000 |
-| **Mean μ (Average)** | 16.500 |  |  | 21.500 | 9.000 |  | 35.500 |  |  |  | 15.500 | 7.500 |
-| **Maximum** | 17.000 |  |  | 24.000 | 9.000 |  | 70.000 |  |  |  | 20.000 | 11.000 |
-| **75th Percentile** | 17.000 |  |  | 24.000 | 9.000 |  | 70.000 |  |  |  | 20.000 | 11.000 |
-| **Median** | 17.000 |  |  | 24.000 | 9.000 |  | 70.000 |  |  |  | 20.000 | 11.000 |
-| **25th Percentile** | 16.000 |  |  | 19.000 | 9.000 |  | 1.000 |  |  |  | 11.000 | 4.000 |
-| **Minimum** | 16.000 |  |  | 19.000 | 9.000 |  | 1.000 |  |  |  | 11.000 | 4.000 |
-| **Variance** | 0.250 |  |  | 6.250 |  |  | 1190.250 |  |  |  | 20.250 | 12.250 |
-| **Standard Deviation σ** | 0.500 |  |  | 2.500 |  |  | 34.500 |  |  |  | 4.500 | 3.500 |
+| **Row Count** | 2 |  | 2 | 2 | 1 | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 33.000 |  | 461376000.000 | 43.000 | 9.000 |  | 71.000 |  |  |  | 31.000 | 15.000 |
+| **Mean μ (Average)** | 16.500 |  | 230688000.000 | 21.500 | 9.000 |  | 35.500 |  |  |  | 15.500 | 7.500 |
+| **Maximum** | 17.000 |  | 246412800.000 | 24.000 | 9.000 |  | 70.000 |  |  |  | 20.000 | 11.000 |
+| **75th Percentile** | 17.000 |  | 246412800.000 | 24.000 | 9.000 |  | 70.000 |  |  |  | 20.000 | 11.000 |
+| **Median** | 17.000 |  | 246412800.000 | 24.000 | 9.000 |  | 70.000 |  |  |  | 20.000 | 11.000 |
+| **25th Percentile** | 16.000 |  | 214963200.000 | 19.000 | 9.000 |  | 1.000 |  |  |  | 11.000 | 4.000 |
+| **Minimum** | 16.000 |  | 214963200.000 | 19.000 | 9.000 |  | 1.000 |  |  |  | 11.000 | 4.000 |
+| **Variance** | 0.250 |  | 247269335040000.000 | 6.250 |  |  | 1190.250 |  |  |  | 20.250 | 12.250 |
+| **Standard Deviation σ** | 0.500 |  | 15724800.000 | 2.500 |  |  | 34.500 |  |  |  | 4.500 | 3.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

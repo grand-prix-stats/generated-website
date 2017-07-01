@@ -1,7 +1,7 @@
 {
-    "code": "az",
-    "collection_name": "Azerbaijan 🇦🇿",
-    "countryRef": "azerbaijan",
-    "flag": "🇦🇿",
-    "name": "Azerbaijan"
+  "countryRef" : "azerbaijan",
+  "name" : "Azerbaijan",
+  "flag" : "🇦🇿",
+  "collection_name" : "Azerbaijan 🇦🇿",
+  "code" : "az"
 }

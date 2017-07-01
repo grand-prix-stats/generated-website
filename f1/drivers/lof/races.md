@@ -24,20 +24,20 @@ collectionId: lof
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | N | 0.0 | 70 |   | HWM 🇬🇧 | [Duncan Hamilton 🇬🇧](/f1/drivers/duncan_hamilton) | 10 | 7 |
-| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17 | 14 | N | 0.0 | 70 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 9 | 8 |
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17T00:00:00.000Z | 14 | N | 0.0 | 70 |   | HWM 🇬🇧 | [Duncan Hamilton 🇬🇧](/f1/drivers/duncan_hamilton) | 10 | 7 |
+| 1952 | 7 | 1952 Dutch Grand Prix 🇳🇱 | 1952-08-17T00:00:00.000Z | 14 | N | 0.0 | 70 |   | HWM 🇬🇧 | [Lance Macklin 🇬🇧](/f1/drivers/macklin) | 9 | 8 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
-| **Total Sum** | 14.000 |  |  | 28.000 |  |  | 140.000 |  |  |  | 19.000 | 15.000 |
-| **Mean μ (Average)** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 9.500 | 7.500 |
-| **Maximum** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
-| **75th Percentile** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
-| **Median** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
-| **25th Percentile** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 9.000 | 7.000 |
-| **Minimum** | 7.000 |  |  | 14.000 |  |  | 70.000 |  |  |  | 9.000 | 7.000 |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 14.000 |  | -1096588800.000 | 28.000 |  |  | 140.000 |  |  |  | 19.000 | 15.000 |
+| **Mean μ (Average)** | 7.000 |  | -548294400.000 | 14.000 |  |  | 70.000 |  |  |  | 9.500 | 7.500 |
+| **Maximum** | 7.000 |  | -548294400.000 | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
+| **75th Percentile** | 7.000 |  | -548294400.000 | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
+| **Median** | 7.000 |  | -548294400.000 | 14.000 |  |  | 70.000 |  |  |  | 10.000 | 8.000 |
+| **25th Percentile** | 7.000 |  | -548294400.000 | 14.000 |  |  | 70.000 |  |  |  | 9.000 | 7.000 |
+| **Minimum** | 7.000 |  | -548294400.000 | 14.000 |  |  | 70.000 |  |  |  | 9.000 | 7.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 | 0.500 |
 

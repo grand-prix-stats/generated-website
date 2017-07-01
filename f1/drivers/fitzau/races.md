@@ -24,20 +24,20 @@ collectionId: fitzau
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 21 | R | 0.0 | 3 |   | AFM 🇩🇪 | [Günther Bechem 🇩🇪](/f1/drivers/bechem) | 30 | R |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 21 | R | 0.0 | 3 |   | AFM 🇩🇪 | [Hans von Stuck 🇩🇪](/f1/drivers/hans_stuck) | 23 | R |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 21 | R | 0.0 | 3 |   | AFM 🇩🇪 | [Günther Bechem 🇩🇪](/f1/drivers/bechem) | 30 | R |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 21 | R | 0.0 | 3 |   | AFM 🇩🇪 | [Hans von Stuck 🇩🇪](/f1/drivers/hans_stuck) | 23 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 14.000 |  |  | 42.000 |  |  | 6.000 |  |  |  | 53.000 |  |
-| **Mean μ (Average)** | 7.000 |  |  | 21.000 |  |  | 3.000 |  |  |  | 26.500 |  |
-| **Maximum** | 7.000 |  |  | 21.000 |  |  | 3.000 |  |  |  | 30.000 |  |
-| **75th Percentile** | 7.000 |  |  | 21.000 |  |  | 3.000 |  |  |  | 30.000 |  |
-| **Median** | 7.000 |  |  | 21.000 |  |  | 3.000 |  |  |  | 30.000 |  |
-| **25th Percentile** | 7.000 |  |  | 21.000 |  |  | 3.000 |  |  |  | 23.000 |  |
-| **Minimum** | 7.000 |  |  | 21.000 |  |  | 3.000 |  |  |  | 23.000 |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 14.000 |  | -1036108800.000 | 42.000 |  |  | 6.000 |  |  |  | 53.000 |  |
+| **Mean μ (Average)** | 7.000 |  | -518054400.000 | 21.000 |  |  | 3.000 |  |  |  | 26.500 |  |
+| **Maximum** | 7.000 |  | -518054400.000 | 21.000 |  |  | 3.000 |  |  |  | 30.000 |  |
+| **75th Percentile** | 7.000 |  | -518054400.000 | 21.000 |  |  | 3.000 |  |  |  | 30.000 |  |
+| **Median** | 7.000 |  | -518054400.000 | 21.000 |  |  | 3.000 |  |  |  | 30.000 |  |
+| **25th Percentile** | 7.000 |  | -518054400.000 | 21.000 |  |  | 3.000 |  |  |  | 23.000 |  |
+| **Minimum** | 7.000 |  | -518054400.000 | 21.000 |  |  | 3.000 |  |  |  | 23.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 12.250 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.500 |  |
 

@@ -1,7 +1,7 @@
 {
-    "code": "ru",
-    "collection_name": "Russia 🇷🇺",
-    "countryRef": "russia",
-    "flag": "🇷🇺",
-    "name": "Russia"
+  "countryRef" : "russia",
+  "name" : "Russia",
+  "flag" : "🇷🇺",
+  "collection_name" : "Russia 🇷🇺",
+  "code" : "ru"
 }

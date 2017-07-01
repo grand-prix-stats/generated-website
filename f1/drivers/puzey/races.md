@@ -24,22 +24,22 @@ collectionId: puzey
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 1 |
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 4 | 4 |
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Neville Lederle 🇿🇦](/f1/drivers/lederle) | 0 | F |
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Ernie Pieterse 🇿🇦](/f1/drivers/pieterse) | 0 | F |
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 1 |
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 4 | 4 |
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Neville Lederle 🇿🇦](/f1/drivers/lederle) | 0 | F |
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Lotus-Climax 🇬🇧 | [Ernie Pieterse 🇿🇦](/f1/drivers/pieterse) | 0 | F |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
-| **Total Sum** | 4.000 |  |  |  |  |  |  |  |  |  | 5.000 | 5.000 |
-| **Mean μ (Average)** | 1.000 |  |  |  |  |  |  |  |  |  | 1.250 | 2.500 |
-| **Maximum** | 1.000 |  |  |  |  |  |  |  |  |  | 4.000 | 4.000 |
-| **75th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  | 4.000 | 4.000 |
-| **Median** | 1.000 |  |  |  |  |  |  |  |  |  | 1.000 | 4.000 |
-| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  |  | 1.000 |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  |  | 1.000 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 4.000 |  | -631065600.000 |  |  |  |  |  |  |  | 5.000 | 5.000 |
+| **Mean μ (Average)** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  | 1.250 | 2.500 |
+| **Maximum** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  | 4.000 | 4.000 |
+| **75th Percentile** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  | 4.000 | 4.000 |
+| **Median** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  | 1.000 | 4.000 |
+| **25th Percentile** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  | 1.000 |
+| **Minimum** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  | 1.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 2.688 | 2.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.639 | 1.500 |
 

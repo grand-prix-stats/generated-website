@@ -24,20 +24,20 @@ collectionId: unser
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1968 | 11 | 1968 United States Grand Prix 🇺🇸 | 1968-10-06 | 19 | R | 0.0 | 35 |   | BRM 🇬🇧 | [Piers Courage 🇬🇧](/f1/drivers/courage) | 14 | R |
-| 1968 | 11 | 1968 United States Grand Prix 🇺🇸 | 1968-10-06 | 19 | R | 0.0 | 35 |   | BRM 🇬🇧 | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 11 | R |
+| 1968 | 11 | 1968 United States Grand Prix 🇺🇸 | 1968-10-06T00:00:00.000Z | 19 | R | 0.0 | 35 |   | BRM 🇬🇧 | [Piers Courage 🇬🇧](/f1/drivers/courage) | 14 | R |
+| 1968 | 11 | 1968 United States Grand Prix 🇺🇸 | 1968-10-06T00:00:00.000Z | 19 | R | 0.0 | 35 |   | BRM 🇬🇧 | [Pedro Rodríguez 🇲🇽](/f1/drivers/rodriguez) | 11 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 22.000 |  |  | 38.000 |  |  | 70.000 |  |  |  | 25.000 |  |
-| **Mean μ (Average)** | 11.000 |  |  | 19.000 |  |  | 35.000 |  |  |  | 12.500 |  |
-| **Maximum** | 11.000 |  |  | 19.000 |  |  | 35.000 |  |  |  | 14.000 |  |
-| **75th Percentile** | 11.000 |  |  | 19.000 |  |  | 35.000 |  |  |  | 14.000 |  |
-| **Median** | 11.000 |  |  | 19.000 |  |  | 35.000 |  |  |  | 14.000 |  |
-| **25th Percentile** | 11.000 |  |  | 19.000 |  |  | 35.000 |  |  |  | 11.000 |  |
-| **Minimum** | 11.000 |  |  | 19.000 |  |  | 35.000 |  |  |  | 11.000 |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 22.000 |  | -78105600.000 | 38.000 |  |  | 70.000 |  |  |  | 25.000 |  |
+| **Mean μ (Average)** | 11.000 |  | -39052800.000 | 19.000 |  |  | 35.000 |  |  |  | 12.500 |  |
+| **Maximum** | 11.000 |  | -39052800.000 | 19.000 |  |  | 35.000 |  |  |  | 14.000 |  |
+| **75th Percentile** | 11.000 |  | -39052800.000 | 19.000 |  |  | 35.000 |  |  |  | 14.000 |  |
+| **Median** | 11.000 |  | -39052800.000 | 19.000 |  |  | 35.000 |  |  |  | 14.000 |  |
+| **25th Percentile** | 11.000 |  | -39052800.000 | 19.000 |  |  | 35.000 |  |  |  | 11.000 |  |
+| **Minimum** | 11.000 |  | -39052800.000 | 19.000 |  |  | 35.000 |  |  |  | 11.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 2.250 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.500 |  |
 

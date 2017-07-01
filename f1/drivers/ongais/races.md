@@ -24,25 +24,25 @@ collectionId: ongais
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1978 | 13 | 1978 Dutch Grand Prix 🇳🇱 | 1978-08-27 | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 18 | R |
-| 1978 | 13 | 1978 Dutch Grand Prix 🇳🇱 | 1978-08-27 | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 0 | F |
-| 1978 | 4 | 1978 United States Grand Prix West 🇺🇸 | 1978-04-02 | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 20 | 10 |
-| 1978 | 4 | 1978 United States Grand Prix West 🇺🇸 | 1978-04-02 | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 0 | W |
-| 1978 | 2 | 1978 Brazilian Grand Prix 🇧🇷 | 1978-01-29 | 23 | R | 0.0 | 13 |   | Ensign 🇬🇧 | [Lamberto Leoni 🇮🇹](/f1/drivers/leoni) | 17 | R |
-| 1978 | 1 | 1978 Argentine Grand Prix 🇦🇷 | 1978-01-15 | 21 | R | 0.0 | 35 |   | Ensign 🇬🇧 | [Lamberto Leoni 🇮🇹](/f1/drivers/leoni) | 22 | R |
+| 1978 | 13 | 1978 Dutch Grand Prix 🇳🇱 | 1978-08-27T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 18 | R |
+| 1978 | 13 | 1978 Dutch Grand Prix 🇳🇱 | 1978-08-27T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 0 | F |
+| 1978 | 4 | 1978 United States Grand Prix West 🇺🇸 | 1978-04-02T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Clay Regazzoni 🇨🇭](/f1/drivers/regazzoni) | 20 | 10 |
+| 1978 | 4 | 1978 United States Grand Prix West 🇺🇸 | 1978-04-02T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Shadow 🇬🇧 | [Hans-Joachim Stuck 🇩🇪](/f1/drivers/stuck) | 0 | W |
+| 1978 | 2 | 1978 Brazilian Grand Prix 🇧🇷 | 1978-01-29T00:00:00.000Z | 23 | R | 0.0 | 13 |   | Ensign 🇬🇧 | [Lamberto Leoni 🇮🇹](/f1/drivers/leoni) | 17 | R |
+| 1978 | 1 | 1978 Argentine Grand Prix 🇦🇷 | 1978-01-15T00:00:00.000Z | 21 | R | 0.0 | 35 |   | Ensign 🇬🇧 | [Lamberto Leoni 🇮🇹](/f1/drivers/leoni) | 22 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 6 |  |  | 6 |  | 6 | 6 |  |  |  | 6 | 1 |
-| **Total Sum** | 37.000 |  |  | 44.000 |  |  | 48.000 |  |  |  | 77.000 | 10.000 |
-| **Mean μ (Average)** | 6.167 |  |  | 7.333 |  |  | 8.000 |  |  |  | 12.833 | 10.000 |
-| **Maximum** | 13.000 |  |  | 23.000 |  |  | 35.000 |  |  |  | 22.000 | 10.000 |
-| **75th Percentile** | 13.000 |  |  | 21.000 |  |  | 13.000 |  |  |  | 20.000 | 10.000 |
-| **Median** | 4.000 |  |  |  |  |  |  |  |  |  | 18.000 | 10.000 |
-| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  |  | 10.000 |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  |  | 10.000 |
-| **Variance** | 24.472 |  |  | 107.889 |  |  | 168.333 |  |  |  | 84.806 |  |
-| **Standard Deviation σ** | 4.947 |  |  | 10.387 |  |  | 12.974 |  |  |  | 9.209 |  |
+| **Row Count** | 6 |  | 6 | 6 |  | 6 | 6 |  |  |  | 6 | 1 |
+| **Total Sum** | 37.000 |  | 1575244800.000 | 44.000 |  |  | 48.000 |  |  |  | 77.000 | 10.000 |
+| **Mean μ (Average)** | 6.167 |  | 262540800.000 | 7.333 |  |  | 8.000 |  |  |  | 12.833 | 10.000 |
+| **Maximum** | 13.000 |  | 273024000.000 | 23.000 |  |  | 35.000 |  |  |  | 22.000 | 10.000 |
+| **75th Percentile** | 13.000 |  | 273024000.000 | 21.000 |  |  | 13.000 |  |  |  | 20.000 | 10.000 |
+| **Median** | 4.000 |  | 260323200.000 |  |  |  |  |  |  |  | 18.000 | 10.000 |
+| **25th Percentile** | 2.000 |  | 254880000.000 |  |  |  |  |  |  |  |  | 10.000 |
+| **Minimum** | 1.000 |  | 253670400.000 |  |  |  |  |  |  |  |  | 10.000 |
+| **Variance** | 24.472 |  | 61167052800000.000 | 107.889 |  |  | 168.333 |  |  |  | 84.806 |  |
+| **Standard Deviation σ** | 4.947 |  | 7820936.824 | 10.387 |  |  | 12.974 |  |  |  | 9.209 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,23 +24,23 @@ collectionId: hawkins
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01 | 20 | R | 0.0 | 3 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 1 |
-| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01 | 20 | R | 0.0 | 3 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 6 | R |
-| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01 | 20 | R | 0.0 | 3 |   | Lotus-Climax 🇬🇧 | [Gerhard Mitter 🇩🇪](/f1/drivers/mitter) | 12 | R |
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 16 | 9 | 0.0 | 81 |   | Brabham-Ford 🇬🇧 | [David Prophet 🇬🇧](/f1/drivers/prophet) | 19 | 14 |
+| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01T00:00:00.000Z | 20 | R | 0.0 | 3 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 1 |
+| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01T00:00:00.000Z | 20 | R | 0.0 | 3 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 6 | R |
+| 1965 | 7 | 1965 German Grand Prix 🇩🇪 | 1965-08-01T00:00:00.000Z | 20 | R | 0.0 | 3 |   | Lotus-Climax 🇬🇧 | [Gerhard Mitter 🇩🇪](/f1/drivers/mitter) | 12 | R |
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01T00:00:00.000Z | 16 | 9 | 0.0 | 81 |   | Brabham-Ford 🇬🇧 | [David Prophet 🇬🇧](/f1/drivers/prophet) | 19 | 14 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 | 1 | 4 | 4 |  |  |  | 4 | 2 |
-| **Total Sum** | 22.000 |  |  | 76.000 | 9.000 |  | 90.000 |  |  |  | 38.000 | 15.000 |
-| **Mean μ (Average)** | 5.500 |  |  | 19.000 | 9.000 |  | 22.500 |  |  |  | 9.500 | 7.500 |
-| **Maximum** | 7.000 |  |  | 20.000 | 9.000 |  | 81.000 |  |  |  | 19.000 | 14.000 |
-| **75th Percentile** | 7.000 |  |  | 20.000 | 9.000 |  | 81.000 |  |  |  | 19.000 | 14.000 |
-| **Median** | 7.000 |  |  | 20.000 | 9.000 |  | 3.000 |  |  |  | 12.000 | 14.000 |
-| **25th Percentile** | 7.000 |  |  | 20.000 | 9.000 |  | 3.000 |  |  |  | 6.000 | 1.000 |
-| **Minimum** | 1.000 |  |  | 16.000 | 9.000 |  | 3.000 |  |  |  | 1.000 | 1.000 |
-| **Variance** | 6.750 |  |  | 3.000 |  |  | 1140.750 |  |  |  | 45.250 | 42.250 |
-| **Standard Deviation σ** | 2.598 |  |  | 1.732 |  |  | 33.775 |  |  |  | 6.727 | 6.500 |
+| **Row Count** | 4 |  | 4 | 4 | 1 | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 22.000 |  | -576115200.000 | 76.000 | 9.000 |  | 90.000 |  |  |  | 38.000 | 15.000 |
+| **Mean μ (Average)** | 5.500 |  | -144028800.000 | 19.000 | 9.000 |  | 22.500 |  |  |  | 9.500 | 7.500 |
+| **Maximum** | 7.000 |  | -139449600.000 | 20.000 | 9.000 |  | 81.000 |  |  |  | 19.000 | 14.000 |
+| **75th Percentile** | 7.000 |  | -139449600.000 | 20.000 | 9.000 |  | 81.000 |  |  |  | 19.000 | 14.000 |
+| **Median** | 7.000 |  | -139449600.000 | 20.000 | 9.000 |  | 3.000 |  |  |  | 12.000 | 14.000 |
+| **25th Percentile** | 7.000 |  | -139449600.000 | 20.000 | 9.000 |  | 3.000 |  |  |  | 6.000 | 1.000 |
+| **Minimum** | 1.000 |  | -157766400.000 | 16.000 | 9.000 |  | 3.000 |  |  |  | 1.000 | 1.000 |
+| **Variance** | 6.750 |  | 62907217920000.000 | 3.000 |  |  | 1140.750 |  |  |  | 45.250 | 42.250 |
+| **Standard Deviation σ** | 2.598 |  | 7931407.058 | 1.732 |  |  | 33.775 |  |  |  | 6.727 | 6.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

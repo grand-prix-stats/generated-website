@@ -24,19 +24,19 @@ collectionId: vos
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1963 | 8 | 1963 United States Grand Prix 🇺🇸 | 1963-10-06 | 0 | W | 0.0 | 0 |   | Stebro 🇨🇦 | [Peter Broeker 🇨🇦](/f1/drivers/broeker) | 21 | 7 |
+| 1963 | 8 | 1963 United States Grand Prix 🇺🇸 | 1963-10-06T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Stebro 🇨🇦 | [Peter Broeker 🇨🇦](/f1/drivers/broeker) | 21 | 7 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
-| **Total Sum** | 8.000 |  |  |  |  |  |  |  |  |  | 21.000 | 7.000 |
-| **Mean μ (Average)** | 8.000 |  |  |  |  |  |  |  |  |  | 21.000 | 7.000 |
-| **Maximum** | 8.000 |  |  |  |  |  |  |  |  |  | 21.000 | 7.000 |
-| **75th Percentile** | 8.000 |  |  |  |  |  |  |  |  |  | 21.000 | 7.000 |
-| **Median** | 8.000 |  |  |  |  |  |  |  |  |  | 21.000 | 7.000 |
-| **25th Percentile** | 8.000 |  |  |  |  |  |  |  |  |  | 21.000 | 7.000 |
-| **Minimum** | 8.000 |  |  |  |  |  |  |  |  |  | 21.000 | 7.000 |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 8.000 |  | -196905600.000 |  |  |  |  |  |  |  | 21.000 | 7.000 |
+| **Mean μ (Average)** | 8.000 |  | -196905600.000 |  |  |  |  |  |  |  | 21.000 | 7.000 |
+| **Maximum** | 8.000 |  | -196905600.000 |  |  |  |  |  |  |  | 21.000 | 7.000 |
+| **75th Percentile** | 8.000 |  | -196905600.000 |  |  |  |  |  |  |  | 21.000 | 7.000 |
+| **Median** | 8.000 |  | -196905600.000 |  |  |  |  |  |  |  | 21.000 | 7.000 |
+| **25th Percentile** | 8.000 |  | -196905600.000 |  |  |  |  |  |  |  | 21.000 | 7.000 |
+| **Minimum** | 8.000 |  | -196905600.000 |  |  |  |  |  |  |  | 21.000 | 7.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

@@ -24,19 +24,19 @@ collectionId: heyer
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1977 | 11 | 1977 German Grand Prix 🇩🇪 | 1977-07-31 | 25 | F | 0.0 | 9 |   | Penske 🇺🇸 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 12 | R |
+| 1977 | 11 | 1977 German Grand Prix 🇩🇪 | 1977-07-31T00:00:00.000Z | 25 | F | 0.0 | 9 |   | Penske 🇺🇸 | [Jean-Pierre Jarier 🇫🇷](/f1/drivers/jarier) | 12 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
-| **Mean μ (Average)** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
-| **Maximum** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
-| **75th Percentile** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
-| **Median** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
-| **25th Percentile** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
-| **Minimum** | 11.000 |  |  | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 11.000 |  | 239155200.000 | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Mean μ (Average)** | 11.000 |  | 239155200.000 | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Maximum** | 11.000 |  | 239155200.000 | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **75th Percentile** | 11.000 |  | 239155200.000 | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Median** | 11.000 |  | 239155200.000 | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **25th Percentile** | 11.000 |  | 239155200.000 | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
+| **Minimum** | 11.000 |  | 239155200.000 | 25.000 |  |  | 9.000 |  |  |  | 12.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

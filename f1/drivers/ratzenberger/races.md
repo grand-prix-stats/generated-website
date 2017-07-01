@@ -24,22 +24,22 @@ collectionId: ratzenberger
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1994 | 3 | 1994 San Marino Grand Prix 🇮🇹 | 1994-05-01 | 0 | W | 0.0 | 0 |   | Simtek 🇬🇧 | [David Brabham 🇦🇺](/f1/drivers/brabham) | 24 | R |
-| 1994 | 2 | 1994 Pacific Grand Prix 🇯🇵 | 1994-04-17 | 26 | 11 | 0.0 | 78 |   | Simtek 🇬🇧 | [David Brabham 🇦🇺](/f1/drivers/brabham) | 25 | R |
-| 1994 | 1 | 1994 Brazilian Grand Prix 🇧🇷 | 1994-03-27 | 27 | F | 0.0 | 0 |   | Simtek 🇬🇧 | [David Brabham 🇦🇺](/f1/drivers/brabham) | 26 | 12 |
+| 1994 | 3 | 1994 San Marino Grand Prix 🇮🇹 | 1994-05-01T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Simtek 🇬🇧 | [David Brabham 🇦🇺](/f1/drivers/brabham) | 24 | R |
+| 1994 | 2 | 1994 Pacific Grand Prix 🇯🇵 | 1994-04-17T00:00:00.000Z | 26 | 11 | 0.0 | 78 |   | Simtek 🇬🇧 | [David Brabham 🇦🇺](/f1/drivers/brabham) | 25 | R |
+| 1994 | 1 | 1994 Brazilian Grand Prix 🇧🇷 | 1994-03-27T00:00:00.000Z | 27 | F | 0.0 | 0 |   | Simtek 🇬🇧 | [David Brabham 🇦🇺](/f1/drivers/brabham) | 26 | 12 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 | 1 | 3 | 3 |  |  |  | 3 | 1 |
-| **Total Sum** | 6.000 |  |  | 53.000 | 11.000 |  | 78.000 |  |  |  | 75.000 | 12.000 |
-| **Mean μ (Average)** | 2.000 |  |  | 17.667 | 11.000 |  | 26.000 |  |  |  | 25.000 | 12.000 |
-| **Maximum** | 3.000 |  |  | 27.000 | 11.000 |  | 78.000 |  |  |  | 26.000 | 12.000 |
-| **75th Percentile** | 3.000 |  |  | 27.000 | 11.000 |  | 78.000 |  |  |  | 26.000 | 12.000 |
-| **Median** | 2.000 |  |  | 26.000 | 11.000 |  |  |  |  |  | 25.000 | 12.000 |
-| **25th Percentile** | 1.000 |  |  |  | 11.000 |  |  |  |  |  | 24.000 | 12.000 |
-| **Minimum** | 1.000 |  |  |  | 11.000 |  |  |  |  |  | 24.000 | 12.000 |
-| **Variance** | 0.667 |  |  | 156.222 |  |  | 1352.000 |  |  |  | 0.667 |  |
-| **Standard Deviation σ** | 0.816 |  |  | 12.499 |  |  | 36.770 |  |  |  | 0.816 |  |
+| **Row Count** | 3 |  | 3 | 3 | 1 | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 6.000 |  | 2299017600.000 | 53.000 | 11.000 |  | 78.000 |  |  |  | 75.000 | 12.000 |
+| **Mean μ (Average)** | 2.000 |  | 766339200.000 | 17.667 | 11.000 |  | 26.000 |  |  |  | 25.000 | 12.000 |
+| **Maximum** | 3.000 |  | 767750400.000 | 27.000 | 11.000 |  | 78.000 |  |  |  | 26.000 | 12.000 |
+| **75th Percentile** | 3.000 |  | 767750400.000 | 27.000 | 11.000 |  | 78.000 |  |  |  | 26.000 | 12.000 |
+| **Median** | 2.000 |  | 766540800.000 | 26.000 | 11.000 |  |  |  |  |  | 25.000 | 12.000 |
+| **25th Percentile** | 1.000 |  | 764726400.000 |  | 11.000 |  |  |  |  |  | 24.000 | 12.000 |
+| **Minimum** | 1.000 |  | 764726400.000 |  | 11.000 |  |  |  |  |  | 24.000 | 12.000 |
+| **Variance** | 0.667 |  | 1544417280000.000 | 156.222 |  |  | 1352.000 |  |  |  | 0.667 |  |
+| **Standard Deviation σ** | 0.816 |  | 1242745.863 | 12.499 |  |  | 36.770 |  |  |  | 0.816 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

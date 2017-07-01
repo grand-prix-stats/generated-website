@@ -1,7 +1,7 @@
 {
-    "code": "kr",
-    "collection_name": "Korea 🇰🇷",
-    "countryRef": "korea",
-    "flag": "🇰🇷",
-    "name": "Korea"
+  "countryRef" : "korea",
+  "name" : "Korea",
+  "flag" : "🇰🇷",
+  "collection_name" : "Korea 🇰🇷",
+  "code" : "kr"
 }

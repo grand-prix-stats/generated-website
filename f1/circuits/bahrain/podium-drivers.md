@@ -25,76 +25,76 @@ collectionId: bahrain
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                8.0,
-                6.0,
-                4.0,
-                3.0,
-                3.0,
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Podiums"
-        }
-    ],
-    "labels": [
-        "Kimi Räikkönen",
-        "Lewis Hamilton",
-        "Sebastian Vettel",
-        "Felipe Massa",
-        "Fernando Alonso",
-        "Nico Rosberg",
-        "Jarno Trulli",
-        "Jenson Button",
-        "Michael Schumacher",
-        "Romain Grosjean",
-        "Robert Kubica",
-        "Rubens Barrichello",
-        "Sergio Pérez",
-        "Valtteri Bottas"
-    ]
+  "labels" : [
+    "Kimi Räikkönen",
+    "Lewis Hamilton",
+    "Sebastian Vettel",
+    "Felipe Massa",
+    "Fernando Alonso",
+    "Nico Rosberg",
+    "Jarno Trulli",
+    "Jenson Button",
+    "Michael Schumacher",
+    "Romain Grosjean",
+    "Robert Kubica",
+    "Rubens Barrichello",
+    "Sergio Pérez",
+    "Valtteri Bottas"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Podiums",
+      "data" : [
+        8,
+        6,
+        4,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

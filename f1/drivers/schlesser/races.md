@@ -24,21 +24,21 @@ collectionId: schlesser
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1988 | 12 | 1988 Italian Grand Prix 🇮🇹 | 1988-09-11 | 22 | 11 | 0.0 | 49 |   | Williams 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 10 | 7 |
-| 1983 | 3 | 1983 French Grand Prix 🇫🇷 | 1983-04-17 | 0 | F | 0.0 | 0 |   | RAM 🇬🇧 | [Eliseo Salazar 🇨🇱](/f1/drivers/salazar) | 0 | F |
+| 1988 | 12 | 1988 Italian Grand Prix 🇮🇹 | 1988-09-11T00:00:00.000Z | 22 | 11 | 0.0 | 49 |   | Williams 🇬🇧 | [Riccardo Patrese 🇮🇹](/f1/drivers/patrese) | 10 | 7 |
+| 1983 | 3 | 1983 French Grand Prix 🇫🇷 | 1983-04-17T00:00:00.000Z | 0 | F | 0.0 | 0 |   | RAM 🇬🇧 | [Eliseo Salazar 🇨🇱](/f1/drivers/salazar) | 0 | F |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 | 1 | 2 | 2 |  |  |  | 2 | 1 |
-| **Total Sum** | 15.000 |  |  | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
-| **Mean μ (Average)** | 7.500 |  |  | 11.000 | 11.000 |  | 24.500 |  |  |  | 5.000 | 7.000 |
-| **Maximum** | 12.000 |  |  | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
-| **75th Percentile** | 12.000 |  |  | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
-| **Median** | 12.000 |  |  | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
-| **25th Percentile** | 3.000 |  |  |  | 11.000 |  |  |  |  |  |  | 7.000 |
-| **Minimum** | 3.000 |  |  |  | 11.000 |  |  |  |  |  |  | 7.000 |
-| **Variance** | 20.250 |  |  | 121.000 |  |  | 600.250 |  |  |  | 25.000 |  |
-| **Standard Deviation σ** | 4.500 |  |  | 11.000 |  |  | 24.500 |  |  |  | 5.000 |  |
+| **Row Count** | 2 |  | 2 | 2 | 1 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 15.000 |  | 1009324800.000 | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
+| **Mean μ (Average)** | 7.500 |  | 504662400.000 | 11.000 | 11.000 |  | 24.500 |  |  |  | 5.000 | 7.000 |
+| **Maximum** | 12.000 |  | 589939200.000 | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
+| **75th Percentile** | 12.000 |  | 589939200.000 | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
+| **Median** | 12.000 |  | 589939200.000 | 22.000 | 11.000 |  | 49.000 |  |  |  | 10.000 | 7.000 |
+| **25th Percentile** | 3.000 |  | 419385600.000 |  | 11.000 |  |  |  |  |  |  | 7.000 |
+| **Minimum** | 3.000 |  | 419385600.000 |  | 11.000 |  |  |  |  |  |  | 7.000 |
+| **Variance** | 20.250 |  | 7272132618240000.000 | 121.000 |  |  | 600.250 |  |  |  | 25.000 |  |
+| **Standard Deviation σ** | 4.500 |  | 85276800.000 | 11.000 |  |  | 24.500 |  |  |  | 5.000 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

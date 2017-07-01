@@ -1,7 +1,7 @@
 {
-    "code": "li",
-    "collection_name": "Liechtenstein 🇱🇮",
-    "countryRef": "liechtenstein",
-    "flag": "🇱🇮",
-    "name": "Liechtenstein"
+  "countryRef" : "liechtenstein",
+  "name" : "Liechtenstein",
+  "flag" : "🇱🇮",
+  "collection_name" : "Liechtenstein 🇱🇮",
+  "code" : "li"
 }

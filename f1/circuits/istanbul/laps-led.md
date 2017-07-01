@@ -25,56 +25,56 @@ collectionId: istanbul
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                151.0,
-                63.0,
-                61.0,
-                57.0,
-                38.0,
-                30.0,
-                4.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Felipe Massa",
-        "Kimi Räikkönen",
-        "Jenson Button",
-        "Sebastian Vettel",
-        "Mark Webber",
-        "Lewis Hamilton",
-        "Michael Schumacher",
-        "Fernando Alonso",
-        "Heikki Kovalainen"
-    ]
+  "labels" : [
+    "Felipe Massa",
+    "Kimi Räikkönen",
+    "Jenson Button",
+    "Sebastian Vettel",
+    "Mark Webber",
+    "Lewis Hamilton",
+    "Michael Schumacher",
+    "Fernando Alonso",
+    "Heikki Kovalainen"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        151,
+        63,
+        61,
+        57,
+        38,
+        30,
+        4,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

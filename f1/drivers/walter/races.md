@@ -24,22 +24,22 @@ collectionId: walter
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 | 3 |
-| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 6 | 7 |
-| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 8 | 13 |
-| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05 | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Nino Vaccarella 🇮🇹](/f1/drivers/vaccarella) | 15 | 15 |
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05T00:00:00.000Z | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Dan Gurney 🇺🇸](/f1/drivers/gurney) | 1 | 3 |
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05T00:00:00.000Z | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 6 | 7 |
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05T00:00:00.000Z | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Carel Godin de Beaufort 🇳🇱](/f1/drivers/beaufort) | 8 | 13 |
+| 1962 | 6 | 1962 German Grand Prix 🇩🇪 | 1962-08-05T00:00:00.000Z | 14 | 14 | 0.0 | 14 |   | Porsche 🇩🇪 | [Nino Vaccarella 🇮🇹](/f1/drivers/vaccarella) | 15 | 15 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 | 4 | 4 | 4 |  |  |  | 4 | 4 |
-| **Total Sum** | 24.000 |  |  | 56.000 | 56.000 |  | 56.000 |  |  |  | 30.000 | 38.000 |
-| **Mean μ (Average)** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 7.500 | 9.500 |
-| **Maximum** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 15.000 | 15.000 |
-| **75th Percentile** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 15.000 | 15.000 |
-| **Median** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 8.000 | 13.000 |
-| **25th Percentile** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 6.000 | 7.000 |
-| **Minimum** | 6.000 |  |  | 14.000 | 14.000 |  | 14.000 |  |  |  | 1.000 | 3.000 |
+| **Row Count** | 4 |  | 4 | 4 | 4 | 4 | 4 |  |  |  | 4 | 4 |
+| **Total Sum** | 24.000 |  | -935193600.000 | 56.000 | 56.000 |  | 56.000 |  |  |  | 30.000 | 38.000 |
+| **Mean μ (Average)** | 6.000 |  | -233798400.000 | 14.000 | 14.000 |  | 14.000 |  |  |  | 7.500 | 9.500 |
+| **Maximum** | 6.000 |  | -233798400.000 | 14.000 | 14.000 |  | 14.000 |  |  |  | 15.000 | 15.000 |
+| **75th Percentile** | 6.000 |  | -233798400.000 | 14.000 | 14.000 |  | 14.000 |  |  |  | 15.000 | 15.000 |
+| **Median** | 6.000 |  | -233798400.000 | 14.000 | 14.000 |  | 14.000 |  |  |  | 8.000 | 13.000 |
+| **25th Percentile** | 6.000 |  | -233798400.000 | 14.000 | 14.000 |  | 14.000 |  |  |  | 6.000 | 7.000 |
+| **Minimum** | 6.000 |  | -233798400.000 | 14.000 | 14.000 |  | 14.000 |  |  |  | 1.000 | 3.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 25.250 | 22.750 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.025 | 4.770 |
 

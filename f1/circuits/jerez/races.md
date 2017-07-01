@@ -24,26 +24,26 @@ collectionId: jerez
 
 | Season | Round | Name | Date | Laps Completed | Race Duration | Winning Driver | Winning Constructor |
 |--|--|--|--|--|--|--|--|
-| 1997 | 17 | 1997 European Grand Prix 🇪🇸 | 1997-10-26 | 69 | 1:38:57.771 | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | McLaren 🇬🇧 |
-| 1994 | 14 | 1994 European Grand Prix 🇪🇸 | 1994-10-16 | 69 | 1:40:27.3 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
-| 1990 | 14 | 1990 Spanish Grand Prix 🇪🇸 | 1990-09-30 | 73 | 1:48:01.461 | [Alain Prost 🇫🇷](/f1/drivers/prost) | Ferrari 🇮🇹 |
-| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 73 | 1:47:48.264 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | McLaren 🇬🇧 |
-| 1988 | 14 | 1988 Spanish Grand Prix 🇪🇸 | 1988-10-02 | 72 | 1:48:43.851 | [Alain Prost 🇫🇷](/f1/drivers/prost) | McLaren 🇬🇧 |
-| 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27 | 72 | 1:49:12.692 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
-| 1986 | 2 | 1986 Spanish Grand Prix 🇪🇸 | 1986-04-13 | 72 | 1:48:47.735 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | Team Lotus 🇬🇧 |
+| 1997 | 17 | 1997 European Grand Prix 🇪🇸 | 1997-10-26T00:00:00.000Z | 69 | 1:38:57.771 | [Mika Häkkinen 🇫🇮](/f1/drivers/hakkinen) | McLaren 🇬🇧 |
+| 1994 | 14 | 1994 European Grand Prix 🇪🇸 | 1994-10-16T00:00:00.000Z | 69 | 1:40:27.3 | [Michael Schumacher 🇩🇪](/f1/drivers/michael_schumacher) | Benetton 🇮🇹 |
+| 1990 | 14 | 1990 Spanish Grand Prix 🇪🇸 | 1990-09-30T00:00:00.000Z | 73 | 1:48:01.461 | [Alain Prost 🇫🇷](/f1/drivers/prost) | Ferrari 🇮🇹 |
+| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01T00:00:00.000Z | 73 | 1:47:48.264 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | McLaren 🇬🇧 |
+| 1988 | 14 | 1988 Spanish Grand Prix 🇪🇸 | 1988-10-02T00:00:00.000Z | 72 | 1:48:43.851 | [Alain Prost 🇫🇷](/f1/drivers/prost) | McLaren 🇬🇧 |
+| 1987 | 13 | 1987 Spanish Grand Prix 🇪🇸 | 1987-09-27T00:00:00.000Z | 72 | 1:49:12.692 | [Nigel Mansell 🇬🇧](/f1/drivers/mansell) | Williams 🇬🇧 |
+| 1986 | 2 | 1986 Spanish Grand Prix 🇪🇸 | 1986-04-13T00:00:00.000Z | 72 | 1:48:47.735 | [Ayrton Senna 🇧🇷](/f1/drivers/senna) | Team Lotus 🇬🇧 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Laps Completed** | **Race Duration** | **Winning Driver** | **Winning Constructor** |
-| **Row Count** | 7 |  |  | 7 |  |  |  |
-| **Total Sum** | 88.000 |  |  | 500.000 |  |  |  |
-| **Mean μ (Average)** | 12.571 |  |  | 71.429 |  |  |  |
-| **Maximum** | 17.000 |  |  | 73.000 |  |  |  |
-| **75th Percentile** | 14.000 |  |  | 73.000 |  |  |  |
-| **Median** | 14.000 |  |  | 72.000 |  |  |  |
-| **25th Percentile** | 13.000 |  |  | 69.000 |  |  |  |
-| **Minimum** | 2.000 |  |  | 69.000 |  |  |  |
-| **Variance** | 19.959 |  |  | 2.531 |  |  |  |
-| **Standard Deviation σ** | 4.468 |  |  | 1.591 |  |  |  |
+| **Row Count** | 7 |  | 7 | 7 |  |  |  |
+| **Total Sum** | 88.000 |  | 4603132800.000 | 500.000 |  |  |  |
+| **Mean μ (Average)** | 12.571 |  | 657590400.000 | 71.429 |  |  |  |
+| **Maximum** | 17.000 |  | 877824000.000 | 73.000 |  |  |  |
+| **75th Percentile** | 14.000 |  | 782265600.000 | 73.000 |  |  |  |
+| **Median** | 14.000 |  | 623203200.000 | 72.000 |  |  |  |
+| **25th Percentile** | 13.000 |  | 559699200.000 | 69.000 |  |  |  |
+| **Minimum** | 2.000 |  | 513734400.000 | 69.000 |  |  |  |
+| **Variance** | 19.959 |  | 14264224727040000.000 | 2.531 |  |  |  |
+| **Standard Deviation σ** | 4.468 |  | 119432929.827 | 1.591 |  |  |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,19 +24,19 @@ collectionId: nelleman
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1976 | 7 | 1976 Swedish Grand Prix 🇸🇪 | 1976-06-13 | 0 | F | 0.0 | 0 |   | Brabham-Ford 🇬🇧 | [Loris Kessel 🇨🇭](/f1/drivers/kessel) | 26 | R |
+| 1976 | 7 | 1976 Swedish Grand Prix 🇸🇪 | 1976-06-13T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham-Ford 🇬🇧 | [Loris Kessel 🇨🇭](/f1/drivers/kessel) | 26 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 7.000 |  |  |  |  |  |  |  |  |  | 26.000 |  |
-| **Mean μ (Average)** | 7.000 |  |  |  |  |  |  |  |  |  | 26.000 |  |
-| **Maximum** | 7.000 |  |  |  |  |  |  |  |  |  | 26.000 |  |
-| **75th Percentile** | 7.000 |  |  |  |  |  |  |  |  |  | 26.000 |  |
-| **Median** | 7.000 |  |  |  |  |  |  |  |  |  | 26.000 |  |
-| **25th Percentile** | 7.000 |  |  |  |  |  |  |  |  |  | 26.000 |  |
-| **Minimum** | 7.000 |  |  |  |  |  |  |  |  |  | 26.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 7.000 |  | 203472000.000 |  |  |  |  |  |  |  | 26.000 |  |
+| **Mean μ (Average)** | 7.000 |  | 203472000.000 |  |  |  |  |  |  |  | 26.000 |  |
+| **Maximum** | 7.000 |  | 203472000.000 |  |  |  |  |  |  |  | 26.000 |  |
+| **75th Percentile** | 7.000 |  | 203472000.000 |  |  |  |  |  |  |  | 26.000 |  |
+| **Median** | 7.000 |  | 203472000.000 |  |  |  |  |  |  |  | 26.000 |  |
+| **25th Percentile** | 7.000 |  | 203472000.000 |  |  |  |  |  |  |  | 26.000 |  |
+| **Minimum** | 7.000 |  | 203472000.000 |  |  |  |  |  |  |  | 26.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

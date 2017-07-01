@@ -25,76 +25,76 @@ collectionId: magny_cours
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                339.0,
-                109.0,
-                95.0,
-                87.0,
-                74.0,
-                69.0,
-                46.0,
-                44.0,
-                39.0,
-                9.0,
-                6.0,
-                3.0,
-                2.0,
-                1.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Michael Schumacher",
-        "Fernando Alonso",
-        "Ralf Schumacher",
-        "Kimi Räikkönen",
-        "Felipe Massa",
-        "Damon Hill",
-        "David Coulthard",
-        "Rubens Barrichello",
-        "Juan Pablo Montoya",
-        "Heinz-Harald Frentzen",
-        "Mika Häkkinen",
-        "Jacques Villeneuve",
-        "Jarno Trulli",
-        "Eddie Irvine"
-    ]
+  "labels" : [
+    "Michael Schumacher",
+    "Fernando Alonso",
+    "Ralf Schumacher",
+    "Kimi Räikkönen",
+    "Felipe Massa",
+    "Damon Hill",
+    "David Coulthard",
+    "Rubens Barrichello",
+    "Juan Pablo Montoya",
+    "Heinz-Harald Frentzen",
+    "Mika Häkkinen",
+    "Jacques Villeneuve",
+    "Jarno Trulli",
+    "Eddie Irvine"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        339,
+        109,
+        95,
+        87,
+        74,
+        69,
+        46,
+        44,
+        39,
+        9,
+        6,
+        3,
+        2,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

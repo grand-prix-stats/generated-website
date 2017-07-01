@@ -24,20 +24,20 @@ collectionId: kessler
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18 | 0 | F | 0.0 | 0 |   | Connaught 🇬🇧 | [Paul Emery 🇬🇧](/f1/drivers/emery) | 0 | F |
-| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18 | 0 | F | 0.0 | 0 |   | Connaught 🇬🇧 | [Bernie Ecclestone 🇬🇧](/f1/drivers/ecclestone) | 0 | F |
+| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Connaught 🇬🇧 | [Paul Emery 🇬🇧](/f1/drivers/emery) | 0 | F |
+| 1958 | 2 | 1958 Monaco Grand Prix 🇲🇨 | 1958-05-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Connaught 🇬🇧 | [Bernie Ecclestone 🇬🇧](/f1/drivers/ecclestone) | 0 | F |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 4.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Maximum** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Median** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Minimum** | 2.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 4.000 |  | -733708800.000 |  |  |  |  |  |  |  |  |  |
+| **Mean μ (Average)** | 2.000 |  | -366854400.000 |  |  |  |  |  |  |  |  |  |
+| **Maximum** | 2.000 |  | -366854400.000 |  |  |  |  |  |  |  |  |  |
+| **75th Percentile** | 2.000 |  | -366854400.000 |  |  |  |  |  |  |  |  |  |
+| **Median** | 2.000 |  | -366854400.000 |  |  |  |  |  |  |  |  |  |
+| **25th Percentile** | 2.000 |  | -366854400.000 |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 2.000 |  | -366854400.000 |  |  |  |  |  |  |  |  |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

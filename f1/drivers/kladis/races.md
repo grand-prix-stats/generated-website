@@ -24,19 +24,19 @@ collectionId: kladis
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31 | 29 | R | 0.0 | 104 |   | Bromme 🇺🇸 | [Travis Webb 🇺🇸](/f1/drivers/webb) | 29 | R |
+| 1954 | 2 | 1954 Indianapolis 500 🇺🇸 | 1954-05-31T00:00:00.000Z | 29 | R | 0.0 | 104 |   | Bromme 🇺🇸 | [Travis Webb 🇺🇸](/f1/drivers/webb) | 29 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
-| **Mean μ (Average)** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
-| **Maximum** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
-| **75th Percentile** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
-| **Median** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
-| **25th Percentile** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
-| **Minimum** | 2.000 |  |  | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 2.000 |  | -491961600.000 | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Mean μ (Average)** | 2.000 |  | -491961600.000 | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Maximum** | 2.000 |  | -491961600.000 | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **75th Percentile** | 2.000 |  | -491961600.000 | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Median** | 2.000 |  | -491961600.000 | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **25th Percentile** | 2.000 |  | -491961600.000 | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
+| **Minimum** | 2.000 |  | -491961600.000 | 29.000 |  |  | 104.000 |  |  |  | 29.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

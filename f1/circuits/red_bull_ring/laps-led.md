@@ -25,56 +25,56 @@ collectionId: red_bull_ring
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                144.0,
-                25.0,
-                14.0,
-                11.0,
-                5.0,
-                5.0,
-                5.0,
-                3.0,
-                1.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Nico Rosberg",
-        "Lewis Hamilton",
-        "Felipe Massa",
-        "Sergio Pérez",
-        "Fernando Alonso",
-        "Max Verstappen",
-        "Sebastian Vettel",
-        "Valtteri Bottas",
-        "Kimi Räikkönen"
-    ]
+  "labels" : [
+    "Nico Rosberg",
+    "Lewis Hamilton",
+    "Felipe Massa",
+    "Sergio Pérez",
+    "Fernando Alonso",
+    "Max Verstappen",
+    "Sebastian Vettel",
+    "Valtteri Bottas",
+    "Kimi Räikkönen"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        144,
+        25,
+        14,
+        11,
+        5,
+        5,
+        5,
+        3,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

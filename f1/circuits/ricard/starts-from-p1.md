@@ -25,60 +25,60 @@ collectionId: ricard
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Starts From P1"
-        }
-    ],
-    "labels": [
-        "Alain Prost",
-        "Jackie Stewart",
-        "Nigel Mansell",
-        "Ayrton Senna",
-        "Jacques Laffite",
-        "James Hunt",
-        "John Watson",
-        "Keke Rosberg",
-        "Niki Lauda",
-        "René Arnoux"
-    ]
+  "labels" : [
+    "Alain Prost",
+    "Jackie Stewart",
+    "Nigel Mansell",
+    "Ayrton Senna",
+    "Jacques Laffite",
+    "James Hunt",
+    "John Watson",
+    "Keke Rosberg",
+    "Niki Lauda",
+    "René Arnoux"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Starts From P1",
+      "data" : [
+        3,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

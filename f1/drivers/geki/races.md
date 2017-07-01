@@ -24,23 +24,23 @@ collectionId: geki
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 20 | R | 0.0 | 37 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 10 |
-| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12 | 20 | R | 0.0 | 37 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 8 | 11 |
-| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06 | 0 | F | 0.0 | 0 |   | Brabham-BRM 🇬🇧 | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 6 | 7 |
-| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06 | 0 | F | 0.0 | 0 |   | Brabham-BRM 🇬🇧 | [Ian Raby 🇬🇧](/f1/drivers/raby) | 0 | F |
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12T00:00:00.000Z | 20 | R | 0.0 | 37 |   | Lotus-Climax 🇬🇧 | [Jim Clark 🇬🇧](/f1/drivers/clark) | 1 | 10 |
+| 1965 | 8 | 1965 Italian Grand Prix 🇮🇹 | 1965-09-12T00:00:00.000Z | 20 | R | 0.0 | 37 |   | Lotus-Climax 🇬🇧 | [Mike Spence 🇬🇧](/f1/drivers/spence) | 8 | 11 |
+| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham-BRM 🇬🇧 | [Jo Siffert 🇨🇭](/f1/drivers/siffert) | 6 | 7 |
+| 1964 | 8 | 1964 Italian Grand Prix 🇮🇹 | 1964-09-06T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham-BRM 🇬🇧 | [Ian Raby 🇬🇧](/f1/drivers/raby) | 0 | F |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
-| **Total Sum** | 32.000 |  |  | 40.000 |  |  | 74.000 |  |  |  | 15.000 | 28.000 |
-| **Mean μ (Average)** | 8.000 |  |  | 10.000 |  |  | 18.500 |  |  |  | 3.750 | 9.333 |
-| **Maximum** | 8.000 |  |  | 20.000 |  |  | 37.000 |  |  |  | 8.000 | 11.000 |
-| **75th Percentile** | 8.000 |  |  | 20.000 |  |  | 37.000 |  |  |  | 8.000 | 11.000 |
-| **Median** | 8.000 |  |  | 20.000 |  |  | 37.000 |  |  |  | 6.000 | 10.000 |
-| **25th Percentile** | 8.000 |  |  |  |  |  |  |  |  |  | 1.000 | 7.000 |
-| **Minimum** | 8.000 |  |  |  |  |  |  |  |  |  |  | 7.000 |
-| **Variance** |  |  |  | 100.000 |  |  | 342.250 |  |  |  | 11.188 | 2.889 |
-| **Standard Deviation σ** |  |  |  | 10.000 |  |  | 18.500 |  |  |  | 3.345 | 1.700 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 32.000 |  | -607392000.000 | 40.000 |  |  | 74.000 |  |  |  | 15.000 | 28.000 |
+| **Mean μ (Average)** | 8.000 |  | -151848000.000 | 10.000 |  |  | 18.500 |  |  |  | 3.750 | 9.333 |
+| **Maximum** | 8.000 |  | -135820800.000 | 20.000 |  |  | 37.000 |  |  |  | 8.000 | 11.000 |
+| **75th Percentile** | 8.000 |  | -135820800.000 | 20.000 |  |  | 37.000 |  |  |  | 8.000 | 11.000 |
+| **Median** | 8.000 |  | -135820800.000 | 20.000 |  |  | 37.000 |  |  |  | 6.000 | 10.000 |
+| **25th Percentile** | 8.000 |  | -167875200.000 |  |  |  |  |  |  |  | 1.000 | 7.000 |
+| **Minimum** | 8.000 |  | -167875200.000 |  |  |  |  |  |  |  |  | 7.000 |
+| **Variance** |  |  | 256871139840000.000 | 100.000 |  |  | 342.250 |  |  |  | 11.188 | 2.889 |
+| **Standard Deviation σ** |  |  | 16027200.000 | 10.000 |  |  | 18.500 |  |  |  | 3.345 | 1.700 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

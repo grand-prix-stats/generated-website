@@ -25,64 +25,64 @@ collectionId: fuji
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                55.0,
-                32.0,
-                18.0,
-                7.0,
-                5.0,
-                4.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                1.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Lewis Hamilton",
-        "Fernando Alonso",
-        "Robert Kubica",
-        "Nelson Piquet Jr.",
-        "Mark Webber",
-        "Jarno Trulli",
-        "Heikki Kovalainen",
-        "Kimi Räikkönen",
-        "Sebastian Vettel",
-        "Sébastien Bourdais",
-        "Giancarlo Fisichella"
-    ]
+  "labels" : [
+    "Lewis Hamilton",
+    "Fernando Alonso",
+    "Robert Kubica",
+    "Nelson Piquet Jr.",
+    "Mark Webber",
+    "Jarno Trulli",
+    "Heikki Kovalainen",
+    "Kimi Räikkönen",
+    "Sebastian Vettel",
+    "Sébastien Bourdais",
+    "Giancarlo Fisichella"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        55,
+        32,
+        18,
+        7,
+        5,
+        4,
+        3,
+        3,
+        3,
+        3,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

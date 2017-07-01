@@ -25,40 +25,40 @@ collectionId: anderstorp
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Starts From P1"
-        }
-    ],
-    "labels": [
-        "Mario Andretti",
-        "Jody Scheckter",
-        "Patrick Depailler",
-        "Ronnie Peterson",
-        "Vittorio Brambilla"
-    ]
+  "labels" : [
+    "Mario Andretti",
+    "Jody Scheckter",
+    "Patrick Depailler",
+    "Ronnie Peterson",
+    "Vittorio Brambilla"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Starts From P1",
+      "data" : [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

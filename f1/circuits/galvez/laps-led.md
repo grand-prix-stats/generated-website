@@ -25,44 +25,44 @@ collectionId: galvez
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                72.0,
-                66.0,
-                54.0,
-                14.0,
-                6.0,
-                4.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Damon Hill",
-        "Jacques Villeneuve",
-        "Michael Schumacher",
-        "Mika Häkkinen",
-        "Eddie Irvine",
-        "David Coulthard"
-    ]
+  "labels" : [
+    "Damon Hill",
+    "Jacques Villeneuve",
+    "Michael Schumacher",
+    "Mika Häkkinen",
+    "Eddie Irvine",
+    "David Coulthard"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        72,
+        66,
+        54,
+        14,
+        6,
+        4
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

@@ -1,7 +1,7 @@
 {
-    "code": "cl",
-    "collection_name": "Chile 🇨🇱",
-    "countryRef": "chile",
-    "flag": "🇨🇱",
-    "name": "Chile"
+  "countryRef" : "chile",
+  "name" : "Chile",
+  "flag" : "🇨🇱",
+  "collection_name" : "Chile 🇨🇱",
+  "code" : "cl"
 }

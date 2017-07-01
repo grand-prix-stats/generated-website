@@ -24,20 +24,20 @@ collectionId: johnstone
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 17 | 9 | 0.0 | 76 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 2 | 1 |
-| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29 | 17 | 9 | 0.0 | 76 |   | BRM 🇬🇧 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 7 | 7 |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29T00:00:00.000Z | 17 | 9 | 0.0 | 76 |   | BRM 🇬🇧 | [Graham Hill 🇬🇧](/f1/drivers/hill) | 2 | 1 |
+| 1962 | 9 | 1962 South African Grand Prix 🇿🇦 | 1962-12-29T00:00:00.000Z | 17 | 9 | 0.0 | 76 |   | BRM 🇬🇧 | [Richie Ginther 🇺🇸](/f1/drivers/ginther) | 7 | 7 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 2 |
-| **Total Sum** | 18.000 |  |  | 34.000 | 18.000 |  | 152.000 |  |  |  | 9.000 | 8.000 |
-| **Mean μ (Average)** | 9.000 |  |  | 17.000 | 9.000 |  | 76.000 |  |  |  | 4.500 | 4.000 |
-| **Maximum** | 9.000 |  |  | 17.000 | 9.000 |  | 76.000 |  |  |  | 7.000 | 7.000 |
-| **75th Percentile** | 9.000 |  |  | 17.000 | 9.000 |  | 76.000 |  |  |  | 7.000 | 7.000 |
-| **Median** | 9.000 |  |  | 17.000 | 9.000 |  | 76.000 |  |  |  | 7.000 | 7.000 |
-| **25th Percentile** | 9.000 |  |  | 17.000 | 9.000 |  | 76.000 |  |  |  | 2.000 | 1.000 |
-| **Minimum** | 9.000 |  |  | 17.000 | 9.000 |  | 76.000 |  |  |  | 2.000 | 1.000 |
+| **Row Count** | 2 |  | 2 | 2 | 2 | 2 | 2 |  |  |  | 2 | 2 |
+| **Total Sum** | 18.000 |  | -442368000.000 | 34.000 | 18.000 |  | 152.000 |  |  |  | 9.000 | 8.000 |
+| **Mean μ (Average)** | 9.000 |  | -221184000.000 | 17.000 | 9.000 |  | 76.000 |  |  |  | 4.500 | 4.000 |
+| **Maximum** | 9.000 |  | -221184000.000 | 17.000 | 9.000 |  | 76.000 |  |  |  | 7.000 | 7.000 |
+| **75th Percentile** | 9.000 |  | -221184000.000 | 17.000 | 9.000 |  | 76.000 |  |  |  | 7.000 | 7.000 |
+| **Median** | 9.000 |  | -221184000.000 | 17.000 | 9.000 |  | 76.000 |  |  |  | 7.000 | 7.000 |
+| **25th Percentile** | 9.000 |  | -221184000.000 | 17.000 | 9.000 |  | 76.000 |  |  |  | 2.000 | 1.000 |
+| **Minimum** | 9.000 |  | -221184000.000 | 17.000 | 9.000 |  | 76.000 |  |  |  | 2.000 | 1.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 6.250 | 9.000 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.500 | 3.000 |
 

@@ -24,19 +24,19 @@ collectionId: apicella
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1993 | 13 | 1993 Italian Grand Prix 🇮🇹 | 1993-09-12 | 23 | R | 0.0 | 0 |   | Jordan 🇮🇪 | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 19 | R |
+| 1993 | 13 | 1993 Italian Grand Prix 🇮🇹 | 1993-09-12T00:00:00.000Z | 23 | R | 0.0 | 0 |   | Jordan 🇮🇪 | [Rubens Barrichello 🇧🇷](/f1/drivers/barrichello) | 19 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
-| **Mean μ (Average)** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
-| **Maximum** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
-| **75th Percentile** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
-| **Median** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
-| **25th Percentile** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
-| **Minimum** | 13.000 |  |  | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 13.000 |  | 747792000.000 | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Mean μ (Average)** | 13.000 |  | 747792000.000 | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Maximum** | 13.000 |  | 747792000.000 | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **75th Percentile** | 13.000 |  | 747792000.000 | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Median** | 13.000 |  | 747792000.000 | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **25th Percentile** | 13.000 |  | 747792000.000 | 23.000 |  |  |  |  |  |  | 19.000 |  |
+| **Minimum** | 13.000 |  | 747792000.000 | 23.000 |  |  |  |  |  |  | 19.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

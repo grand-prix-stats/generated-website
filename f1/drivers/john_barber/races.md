@@ -24,20 +24,20 @@ collectionId: john_barber
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 16 | 8 | 0.0 | 90 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 12 | 9 |
-| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18 | 16 | 8 | 0.0 | 90 |   | Cooper 🇬🇧 | [Adolfo Cruz 🇦🇷](/f1/drivers/cruz) | 13 | R |
+| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18T00:00:00.000Z | 16 | 8 | 0.0 | 90 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 12 | 9 |
+| 1953 | 1 | 1953 Argentine Grand Prix 🇦🇷 | 1953-01-18T00:00:00.000Z | 16 | 8 | 0.0 | 90 |   | Cooper 🇬🇧 | [Adolfo Cruz 🇦🇷](/f1/drivers/cruz) | 13 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
-| **Total Sum** | 2.000 |  |  | 32.000 | 16.000 |  | 180.000 |  |  |  | 25.000 | 9.000 |
-| **Mean μ (Average)** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.500 | 9.000 |
-| **Maximum** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
-| **75th Percentile** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
-| **Median** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
-| **25th Percentile** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.000 | 9.000 |
-| **Minimum** | 1.000 |  |  | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.000 | 9.000 |
+| **Row Count** | 2 |  | 2 | 2 | 2 | 2 | 2 |  |  |  | 2 | 1 |
+| **Total Sum** | 2.000 |  | -1069977600.000 | 32.000 | 16.000 |  | 180.000 |  |  |  | 25.000 | 9.000 |
+| **Mean μ (Average)** | 1.000 |  | -534988800.000 | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.500 | 9.000 |
+| **Maximum** | 1.000 |  | -534988800.000 | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
+| **75th Percentile** | 1.000 |  | -534988800.000 | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
+| **Median** | 1.000 |  | -534988800.000 | 16.000 | 8.000 |  | 90.000 |  |  |  | 13.000 | 9.000 |
+| **25th Percentile** | 1.000 |  | -534988800.000 | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.000 | 9.000 |
+| **Minimum** | 1.000 |  | -534988800.000 | 16.000 | 8.000 |  | 90.000 |  |  |  | 12.000 | 9.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 0.250 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 0.500 |  |
 

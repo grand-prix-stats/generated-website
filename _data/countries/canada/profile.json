@@ -1,7 +1,7 @@
 {
-    "code": "ca",
-    "collection_name": "Canada 🇨🇦",
-    "countryRef": "canada",
-    "flag": "🇨🇦",
-    "name": "Canada"
+  "countryRef" : "canada",
+  "name" : "Canada",
+  "flag" : "🇨🇦",
+  "collection_name" : "Canada 🇨🇦",
+  "code" : "ca"
 }

@@ -25,72 +25,72 @@ collectionId: watkins_glen
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Wins"
-        }
-    ],
-    "labels": [
-        "Graham Hill",
-        "Jim Clark",
-        "Carlos Reutemann",
-        "Jackie Stewart",
-        "James Hunt",
-        "Alan Jones",
-        "Emerson Fittipaldi",
-        "François Cevert",
-        "Gilles Villeneuve",
-        "Innes Ireland",
-        "Jochen Rindt",
-        "Niki Lauda",
-        "Ronnie Peterson"
-    ]
+  "labels" : [
+    "Graham Hill",
+    "Jim Clark",
+    "Carlos Reutemann",
+    "Jackie Stewart",
+    "James Hunt",
+    "Alan Jones",
+    "Emerson Fittipaldi",
+    "François Cevert",
+    "Gilles Villeneuve",
+    "Innes Ireland",
+    "Jochen Rindt",
+    "Niki Lauda",
+    "Ronnie Peterson"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Wins",
+      "data" : [
+        3,
+        3,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

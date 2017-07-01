@@ -24,21 +24,21 @@ collectionId: dochnal
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27 | 0 | W | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 8 | 5 |
-| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27 | 0 | W | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 6 | R |
-| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27 | 0 | W | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 13 | R |
+| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Jo Bonnier 🇸🇪](/f1/drivers/bonnier) | 8 | 5 |
+| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Bruce McLaren 🇳🇿](/f1/drivers/mclaren) | 6 | R |
+| 1963 | 9 | 1963 Mexican Grand Prix 🇲🇽 | 1963-10-27T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Cooper-Climax 🇬🇧 | [Tony Maggs 🇿🇦](/f1/drivers/maggs) | 13 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
-| **Total Sum** | 27.000 |  |  |  |  |  |  |  |  |  | 27.000 | 5.000 |
-| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |  | 9.000 | 5.000 |
-| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |  | 13.000 | 5.000 |
-| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 13.000 | 5.000 |
-| **Median** | 9.000 |  |  |  |  |  |  |  |  |  | 8.000 | 5.000 |
-| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 6.000 | 5.000 |
-| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |  | 6.000 | 5.000 |
+| **Row Count** | 3 |  | 3 | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 27.000 |  | -585273600.000 |  |  |  |  |  |  |  | 27.000 | 5.000 |
+| **Mean μ (Average)** | 9.000 |  | -195091200.000 |  |  |  |  |  |  |  | 9.000 | 5.000 |
+| **Maximum** | 9.000 |  | -195091200.000 |  |  |  |  |  |  |  | 13.000 | 5.000 |
+| **75th Percentile** | 9.000 |  | -195091200.000 |  |  |  |  |  |  |  | 13.000 | 5.000 |
+| **Median** | 9.000 |  | -195091200.000 |  |  |  |  |  |  |  | 8.000 | 5.000 |
+| **25th Percentile** | 9.000 |  | -195091200.000 |  |  |  |  |  |  |  | 6.000 | 5.000 |
+| **Minimum** | 9.000 |  | -195091200.000 |  |  |  |  |  |  |  | 6.000 | 5.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 8.667 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 2.944 |  |
 

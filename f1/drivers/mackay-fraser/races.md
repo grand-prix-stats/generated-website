@@ -24,19 +24,19 @@ collectionId: mackay-fraser
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1957 | 4 | 1957 French Grand Prix 🇫🇷 | 1957-07-07 | 12 | R | 0.0 | 24 |   | BRM 🇬🇧 | [Ron Flockhart 🇬🇧](/f1/drivers/flockhart) | 11 | R |
+| 1957 | 4 | 1957 French Grand Prix 🇫🇷 | 1957-07-07T00:00:00.000Z | 12 | R | 0.0 | 24 |   | BRM 🇬🇧 | [Ron Flockhart 🇬🇧](/f1/drivers/flockhart) | 11 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
-| **Mean μ (Average)** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
-| **Maximum** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
-| **75th Percentile** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
-| **Median** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
-| **25th Percentile** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
-| **Minimum** | 4.000 |  |  | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 4.000 |  | -394070400.000 | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Mean μ (Average)** | 4.000 |  | -394070400.000 | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Maximum** | 4.000 |  | -394070400.000 | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **75th Percentile** | 4.000 |  | -394070400.000 | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Median** | 4.000 |  | -394070400.000 | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **25th Percentile** | 4.000 |  | -394070400.000 | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
+| **Minimum** | 4.000 |  | -394070400.000 | 12.000 |  |  | 24.000 |  |  |  | 11.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

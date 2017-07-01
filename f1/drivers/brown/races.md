@@ -24,19 +24,19 @@ collectionId: brown
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1976 | 15 | 1976 United States Grand Prix 🇺🇸 | 1976-10-10 | 23 | 14 | 0.0 | 54 |   | Wolf 🇨🇦 | [Arturo Merzario 🇮🇹](/f1/drivers/merzario) | 25 | R |
+| 1976 | 15 | 1976 United States Grand Prix 🇺🇸 | 1976-10-10T00:00:00.000Z | 23 | 14 | 0.0 | 54 |   | Wolf 🇨🇦 | [Arturo Merzario 🇮🇹](/f1/drivers/merzario) | 25 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 | 1 | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 15.000 |  |  | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
-| **Mean μ (Average)** | 15.000 |  |  | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
-| **Maximum** | 15.000 |  |  | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
-| **75th Percentile** | 15.000 |  |  | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
-| **Median** | 15.000 |  |  | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
-| **25th Percentile** | 15.000 |  |  | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
-| **Minimum** | 15.000 |  |  | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
+| **Row Count** | 1 |  | 1 | 1 | 1 | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 15.000 |  | 213753600.000 | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
+| **Mean μ (Average)** | 15.000 |  | 213753600.000 | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
+| **Maximum** | 15.000 |  | 213753600.000 | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
+| **75th Percentile** | 15.000 |  | 213753600.000 | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
+| **Median** | 15.000 |  | 213753600.000 | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
+| **25th Percentile** | 15.000 |  | 213753600.000 | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
+| **Minimum** | 15.000 |  | 213753600.000 | 23.000 | 14.000 |  | 54.000 |  |  |  | 25.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

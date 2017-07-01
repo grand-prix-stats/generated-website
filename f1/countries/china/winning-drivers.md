@@ -25,52 +25,52 @@ collectionId: china
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                5.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Times"
-        }
-    ],
-    "labels": [
-        "Lewis Hamilton",
-        "Fernando Alonso",
-        "Nico Rosberg",
-        "Jenson Button",
-        "Kimi Räikkönen",
-        "Michael Schumacher",
-        "Rubens Barrichello",
-        "Sebastian Vettel"
-    ]
+  "labels" : [
+    "Lewis Hamilton",
+    "Fernando Alonso",
+    "Nico Rosberg",
+    "Jenson Button",
+    "Kimi Räikkönen",
+    "Michael Schumacher",
+    "Rubens Barrichello",
+    "Sebastian Vettel"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        5,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

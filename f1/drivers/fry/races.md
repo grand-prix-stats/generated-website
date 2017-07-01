@@ -24,24 +24,24 @@ collectionId: fry
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [David Hampshire 🇬🇧](/f1/drivers/hampshire) | 16 | 9 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Brian Shawe Taylor 🇬🇧](/f1/drivers/shawe_taylor) | 20 | 10 |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Prince Bira 🇹🇭](/f1/drivers/bira) | 5 | R |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [David Murray 🇬🇧](/f1/drivers/murray) | 18 | R |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 8 | R |
-| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13 | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 11 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [David Hampshire 🇬🇧](/f1/drivers/hampshire) | 16 | 9 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Brian Shawe Taylor 🇬🇧](/f1/drivers/shawe_taylor) | 20 | 10 |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Prince Bira 🇹🇭](/f1/drivers/bira) | 5 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [David Murray 🇬🇧](/f1/drivers/murray) | 18 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 8 | R |
+| 1950 | 1 | 1950 British Grand Prix 🇬🇧 | 1950-05-13T00:00:00.000Z | 20 | 10 | 0.0 | 64 |   | Maserati 🇮🇹 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 11 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 6 |  |  | 6 | 6 | 6 | 6 |  |  |  | 6 | 2 |
-| **Total Sum** | 6.000 |  |  | 120.000 | 60.000 |  | 384.000 |  |  |  | 78.000 | 19.000 |
-| **Mean μ (Average)** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 13.000 | 9.500 |
-| **Maximum** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 20.000 | 10.000 |
-| **75th Percentile** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 18.000 | 10.000 |
-| **Median** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 16.000 | 10.000 |
-| **25th Percentile** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 8.000 | 9.000 |
-| **Minimum** | 1.000 |  |  | 20.000 | 10.000 |  | 64.000 |  |  |  | 5.000 | 9.000 |
+| **Row Count** | 6 |  | 6 | 6 | 6 | 6 | 6 |  |  |  | 6 | 2 |
+| **Total Sum** | 6.000 |  | -3718483200.000 | 120.000 | 60.000 |  | 384.000 |  |  |  | 78.000 | 19.000 |
+| **Mean μ (Average)** | 1.000 |  | -619747200.000 | 20.000 | 10.000 |  | 64.000 |  |  |  | 13.000 | 9.500 |
+| **Maximum** | 1.000 |  | -619747200.000 | 20.000 | 10.000 |  | 64.000 |  |  |  | 20.000 | 10.000 |
+| **75th Percentile** | 1.000 |  | -619747200.000 | 20.000 | 10.000 |  | 64.000 |  |  |  | 18.000 | 10.000 |
+| **Median** | 1.000 |  | -619747200.000 | 20.000 | 10.000 |  | 64.000 |  |  |  | 16.000 | 10.000 |
+| **25th Percentile** | 1.000 |  | -619747200.000 | 20.000 | 10.000 |  | 64.000 |  |  |  | 8.000 | 9.000 |
+| **Minimum** | 1.000 |  | -619747200.000 | 20.000 | 10.000 |  | 64.000 |  |  |  | 5.000 | 9.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 29.333 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.416 | 0.500 |
 

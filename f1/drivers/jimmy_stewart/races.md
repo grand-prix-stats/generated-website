@@ -24,22 +24,22 @@ collectionId: jimmy_stewart
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 11 | 8 |
-| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Peter Whitehead 🇬🇧](/f1/drivers/whitehead) | 14 | 9 |
-| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 21 | R |
-| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18 | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Tony Crook 🇬🇧](/f1/drivers/crook) | 25 | R |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18T00:00:00.000Z | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Ken Wharton 🇬🇧](/f1/drivers/wharton) | 11 | 8 |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18T00:00:00.000Z | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Peter Whitehead 🇬🇧](/f1/drivers/whitehead) | 14 | 9 |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18T00:00:00.000Z | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Alan Brown 🇬🇧](/f1/drivers/alan_brown) | 21 | R |
+| 1953 | 6 | 1953 British Grand Prix 🇬🇧 | 1953-07-18T00:00:00.000Z | 15 | R | 0.0 | 79 |   | Cooper 🇬🇧 | [Tony Crook 🇬🇧](/f1/drivers/crook) | 25 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
-| **Total Sum** | 24.000 |  |  | 60.000 |  |  | 316.000 |  |  |  | 71.000 | 17.000 |
-| **Mean μ (Average)** | 6.000 |  |  | 15.000 |  |  | 79.000 |  |  |  | 17.750 | 8.500 |
-| **Maximum** | 6.000 |  |  | 15.000 |  |  | 79.000 |  |  |  | 25.000 | 9.000 |
-| **75th Percentile** | 6.000 |  |  | 15.000 |  |  | 79.000 |  |  |  | 25.000 | 9.000 |
-| **Median** | 6.000 |  |  | 15.000 |  |  | 79.000 |  |  |  | 21.000 | 9.000 |
-| **25th Percentile** | 6.000 |  |  | 15.000 |  |  | 79.000 |  |  |  | 14.000 | 8.000 |
-| **Minimum** | 6.000 |  |  | 15.000 |  |  | 79.000 |  |  |  | 11.000 | 8.000 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 2 |
+| **Total Sum** | 24.000 |  | -2077401600.000 | 60.000 |  |  | 316.000 |  |  |  | 71.000 | 17.000 |
+| **Mean μ (Average)** | 6.000 |  | -519350400.000 | 15.000 |  |  | 79.000 |  |  |  | 17.750 | 8.500 |
+| **Maximum** | 6.000 |  | -519350400.000 | 15.000 |  |  | 79.000 |  |  |  | 25.000 | 9.000 |
+| **75th Percentile** | 6.000 |  | -519350400.000 | 15.000 |  |  | 79.000 |  |  |  | 25.000 | 9.000 |
+| **Median** | 6.000 |  | -519350400.000 | 15.000 |  |  | 79.000 |  |  |  | 21.000 | 9.000 |
+| **25th Percentile** | 6.000 |  | -519350400.000 | 15.000 |  |  | 79.000 |  |  |  | 14.000 | 8.000 |
+| **Minimum** | 6.000 |  | -519350400.000 | 15.000 |  |  | 79.000 |  |  |  | 11.000 | 8.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 30.688 | 0.250 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.540 | 0.500 |
 

@@ -25,64 +25,64 @@ collectionId: jerez
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                5.0,
-                4.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Podiums"
-        }
-    ],
-    "labels": [
-        "Alain Prost",
-        "Nigel Mansell",
-        "Alessandro Nannini",
-        "Ayrton Senna",
-        "Mika Häkkinen",
-        "Damon Hill",
-        "David Coulthard",
-        "Gerhard Berger",
-        "Jacques Villeneuve",
-        "Michael Schumacher",
-        "Stefan Johansson"
-    ]
+  "labels" : [
+    "Alain Prost",
+    "Nigel Mansell",
+    "Alessandro Nannini",
+    "Ayrton Senna",
+    "Mika Häkkinen",
+    "Damon Hill",
+    "David Coulthard",
+    "Gerhard Berger",
+    "Jacques Villeneuve",
+    "Michael Schumacher",
+    "Stefan Johansson"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Podiums",
+      "data" : [
+        5,
+        4,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

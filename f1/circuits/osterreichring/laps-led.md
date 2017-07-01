@@ -25,56 +25,56 @@ collectionId: osterreichring
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                136.0,
-                101.0,
-                71.0,
-                57.0,
-                37.0,
-                32.0,
-                31.0,
-                23.0,
-                7.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Mika Häkkinen",
-        "Rubens Barrichello",
-        "David Coulthard",
-        "Michael Schumacher",
-        "Jarno Trulli",
-        "Eddie Irvine",
-        "Jacques Villeneuve",
-        "Juan Pablo Montoya",
-        "Kimi Räikkönen"
-    ]
+  "labels" : [
+    "Mika Häkkinen",
+    "Rubens Barrichello",
+    "David Coulthard",
+    "Michael Schumacher",
+    "Jarno Trulli",
+    "Eddie Irvine",
+    "Jacques Villeneuve",
+    "Juan Pablo Montoya",
+    "Kimi Räikkönen"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        136,
+        101,
+        71,
+        57,
+        37,
+        32,
+        31,
+        23,
+        7
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

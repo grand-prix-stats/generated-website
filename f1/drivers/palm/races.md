@@ -24,23 +24,23 @@ collectionId: palm
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1975 | 7 | 1975 Swedish Grand Prix 🇸🇪 | 1975-06-08 | 21 | 10 | 0.0 | 78 |   | Hesketh 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 19 | 11 |
-| 1975 | 7 | 1975 Swedish Grand Prix 🇸🇪 | 1975-06-08 | 21 | 10 | 0.0 | 78 |   | Hesketh 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 13 | R |
-| 1975 | 5 | 1975 Monaco Grand Prix 🇲🇨 | 1975-05-11 | 0 | F | 0.0 | 0 |   | Hesketh 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 11 | R |
-| 1975 | 5 | 1975 Monaco Grand Prix 🇲🇨 | 1975-05-11 | 0 | F | 0.0 | 0 |   | Hesketh 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 18 | R |
+| 1975 | 7 | 1975 Swedish Grand Prix 🇸🇪 | 1975-06-08T00:00:00.000Z | 21 | 10 | 0.0 | 78 |   | Hesketh 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 19 | 11 |
+| 1975 | 7 | 1975 Swedish Grand Prix 🇸🇪 | 1975-06-08T00:00:00.000Z | 21 | 10 | 0.0 | 78 |   | Hesketh 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 13 | R |
+| 1975 | 5 | 1975 Monaco Grand Prix 🇲🇨 | 1975-05-11T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Hesketh 🇬🇧 | [James Hunt 🇬🇧](/f1/drivers/hunt) | 11 | R |
+| 1975 | 5 | 1975 Monaco Grand Prix 🇲🇨 | 1975-05-11T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Hesketh 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 18 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 | 2 | 4 | 4 |  |  |  | 4 | 1 |
-| **Total Sum** | 24.000 |  |  | 42.000 | 20.000 |  | 156.000 |  |  |  | 61.000 | 11.000 |
-| **Mean μ (Average)** | 6.000 |  |  | 10.500 | 10.000 |  | 39.000 |  |  |  | 15.250 | 11.000 |
-| **Maximum** | 7.000 |  |  | 21.000 | 10.000 |  | 78.000 |  |  |  | 19.000 | 11.000 |
-| **75th Percentile** | 7.000 |  |  | 21.000 | 10.000 |  | 78.000 |  |  |  | 19.000 | 11.000 |
-| **Median** | 7.000 |  |  | 21.000 | 10.000 |  | 78.000 |  |  |  | 18.000 | 11.000 |
-| **25th Percentile** | 5.000 |  |  |  | 10.000 |  |  |  |  |  | 13.000 | 11.000 |
-| **Minimum** | 5.000 |  |  |  | 10.000 |  |  |  |  |  | 11.000 | 11.000 |
-| **Variance** | 1.000 |  |  | 110.250 |  |  | 1521.000 |  |  |  | 11.188 |  |
-| **Standard Deviation σ** | 1.000 |  |  | 10.500 |  |  | 39.000 |  |  |  | 3.345 |  |
+| **Row Count** | 4 |  | 4 | 4 | 2 | 4 | 4 |  |  |  | 4 | 1 |
+| **Total Sum** | 24.000 |  | 680832000.000 | 42.000 | 20.000 |  | 156.000 |  |  |  | 61.000 | 11.000 |
+| **Mean μ (Average)** | 6.000 |  | 170208000.000 | 10.500 | 10.000 |  | 39.000 |  |  |  | 15.250 | 11.000 |
+| **Maximum** | 7.000 |  | 171417600.000 | 21.000 | 10.000 |  | 78.000 |  |  |  | 19.000 | 11.000 |
+| **75th Percentile** | 7.000 |  | 171417600.000 | 21.000 | 10.000 |  | 78.000 |  |  |  | 19.000 | 11.000 |
+| **Median** | 7.000 |  | 171417600.000 | 21.000 | 10.000 |  | 78.000 |  |  |  | 18.000 | 11.000 |
+| **25th Percentile** | 5.000 |  | 168998400.000 |  | 10.000 |  |  |  |  |  | 13.000 | 11.000 |
+| **Minimum** | 5.000 |  | 168998400.000 |  | 10.000 |  |  |  |  |  | 11.000 | 11.000 |
+| **Variance** | 1.000 |  | 1463132160000.000 | 110.250 |  |  | 1521.000 |  |  |  | 11.188 |  |
+| **Standard Deviation σ** | 1.000 |  | 1209600.000 | 10.500 |  |  | 39.000 |  |  |  | 3.345 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

@@ -24,19 +24,19 @@ collectionId: lotterer
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 2014 | 12 | 2014 Belgian Grand Prix 🇧🇪 | 2014-08-24 | 21 | R | 0.0 | 1 |   | Caterham 🇲🇾 | [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 22 | 17 |
+| 2014 | 12 | 2014 Belgian Grand Prix 🇧🇪 | 2014-08-24T00:00:00.000Z | 21 | R | 0.0 | 1 |   | Caterham 🇲🇾 | [Marcus Ericsson 🇸🇪](/f1/drivers/ericsson) | 22 | 17 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
-| **Total Sum** | 12.000 |  |  | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
-| **Mean μ (Average)** | 12.000 |  |  | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
-| **Maximum** | 12.000 |  |  | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
-| **75th Percentile** | 12.000 |  |  | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
-| **Median** | 12.000 |  |  | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
-| **25th Percentile** | 12.000 |  |  | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
-| **Minimum** | 12.000 |  |  | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 | 1 |
+| **Total Sum** | 12.000 |  | 1408838400.000 | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
+| **Mean μ (Average)** | 12.000 |  | 1408838400.000 | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
+| **Maximum** | 12.000 |  | 1408838400.000 | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
+| **75th Percentile** | 12.000 |  | 1408838400.000 | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
+| **Median** | 12.000 |  | 1408838400.000 | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
+| **25th Percentile** | 12.000 |  | 1408838400.000 | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
+| **Minimum** | 12.000 |  | 1408838400.000 | 21.000 |  |  | 1.000 |  |  |  | 22.000 | 17.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

@@ -24,21 +24,21 @@ collectionId: galica
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 19 | 5 |
-| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Brett Lunger 🇺🇸](/f1/drivers/lunger) | 18 | R |
-| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18 | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 26 | R |
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Alan Jones 🇦🇺](/f1/drivers/jones) | 19 | 5 |
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Brett Lunger 🇺🇸](/f1/drivers/lunger) | 18 | R |
+| 1976 | 9 | 1976 British Grand Prix 🇬🇧 | 1976-07-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Surtees 🇬🇧 | [Henri Pescarolo 🇫🇷](/f1/drivers/pescarolo) | 26 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
-| **Total Sum** | 27.000 |  |  |  |  |  |  |  |  |  | 63.000 | 5.000 |
-| **Mean μ (Average)** | 9.000 |  |  |  |  |  |  |  |  |  | 21.000 | 5.000 |
-| **Maximum** | 9.000 |  |  |  |  |  |  |  |  |  | 26.000 | 5.000 |
-| **75th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 26.000 | 5.000 |
-| **Median** | 9.000 |  |  |  |  |  |  |  |  |  | 19.000 | 5.000 |
-| **25th Percentile** | 9.000 |  |  |  |  |  |  |  |  |  | 18.000 | 5.000 |
-| **Minimum** | 9.000 |  |  |  |  |  |  |  |  |  | 18.000 | 5.000 |
+| **Row Count** | 3 |  | 3 | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 27.000 |  | 619488000.000 |  |  |  |  |  |  |  | 63.000 | 5.000 |
+| **Mean μ (Average)** | 9.000 |  | 206496000.000 |  |  |  |  |  |  |  | 21.000 | 5.000 |
+| **Maximum** | 9.000 |  | 206496000.000 |  |  |  |  |  |  |  | 26.000 | 5.000 |
+| **75th Percentile** | 9.000 |  | 206496000.000 |  |  |  |  |  |  |  | 26.000 | 5.000 |
+| **Median** | 9.000 |  | 206496000.000 |  |  |  |  |  |  |  | 19.000 | 5.000 |
+| **25th Percentile** | 9.000 |  | 206496000.000 |  |  |  |  |  |  |  | 18.000 | 5.000 |
+| **Minimum** | 9.000 |  | 206496000.000 |  |  |  |  |  |  |  | 18.000 | 5.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 12.667 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.559 |  |
 

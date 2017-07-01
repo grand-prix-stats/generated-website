@@ -25,52 +25,52 @@ collectionId: jacarepagua
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Number Of Starts From P1"
-        }
-    ],
-    "labels": [
-        "Ayrton Senna",
-        "Alain Prost",
-        "Elio de Angelis",
-        "Keke Rosberg",
-        "Michele Alboreto",
-        "Nelson Piquet",
-        "Nigel Mansell",
-        "Ronnie Peterson"
-    ]
+  "labels" : [
+    "Ayrton Senna",
+    "Alain Prost",
+    "Elio de Angelis",
+    "Keke Rosberg",
+    "Michele Alboreto",
+    "Nelson Piquet",
+    "Nigel Mansell",
+    "Ronnie Peterson"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Starts From P1",
+      "data" : [
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

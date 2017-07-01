@@ -1,7 +1,7 @@
 {
-    "code": "mx",
-    "collection_name": "Mexico 🇲🇽",
-    "countryRef": "mexico",
-    "flag": "🇲🇽",
-    "name": "Mexico"
+  "countryRef" : "mexico",
+  "name" : "Mexico",
+  "flag" : "🇲🇽",
+  "collection_name" : "Mexico 🇲🇽",
+  "code" : "mx"
 }

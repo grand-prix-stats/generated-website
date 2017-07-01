@@ -1,7 +1,7 @@
 {
-    "code": "pl",
-    "collection_name": "Poland 🇵🇱",
-    "countryRef": "poland",
-    "flag": "🇵🇱",
-    "name": "Poland"
+  "countryRef" : "poland",
+  "name" : "Poland",
+  "flag" : "🇵🇱",
+  "collection_name" : "Poland 🇵🇱",
+  "code" : "pl"
 }

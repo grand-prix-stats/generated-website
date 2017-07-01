@@ -25,72 +25,72 @@ collectionId: indianapolis
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                338.0,
-                67.0,
-                66.0,
-                31.0,
-                30.0,
-                18.0,
-                15.0,
-                7.0,
-                5.0,
-                2.0,
-                2.0,
-                2.0,
-                1.0
-            ],
-            "label": "Number Of Laps Led"
-        }
-    ],
-    "labels": [
-        "Michael Schumacher",
-        "Rubens Barrichello",
-        "Lewis Hamilton",
-        "Mika Häkkinen",
-        "Felipe Massa",
-        "Kimi Räikkönen",
-        "Jenson Button",
-        "David Coulthard",
-        "Heikki Kovalainen",
-        "Fernando Alonso",
-        "Juan Pablo Montoya",
-        "Mark Webber",
-        "Heinz-Harald Frentzen"
-    ]
+  "labels" : [
+    "Michael Schumacher",
+    "Rubens Barrichello",
+    "Lewis Hamilton",
+    "Mika Häkkinen",
+    "Felipe Massa",
+    "Kimi Räikkönen",
+    "Jenson Button",
+    "David Coulthard",
+    "Heikki Kovalainen",
+    "Fernando Alonso",
+    "Juan Pablo Montoya",
+    "Mark Webber",
+    "Heinz-Harald Frentzen"
+  ],
+  "datasets" : [
+    {
+      "label" : "Number Of Laps Led",
+      "data" : [
+        338,
+        67,
+        66,
+        31,
+        30,
+        18,
+        15,
+        7,
+        5,
+        2,
+        2,
+        2,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

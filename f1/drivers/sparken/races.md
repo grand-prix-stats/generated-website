@@ -24,20 +24,20 @@ collectionId: sparken
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1955 | 6 | 1955 British Grand Prix 🇬🇧 | 1955-07-16 | 23 | 7 | 0.0 | 81 |   | Gordini 🇫🇷 | [Hernando da Silva Ramos 🇧🇷](/f1/drivers/ramos) | 18 | R |
-| 1955 | 6 | 1955 British Grand Prix 🇬🇧 | 1955-07-16 | 23 | 7 | 0.0 | 81 |   | Gordini 🇫🇷 | [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 11 | R |
+| 1955 | 6 | 1955 British Grand Prix 🇬🇧 | 1955-07-16T00:00:00.000Z | 23 | 7 | 0.0 | 81 |   | Gordini 🇫🇷 | [Hernando da Silva Ramos 🇧🇷](/f1/drivers/ramos) | 18 | R |
+| 1955 | 6 | 1955 British Grand Prix 🇬🇧 | 1955-07-16T00:00:00.000Z | 23 | 7 | 0.0 | 81 |   | Gordini 🇫🇷 | [Robert Manzon 🇫🇷](/f1/drivers/manzon) | 11 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 | 2 | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 12.000 |  |  | 46.000 | 14.000 |  | 162.000 |  |  |  | 29.000 |  |
-| **Mean μ (Average)** | 6.000 |  |  | 23.000 | 7.000 |  | 81.000 |  |  |  | 14.500 |  |
-| **Maximum** | 6.000 |  |  | 23.000 | 7.000 |  | 81.000 |  |  |  | 18.000 |  |
-| **75th Percentile** | 6.000 |  |  | 23.000 | 7.000 |  | 81.000 |  |  |  | 18.000 |  |
-| **Median** | 6.000 |  |  | 23.000 | 7.000 |  | 81.000 |  |  |  | 18.000 |  |
-| **25th Percentile** | 6.000 |  |  | 23.000 | 7.000 |  | 81.000 |  |  |  | 11.000 |  |
-| **Minimum** | 6.000 |  |  | 23.000 | 7.000 |  | 81.000 |  |  |  | 11.000 |  |
+| **Row Count** | 2 |  | 2 | 2 | 2 | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 12.000 |  | -912902400.000 | 46.000 | 14.000 |  | 162.000 |  |  |  | 29.000 |  |
+| **Mean μ (Average)** | 6.000 |  | -456451200.000 | 23.000 | 7.000 |  | 81.000 |  |  |  | 14.500 |  |
+| **Maximum** | 6.000 |  | -456451200.000 | 23.000 | 7.000 |  | 81.000 |  |  |  | 18.000 |  |
+| **75th Percentile** | 6.000 |  | -456451200.000 | 23.000 | 7.000 |  | 81.000 |  |  |  | 18.000 |  |
+| **Median** | 6.000 |  | -456451200.000 | 23.000 | 7.000 |  | 81.000 |  |  |  | 18.000 |  |
+| **25th Percentile** | 6.000 |  | -456451200.000 | 23.000 | 7.000 |  | 81.000 |  |  |  | 11.000 |  |
+| **Minimum** | 6.000 |  | -456451200.000 | 23.000 | 7.000 |  | 81.000 |  |  |  | 11.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 12.250 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.500 |  |
 

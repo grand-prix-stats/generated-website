@@ -1,7 +1,7 @@
 {
-    "code": "bh",
-    "collection_name": "Bahrain 🇧🇭",
-    "countryRef": "bahrain",
-    "flag": "🇧🇭",
-    "name": "Bahrain"
+  "countryRef" : "bahrain",
+  "name" : "Bahrain",
+  "flag" : "🇧🇭",
+  "collection_name" : "Bahrain 🇧🇭",
+  "code" : "bh"
 }

@@ -24,26 +24,26 @@ collectionId: adolff
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 3 | 1 |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 4 | 3 |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Jacques Swaters 🇺🇸](/f1/drivers/swaters) | 19 | 7 |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 | 8 |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 22 | 10 |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 6 | R |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 1 | 8 |
-| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02 | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 6 | R |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Nino Farina 🇮🇹](/f1/drivers/farina) | 3 | 1 |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Mike Hawthorn 🇬🇧](/f1/drivers/hawthorn) | 4 | 3 |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Jacques Swaters 🇺🇸](/f1/drivers/swaters) | 19 | 7 |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 1 | 8 |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Louis Rosier 🇫🇷](/f1/drivers/rosier) | 22 | 10 |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 6 | R |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Luigi Villoresi 🇮🇹](/f1/drivers/villoresi) | 1 | 8 |
+| 1953 | 7 | 1953 German Grand Prix 🇩🇪 | 1953-08-02T00:00:00.000Z | 27 | R | 0.0 | 3 |   | Ferrari 🇮🇹 | [Alberto Ascari 🇮🇹](/f1/drivers/ascari) | 6 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 8 |  |  | 8 |  | 8 | 8 |  |  |  | 8 | 6 |
-| **Total Sum** | 56.000 |  |  | 216.000 |  |  | 24.000 |  |  |  | 62.000 | 37.000 |
-| **Mean μ (Average)** | 7.000 |  |  | 27.000 |  |  | 3.000 |  |  |  | 7.750 | 6.167 |
-| **Maximum** | 7.000 |  |  | 27.000 |  |  | 3.000 |  |  |  | 22.000 | 10.000 |
-| **75th Percentile** | 7.000 |  |  | 27.000 |  |  | 3.000 |  |  |  | 19.000 | 8.000 |
-| **Median** | 7.000 |  |  | 27.000 |  |  | 3.000 |  |  |  | 6.000 | 8.000 |
-| **25th Percentile** | 7.000 |  |  | 27.000 |  |  | 3.000 |  |  |  | 3.000 | 3.000 |
-| **Minimum** | 7.000 |  |  | 27.000 |  |  | 3.000 |  |  |  | 1.000 | 1.000 |
+| **Row Count** | 8 |  | 8 | 8 |  | 8 | 8 |  |  |  | 8 | 6 |
+| **Total Sum** | 56.000 |  | -4144435200.000 | 216.000 |  |  | 24.000 |  |  |  | 62.000 | 37.000 |
+| **Mean μ (Average)** | 7.000 |  | -518054400.000 | 27.000 |  |  | 3.000 |  |  |  | 7.750 | 6.167 |
+| **Maximum** | 7.000 |  | -518054400.000 | 27.000 |  |  | 3.000 |  |  |  | 22.000 | 10.000 |
+| **75th Percentile** | 7.000 |  | -518054400.000 | 27.000 |  |  | 3.000 |  |  |  | 19.000 | 8.000 |
+| **Median** | 7.000 |  | -518054400.000 | 27.000 |  |  | 3.000 |  |  |  | 6.000 | 8.000 |
+| **25th Percentile** | 7.000 |  | -518054400.000 | 27.000 |  |  | 3.000 |  |  |  | 3.000 | 3.000 |
+| **Minimum** | 7.000 |  | -518054400.000 | 27.000 |  |  | 3.000 |  |  |  | 1.000 | 1.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 57.938 | 9.806 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 7.612 | 3.131 |
 

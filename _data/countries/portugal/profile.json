@@ -1,7 +1,7 @@
 {
-    "code": "pt",
-    "collection_name": "Portugal 🇵🇹",
-    "countryRef": "portugal",
-    "flag": "🇵🇹",
-    "name": "Portugal"
+  "countryRef" : "portugal",
+  "name" : "Portugal",
+  "flag" : "🇵🇹",
+  "collection_name" : "Portugal 🇵🇹",
+  "code" : "pt"
 }

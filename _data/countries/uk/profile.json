@@ -1,7 +1,7 @@
 {
-    "code": "gb",
-    "collection_name": "UK 🇬🇧",
-    "countryRef": "uk",
-    "flag": "🇬🇧",
-    "name": "UK"
+  "countryRef" : "uk",
+  "name" : "UK",
+  "flag" : "🇬🇧",
+  "collection_name" : "UK 🇬🇧",
+  "code" : "gb"
 }

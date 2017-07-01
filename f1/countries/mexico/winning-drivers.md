@@ -25,76 +25,76 @@ collectionId: mexico
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                2.0,
-                2.0,
-                2.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Times"
-        }
-    ],
-    "labels": [
-        "Alain Prost",
-        "Jim Clark",
-        "Nigel Mansell",
-        "Ayrton Senna",
-        "Dan Gurney",
-        "Denny Hulme",
-        "Gerhard Berger",
-        "Graham Hill",
-        "Jacky Ickx",
-        "John Surtees",
-        "Lewis Hamilton",
-        "Nico Rosberg",
-        "Riccardo Patrese",
-        "Richie Ginther"
-    ]
+  "labels" : [
+    "Alain Prost",
+    "Jim Clark",
+    "Nigel Mansell",
+    "Ayrton Senna",
+    "Dan Gurney",
+    "Denny Hulme",
+    "Gerhard Berger",
+    "Graham Hill",
+    "Jacky Ickx",
+    "John Surtees",
+    "Lewis Hamilton",
+    "Nico Rosberg",
+    "Riccardo Patrese",
+    "Richie Ginther"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

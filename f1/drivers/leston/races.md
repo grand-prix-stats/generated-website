@@ -24,23 +24,23 @@ collectionId: leston
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20 | 12 | R | 0.0 | 44 |   | BRM 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 16 | R |
-| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19 | 0 | F | 0.0 | 0 |   | Cooper 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 15 | 6 |
-| 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 20 | R | 0.0 | 6 |   | Connaught 🇬🇧 | [Ron Flockhart 🇬🇧](/f1/drivers/flockhart) | 26 | 3 |
-| 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02 | 20 | R | 0.0 | 6 |   | Connaught 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 16 | 5 |
+| 1957 | 5 | 1957 British Grand Prix 🇬🇧 | 1957-07-20T00:00:00.000Z | 12 | R | 0.0 | 44 |   | BRM 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 16 | R |
+| 1957 | 2 | 1957 Monaco Grand Prix 🇲🇨 | 1957-05-19T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Cooper 🇬🇧 | [Jack Brabham 🇦🇺](/f1/drivers/jack_brabham) | 15 | 6 |
+| 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02T00:00:00.000Z | 20 | R | 0.0 | 6 |   | Connaught 🇬🇧 | [Ron Flockhart 🇬🇧](/f1/drivers/flockhart) | 26 | 3 |
+| 1956 | 8 | 1956 Italian Grand Prix 🇮🇹 | 1956-09-02T00:00:00.000Z | 20 | R | 0.0 | 6 |   | Connaught 🇬🇧 | [Jack Fairman 🇬🇧](/f1/drivers/fairman) | 16 | 5 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
-| **Total Sum** | 23.000 |  |  | 52.000 |  |  | 56.000 |  |  |  | 73.000 | 14.000 |
-| **Mean μ (Average)** | 5.750 |  |  | 13.000 |  |  | 14.000 |  |  |  | 18.250 | 4.667 |
-| **Maximum** | 8.000 |  |  | 20.000 |  |  | 44.000 |  |  |  | 26.000 | 6.000 |
-| **75th Percentile** | 8.000 |  |  | 20.000 |  |  | 44.000 |  |  |  | 26.000 | 6.000 |
-| **Median** | 8.000 |  |  | 20.000 |  |  | 6.000 |  |  |  | 16.000 | 5.000 |
-| **25th Percentile** | 5.000 |  |  | 12.000 |  |  | 6.000 |  |  |  | 16.000 | 3.000 |
-| **Minimum** | 2.000 |  |  |  |  |  |  |  |  |  | 15.000 | 3.000 |
-| **Variance** | 6.188 |  |  | 67.000 |  |  | 306.000 |  |  |  | 20.188 | 1.556 |
-| **Standard Deviation σ** | 2.487 |  |  | 8.185 |  |  | 17.493 |  |  |  | 4.493 | 1.247 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 3 |
+| **Total Sum** | 23.000 |  | -1632614400.000 | 52.000 |  |  | 56.000 |  |  |  | 73.000 | 14.000 |
+| **Mean μ (Average)** | 5.750 |  | -408153600.000 | 13.000 |  |  | 14.000 |  |  |  | 18.250 | 4.667 |
+| **Maximum** | 8.000 |  | -392947200.000 | 20.000 |  |  | 44.000 |  |  |  | 26.000 | 6.000 |
+| **75th Percentile** | 8.000 |  | -392947200.000 | 20.000 |  |  | 44.000 |  |  |  | 26.000 | 6.000 |
+| **Median** | 8.000 |  | -398304000.000 | 20.000 |  |  | 6.000 |  |  |  | 16.000 | 5.000 |
+| **25th Percentile** | 5.000 |  | -420681600.000 | 12.000 |  |  | 6.000 |  |  |  | 16.000 | 3.000 |
+| **Minimum** | 2.000 |  | -420681600.000 |  |  |  |  |  |  |  | 15.000 | 3.000 |
+| **Variance** | 6.188 |  | 160537697280000.000 | 67.000 |  |  | 306.000 |  |  |  | 20.188 | 1.556 |
+| **Standard Deviation σ** | 2.487 |  | 12670347.165 | 8.185 |  |  | 17.493 |  |  |  | 4.493 | 1.247 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

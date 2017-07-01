@@ -24,21 +24,21 @@ collectionId: balsa
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 25 | R | 0.0 | 5 |   | BMW 🇩🇪 | [Ernst Klodwig 🇩🇪](/f1/drivers/klodwig) | 29 | 12 |
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 25 | R | 0.0 | 5 |   | BMW 🇩🇪 | [Günther Bechem 🇩🇪](/f1/drivers/bechem) | 30 | R |
-| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03 | 25 | R | 0.0 | 5 |   | BMW 🇩🇪 | [Rudolf Krause 🇩🇪](/f1/drivers/krause) | 23 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03T00:00:00.000Z | 25 | R | 0.0 | 5 |   | BMW 🇩🇪 | [Ernst Klodwig 🇩🇪](/f1/drivers/klodwig) | 29 | 12 |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03T00:00:00.000Z | 25 | R | 0.0 | 5 |   | BMW 🇩🇪 | [Günther Bechem 🇩🇪](/f1/drivers/bechem) | 30 | R |
+| 1952 | 6 | 1952 German Grand Prix 🇩🇪 | 1952-08-03T00:00:00.000Z | 25 | R | 0.0 | 5 |   | BMW 🇩🇪 | [Rudolf Krause 🇩🇪](/f1/drivers/krause) | 23 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
-| **Total Sum** | 18.000 |  |  | 75.000 |  |  | 15.000 |  |  |  | 82.000 | 12.000 |
-| **Mean μ (Average)** | 6.000 |  |  | 25.000 |  |  | 5.000 |  |  |  | 27.333 | 12.000 |
-| **Maximum** | 6.000 |  |  | 25.000 |  |  | 5.000 |  |  |  | 30.000 | 12.000 |
-| **75th Percentile** | 6.000 |  |  | 25.000 |  |  | 5.000 |  |  |  | 30.000 | 12.000 |
-| **Median** | 6.000 |  |  | 25.000 |  |  | 5.000 |  |  |  | 29.000 | 12.000 |
-| **25th Percentile** | 6.000 |  |  | 25.000 |  |  | 5.000 |  |  |  | 23.000 | 12.000 |
-| **Minimum** | 6.000 |  |  | 25.000 |  |  | 5.000 |  |  |  | 23.000 | 12.000 |
+| **Row Count** | 3 |  | 3 | 3 |  | 3 | 3 |  |  |  | 3 | 1 |
+| **Total Sum** | 18.000 |  | -1648512000.000 | 75.000 |  |  | 15.000 |  |  |  | 82.000 | 12.000 |
+| **Mean μ (Average)** | 6.000 |  | -549504000.000 | 25.000 |  |  | 5.000 |  |  |  | 27.333 | 12.000 |
+| **Maximum** | 6.000 |  | -549504000.000 | 25.000 |  |  | 5.000 |  |  |  | 30.000 | 12.000 |
+| **75th Percentile** | 6.000 |  | -549504000.000 | 25.000 |  |  | 5.000 |  |  |  | 30.000 | 12.000 |
+| **Median** | 6.000 |  | -549504000.000 | 25.000 |  |  | 5.000 |  |  |  | 29.000 | 12.000 |
+| **25th Percentile** | 6.000 |  | -549504000.000 | 25.000 |  |  | 5.000 |  |  |  | 23.000 | 12.000 |
+| **Minimum** | 6.000 |  | -549504000.000 | 25.000 |  |  | 5.000 |  |  |  | 23.000 | 12.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 9.556 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 3.091 |  |
 

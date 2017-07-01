@@ -1,7 +1,7 @@
 {
-    "code": "us",
-    "collection_name": "USA 🇺🇸",
-    "countryRef": "usa",
-    "flag": "🇺🇸",
-    "name": "USA"
+  "countryRef" : "usa",
+  "name" : "USA",
+  "flag" : "🇺🇸",
+  "collection_name" : "USA 🇺🇸",
+  "code" : "us"
 }

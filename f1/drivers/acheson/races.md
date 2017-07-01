@@ -24,21 +24,21 @@ collectionId: acheson
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1985 | 12 | 1985 Italian Grand Prix 🇮🇹 | 1985-09-08 | 24 | R | 0.0 | 2 |   | RAM 🇬🇧 | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 26 | R |
-| 1985 | 10 | 1985 Austrian Grand Prix 🇦🇹 | 1985-08-18 | 23 | R | 0.0 | 28 |   | RAM 🇬🇧 | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 21 | R |
+| 1985 | 12 | 1985 Italian Grand Prix 🇮🇹 | 1985-09-08T00:00:00.000Z | 24 | R | 0.0 | 2 |   | RAM 🇬🇧 | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 26 | R |
+| 1985 | 10 | 1985 Austrian Grand Prix 🇦🇹 | 1985-08-18T00:00:00.000Z | 23 | R | 0.0 | 28 |   | RAM 🇬🇧 | [Philippe Alliot 🇫🇷](/f1/drivers/alliot) | 21 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 22.000 |  |  | 47.000 |  |  | 30.000 |  |  |  | 47.000 |  |
-| **Mean μ (Average)** | 11.000 |  |  | 23.500 |  |  | 15.000 |  |  |  | 23.500 |  |
-| **Maximum** | 12.000 |  |  | 24.000 |  |  | 28.000 |  |  |  | 26.000 |  |
-| **75th Percentile** | 12.000 |  |  | 24.000 |  |  | 28.000 |  |  |  | 26.000 |  |
-| **Median** | 12.000 |  |  | 24.000 |  |  | 28.000 |  |  |  | 26.000 |  |
-| **25th Percentile** | 10.000 |  |  | 23.000 |  |  | 2.000 |  |  |  | 21.000 |  |
-| **Minimum** | 10.000 |  |  | 23.000 |  |  | 2.000 |  |  |  | 21.000 |  |
-| **Variance** | 1.000 |  |  | 0.250 |  |  | 169.000 |  |  |  | 6.250 |  |
-| **Standard Deviation σ** | 1.000 |  |  | 0.500 |  |  | 13.000 |  |  |  | 2.500 |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 22.000 |  | 988156800.000 | 47.000 |  |  | 30.000 |  |  |  | 47.000 |  |
+| **Mean μ (Average)** | 11.000 |  | 494078400.000 | 23.500 |  |  | 15.000 |  |  |  | 23.500 |  |
+| **Maximum** | 12.000 |  | 494985600.000 | 24.000 |  |  | 28.000 |  |  |  | 26.000 |  |
+| **75th Percentile** | 12.000 |  | 494985600.000 | 24.000 |  |  | 28.000 |  |  |  | 26.000 |  |
+| **Median** | 12.000 |  | 494985600.000 | 24.000 |  |  | 28.000 |  |  |  | 26.000 |  |
+| **25th Percentile** | 10.000 |  | 493171200.000 | 23.000 |  |  | 2.000 |  |  |  | 21.000 |  |
+| **Minimum** | 10.000 |  | 493171200.000 | 23.000 |  |  | 2.000 |  |  |  | 21.000 |  |
+| **Variance** | 1.000 |  | 823011840000.000 | 0.250 |  |  | 169.000 |  |  |  | 6.250 |  |
+| **Standard Deviation σ** | 1.000 |  | 907200.000 | 0.500 |  |  | 13.000 |  |  |  | 2.500 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

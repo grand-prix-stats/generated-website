@@ -1,7 +1,7 @@
 {
-    "code": "ch",
-    "collection_name": "Switzerland 🇨🇭",
-    "countryRef": "switzerland",
-    "flag": "🇨🇭",
-    "name": "Switzerland"
+  "countryRef" : "switzerland",
+  "name" : "Switzerland",
+  "flag" : "🇨🇭",
+  "collection_name" : "Switzerland 🇨🇭",
+  "code" : "ch"
 }

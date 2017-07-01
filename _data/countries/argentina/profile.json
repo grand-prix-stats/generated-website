@@ -1,7 +1,7 @@
 {
-    "code": "ar",
-    "collection_name": "Argentina 🇦🇷",
-    "countryRef": "argentina",
-    "flag": "🇦🇷",
-    "name": "Argentina"
+  "countryRef" : "argentina",
+  "name" : "Argentina",
+  "flag" : "🇦🇷",
+  "collection_name" : "Argentina 🇦🇷",
+  "code" : "ar"
 }

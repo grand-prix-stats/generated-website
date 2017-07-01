@@ -1,7 +1,7 @@
 {
-    "code": "br",
-    "collection_name": "Brazil 🇧🇷",
-    "countryRef": "brazil",
-    "flag": "🇧🇷",
-    "name": "Brazil"
+  "countryRef" : "brazil",
+  "name" : "Brazil",
+  "flag" : "🇧🇷",
+  "collection_name" : "Brazil 🇧🇷",
+  "code" : "br"
 }

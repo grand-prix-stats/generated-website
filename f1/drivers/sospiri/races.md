@@ -24,19 +24,19 @@ collectionId: sospiri
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1997 | 1 | 1997 Australian Grand Prix 🇦🇺 | 1997-03-09 | 23 | F | 0.0 | 0 |   | Lola 🇬🇧 | [Ricardo Rosset 🇧🇷](/f1/drivers/rosset) | 24 | F |
+| 1997 | 1 | 1997 Australian Grand Prix 🇦🇺 | 1997-03-09T00:00:00.000Z | 23 | F | 0.0 | 0 |   | Lola 🇬🇧 | [Ricardo Rosset 🇧🇷](/f1/drivers/rosset) | 24 | F |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
-| **Mean μ (Average)** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
-| **Maximum** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
-| **75th Percentile** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
-| **Median** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
-| **25th Percentile** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
-| **Minimum** | 1.000 |  |  | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 1.000 |  | 857865600.000 | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Mean μ (Average)** | 1.000 |  | 857865600.000 | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Maximum** | 1.000 |  | 857865600.000 | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **75th Percentile** | 1.000 |  | 857865600.000 | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Median** | 1.000 |  | 857865600.000 | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **25th Percentile** | 1.000 |  | 857865600.000 | 23.000 |  |  |  |  |  |  | 24.000 |  |
+| **Minimum** | 1.000 |  | 857865600.000 | 23.000 |  |  |  |  |  |  | 24.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 

@@ -24,23 +24,23 @@ collectionId: pian
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 8 | 3 |
-| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Prince Bira 🇹🇭](/f1/drivers/bira) | 15 | 5 |
-| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 3 | R |
-| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 12 | R |
-| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21 | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Franco Rol 🇮🇹](/f1/drivers/rol) | 17 | R |
+| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21T00:00:00.000Z | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Louis Chiron 🇲🇨](/f1/drivers/chiron) | 8 | 3 |
+| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21T00:00:00.000Z | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Prince Bira 🇹🇭](/f1/drivers/bira) | 15 | 5 |
+| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21T00:00:00.000Z | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [José Froilán González 🇦🇷](/f1/drivers/gonzalez) | 3 | R |
+| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21T00:00:00.000Z | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Toulo de Graffenried 🇨🇭](/f1/drivers/graffenried) | 12 | R |
+| 1950 | 2 | 1950 Monaco Grand Prix 🇲🇨 | 1950-05-21T00:00:00.000Z | 18 | W | 0.0 | 0 |   | Maserati 🇮🇹 | [Franco Rol 🇮🇹](/f1/drivers/rol) | 17 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 5 |  |  | 5 |  | 5 | 5 |  |  |  | 5 | 2 |
-| **Total Sum** | 10.000 |  |  | 90.000 |  |  |  |  |  |  | 55.000 | 8.000 |
-| **Mean μ (Average)** | 2.000 |  |  | 18.000 |  |  |  |  |  |  | 11.000 | 4.000 |
-| **Maximum** | 2.000 |  |  | 18.000 |  |  |  |  |  |  | 17.000 | 5.000 |
-| **75th Percentile** | 2.000 |  |  | 18.000 |  |  |  |  |  |  | 15.000 | 5.000 |
-| **Median** | 2.000 |  |  | 18.000 |  |  |  |  |  |  | 12.000 | 5.000 |
-| **25th Percentile** | 2.000 |  |  | 18.000 |  |  |  |  |  |  | 8.000 | 3.000 |
-| **Minimum** | 2.000 |  |  | 18.000 |  |  |  |  |  |  | 3.000 | 3.000 |
+| **Row Count** | 5 |  | 5 | 5 |  | 5 | 5 |  |  |  | 5 | 2 |
+| **Total Sum** | 10.000 |  | -3095280000.000 | 90.000 |  |  |  |  |  |  | 55.000 | 8.000 |
+| **Mean μ (Average)** | 2.000 |  | -619056000.000 | 18.000 |  |  |  |  |  |  | 11.000 | 4.000 |
+| **Maximum** | 2.000 |  | -619056000.000 | 18.000 |  |  |  |  |  |  | 17.000 | 5.000 |
+| **75th Percentile** | 2.000 |  | -619056000.000 | 18.000 |  |  |  |  |  |  | 15.000 | 5.000 |
+| **Median** | 2.000 |  | -619056000.000 | 18.000 |  |  |  |  |  |  | 12.000 | 5.000 |
+| **25th Percentile** | 2.000 |  | -619056000.000 | 18.000 |  |  |  |  |  |  | 8.000 | 3.000 |
+| **Minimum** | 2.000 |  | -619056000.000 | 18.000 |  |  |  |  |  |  | 3.000 | 3.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 25.200 | 1.000 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.020 | 1.000 |
 

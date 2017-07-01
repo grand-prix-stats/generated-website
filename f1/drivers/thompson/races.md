@@ -24,21 +24,21 @@ collectionId: thompson
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 9 | 5 | 2.0 | 82 |   | Connaught 🇬🇧 | [Dennis Poore 🇬🇧](/f1/drivers/poore) | 8 | 4 |
-| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 9 | 5 | 2.0 | 82 |   | Connaught 🇬🇧 | [Ken Downing 🇬🇧](/f1/drivers/downing) | 5 | 9 |
-| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19 | 9 | 5 | 2.0 | 82 |   | Connaught 🇬🇧 | [Kenneth McAlpine 🇬🇧](/f1/drivers/mcalpine) | 17 | 16 |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19T00:00:00.000Z | 9 | 5 | 2.0 | 82 |   | Connaught 🇬🇧 | [Dennis Poore 🇬🇧](/f1/drivers/poore) | 8 | 4 |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19T00:00:00.000Z | 9 | 5 | 2.0 | 82 |   | Connaught 🇬🇧 | [Ken Downing 🇬🇧](/f1/drivers/downing) | 5 | 9 |
+| 1952 | 5 | 1952 British Grand Prix 🇬🇧 | 1952-07-19T00:00:00.000Z | 9 | 5 | 2.0 | 82 |   | Connaught 🇬🇧 | [Kenneth McAlpine 🇬🇧](/f1/drivers/mcalpine) | 17 | 16 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 3 |  |  | 3 | 3 | 3 | 3 |  |  |  | 3 | 3 |
-| **Total Sum** | 15.000 |  |  | 27.000 | 15.000 | 6.000 | 246.000 |  |  |  | 30.000 | 29.000 |
-| **Mean μ (Average)** | 5.000 |  |  | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 10.000 | 9.667 |
-| **Maximum** | 5.000 |  |  | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 17.000 | 16.000 |
-| **75th Percentile** | 5.000 |  |  | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 17.000 | 16.000 |
-| **Median** | 5.000 |  |  | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 8.000 | 9.000 |
-| **25th Percentile** | 5.000 |  |  | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 5.000 | 4.000 |
-| **Minimum** | 5.000 |  |  | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 5.000 | 4.000 |
+| **Row Count** | 3 |  | 3 | 3 | 3 | 3 | 3 |  |  |  | 3 | 3 |
+| **Total Sum** | 15.000 |  | -1652400000.000 | 27.000 | 15.000 | 6.000 | 246.000 |  |  |  | 30.000 | 29.000 |
+| **Mean μ (Average)** | 5.000 |  | -550800000.000 | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 10.000 | 9.667 |
+| **Maximum** | 5.000 |  | -550800000.000 | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 17.000 | 16.000 |
+| **75th Percentile** | 5.000 |  | -550800000.000 | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 17.000 | 16.000 |
+| **Median** | 5.000 |  | -550800000.000 | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 8.000 | 9.000 |
+| **25th Percentile** | 5.000 |  | -550800000.000 | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 5.000 | 4.000 |
+| **Minimum** | 5.000 |  | -550800000.000 | 9.000 | 5.000 | 2.000 | 82.000 |  |  |  | 5.000 | 4.000 |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 26.000 | 24.222 |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 5.099 | 4.922 |
 

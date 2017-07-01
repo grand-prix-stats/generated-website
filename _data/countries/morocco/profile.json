@@ -1,7 +1,7 @@
 {
-    "code": "ma",
-    "collection_name": "Morocco 🇲🇦",
-    "countryRef": "morocco",
-    "flag": "🇲🇦",
-    "name": "Morocco"
+  "countryRef" : "morocco",
+  "name" : "Morocco",
+  "flag" : "🇲🇦",
+  "collection_name" : "Morocco 🇲🇦",
+  "code" : "ma"
 }

@@ -1,13 +1,13 @@
 [
-    {
-        "champion_constructors": 17,
-        "champion_drivers": 33,
-        "circuits": 73,
-        "constructors": 204,
-        "countries": 46,
-        "driver_nationalities": 41,
-        "drivers": 840,
-        "races": 976,
-        "seasons": 68
-    }
+  {
+    "champion_drivers" : 33,
+    "countries" : 46,
+    "seasons" : 68,
+    "races" : 976,
+    "driver_nationalities" : 41,
+    "champion_constructors" : 17,
+    "constructors" : 204,
+    "circuits" : 73,
+    "drivers" : 840
+  }
 ]

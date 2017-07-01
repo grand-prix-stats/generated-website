@@ -24,24 +24,24 @@ collectionId: koinigg
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1974 | 15 | 1974 United States Grand Prix 🇺🇸 | 1974-10-06 | 23 | R | 0.0 | 9 |   | Surtees 🇬🇧 | [José Dolhem 🇫🇷](/f1/drivers/dolhem) | 26 | W |
-| 1974 | 14 | 1974 Canadian Grand Prix 🇨🇦 | 1974-09-22 | 22 | 10 | 0.0 | 78 |   | Surtees 🇬🇧 | [Derek Bell 🇬🇧](/f1/drivers/bell) | 0 | F |
-| 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | 1974-08-18 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 | 1 |
-| 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | 1974-08-18 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 11 | 4 |
-| 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | 1974-08-18 | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 4 | R |
+| 1974 | 15 | 1974 United States Grand Prix 🇺🇸 | 1974-10-06T00:00:00.000Z | 23 | R | 0.0 | 9 |   | Surtees 🇬🇧 | [José Dolhem 🇫🇷](/f1/drivers/dolhem) | 26 | W |
+| 1974 | 14 | 1974 Canadian Grand Prix 🇨🇦 | 1974-09-22T00:00:00.000Z | 22 | 10 | 0.0 | 78 |   | Surtees 🇬🇧 | [Derek Bell 🇬🇧](/f1/drivers/bell) | 0 | F |
+| 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | 1974-08-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Reutemann 🇦🇷](/f1/drivers/reutemann) | 2 | 1 |
+| 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | 1974-08-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [John Watson 🇬🇧](/f1/drivers/watson) | 11 | 4 |
+| 1974 | 12 | 1974 Austrian Grand Prix 🇦🇹 | 1974-08-18T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Brabham 🇬🇧 | [Carlos Pace 🇧🇷](/f1/drivers/pace) | 4 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 5 |  |  | 5 | 1 | 5 | 5 |  |  |  | 5 | 2 |
-| **Total Sum** | 65.000 |  |  | 45.000 | 10.000 |  | 87.000 |  |  |  | 43.000 | 5.000 |
-| **Mean μ (Average)** | 13.000 |  |  | 9.000 | 10.000 |  | 17.400 |  |  |  | 8.600 | 2.500 |
-| **Maximum** | 15.000 |  |  | 23.000 | 10.000 |  | 78.000 |  |  |  | 26.000 | 4.000 |
-| **75th Percentile** | 14.000 |  |  | 22.000 | 10.000 |  | 9.000 |  |  |  | 11.000 | 4.000 |
-| **Median** | 12.000 |  |  |  | 10.000 |  |  |  |  |  | 4.000 | 4.000 |
-| **25th Percentile** | 12.000 |  |  |  | 10.000 |  |  |  |  |  | 2.000 | 1.000 |
-| **Minimum** | 12.000 |  |  |  | 10.000 |  |  |  |  |  |  | 1.000 |
-| **Variance** | 1.600 |  |  | 121.600 |  |  | 930.240 |  |  |  | 89.440 | 2.250 |
-| **Standard Deviation σ** | 1.265 |  |  | 11.027 |  |  | 30.500 |  |  |  | 9.457 | 1.500 |
+| **Row Count** | 5 |  | 5 | 5 | 1 | 5 | 5 |  |  |  | 5 | 2 |
+| **Total Sum** | 65.000 |  | 737337600.000 | 45.000 | 10.000 |  | 87.000 |  |  |  | 43.000 | 5.000 |
+| **Mean μ (Average)** | 13.000 |  | 147467520.000 | 9.000 | 10.000 |  | 17.400 |  |  |  | 8.600 | 2.500 |
+| **Maximum** | 15.000 |  | 150249600.000 | 23.000 | 10.000 |  | 78.000 |  |  |  | 26.000 | 4.000 |
+| **75th Percentile** | 14.000 |  | 149040000.000 | 22.000 | 10.000 |  | 9.000 |  |  |  | 11.000 | 4.000 |
+| **Median** | 12.000 |  | 146016000.000 |  | 10.000 |  |  |  |  |  | 4.000 | 4.000 |
+| **25th Percentile** | 12.000 |  | 146016000.000 |  | 10.000 |  |  |  |  |  | 2.000 | 1.000 |
+| **Minimum** | 12.000 |  | 146016000.000 |  | 10.000 |  |  |  |  |  |  | 1.000 |
+| **Variance** | 1.600 |  | 3306678681600.000 | 121.600 |  |  | 930.240 |  |  |  | 89.440 | 2.250 |
+| **Standard Deviation σ** | 1.265 |  | 1818427.530 | 11.027 |  |  | 30.500 |  |  |  | 9.457 | 1.500 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

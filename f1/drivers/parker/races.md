@@ -24,20 +24,20 @@ collectionId: parker
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 16 | R | 0.0 | 46 |   | Maserati 🇮🇹 | [David Murray 🇬🇧](/f1/drivers/murray) | 15 | R |
-| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14 | 16 | R | 0.0 | 46 |   | Maserati 🇮🇹 | [John James 🇬🇧](/f1/drivers/john_james) | 17 | R |
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14T00:00:00.000Z | 16 | R | 0.0 | 46 |   | Maserati 🇮🇹 | [David Murray 🇬🇧](/f1/drivers/murray) | 15 | R |
+| 1951 | 5 | 1951 British Grand Prix 🇬🇧 | 1951-07-14T00:00:00.000Z | 16 | R | 0.0 | 46 |   | Maserati 🇮🇹 | [John James 🇬🇧](/f1/drivers/john_james) | 17 | R |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 2 |  |  | 2 |  | 2 | 2 |  |  |  | 2 |  |
-| **Total Sum** | 10.000 |  |  | 32.000 |  |  | 92.000 |  |  |  | 32.000 |  |
-| **Mean μ (Average)** | 5.000 |  |  | 16.000 |  |  | 46.000 |  |  |  | 16.000 |  |
-| **Maximum** | 5.000 |  |  | 16.000 |  |  | 46.000 |  |  |  | 17.000 |  |
-| **75th Percentile** | 5.000 |  |  | 16.000 |  |  | 46.000 |  |  |  | 17.000 |  |
-| **Median** | 5.000 |  |  | 16.000 |  |  | 46.000 |  |  |  | 17.000 |  |
-| **25th Percentile** | 5.000 |  |  | 16.000 |  |  | 46.000 |  |  |  | 15.000 |  |
-| **Minimum** | 5.000 |  |  | 16.000 |  |  | 46.000 |  |  |  | 15.000 |  |
+| **Row Count** | 2 |  | 2 | 2 |  | 2 | 2 |  |  |  | 2 |  |
+| **Total Sum** | 10.000 |  | -1165708800.000 | 32.000 |  |  | 92.000 |  |  |  | 32.000 |  |
+| **Mean μ (Average)** | 5.000 |  | -582854400.000 | 16.000 |  |  | 46.000 |  |  |  | 16.000 |  |
+| **Maximum** | 5.000 |  | -582854400.000 | 16.000 |  |  | 46.000 |  |  |  | 17.000 |  |
+| **75th Percentile** | 5.000 |  | -582854400.000 | 16.000 |  |  | 46.000 |  |  |  | 17.000 |  |
+| **Median** | 5.000 |  | -582854400.000 | 16.000 |  |  | 46.000 |  |  |  | 17.000 |  |
+| **25th Percentile** | 5.000 |  | -582854400.000 | 16.000 |  |  | 46.000 |  |  |  | 15.000 |  |
+| **Minimum** | 5.000 |  | -582854400.000 | 16.000 |  |  | 46.000 |  |  |  | 15.000 |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  | 1.000 |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  | 1.000 |  |
 

@@ -25,40 +25,40 @@ collectionId: turkey
 <canvas id="chart" width="400" height="180"></canvas>
 <script>
 var data = {
-    "datasets": [
-        {
-            "backgroundColor": [
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D",
-                "#9C8E8D"
-            ],
-            "borderColor": [
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E",
-                "#1D181E"
-            ],
-            "borderWidth": 1,
-            "data": [
-                3.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "label": "Times"
-        }
-    ],
-    "labels": [
-        "Felipe Massa",
-        "Jenson Button",
-        "Kimi Räikkönen",
-        "Lewis Hamilton",
-        "Sebastian Vettel"
-    ]
+  "labels" : [
+    "Felipe Massa",
+    "Jenson Button",
+    "Kimi Räikkönen",
+    "Lewis Hamilton",
+    "Sebastian Vettel"
+  ],
+  "datasets" : [
+    {
+      "label" : "Times",
+      "data" : [
+        3,
+        1,
+        1,
+        1,
+        1
+      ],
+      "borderColor" : [
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E",
+        "#1D181E"
+      ],
+      "borderWidth" : 1,
+      "backgroundColor" : [
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D",
+        "#9C8E8D"
+      ]
+    }
+  ]
 };
 var options = {
   legend: {

@@ -24,25 +24,25 @@ collectionId: bertaggia
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1989 | 16 | 1989 Australian Grand Prix 🇦🇺 | 1989-11-05 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
-| 1989 | 15 | 1989 Japanese Grand Prix 🇯🇵 | 1989-10-22 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
-| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
-| 1989 | 13 | 1989 Portuguese Grand Prix 🇵🇹 | 1989-09-24 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 15 | R |
-| 1989 | 12 | 1989 Italian Grand Prix 🇮🇹 | 1989-09-10 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
-| 1989 | 11 | 1989 Belgian Grand Prix 🇧🇪 | 1989-08-27 | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 16 | 1989 Australian Grand Prix 🇦🇺 | 1989-11-05T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 15 | 1989 Japanese Grand Prix 🇯🇵 | 1989-10-22T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 14 | 1989 Spanish Grand Prix 🇪🇸 | 1989-10-01T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 13 | 1989 Portuguese Grand Prix 🇵🇹 | 1989-09-24T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 15 | R |
+| 1989 | 12 | 1989 Italian Grand Prix 🇮🇹 | 1989-09-10T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
+| 1989 | 11 | 1989 Belgian Grand Prix 🇧🇪 | 1989-08-27T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Coloni 🇮🇹 | [Roberto Moreno 🇧🇷](/f1/drivers/moreno) | 0 | F |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 6 |  |  | 6 |  | 6 | 6 |  |  |  | 6 |  |
-| **Total Sum** | 81.000 |  |  |  |  |  |  |  |  |  | 15.000 |  |
-| **Mean μ (Average)** | 13.500 |  |  |  |  |  |  |  |  |  | 2.500 |  |
-| **Maximum** | 16.000 |  |  |  |  |  |  |  |  |  | 15.000 |  |
-| **75th Percentile** | 15.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Median** | 14.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 12.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Minimum** | 11.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Variance** | 2.917 |  |  |  |  |  |  |  |  |  | 31.250 |  |
-| **Standard Deviation σ** | 1.708 |  |  |  |  |  |  |  |  |  | 5.590 |  |
+| **Row Count** | 6 |  | 6 | 6 |  | 6 | 6 |  |  |  | 6 |  |
+| **Total Sum** | 81.000 |  | 3738614400.000 |  |  |  |  |  |  |  | 15.000 |  |
+| **Mean μ (Average)** | 13.500 |  | 623102400.000 |  |  |  |  |  |  |  | 2.500 |  |
+| **Maximum** | 16.000 |  | 626227200.000 |  |  |  |  |  |  |  | 15.000 |  |
+| **75th Percentile** | 15.000 |  | 625017600.000 |  |  |  |  |  |  |  |  |  |
+| **Median** | 14.000 |  | 623203200.000 |  |  |  |  |  |  |  |  |  |
+| **25th Percentile** | 12.000 |  | 621388800.000 |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 11.000 |  | 620179200.000 |  |  |  |  |  |  |  |  |  |
+| **Variance** | 2.917 |  | 4196344320000.000 |  |  |  |  |  |  |  | 31.250 |  |
+| **Standard Deviation σ** | 1.708 |  | 2048498.064 |  |  |  |  |  |  |  | 5.590 |  |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

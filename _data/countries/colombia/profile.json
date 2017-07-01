@@ -1,7 +1,7 @@
 {
-    "code": "co",
-    "collection_name": "Colombia 🇨🇴",
-    "countryRef": "colombia",
-    "flag": "🇨🇴",
-    "name": "Colombia"
+  "countryRef" : "colombia",
+  "name" : "Colombia",
+  "flag" : "🇨🇴",
+  "collection_name" : "Colombia 🇨🇴",
+  "code" : "co"
 }

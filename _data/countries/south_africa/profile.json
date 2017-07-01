@@ -1,7 +1,7 @@
 {
-    "code": "za",
-    "collection_name": "South Africa 🇿🇦",
-    "countryRef": "south_africa",
-    "flag": "🇿🇦",
-    "name": "South Africa"
+  "countryRef" : "south_africa",
+  "name" : "South Africa",
+  "flag" : "🇿🇦",
+  "collection_name" : "South Africa 🇿🇦",
+  "code" : "za"
 }

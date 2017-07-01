@@ -24,23 +24,23 @@ collectionId: natili
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1961 | 7 | 1961 Italian Grand Prix 🇮🇹 | 1961-09-10 | 0 | W | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 21 | 8 |
-| 1961 | 7 | 1961 Italian Grand Prix 🇮🇹 | 1961-09-10 | 0 | W | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 22 | 9 |
-| 1961 | 7 | 1961 Italian Grand Prix 🇮🇹 | 1961-09-10 | 0 | W | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Renato Pirocchi 🇮🇹](/f1/drivers/pirocchi) | 29 | 12 |
-| 1961 | 5 | 1961 British Grand Prix 🇬🇧 | 1961-07-15 | 28 | R | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 21 | 12 |
+| 1961 | 7 | 1961 Italian Grand Prix 🇮🇹 | 1961-09-10T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 21 | 8 |
+| 1961 | 7 | 1961 Italian Grand Prix 🇮🇹 | 1961-09-10T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Maurice Trintignant 🇫🇷](/f1/drivers/trintignant) | 22 | 9 |
+| 1961 | 7 | 1961 Italian Grand Prix 🇮🇹 | 1961-09-10T00:00:00.000Z | 0 | W | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Renato Pirocchi 🇮🇹](/f1/drivers/pirocchi) | 29 | 12 |
+| 1961 | 5 | 1961 British Grand Prix 🇬🇧 | 1961-07-15T00:00:00.000Z | 28 | R | 0.0 | 0 |   | Cooper-Maserati 🇬🇧 | [Lorenzo Bandini 🇮🇹](/f1/drivers/bandini) | 21 | 12 |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 4 |  |  | 4 |  | 4 | 4 |  |  |  | 4 | 4 |
-| **Total Sum** | 26.000 |  |  | 28.000 |  |  |  |  |  |  | 93.000 | 41.000 |
-| **Mean μ (Average)** | 6.500 |  |  | 7.000 |  |  |  |  |  |  | 23.250 | 10.250 |
-| **Maximum** | 7.000 |  |  | 28.000 |  |  |  |  |  |  | 29.000 | 12.000 |
-| **75th Percentile** | 7.000 |  |  | 28.000 |  |  |  |  |  |  | 29.000 | 12.000 |
-| **Median** | 7.000 |  |  |  |  |  |  |  |  |  | 22.000 | 12.000 |
-| **25th Percentile** | 7.000 |  |  |  |  |  |  |  |  |  | 21.000 | 9.000 |
-| **Minimum** | 5.000 |  |  |  |  |  |  |  |  |  | 21.000 | 8.000 |
-| **Variance** | 0.750 |  |  | 147.000 |  |  |  |  |  |  | 11.188 | 3.188 |
-| **Standard Deviation σ** | 0.866 |  |  | 12.124 |  |  |  |  |  |  | 3.345 | 1.785 |
+| **Row Count** | 4 |  | 4 | 4 |  | 4 | 4 |  |  |  | 4 | 4 |
+| **Total Sum** | 26.000 |  | -1053820800.000 | 28.000 |  |  |  |  |  |  | 93.000 | 41.000 |
+| **Mean μ (Average)** | 6.500 |  | -263455200.000 | 7.000 |  |  |  |  |  |  | 23.250 | 10.250 |
+| **Maximum** | 7.000 |  | -262224000.000 | 28.000 |  |  |  |  |  |  | 29.000 | 12.000 |
+| **75th Percentile** | 7.000 |  | -262224000.000 | 28.000 |  |  |  |  |  |  | 29.000 | 12.000 |
+| **Median** | 7.000 |  | -262224000.000 |  |  |  |  |  |  |  | 22.000 | 12.000 |
+| **25th Percentile** | 7.000 |  | -262224000.000 |  |  |  |  |  |  |  | 21.000 | 9.000 |
+| **Minimum** | 5.000 |  | -267148800.000 |  |  |  |  |  |  |  | 21.000 | 8.000 |
+| **Variance** | 0.750 |  | 4547560320000.000 | 147.000 |  |  |  |  |  |  | 11.188 | 3.188 |
+| **Standard Deviation σ** | 0.866 |  | 2132500.954 | 12.124 |  |  |  |  |  |  | 3.345 | 1.785 |
 
 Download data: [json]({{ page.url | replace:'.html','.json' }}), [csv]({{ page.url | replace:'.html','.csv' }})

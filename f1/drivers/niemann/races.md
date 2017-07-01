@@ -24,19 +24,19 @@ collectionId: niemann
 
 | Season | Round | Name | Date | Grid | Final Position | Points | Laps Completed | Time | Constructor | Teammate | Teammate Grid | Teammate Final Position |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
-| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01 | 0 | F | 0.0 | 0 |   | Lotus-Ford 🇬🇧 | [Dave Charlton 🇿🇦](/f1/drivers/charlton) | 0 | F |
+| 1965 | 1 | 1965 South African Grand Prix 🇿🇦 | 1965-01-01T00:00:00.000Z | 0 | F | 0.0 | 0 |   | Lotus-Ford 🇬🇧 | [Dave Charlton 🇿🇦](/f1/drivers/charlton) | 0 | F |
 
 #### Statistic Summary
 
 | **Column** | **Round** | **Name** | **Date** | **Grid** | **Final Position** | **Points** | **Laps Completed** | **Time** | **Constructor** | **Teammate** | **Teammate Grid** | **Teammate Final Position** |
-| **Row Count** | 1 |  |  | 1 |  | 1 | 1 |  |  |  | 1 |  |
-| **Total Sum** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Mean μ (Average)** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Maximum** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **75th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Median** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **25th Percentile** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
-| **Minimum** | 1.000 |  |  |  |  |  |  |  |  |  |  |  |
+| **Row Count** | 1 |  | 1 | 1 |  | 1 | 1 |  |  |  | 1 |  |
+| **Total Sum** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  |  |
+| **Mean μ (Average)** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  |  |
+| **Maximum** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  |  |
+| **75th Percentile** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  |  |
+| **Median** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  |  |
+| **25th Percentile** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  |  |
+| **Minimum** | 1.000 |  | -157766400.000 |  |  |  |  |  |  |  |  |  |
 | **Variance** |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Standard Deviation σ** |  |  |  |  |  |  |  |  |  |  |  |  |
 
