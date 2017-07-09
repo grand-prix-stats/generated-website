@@ -1,16 +1,12 @@
----
-layout: compress
----
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  <body>
-    <div class="page-content">
-      <div class="wrapper">
-        {% include breadcrumb.html %}
-        {{ content }}
-      </div>
+{% include head.html %}
+<body class="nav-md">
+  <div class="container body">
+    <div class="main_container">
+      {{ content }}
     </div>
-    {% include footer.html %}
-  </body>
+  </div>
+  {% include scripts.html %}
+</body>
 </html>

@@ -1,0 +1,49 @@
+
+<script src="/vendors/jquery/dist/jquery.min.js"></script>
+<script src="/vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+<script src="/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/vendors/fastclick/lib/fastclick.js"></script>
+<script src="/vendors/nprogress/nprogress.js"></script>
+<script src="/vendors/gauge.js/dist/gauge.min.js"></script>
+<script src="/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+<script src="/vendors/iCheck/icheck.min.js"></script>
+<script src="/vendors/skycons/skycons.js"></script>
+<script src="/vendors/Flot/jquery.flot.js"></script>
+<script src="/vendors/Flot/jquery.flot.pie.js"></script>
+<script src="/vendors/Flot/jquery.flot.time.js"></script>
+<script src="/vendors/Flot/jquery.flot.stack.js"></script>
+<script src="/vendors/Flot/jquery.flot.resize.js"></script>
+<script src="/vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+<script src="/vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+<script src="/vendors/flot.curvedlines/curvedLines.js"></script>
+<script src="/vendors/DateJS/build/date.js"></script>
+<script src="/vendors/jqvmap/dist/jquery.vmap.js"></script>
+<script src="/vendors/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+<script src="/vendors/moment/min/moment.min.js"></script>
+<script src="/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
+<!-- <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+<script src="/js/custom.js"></script>
+<script src="/js/helpers/smartresize.js"></script>
+
+<script>
+    $(function() {
+        $('.bar-sparkline').sparkline('html', {
+          type: 'bar',
+          barWidth: 6,
+          height: 20,
+          chartRangeMax: 25
+        });
+        $('.datatable').DataTable();
+    });
+</script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-92978165-1', 'auto');
+ga('send', 'pageview');
+</script>
