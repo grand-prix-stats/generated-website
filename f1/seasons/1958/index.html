@@ -40,38 +40,71 @@ layout: page
 </div>
 </div>
 <div class="row ">
-<div class="col-md-12 col-sm-12 col-xs-12">
+<div class="col-md-3 col-sm-3 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
-            <h2>Season 1958 Calendar</h2>
+            <h2>Driver Wins</h2>
             <div class="clearfix"></div>
         </div>
         <div class="x_content">
             <h4></h4>
-                <table class="table table-stripped">
-        <thead>
-            <tr><th>#</th><th>Race</th><th>Circuit</th><th>Date</th><th>Laps</th><th>Duration</th><th>Winning Driver</th><th>Winning Team</th></tr>
-        </thead>
-        <tbody>
-            <tr><td>1</td><td>1958 Argentine Grand Prix 🇦🇷</td><td>Autódromo Juan y Oscar Gálvez</td><td>1958-01-19</td><td>80</td><td>2:19:33.7</td><td>Stirling Moss 🇬🇧</td><td>Cooper 🇬🇧</td></tr>
-<tr><td>2</td><td>1958 Monaco Grand Prix 🇲🇨</td><td>Circuit de Monaco</td><td>1958-05-18</td><td>100</td><td>2:52:27.9</td><td>Maurice Trintignant 🇫🇷</td><td>Cooper 🇬🇧</td></tr>
-<tr><td>3</td><td>1958 Dutch Grand Prix 🇳🇱</td><td>Circuit Park Zandvoort</td><td>1958-05-26</td><td>75</td><td>2:04:49.2</td><td>Stirling Moss 🇬🇧</td><td>Vanwall 🇬🇧</td></tr>
-<tr><td>4</td><td>1958 Indianapolis 500 🇺🇸</td><td>Indianapolis Motor Speedway</td><td>1958-05-30</td><td>200</td><td>3:44:13.80</td><td>Jimmy Bryan 🇺🇸</td><td>Epperly 🇺🇸</td></tr>
-<tr><td>5</td><td>1958 Belgian Grand Prix 🇧🇪</td><td>Circuit de Spa-Francorchamps</td><td>1958-06-15</td><td>24</td><td>1:37:06.3</td><td>Tony Brooks 🇬🇧</td><td>Vanwall 🇬🇧</td></tr>
-<tr><td>6</td><td>1958 French Grand Prix 🇫🇷</td><td>Reims-Gueux</td><td>1958-07-06</td><td>50</td><td>2:03:21.3</td><td>Mike Hawthorn 🇬🇧</td><td>Ferrari 🇮🇹</td></tr>
-<tr><td>7</td><td>1958 British Grand Prix 🇬🇧</td><td>Silverstone Circuit</td><td>1958-07-19</td><td>75</td><td>2:09:04.2</td><td>Peter Collins 🇬🇧</td><td>Ferrari 🇮🇹</td></tr>
-<tr><td>8</td><td>1958 German Grand Prix 🇩🇪</td><td>Nürburgring</td><td>1958-08-03</td><td>15</td><td>2:21:15.0</td><td>Tony Brooks 🇬🇧</td><td>Vanwall 🇬🇧</td></tr>
-<tr><td>9</td><td>1958 Portuguese Grand Prix 🇵🇹</td><td>Circuito da Boavista</td><td>1958-08-24</td><td>50</td><td>2:11:27.80</td><td>Stirling Moss 🇬🇧</td><td>Vanwall 🇬🇧</td></tr>
-<tr><td>10</td><td>1958 Italian Grand Prix 🇮🇹</td><td>Autodromo Nazionale di Monza</td><td>1958-09-07</td><td>70</td><td>2:03:47.8</td><td>Tony Brooks 🇬🇧</td><td>Vanwall 🇬🇧</td></tr>
-<tr><td>11</td><td>1958 Moroccan Grand Prix 🇲🇦</td><td>Ain Diab</td><td>1958-10-19</td><td>53</td><td>2:09:15.1</td><td>Stirling Moss 🇬🇧</td><td>Vanwall 🇬🇧</td></tr>
-        </tbody>
-    </table>
+                <canvas id="93567CCB-2D6C-4240-8910-FE97C088D752"></canvas>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{ data: [4,3,1,1,1,1] }],
+                labels: ["Moss","Brooks","Bryan","Collins","Hawthorn","Trintignant"]
+            };
+            var ctx = document.getElementById("93567CCB-2D6C-4240-8910-FE97C088D752").getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: data,
+                options: {}
+            });
+        });
+    </script>
+        </div>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Driver Points</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+            
+        </div>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Team Wins</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+            
+        </div>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Team Points</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+            
         </div>
     </div>
 </div>
 </div>
 <div class="row ">
-<div class="col-md-6 col-sm-6 col-xs-12">
+<div class="col-md-4 col-sm-4 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Driver Standings</h2>
@@ -85,7 +118,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="49.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 53%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="49.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 53%;">
                 <span class="sr-only">49.0</span>
             </div>
         </div>
@@ -101,7 +134,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="41.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 45%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="41.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 45%;">
                 <span class="sr-only">41.0</span>
             </div>
         </div>
@@ -117,7 +150,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="24.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 26%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="24.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 26%;">
                 <span class="sr-only">24.0</span>
             </div>
         </div>
@@ -133,7 +166,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="15.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 16%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="15.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 16%;">
                 <span class="sr-only">15.0</span>
             </div>
         </div>
@@ -149,7 +182,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="14.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 15%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="14.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 15%;">
                 <span class="sr-only">14.0</span>
             </div>
         </div>
@@ -165,7 +198,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="14.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 15%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="14.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 15%;">
                 <span class="sr-only">14.0</span>
             </div>
         </div>
@@ -181,7 +214,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="12.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 13%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="12.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 13%;">
                 <span class="sr-only">12.0</span>
             </div>
         </div>
@@ -197,7 +230,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="12.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 13%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="12.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 13%;">
                 <span class="sr-only">12.0</span>
             </div>
         </div>
@@ -213,7 +246,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="11.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 12%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="11.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 12%;">
                 <span class="sr-only">11.0</span>
             </div>
         </div>
@@ -229,7 +262,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 9%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 9%;">
                 <span class="sr-only">9.0</span>
             </div>
         </div>
@@ -245,7 +278,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 9%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 9%;">
                 <span class="sr-only">9.0</span>
             </div>
         </div>
@@ -261,7 +294,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 9%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 9%;">
                 <span class="sr-only">9.0</span>
             </div>
         </div>
@@ -277,7 +310,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="8.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 8%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="8.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 8%;">
                 <span class="sr-only">8.0</span>
             </div>
         </div>
@@ -293,7 +326,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="7.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 7%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="7.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 7%;">
                 <span class="sr-only">7.0</span>
             </div>
         </div>
@@ -309,7 +342,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="6.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 6%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="6.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 6%;">
                 <span class="sr-only">6.0</span>
             </div>
         </div>
@@ -325,7 +358,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="4.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 4%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="4.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 4%;">
                 <span class="sr-only">4.0</span>
             </div>
         </div>
@@ -341,7 +374,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="4.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 4%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="4.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 4%;">
                 <span class="sr-only">4.0</span>
             </div>
         </div>
@@ -357,7 +390,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 3%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 3%;">
                 <span class="sr-only">3.0</span>
             </div>
         </div>
@@ -373,7 +406,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 3%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 3%;">
                 <span class="sr-only">3.0</span>
             </div>
         </div>
@@ -389,7 +422,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 3%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 3%;">
                 <span class="sr-only">3.0</span>
             </div>
         </div>
@@ -405,7 +438,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="2.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 2%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="2.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 2%;">
                 <span class="sr-only">2.0</span>
             </div>
         </div>
@@ -421,7 +454,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -437,7 +470,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -453,7 +486,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -469,7 +502,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -485,7 +518,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -501,7 +534,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -517,7 +550,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -533,7 +566,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -549,7 +582,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -565,7 +598,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -581,7 +614,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -597,7 +630,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -613,7 +646,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -629,7 +662,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -645,7 +678,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -661,7 +694,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -677,7 +710,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -693,7 +726,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -709,7 +742,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -725,7 +758,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -741,7 +774,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -757,7 +790,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -773,7 +806,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -789,7 +822,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -805,7 +838,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -821,7 +854,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -837,7 +870,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -853,7 +886,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -869,7 +902,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -885,7 +918,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -901,7 +934,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -917,7 +950,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -933,7 +966,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -949,7 +982,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -965,7 +998,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -981,7 +1014,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -997,7 +1030,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1013,7 +1046,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1029,7 +1062,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1045,7 +1078,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1061,7 +1094,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1077,7 +1110,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1093,7 +1126,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1109,7 +1142,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1125,7 +1158,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1141,7 +1174,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1157,7 +1190,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1173,7 +1206,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1189,7 +1222,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1205,7 +1238,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1221,7 +1254,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1237,7 +1270,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1253,7 +1286,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1269,7 +1302,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1285,7 +1318,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1301,7 +1334,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1317,7 +1350,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1333,7 +1366,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1349,7 +1382,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1365,7 +1398,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1381,7 +1414,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1397,7 +1430,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1413,7 +1446,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1429,7 +1462,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1445,7 +1478,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1461,7 +1494,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="91.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -1474,7 +1507,7 @@ layout: page
         </div>
     </div>
 </div>
-<div class="col-md-6 col-sm-6 col-xs-12">
+<div class="col-md-4 col-sm-4 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Points by Race</h2>
@@ -2268,9 +2301,18 @@ layout: page
         </div>
     </div>
 </div>
+<div class="col-md-4 col-sm-4 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Season Totals</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+            
+        </div>
+    </div>
 </div>
-<div class="row ">
-
 </div>
 <div class="row ">
 <div class="col-md-12 col-sm-12 col-xs-12">
@@ -2287,7 +2329,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="93.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 58%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="93.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 58%;">
                 <span class="sr-only">93.0</span>
             </div>
         </div>
@@ -2303,7 +2345,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="68.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 42%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="68.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 42%;">
                 <span class="sr-only">68.0</span>
             </div>
         </div>
@@ -2319,7 +2361,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="38.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 23%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="38.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 23%;">
                 <span class="sr-only">38.0</span>
             </div>
         </div>
@@ -2335,7 +2377,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="24.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 15%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="24.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 15%;">
                 <span class="sr-only">24.0</span>
             </div>
         </div>
@@ -2351,7 +2393,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="20.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 12%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="20.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 12%;">
                 <span class="sr-only">20.0</span>
             </div>
         </div>
@@ -2367,7 +2409,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 5%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="9.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 5%;">
                 <span class="sr-only">9.0</span>
             </div>
         </div>
@@ -2383,7 +2425,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="4.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 2%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="4.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 2%;">
                 <span class="sr-only">4.0</span>
             </div>
         </div>
@@ -2399,7 +2441,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 1%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="3.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 1%;">
                 <span class="sr-only">3.0</span>
             </div>
         </div>
@@ -2415,7 +2457,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2431,7 +2473,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2447,7 +2489,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2463,7 +2505,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2479,7 +2521,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2495,7 +2537,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2511,7 +2553,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2527,7 +2569,7 @@ layout: page
     </div>
     <div class="w_center w_45">
         <div class="progress">
-            <div class="progress-bar bg-green" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
+            <div class="progress-bar bg-gpsblue" role="progressbar" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="160.0" style="width: 0%;">
                 <span class="sr-only">0.0</span>
             </div>
         </div>
@@ -2542,6 +2584,39 @@ layout: page
 </div>
 </div>
 <div class="row ">
+<div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Season 1958 Calendar</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+                <div class="table-responsive">
+        <table class="table table-responsive">
+            <thead>
+                <tr><th>#</th><th>Race</th><th>Circuit</th><th>Date</th><th>Laps</th><th>Duration</th><th>1<sup>st</sup></th><th>Pole</th><th>Pole Time</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>1</td><td>Argentine Grand Prix</td><td>Autódromo Juan y Oscar Gálvez</td><td>Jan 18</td><td>80</td><td>2:19:33.7</td><td>Moss (Cooper)</td><td></td><td></td></tr>
+<tr><td>2</td><td>Monaco Grand Prix</td><td>Circuit de Monaco</td><td>May 17</td><td>100</td><td>2:52:27.9</td><td>Trintignant (Cooper)</td><td></td><td></td></tr>
+<tr><td>3</td><td>Dutch Grand Prix</td><td>Circuit Park Zandvoort</td><td>May 25</td><td>75</td><td>2:04:49.2</td><td>Moss (Vanwall)</td><td></td><td></td></tr>
+<tr><td>4</td><td>Indianapolis 500</td><td>Indianapolis Motor Speedway</td><td>May 29</td><td>200</td><td>3:44:13.80</td><td>Bryan (Epperly)</td><td></td><td></td></tr>
+<tr><td>5</td><td>Belgian Grand Prix</td><td>Circuit de Spa-Francorchamps</td><td>Jun 14</td><td>24</td><td>1:37:06.3</td><td>Brooks (Vanwall)</td><td></td><td></td></tr>
+<tr><td>6</td><td>French Grand Prix</td><td>Reims-Gueux</td><td>Jul 05</td><td>50</td><td>2:03:21.3</td><td>Hawthorn (Ferrari)</td><td></td><td></td></tr>
+<tr><td>7</td><td>British Grand Prix</td><td>Silverstone Circuit</td><td>Jul 18</td><td>75</td><td>2:09:04.2</td><td>Collins (Ferrari)</td><td></td><td></td></tr>
+<tr><td>8</td><td>German Grand Prix</td><td>Nürburgring</td><td>Aug 02</td><td>15</td><td>2:21:15.0</td><td>Brooks (Vanwall)</td><td></td><td></td></tr>
+<tr><td>9</td><td>Portuguese Grand Prix</td><td>Circuito da Boavista</td><td>Aug 23</td><td>50</td><td>2:11:27.80</td><td>Moss (Vanwall)</td><td></td><td></td></tr>
+<tr><td>10</td><td>Italian Grand Prix</td><td>Autodromo Nazionale di Monza</td><td>Sep 06</td><td>70</td><td>2:03:47.8</td><td>Brooks (Vanwall)</td><td></td><td></td></tr>
+<tr><td>11</td><td>Moroccan Grand Prix</td><td>Ain Diab</td><td>Oct 18</td><td>53</td><td>2:09:15.1</td><td>Moss (Vanwall)</td><td></td><td></td></tr>
+            </tbody>
+        </table>
+    </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row ">
 <div class="col-md-4 col-sm-4 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
@@ -2550,18 +2625,20 @@ layout: page
         </div>
         <div class="x_content">
             <h4></h4>
-                <table class="tile_info">
-        <thead>
-            <tr><th>Position</th><th><span class="pull-right">Points</span></th></tr>
-        </thead>
-        <tbody>
-            <tr><td>1<sup>st</sup></td><td><span class="pull-right">9 pts</span></td></tr>
+                <div class="">
+        <table class="table table-tile_info">
+            <thead>
+                <tr><th>Position</th><th><span class="pull-right">Points</span></th></tr>
+            </thead>
+            <tbody>
+                <tr><td>1<sup>st</sup></td><td><span class="pull-right">9 pts</span></td></tr>
 <tr><td>2<sup>nd</sup></td><td><span class="pull-right">7 pts</span></td></tr>
 <tr><td>3<sup>rd</sup></td><td><span class="pull-right">5 pts</span></td></tr>
 <tr><td>4<sup>th</sup></td><td><span class="pull-right">4 pts</span></td></tr>
 <tr><td>5<sup>th</sup></td><td><span class="pull-right">2 pts</span></td></tr>
-        </tbody>
-    </table>
+            </tbody>
+        </table>
+    </div>
         </div>
     </div>
 </div>

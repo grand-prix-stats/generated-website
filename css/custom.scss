@@ -1,8 +1,27 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
+/** ============= GPS =========== **/
+
+$gpsorange: #ff5722;
+$gpsgray: #9e9e9e;
+$gpsblue: #607d8b;
+$gpsblack: #020202;
+
+.gpsorange { color: $gpsorange; }
+.gpsgray { color: $gpsgray; }
+.gpsblue { color: $gpsblue; }
+
+.bg-gpsorange { background: $gpsorange; }
+.bg-gpsgray { background: $gpsgray; }
+.bg-gpsblue { background: $gpsblue; }
+
+/** ============= /GPS =========== **/
+
+
 .left_col {
-  background: #2A3F54;
+  background: $gpsblack;
 }
 .nav-sm .container.body .col-md-3.left_col {
   min-height: 100%;
@@ -213,7 +232,7 @@ body .container.body .right_col {
 .nav_title {
   width: 230px;
   float: left;
-  background: #2A3F54;
+  background: $gpsblack;
   border-radius: 0;
   height: 57px;
 }
@@ -339,7 +358,7 @@ body .container.body .right_col {
 }
 body {
   color: #73879C;
-  background: #2A3F54;
+  background: $gpsblack;
   font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
   font-size: 13px;
   font-weight: 400;
@@ -1551,7 +1570,7 @@ span.right {
   padding: 5px 0 0 0;
   position: fixed;
   width: 230px;
-  background: #2A3F54;
+  background: $gpsblack;
 }
 .sidebar-footer a {
   padding: 7px 0 3px;
