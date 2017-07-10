@@ -11,36 +11,36 @@ layout: page
 <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
     <span class="count_top"><i class="fa fa-calendar"></i> Total Rounds</span>
     <div class="count">9</div>
-    <span class="count_bottom"><i class="red"><i class="fa fa-chevron-down"></i>1</i> From Previous Season</span>
+    <span class="count_bottom"><i class="red"><i class="fa fa-chevron-down"></i> 1</i> From Previous Season</span>
 </div>
 <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
     <span class="count_top"><i class="fa fa-user"></i> Total Drivers</span>
     <div class="count">33</div>
-    <span class="count_bottom"><i class="red"><i class="fa fa-chevron-down"></i>21</i> From Previous Season</span>
+    <span class="count_bottom"><i class="red"><i class="fa fa-chevron-down"></i> 21</i> From Previous Season</span>
 </div>
 <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
     <span class="count_top"><i class="fa fa-trophy"></i> Total Winning Drivers</span>
     <div class="count">5</div>
-    <span class="count_bottom"><i class="green"><i class="fa fa-chevron-up"></i>1</i> From Previous Season</span>
+    <span class="count_bottom"><i class="green"><i class="fa fa-chevron-up"></i> 1</i> From Previous Season</span>
 </div>
 <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
     <span class="count_top"><i class="fa fa-users"></i> Total Teams</span>
     <div class="count">15</div>
-    <span class="count_bottom"><i class="red"><i class="fa fa-chevron-down"></i>1</i> From Previous Season</span>
+    <span class="count_bottom"><i class="red"><i class="fa fa-chevron-down"></i> 1</i> From Previous Season</span>
 </div>
 <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
     <span class="count_top"><i class="fa fa-trophy"></i> Total Winning Teams</span>
     <div class="count">5</div>
-    <span class="count_bottom"><i class="green"><i class="fa fa-chevron-up"></i>2</i> From Previous Season</span>
+    <span class="count_bottom"><i class="green"><i class="fa fa-chevron-up"></i> 2</i> From Previous Season</span>
 </div>
 <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
     <span class="count_top"><i class="fa fa-flag-checkered"></i> Races Completed</span>
     <div class="count">9 of 9</div>
-    <span class="count_bottom"><i class="green"><i class="fa "></i>100%</i> Complete</span>
+    <span class="count_bottom"><i class="green"><i class="fa "></i> 100%</i> Complete</span>
 </div>
 </div>
 <div class="row ">
-<div class="col-md-3 col-sm-3 col-xs-12">
+<div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Driver Wins</h2>
@@ -48,14 +48,14 @@ layout: page
         </div>
         <div class="x_content">
             <h4></h4>
-                <canvas id="76E13C09-E458-43BD-824A-88B0012F4582"></canvas>
+                <canvas id="95F70C80-096C-42FB-B8F4-24DFE2061ED9"></canvas>
     <script>
         $(function() {
             var data = {
-                datasets: [{ data: [4,2,1,1,1] }],
+                datasets: [{ data: [4,2,1,1,1], backgroundColor: ["#243F73","#1A2446","#025839","#EB212E","#144D44"] }],
                 labels: ["Brabham","Surtees","Clark","Scarfiotti","Stewart"]
             };
-            var ctx = document.getElementById("76E13C09-E458-43BD-824A-88B0012F4582").getContext('2d');
+            var ctx = document.getElementById("95F70C80-096C-42FB-B8F4-24DFE2061ED9").getContext('2d');
             new Chart(ctx, {
                 type: 'doughnut',
                 data: data,
@@ -66,19 +66,7 @@ layout: page
         </div>
     </div>
 </div>
-<div class="col-md-3 col-sm-3 col-xs-12">
-    <div class="x_panel tile">
-        <div class="x_title">
-            <h2>Driver Points</h2>
-            <div class="clearfix"></div>
-        </div>
-        <div class="x_content">
-            <h4></h4>
-            
-        </div>
-    </div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-12">
+<div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Team Wins</h2>
@@ -86,25 +74,79 @@ layout: page
         </div>
         <div class="x_content">
             <h4></h4>
-            
+                <canvas id="2FD29112-DC7E-4A29-A812-8B6EEFAECC86"></canvas>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{ data: [4,2,1,1,1], backgroundColor: ["#243F73","#EB212E","#144D44","#1A2446","#457439"] }],
+                labels: ["Brabham-Repco","Ferrari","BRM","Cooper-Maserati","Lotus-BRM"]
+            };
+            var ctx = document.getElementById("2FD29112-DC7E-4A29-A812-8B6EEFAECC86").getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: data,
+                options: {}
+            });
+        });
+    </script>
         </div>
     </div>
 </div>
-<div class="col-md-3 col-sm-3 col-xs-12">
+<div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
-            <h2>Team Points</h2>
+            <h2>Driver Podiums</h2>
             <div class="clearfix"></div>
         </div>
         <div class="x_content">
             <h4></h4>
-            
+                <canvas id="BC69C929-CC1A-4C65-9239-327CBEAE8AA9"></canvas>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{ data: [5,4,4,3,3,2,2,2,1,1], backgroundColor: ["#243F73","#243F73","#1A2446","#144D44","#1A2446","#EB212E","#025839","#EB212E","#EB212E","#144D44"] }],
+                labels: ["Brabham","Hulme","Surtees","Hill","Rindt","Bandini","Clark","Parkes","Scarfiotti","Stewart"]
+            };
+            var ctx = document.getElementById("BC69C929-CC1A-4C65-9239-327CBEAE8AA9").getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: data,
+                options: {}
+            });
+        });
+    </script>
+        </div>
+    </div>
+</div>
+<div class="col-lg-3 -col-md-6 col-sm-6 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Team Podiums</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4></h4>
+                <canvas id="96B4E4E9-573B-495C-80C9-0C3092723BAC"></canvas>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{ data: [9,6,6,4,1,1], backgroundColor: ["#243F73","#1A2446","#EB212E","#144D44","#457439","#025839"] }],
+                labels: ["Brabham-Repco","Cooper-Maserati","Ferrari","BRM","Lotus-BRM","Lotus-Climax"]
+            };
+            var ctx = document.getElementById("96B4E4E9-573B-495C-80C9-0C3092723BAC").getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: data,
+                options: {}
+            });
+        });
+    </script>
         </div>
     </div>
 </div>
 </div>
 <div class="row ">
-<div class="col-md-4 col-sm-4 col-xs-12">
+<div class="col-lg-4 -col-md-6 col-sm-6 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Driver Standings</h2>
@@ -112,7 +154,7 @@ layout: page
         </div>
         <div class="x_content">
             <h4></h4>
-            <div class="widget_summary">
+            <div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/jack_brabham'">
     <div class="w_left w_40">
         <span>🇦🇺 BRA</span>
     </div>
@@ -128,7 +170,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/surtees'">
     <div class="w_left w_40">
         <span>🇬🇧 SUR</span>
     </div>
@@ -144,7 +186,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/rindt'">
     <div class="w_left w_40">
         <span>🇦🇹 RIN</span>
     </div>
@@ -160,7 +202,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/hulme'">
     <div class="w_left w_40">
         <span>🇳🇿 HUL</span>
     </div>
@@ -176,7 +218,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/hill'">
     <div class="w_left w_40">
         <span>🇬🇧 HIL</span>
     </div>
@@ -192,7 +234,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/clark'">
     <div class="w_left w_40">
         <span>🇬🇧 CLA</span>
     </div>
@@ -208,7 +250,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/stewart'">
     <div class="w_left w_40">
         <span>🇬🇧 STE</span>
     </div>
@@ -224,7 +266,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/bandini'">
     <div class="w_left w_40">
         <span>🇮🇹 BAN</span>
     </div>
@@ -240,7 +282,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/parkes'">
     <div class="w_left w_40">
         <span>🇬🇧 PAR</span>
     </div>
@@ -256,7 +298,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/scarfiotti'">
     <div class="w_left w_40">
         <span>🇮🇹 SCA</span>
     </div>
@@ -272,7 +314,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/ginther'">
     <div class="w_left w_40">
         <span>🇺🇸 GIN</span>
     </div>
@@ -288,7 +330,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/gurney'">
     <div class="w_left w_40">
         <span>🇺🇸 GUR</span>
     </div>
@@ -304,7 +346,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/spence'">
     <div class="w_left w_40">
         <span>🇬🇧 SPE</span>
     </div>
@@ -320,7 +362,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/bondurant'">
     <div class="w_left w_40">
         <span>🇺🇸 BON</span>
     </div>
@@ -336,7 +378,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/mclaren'">
     <div class="w_left w_40">
         <span>🇳🇿 MCL</span>
     </div>
@@ -352,7 +394,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/siffert'">
     <div class="w_left w_40">
         <span>🇨🇭 SIF</span>
     </div>
@@ -368,7 +410,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/anderson'">
     <div class="w_left w_40">
         <span>🇬🇧 AND</span>
     </div>
@@ -384,7 +426,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/arundell'">
     <div class="w_left w_40">
         <span>🇬🇧 ARU</span>
     </div>
@@ -400,7 +442,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/bonnier'">
     <div class="w_left w_40">
         <span>🇸🇪 BON</span>
     </div>
@@ -416,7 +458,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/taylor'">
     <div class="w_left w_40">
         <span>🇬🇧 TAY</span>
     </div>
@@ -432,7 +474,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/amon'">
     <div class="w_left w_40">
         <span>🇳🇿 AMO</span>
     </div>
@@ -448,7 +490,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/baghetti'">
     <div class="w_left w_40">
         <span>🇮🇹 BAG</span>
     </div>
@@ -464,7 +506,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/bucknum'">
     <div class="w_left w_40">
         <span>🇺🇸 BUC</span>
     </div>
@@ -480,7 +522,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/phil_hill'">
     <div class="w_left w_40">
         <span>🇺🇸 HIL</span>
     </div>
@@ -496,7 +538,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/ireland'">
     <div class="w_left w_40">
         <span>🇬🇧 IRE</span>
     </div>
@@ -512,7 +554,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/irwin'">
     <div class="w_left w_40">
         <span>🇬🇧 IRW</span>
     </div>
@@ -528,7 +570,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/lawrence'">
     <div class="w_left w_40">
         <span>🇬🇧 LAW</span>
     </div>
@@ -544,7 +586,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/ligier'">
     <div class="w_left w_40">
         <span>🇫🇷 LIG</span>
     </div>
@@ -560,7 +602,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/rodriguez'">
     <div class="w_left w_40">
         <span>🇲🇽 ROD</span>
     </div>
@@ -576,7 +618,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/geki'">
     <div class="w_left w_40">
         <span>🇮🇹 RUS</span>
     </div>
@@ -592,7 +634,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/solana'">
     <div class="w_left w_40">
         <span>🇲🇽 SOL</span>
     </div>
@@ -608,7 +650,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/trevor_taylor'">
     <div class="w_left w_40">
         <span>🇬🇧 TAY</span>
     </div>
@@ -624,7 +666,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary clickable" onclick="window.location='/f1/seasons/1966/drivers/vic_wilson'">
     <div class="w_left w_40">
         <span>🇬🇧 WIL</span>
     </div>
@@ -643,7 +685,7 @@ layout: page
         </div>
     </div>
 </div>
-<div class="col-md-4 col-sm-4 col-xs-12">
+<div class="col-lg-4 -col-md-6 col-sm-6 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Points by Race</h2>
@@ -951,7 +993,7 @@ layout: page
         </div>
     </div>
 </div>
-<div class="col-md-4 col-sm-4 col-xs-12">
+<div class="col-lg-4 -col-md-6 col-sm-6 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Season Totals</h2>
@@ -965,7 +1007,7 @@ layout: page
 </div>
 </div>
 <div class="row ">
-<div class="col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Constructor Standings</h2>
@@ -973,7 +1015,7 @@ layout: page
         </div>
         <div class="x_content">
             <h4></h4>
-            <div class="widget_summary">
+            <div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Brabham-Repco</span>
     </div>
@@ -989,7 +1031,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Cooper-Maserati</span>
     </div>
@@ -1005,7 +1047,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇮🇹 Ferrari</span>
     </div>
@@ -1021,7 +1063,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 BRM</span>
     </div>
@@ -1037,7 +1079,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Lotus-BRM</span>
     </div>
@@ -1053,7 +1095,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Lotus-Climax</span>
     </div>
@@ -1069,7 +1111,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇺🇸 Eagle-Climax</span>
     </div>
@@ -1085,7 +1127,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇯🇵 Honda</span>
     </div>
@@ -1101,7 +1143,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 McLaren-Ford</span>
     </div>
@@ -1117,7 +1159,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Brabham-BRM</span>
     </div>
@@ -1133,7 +1175,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Brabham-Climax</span>
     </div>
@@ -1149,7 +1191,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 McLaren-Serenissima</span>
     </div>
@@ -1165,7 +1207,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Cooper-Ferrari</span>
     </div>
@@ -1181,7 +1223,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇺🇸 Eagle-Weslake</span>
     </div>
@@ -1197,7 +1239,7 @@ layout: page
     </div>
     <div class="clearfix"></div>
 </div>
-<div class="widget_summary">
+<div class="widget_summary " >
     <div class="w_left w_40">
         <span>🇬🇧 Shannon</span>
     </div>
@@ -1218,7 +1260,7 @@ layout: page
 </div>
 </div>
 <div class="row ">
-<div class="col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Season 1966 Calendar</h2>
@@ -1249,7 +1291,7 @@ layout: page
 </div>
 </div>
 <div class="row ">
-<div class="col-md-4 col-sm-4 col-xs-12">
+<div class="col-lg-4 -col-md-6 col-sm-6 col-xs-12">
     <div class="x_panel tile">
         <div class="x_title">
             <h2>Point System (1966)</h2>
