@@ -19,7 +19,90 @@ $gpsblack: #020202;
 
 .clickable { cursor: pointer; }
 
+.table>tbody>tr>td, .table>tbody>tr>th,
+.table>tfoot>tr>td, .table>tfoot>tr>th,
+.table>thead>tr>td, .table>thead>tr>th {
+  padding: 4px;
+}
+
+.text-right>tbody>tr>td, .text-right>tbody>tr>th,
+.text-right>tfoot>tr>td, .text-right>tfoot>tr>th,
+.text-right>thead>tr>td, .text-right>thead>tr>th {
+  text-align: right;
+}
+
+.table-heatmap td, .table-heatmap th { text-align: center; }
+.table-heatmap td { padding: 0 !important; }
+
+// .cell { background: #3C898B; color: #ffffff; }
+// .p1-bg { background: #E50200; color: #ffffff; }
+// .p2-bg { background: #DB530A; color: #ffffff; }
+// .p3-bg { background: #D19513; color: #ffffff; }
+// .p4-bg { background: #C4C71C; color: #222222; }
+// .p5-bg { background: #87BD24; color: #222222; }
+// .p6-bg { background: #55B32A; color: #222222; }
+// .p7-bg { background: #30A933; color: #ffffff; }
+// .p8-bg { background: #359F5B; color: #ffffff; }
+// .p9-bg { background: #399579; color: #ffffff; }
+// .p10-bg { background: #3C898B; color: #ffffff; }
+// .pR-bg { background: #3E6981; color: #ffffff; }
+// .pW-bg { background: #3E5077; color: #ffffff; }
+
+$heatmap1: #FF4C58;
+$heatmap2: #FF5A5E;
+$heatmap3: #FF6865;
+$heatmap4: #FF877C;
+$heatmap5: #FF9583;
+$heatmap6: #FFA38A;
+$heatmap7: #FFB290;
+$heatmap8: #FFC097;
+$heatmap9: #FFCE9E;
+$heatmap10: #FFDDA5;
+$heatmapNP: #FFEBAC;
+$heatmapR: #FFEBAC;
+$heatmapW: #B4A8C2;
+
+.table-heatmap .pos1 { background: $heatmap1; color: #222222; }
+.table-heatmap .pos2 { background: $heatmap2; color: #222222; }
+.table-heatmap .pos3 { background: $heatmap3; color: #222222; }
+.table-heatmap .pos4 { background: $heatmap4; color: #222222; }
+.table-heatmap .pos5 { background: $heatmap5; color: #222222; }
+.table-heatmap .pos6 { background: $heatmap6; color: #222222; }
+.table-heatmap .pos7 { background: $heatmap7; color: #222222; }
+.table-heatmap .pos8 { background: $heatmap8; color: #222222; }
+.table-heatmap .pos9 { background: $heatmap8; color: #222222; }
+.table-heatmap .pos10 { background: $heatmap10; color: #222222; }
+.table-heatmap .no-points { background: $heatmapNP; color: #222222; }
+.table-heatmap .posR { background: $heatmapR; color: #222222; }
+.table-heatmap .posW { background: $heatmapW; color: #222222; }
+
+.top_nav.navbar { background: #EDEDED; border-radius: 0; }
+div.nav_menu { height: 55px; margin-bottom: 0; }
+
+.collection-navigation .btn { margin-right: 0; }
+.collection-navigation select { display: inline-block; vertical-align: middle; margin-bottom: 6px; }
+
+.tile_count .tile_stats_count { cursor: pointer; }
+
+.square_result {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: none;
+  margin: 0;
+}
+@media (max-width: 500px) {
+  // .square_result { width: 11px; }
+}
+@media (max-width: 320px) {
+  // .square_result { width: 9px; }
+}
+
+table.season-list .title { font-size: 18px; }
+table.season-list td { vertical-align: middle; }
+
 /** ============= /GPS =========== **/
+
 
 
 .left_col {
@@ -239,19 +322,119 @@ body .container.body .right_col {
   height: 57px;
 }
 @media (max-width: 991px) {
-  .nav-md .container.body .right_col, .nav-md .container.body .top_nav {
+  .nav-sm .container.body .right_col, .nav-sm .container.body .top_nav {
     width: 100%;
     margin: 0;
   }
-  .nav-md .container.body .col-md-3.left_col {
+  .nav-sm .container.body .col-md-3.left_col {
     display: none;
   }
-  .nav-md .container.body .right_col {
+  .nav-sm .container.body .right_col {
     width: 100%;
     padding-right: 0
   }
   .right_col {
     padding: 10px !important;
+  }
+
+  // Same behavior as .nav-sm, for small devices
+
+  .nav-md .container.body .col-md-3.left_col {
+    min-height: 100%;
+    width: 70px;
+    padding: 0;
+    z-index: 9999;
+    position: absolute;
+  }
+  .nav-md .container.body .col-md-3.left_col.menu_fixed {
+    position: fixed;
+    height: 100%;
+  }
+  .nav-md .container.body .col-md-3.left_col .mCSB_container,
+  .nav-md .container.body .col-md-3.left_col .mCustomScrollBox {
+    overflow: visible;
+  }
+  .nav-md .hidden-small {
+    visibility: hidden;
+  }
+  .nav-md .container.body .right_col {
+    padding: 10px 20px;
+    margin-left: 70px;
+    z-index: 2;
+  }
+  .nav-md .navbar.nav_title {
+    width: 70px;
+  }
+  .nav-md .navbar.nav_title a span {
+    display: none;
+  }
+  .nav-md .navbar.nav_title a i {
+    font-size: 27px;
+    margin: 13px 0 0 3px;
+  }
+  .nav-md .main_container .top_nav {
+    display: block;
+    margin-left: 70px;
+    z-index: 2;
+  }
+  .nav-md .nav.side-menu li a {
+    text-align: center !important;
+    font-weight: 400;
+    font-size: 10px;
+    padding: 10px 5px;
+  }
+  .nav-md .nav.child_menu li.active,
+  .nav-md .nav.side-menu li.active-sm {
+    border-right: 5px solid #1ABB9C;
+  }
+  .nav-md ul.nav.child_menu ul,
+  .nav-md .nav.side-menu li.active-sm ul ul {
+      position: static;
+      width: 200px;
+      background: none;
+  }
+  .nav-md > .nav.side-menu > li.active-sm > a {
+    color: #1ABB9C !important;
+  }
+  .nav-md .nav.side-menu li a i.toggle-up {
+    display: none !important;
+  }
+  .nav-md .nav.side-menu li a i {
+    font-size: 25px !important;
+    text-align: center;
+    width: 100% !important;
+    margin-bottom: 5px;
+  }
+  .nav-md ul.nav.child_menu {
+    left: 100%;
+    position: absolute;
+    top: 0;
+    width: 210px;
+    z-index: 4000;
+    background: #3E5367;
+    display: none;
+  }
+  .nav-md ul.nav.child_menu li {
+    padding: 0 10px;
+  }
+  .nav-md ul.nav.child_menu li a {
+    text-align: left !important;
+  }
+  .nav-md .menu_section {
+    margin: 0;
+  }
+  .nav-md span.fa,
+  .nav-md .menu_section h3 {
+    display: none;
+  }
+  .nav-md li li span.fa {
+    display: inline-block;
+  }
+  .nav-md footer {
+    margin-left: 70px;
+  }
+  .nav-sm footer {
+    margin-left: 0 !important;
   }
 }
 @media (max-width: 1200px) {
@@ -355,7 +538,11 @@ body .container.body .right_col {
 .navbar-nav>li>a, .navbar-brand, .navbar-nav>li>a {
   color: #fff !important;
 }
-.top_nav .nav>li>a:focus, .top_nav .nav>li>a:hover, .top_nav .nav .open>a, .top_nav .nav .open>a:focus, .top_nav .nav .open>a:hover {
+.top_nav .nav>li>a:focus,
+.top_nav .nav>li>a:hover,
+.top_nav .nav .open>a,
+.top_nav .nav .open>a:focus,
+.top_nav .nav .open>a:hover {
   background: #D9DEE4;
 }
 body {
