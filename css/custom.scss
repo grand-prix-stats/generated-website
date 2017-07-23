@@ -86,20 +86,14 @@ div.nav_menu { height: 55px; margin-bottom: 0; }
 
 .square_result {
   display: inline-block;
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
   background: none;
   margin: 0;
+  vertical-align: middle;
 }
-@media (max-width: 500px) {
-  // .square_result { width: 11px; }
-}
-@media (max-width: 320px) {
-  // .square_result { width: 9px; }
-}
-
-table.season-list .title { font-size: 18px; }
-table.season-list td { vertical-align: middle; }
+table.table-seasonlist .title { font-size: 20px; }
+table.table-seasonlist td { vertical-align: middle !important; }
 
 /** ============= /GPS =========== **/
 
