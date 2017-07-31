@@ -1,0 +1,413 @@
+---
+title: Formula 1® Season 1965 United States Grand Prix
+layout: page
+---
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12 collection-navigation">
+        <a href="/f1/seasons/1965/rounds/8" role="button" class="btn btn-default btn-xs">Prev</a>
+        <a href="/f1/seasons/1965/rounds/10" role="button" class="btn btn-default btn-xs">Next</a>
+        <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+            <option value="/f1/seasons/1965/rounds/1" >South African Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/2" >Monaco Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/3" >Belgian Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/4" >French Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/5" >British Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/6" >Dutch Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/7" >German Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/8" >Italian Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/9" selected>United States Grand Prix</option>
+<option value="/f1/seasons/1965/rounds/10" >Mexican Grand Prix</option>
+        </select>
+    </div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Driver Lap Times vs. Race Leader Lap Times</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>United States Grand Prix</h4>
+            <div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-hill"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Graham Hill 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-hill").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-gurney"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Dan Gurney 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-gurney").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-jack_brabham"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Jack Brabham 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-jack_brabham").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-bandini"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Lorenzo Bandini 🇮🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EB212E",
+    backgroundColor: "#EB212E",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-bandini").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-rodriguez"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Pedro Rodríguez 🇲🇽",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EB212E",
+    backgroundColor: "#EB212E",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-rodriguez").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-rindt"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Jochen Rindt 🇦🇹",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#273027",
+    backgroundColor: "#273027",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-rindt").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-ginther"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Richie Ginther 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FFFFFF",
+    backgroundColor: "#FFFFFF",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-ginther").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-bonnier"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Jo Bonnier 🇸🇪",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#243F73",
+    backgroundColor: "#243F73",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-bonnier").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-bondurant"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Bob Bondurant 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#EB212E",
+    backgroundColor: "#EB212E",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-bondurant").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-attwood"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Richard Attwood 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#457439",
+    backgroundColor: "#457439",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-attwood").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-siffert"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Jo Siffert 🇨🇭",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-siffert").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-solana"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Moisés Solana 🇲🇽",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#025839",
+    backgroundColor: "#025839",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-solana").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-bucknum"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Ronnie Bucknum 🇺🇸",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#FFFFFF",
+    backgroundColor: "#FFFFFF",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-bucknum").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-stewart"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Jackie Stewart 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#144D44",
+    backgroundColor: "#144D44",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-stewart").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-clark"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Jim Clark 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#025839",
+    backgroundColor: "#025839",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-clark").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-mclaren"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Bruce McLaren 🇳🇿",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#273027",
+    backgroundColor: "#273027",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-mclaren").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-spence"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Mike Spence 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#025839",
+    backgroundColor: "#025839",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-spence").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script><div class="chart-container" style="height: 350px;">
+    <canvas id="line-chart-lap-times-vs-leader-ireland"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [{
+    fill: false,
+    label: "Innes Ireland 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#457439",
+    backgroundColor: "#457439",
+    data: []
+}],
+            labels: []
+        };
+        var ctx = document.getElementById("line-chart-lap-times-vs-leader-ireland").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div>
