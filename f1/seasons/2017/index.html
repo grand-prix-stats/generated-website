@@ -272,8 +272,11 @@ layout: page
 }],
             labels: ["AUS 🇦🇺","CHI 🇨🇳","BAH 🇧🇭","RUS 🇷🇺","SPA 🇪🇸","MON 🇲🇨","CAN 🇨🇦","AZE 🇦🇿","AUS 🇦🇹","UK 🇬🇧","HUN 🇭🇺","BEL 🇧🇪","ITA 🇮🇹","SIN 🇸🇬","MAL 🇲🇾","JAP 🇯🇵","USA 🇺🇸","MEX 🇲🇽","BRA 🇧🇷","UAE 🇦🇪"]
         };
+        var options = {
+            maintainAspectRatio: false
+        };
         var ctx = document.getElementById("line-chart-top5-driver-points").getContext('2d');
-        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+        new Chart(ctx, { type: 'line', data: data, options: options });
     });
 </script>
         </div>

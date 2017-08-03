@@ -272,8 +272,11 @@ layout: page
 }],
             labels: ["ARG 🇦🇷","MON 🇲🇨","USA 🇺🇸","BEL 🇧🇪","NET 🇳🇱","UK 🇬🇧","ITA 🇮🇹"]
         };
+        var options = {
+            maintainAspectRatio: false
+        };
         var ctx = document.getElementById("line-chart-top5-driver-points").getContext('2d');
-        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+        new Chart(ctx, { type: 'line', data: data, options: options });
     });
 </script>
         </div>

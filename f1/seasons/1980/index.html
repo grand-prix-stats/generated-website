@@ -272,8 +272,11 @@ layout: page
 }],
             labels: ["ARG 🇦🇷","BRA 🇧🇷","SOU 🇿🇦","USA 🇺🇸","BEL 🇧🇪","MON 🇲🇨","FRA 🇫🇷","UK 🇬🇧","GER 🇩🇪","AUS 🇦🇹","NET 🇳🇱","ITA 🇮🇹","CAN 🇨🇦","USA 🇺🇸"]
         };
+        var options = {
+            maintainAspectRatio: false
+        };
         var ctx = document.getElementById("line-chart-top5-driver-points").getContext('2d');
-        new Chart(ctx, { type: 'line', data: data, options: { maintainAspectRatio: false } });
+        new Chart(ctx, { type: 'line', data: data, options: options });
     });
 </script>
         </div>
