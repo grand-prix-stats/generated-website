@@ -24,7 +24,7 @@ github_username: grand-prix-stats
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-sitemap
