@@ -1,0 +1,102 @@
+---
+title: Formula 1® Season 2022 Canadian Grand Prix
+layout: page
+---
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12 collection-navigation">
+        <a href="/f1/seasons/2022/rounds/8" role="button" class="btn btn-default btn-xs">Prev</a>
+        <a href="/f1/seasons/2022/rounds/10" role="button" class="btn btn-default btn-xs">Next</a>
+        <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+            <option value="/f1/seasons/2022/rounds/1" >Bahrain Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/2" >Saudi Arabian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/3" >Australian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/4" >Emilia Romagna Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/6" >Spanish Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/7" >Monaco Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/8" >Azerbaijan Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/9" selected>Canadian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/10" >British Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/11" >Austrian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/12" >French Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/13" >Hungarian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/14" >Belgian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/15" >Dutch Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/16" >Italian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/17" >Singapore Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/18" >Japanese Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/19" >United States Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/20" >Mexico City Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/21" >Brazilian Grand Prix</option>
+<option value="/f1/seasons/2022/rounds/22" >Abu Dhabi Grand Prix</option>
+        </select>
+    </div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Gap Behind Leader</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Canadian Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-leader-gap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-leader-gap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Gap From Average Lap</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Canadian Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-from-average-lap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-from-average-lap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Time Deltas: Driver vs. Race Leader</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Canadian Grand Prix</h4>
+            
+        </div>
+    </div>
+</div>
+</div>
