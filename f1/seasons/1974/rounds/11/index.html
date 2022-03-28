@@ -45,8 +45,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#D50A16",
-    backgroundColor: "#D50A16",
+    borderColor: "#EA212D",
+    backgroundColor: "#EA212D",
     data: []
 },{
     fill: false,
@@ -171,8 +171,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#FCA13B",
-    backgroundColor: "#FCA13B",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -234,8 +234,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#FCA13B",
-    backgroundColor: "#FCA13B",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -261,8 +261,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#D50A16",
-    backgroundColor: "#D50A16",
+    borderColor: "#EA212D",
+    backgroundColor: "#EA212D",
     data: []
 },{
     fill: false,
@@ -270,8 +270,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#FCA13B",
-    backgroundColor: "#FCA13B",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -294,6 +294,24 @@ layout: page
 },{
     fill: false,
     label: "Guy Edwards 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Larry Perkins 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Chris Amon 🇳🇿",
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
@@ -343,8 +361,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#D50A16",
-    backgroundColor: "#D50A16",
+    borderColor: "#EA212D",
+    backgroundColor: "#EA212D",
     data: []
 },{
     fill: false,
@@ -469,8 +487,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#FCA13B",
-    backgroundColor: "#FCA13B",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -532,8 +550,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#FCA13B",
-    backgroundColor: "#FCA13B",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -559,8 +577,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#D50A16",
-    backgroundColor: "#D50A16",
+    borderColor: "#EA212D",
+    backgroundColor: "#EA212D",
     data: []
 },{
     fill: false,
@@ -568,8 +586,8 @@ layout: page
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
-    borderColor: "#FCA13B",
-    backgroundColor: "#FCA13B",
+    borderColor: "#F38030",
+    backgroundColor: "#F38030",
     data: []
 },{
     fill: false,
@@ -592,6 +610,24 @@ layout: page
 },{
     fill: false,
     label: "Guy Edwards 🇬🇧",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Larry Perkins 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "#888888",
+    backgroundColor: "#888888",
+    data: []
+},{
+    fill: false,
+    label: "Chris Amon 🇳🇿",
     lineTension: 0.2,
     pointRadius: 0,
     borderWidth: 6,
@@ -1584,6 +1620,72 @@ layout: page
                 maintainAspectRatio: false
             };
             var ctx = document.getElementById("bar-chart-lap-times-vs-leader-edwards").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-perkins"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Larry Perkins 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: []
+},{
+    fill: false,
+    label: "Larry Perkins 🇦🇺",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: []
+}],
+                labels: []
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-perkins").getContext('2d');
+            new Chart(ctx, { type: 'bar', data: data, options: options });
+        });
+    </script>    <div class="chart-container" style="height: 150px;">
+        <canvas id="bar-chart-lap-times-vs-leader-amon"></canvas>
+    </div>
+    <script>
+        $(function() {
+            var data = {
+                datasets: [{
+    fill: false,
+    label: "Chris Amon 🇳🇿",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "FD706C",
+    backgroundColor: "FD706C",
+    data: []
+},{
+    fill: false,
+    label: "Chris Amon 🇳🇿",
+    lineTension: 0.2,
+    pointRadius: 0,
+    borderWidth: 6,
+    borderColor: "98CDB5",
+    backgroundColor: "98CDB5",
+    data: []
+}],
+                labels: []
+            };
+            var options = {
+                maintainAspectRatio: false
+            };
+            var ctx = document.getElementById("bar-chart-lap-times-vs-leader-amon").getContext('2d');
             new Chart(ctx, { type: 'bar', data: data, options: options });
         });
     </script>    <div class="chart-container" style="height: 150px;">
