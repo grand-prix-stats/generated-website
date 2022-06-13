@@ -13,3 +13,5 @@ end
 
 # fix https://github.com/envygeeks/jekyll-assets/issues/622
 gem "sprockets", "~> 3.7"
+
+gem "webrick", "~> 1.7"
