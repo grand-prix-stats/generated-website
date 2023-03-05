@@ -4,6 +4,7 @@ _site
 .DS_Store
 *.swp
 Gemfile.lock
+vendor
 
 xcuserdata
 
