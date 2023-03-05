@@ -29,9 +29,15 @@ plugins_dir:
   - jekyll-assets
   - jekyll-sitemap
   - jekyll-redirect-from
+include:
+  - CNAME
+  - vendors
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
