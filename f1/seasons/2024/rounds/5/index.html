@@ -1,0 +1,148 @@
+---
+title: Formula 1® Season 2024 Chinese Grand Prix
+layout: page
+---
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12 collection-navigation">
+        <a href="/f1/seasons/2024/rounds/4" role="button" class="btn btn-default btn-xs">Prev</a>
+        <a href="/f1/seasons/2024/rounds/6" role="button" class="btn btn-default btn-xs">Next</a>
+        <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+            <option value="/f1/seasons/2024/rounds/1" >Bahrain Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/2" >Saudi Arabian Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/3" >Australian Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/4" >Japanese Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/5" selected>Chinese Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/6" >Miami Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/7" >Emilia Romagna Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/8" >Monaco Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/9" >Canadian Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/10" >Spanish Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/11" >Austrian Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/12" >British Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/13" >Hungarian Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/14" >Belgian Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/15" >Dutch Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/16" >Italian Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/17" >Azerbaijan Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/18" >Singapore Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/19" >United States Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/20" >Mexico City Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/21" >São Paulo Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/22" >Las Vegas Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/23" >Qatar Grand Prix</option>
+<option value="/f1/seasons/2024/rounds/24" >Abu Dhabi Grand Prix</option>
+        </select>
+    </div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Gap Behind Lap Leader</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Chinese Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-leader-gap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-leader-gap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Gap Behind Race Winner</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Chinese Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-behind-winner-gap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-behind-winner-gap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Gap From Average Lap</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Chinese Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-from-average-lap"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-from-average-lap").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div><div class="row ">
+<div class="col-lg-12 -col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel tile">
+        <div class="x_title">
+            <h2>Lap Times: Actual Lap Times per Driver</h2>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <h4>Chinese Grand Prix</h4>
+            <div class="chart-container" style="height: auto;">
+    <canvas id="line-chart-lap-times-per-driver"></canvas>
+</div>
+<script>
+    $(function() {
+        var data = {
+            datasets: [],
+            labels: []
+        };
+        var options = {
+            maintainAspectRatio: true
+        };
+        var ctx = document.getElementById("line-chart-lap-times-per-driver").getContext('2d');
+        new Chart(ctx, { type: 'line', data: data, options: options });
+    });
+</script>
+        </div>
+    </div>
+</div>
+</div>
